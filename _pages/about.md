@@ -47,7 +47,7 @@ My research lies in **transfer learning**, **graph mining**, and **nonparametric
 # 🎖 Honors and Awards
 - *2025.05*: Ralph B. D’Agostino Endowed Fellowship, Boston University  
 - *2025.04*: Outstanding Teaching Fellow Award, Boston University  
-- *2019.06*: Outstanding Graduate & First-Class Scholarship, Shandong University  
+- *2019.06*: Outstanding Graduate, Shandong University  
 - *2018.10*: Hua Loo-Keng Scholarship, Chinese Academy of Sciences  
 
 # 📖 Educations
