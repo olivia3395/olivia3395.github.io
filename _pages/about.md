@@ -45,16 +45,22 @@ My research lies in **transfer learning**, **graph mining**, and **nonparametric
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.05*: 🏅 Ralph B. D’Agostino Endowed Fellowship, Boston University  
+- *2025.04*: 🏅 Outstanding Teaching Fellow Award, Boston University  
+- *2019.06*: 🏅 Outstanding Graduate & First-Class Scholarship, Shandong University  
+- *2018.10*: 🏅 Hua Loo-Keng Scholarship, Chinese Academy of Sciences  
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2021.09 – 2026.05 (expected)*: Ph.D. in Statistics, [Boston University](https://www.bu.edu/statistics/)
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *2019.09 – 2020.05*: M.A. in Statistics (Data Science Track), [Columbia University](https://statistics.columbia.edu/)
+
+- *2015.09 – 2019.06*: B.S. in Mathematics, [Shandong University](https://www.math.sdu.edu.cn/English/Introduction.htm) 
+
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+
+- *2025.05 – 2025.08*: Data Scientist Intern, Plymouth Rock Insurance (Boston, MA)  
+  - Built AWS SageMaker pipeline for property-level loss prediction; boosted Gini +4.3% using XGBoost Tweedie 
+  - Developed LLM-powered image risk scoring with GPT-4o + Google Street View; integrated outputs into actuarial models  
+
