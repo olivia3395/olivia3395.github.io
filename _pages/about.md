@@ -19,7 +19,7 @@ redirect_from:
 
 
 
-I’m **Yuyao Wang**, a Ph.D. candidate in [Statistics at Boston University](https://www.bu.edu/statistics/), co-advised by [Debarghya Mukherjee](https://debarghya-mukherjee.github.io/) and [Luis Carvalho](https://math.bu.edu/people/lecarval/).
+I’m **Yuyao Wang**, a Ph.D. candidate in Statistics at Boston University, co-advised by [Debarghya Mukherjee](https://debarghya-mukherjee.github.io/) and [Luis Carvalho](https://math.bu.edu/people/lecarval/).
 
 My research lies in **transfer learning**, **graph mining**, and **nonparametric statistics**, where I develop **theoretically grounded methods** for structured, heterogeneous data in **low-sample, high-dimensional, and non-IID settings**. I blend **statistical theory**, **machine learning**, and **network modeling** to advance estimation, inference, and generalization.  
 
@@ -45,10 +45,10 @@ My research lies in **transfer learning**, **graph mining**, and **nonparametric
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
-- *2025.05*: 🏅 Ralph B. D’Agostino Endowed Fellowship, Boston University  
-- *2025.04*: 🏅 Outstanding Teaching Fellow Award, Boston University  
-- *2019.06*: 🏅 Outstanding Graduate & First-Class Scholarship, Shandong University  
-- *2018.10*: 🏅 Hua Loo-Keng Scholarship, Chinese Academy of Sciences  
+- *2025.05*: Ralph B. D’Agostino Endowed Fellowship, Boston University  
+- *2025.04*: Outstanding Teaching Fellow Award, Boston University  
+- *2019.06*: Outstanding Graduate & First-Class Scholarship, Shandong University  
+- *2018.10*: Hua Loo-Keng Scholarship, Chinese Academy of Sciences  
 
 # 📖 Educations
 - *2021.09 – 2026.05 (expected)*: Ph.D. in Statistics, [Boston University](https://www.bu.edu/statistics/)
