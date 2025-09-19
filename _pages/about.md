@@ -26,7 +26,7 @@ My research lies in **transfer learning**, **graph mining**, and **nonparametric
 
 # 🔥 News
 - *2025.09*: 🎉 My first-author paper **"Transfer Learning on Edge Connecting Probability Estimation"** is accepted by ([NeurIPS 2025](https://neurips.cc/))!
-- *2025.08*: 🎉 My co-authored paper **"Cross-Domain Hyperspectral Image Classification"** is accepted by (IEEE TGRS 2025)(https://ieeexplore.ieee.org/)!
+- *2025.08*: 🎉 My co-authored paper **"Cross-Domain Hyperspectral Image Classification"** is accepted by ([IEEE TGRS 2025](https://ieeexplore.ieee.org/))!
 
 # 📝 Publications 
 
