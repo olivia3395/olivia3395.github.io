@@ -19,13 +19,14 @@ redirect_from:
 
 
 
-I am currently pursuing a Ph.D. in Statistics at \href{https://www.bu.edu/statistics/}{Boston University}, focusing on transfer learning, nonparametric inference, and graph representation learning. I am advised by \href{https://debarghya-mukherjee.github.io/}{Debarghya Mukherjee} and \href{https://math.bu.edu/people/lecarval/}{Luis Carvalho}. I previously earned an M.A. in Statistics (Data Science Track) from \href{https://statistics.columbia.edu/}{Columbia University} and a B.S. in Mathematics from \href{https://www.math.sdu.edu.cn/English/Introduction.htm}{Shandong University} (Hua Talent Program). My work spans both theoretical and applied directions: from minimax theory for covariate shift regression to graphon-based transfer learning and graph neural networks, with applications in domains such as property insurance, urban development, and biomedical networks. I have received the \textbf{Ralph B. D’Agostino Endowed Fellowship (2025)} and the \textbf{Outstanding Teaching Fellow Award (2024)}.
+I’m **Yuyao Wang**, a Ph.D. candidate in [Statistics at Boston University](https://www.bu.edu/statistics/), co-advised by [Debarghya Mukherjee](https://debarghya-mukherjee.github.io/) and [Luis Carvalho](https://math.bu.edu/people/lecarval/).
 
+My research lies in **transfer learning**, **graph mining**, and **nonparametric statistics**, where I develop **theoretically grounded methods** for structured, heterogeneous data in **low-sample, high-dimensional, and non-IID settings**. I blend **statistical theory**, **machine learning**, and **network modeling** to advance estimation, inference, and generalization.  
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.09*: 🎉 My first-author paper **"Transfer Learning on Edge Connecting Probability Estimation"** is accepted by ([NeurIPS 2025](https://neurips.cc/))!
+- *2025.08*: 🎉 My co-authored paper **"Cross-Domain Hyperspectral Image Classification"** is accepted by (IEEE TGRS 2025)(https://ieeexplore.ieee.org/)!
 
 # 📝 Publications 
 
