@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Yuyao Wang"
-description              : "Ph.D. candidate in Statistics at Boston University."
+title                    : "Statistical Frontiers in a Structured World"
+description              : "A wonderful journey through statistics."
 repository               : "olivia3395/acad-homepage.github.io"
 google_scholar_stats_use_cdn : true
 
