@@ -39,7 +39,7 @@ My research lies in **transfer learning**, **graph mining**, and **nonparametric
 
 **Transfer Learning on Edge Connecting Probability Estimation**
 **Yuyao Wang**, Yu-Hung Cheng, Debarghya Mukherjee, Huimin Cheng 
-[**Code / Project**](https://github.com/olivia3395/GTRANS)  
+[**Code**](https://github.com/olivia3395/GTRANS)  
 
 - We propose **GTRANS**, the first graphon transfer learning method **without node correspondence**, combining **Gromov-Wasserstein optimal transport** and **residual smoothing**.  
 - **Theoretical Guarantee**: We prove stability and convergence of the transport-based alignment under nonparametric assumptions.  
@@ -60,10 +60,9 @@ My research lies in **transfer learning**, **graph mining**, and **nonparametric
   </div>
   <div class='paper-box-text' markdown="1">
 
-[**Phase Transition in Nonparametric Minimax Rates for Covariate Shifts on Approximate Manifolds**](#)  
+[**Phase Transition in Nonparametric Minimax Rates for Covariate Shifts on Approximate Manifolds**](https://arxiv.org/abs/2507.00889)  
 **Yuyao Wang**, Nabarun Deb, Debarghya Mukherjee,  
 
-[**arXiv 2507.00889**](https://arxiv.org/abs/2507.00889)
 
 - We establish new **minimax rates** for estimating Hölder-smooth regression functions under covariate shift when the **target distribution lies near, but not on, a source manifold**.  
 - Introduces a novel **phase transition phenomenon**: the minimax rate depends sharply on the **proximity between the target and source support**, unifying prior results under a generalized Hölder framework.  
