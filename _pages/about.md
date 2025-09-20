@@ -37,9 +37,9 @@ My research lies in **transfer learning**, **graph mining**, and **nonparametric
   </div>
   <div class='paper-box-text' markdown="1">
 
-**Transfer Learning on Edge Connecting Probability Estimation Under Graphon Model**<br>
+**Transfer Learning on Edge Connecting Probability Estimation Under Graphon Model** [**Code**](https://github.com/olivia3395/GTRANS) <br> 
 **Yuyao Wang**, Yu-Hung Cheng, Debarghya Mukherjee, Huimin Cheng 
-[**Code**](https://github.com/olivia3395/GTRANS)  
+
 
 - We propose **GTRANS**, the first graphon transfer learning method **without node correspondence**, combining **Gromov-Wasserstein optimal transport** and **residual smoothing**.  
 - **Theoretical Guarantee**: We prove stability and convergence of the transport-based alignment under nonparametric assumptions.  
