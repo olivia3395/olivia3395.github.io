@@ -51,12 +51,35 @@ My research lies in **transfer learning**, **graph mining**, and **nonparametric
 
 
 
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">Under Review @ JASA</div>
+      <img src='images/phaseshift.png' alt="phaseshift" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+
+[**Phase Transition in Nonparametric Minimax Rates for Covariate Shifts on Approximate Manifolds**](#)  
+**Yuyao Wang**, Nabarun Deb, Debarghya Mukherjee,  
+
+[**arXiv 2507.00889**](https://arxiv.org/abs/2507.00889)
+
+- We establish new **minimax rates** for estimating Hölder-smooth regression functions under covariate shift when the **target distribution lies near, but not on, a source manifold**.  
+- Introduces a novel **phase transition phenomenon**: the minimax rate depends sharply on the **proximity between the target and source support**, unifying prior results under a generalized Hölder framework.  
+- Addresses settings where **density ratios are ill-defined**, making classical transfer techniques invalid.  
+- Our estimator adapts to unknown manifold dimension and achieves near-optimal rates **without prior geometric knowledge**.
+
+</div>
+</div>
+
+
+
 
 
 # 🎖 Honors and Awards
 - *2025.05*: Ralph B. D’Agostino Endowed Fellowship, Boston University  
 - *2025.04*: Outstanding Teaching Fellow Award, Boston University  
-- *2019.06*: Outstanding Graduate, Shandong University  
 - *2018.10*: Hua Loo-Keng Scholarship, Chinese Academy of Sciences  
 
 # 📖 Educations
