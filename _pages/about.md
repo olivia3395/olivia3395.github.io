@@ -23,8 +23,8 @@ My research lies in **transfer learning**, **graph mining**, and **nonparametric
 
 
 # 🔥 News
-- *2025.09*: 🎉 My first-author paper **"Transfer Learning on Edge Connecting Probability Estimation"** is accepted by ([NeurIPS 2025](https://neurips.cc/))!
-- *2025.08*: 🎉 My co-authored paper **"Cross-Domain Hyperspectral Image Classification"** is accepted by ([IEEE TGRS 2025](https://ieeexplore.ieee.org/))!
+- *2025.09*: 🎉 My first-author paper **"Transfer Learning on Edge Connecting Probability Estimation Under Graphon Model"** is accepted by ([NeurIPS 2025](https://neurips.cc/))!
+- *2025.08*: 🎉 My co-authored paper **"Cross-Domain Hyperspectral Image Classification via Mamba-CNN and Knowledge Distillation"** is accepted by ([IEEE TGRS 2025](https://ieeexplore.ieee.org/))!
 
 # 📝 Publications 
 
@@ -37,7 +37,7 @@ My research lies in **transfer learning**, **graph mining**, and **nonparametric
   </div>
   <div class='paper-box-text' markdown="1">
 
-**Transfer Learning on Edge Connecting Probability Estimation**
+**Transfer Learning on Edge Connecting Probability Estimation Under Graphon Model**
 **Yuyao Wang**, Yu-Hung Cheng, Debarghya Mukherjee, Huimin Cheng 
 [**Code**](https://github.com/olivia3395/GTRANS)  
 
