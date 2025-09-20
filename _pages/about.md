@@ -50,11 +50,11 @@ My research lies in **transfer learning**, **graph mining**, and **nonparametric
 - *2018.10*: Hua Loo-Keng Scholarship, Chinese Academy of Sciences  
 
 # 📖 Educations
-- *2021.09 – 2026.05 (expected)*: Ph.D. in Statistics, [Boston University](https://www.bu.edu/statistics/)
+- *2021.09 – 2026.05 (expected)*: Ph.D. in Statistics, Boston University
 
-- *2019.09 – 2020.05*: M.A. in Statistics (Data Science Track), [Columbia University](https://statistics.columbia.edu/)
+- *2019.09 – 2020.05*: M.A. in Statistics (Data Science Track), Columbia University
 
-- *2015.09 – 2019.06*: B.S. in Mathematics, [Shandong University](https://www.math.sdu.edu.cn/English/Introduction.htm) 
+- *2015.09 – 2019.06*: B.S. in Mathematics, Shandong University
 
 
 # 💻 Internships
