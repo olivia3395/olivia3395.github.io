@@ -122,10 +122,3 @@ Aoyan Du, Guixin Zhao, **Yuyao Wang**, Aimei Dong, Guohua Lv, Yongbiao Gao, Xian
 🎹 Trained in piano, calligraphy, and ink painting
 
 
-## 🌍 Visitors
-
-<div align="center">
-<script type="text/javascript" id="mmvst_globe" src="//mapmyvisitors.com/globe.js?d=6HcT_wM2fOD9B-2HblzV35xw-ibuIHIdgcX6wHZKuWk"></script>
-</div>
-
-
