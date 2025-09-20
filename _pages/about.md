@@ -125,7 +125,7 @@ Aoyan Du, Guixin Zhao, **Yuyao Wang**, Aimei Dong, Guohua Lv, Yongbiao Gao, Xian
 ## 🌍 Visitors
 
 <div align="center">
-<script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=IhA_BcdbNz4hhizNPHCXwAZHaf3v6Rsu1wY8_HS_oas&cl=ffffff&w=a"></script>
+<script type="text/javascript" id="mmvst_globe" src="//mapmyvisitors.com/globe.js?d=6HcT_wM2fOD9B-2HblzV35xw-ibuIHIdgcX6wHZKuWk"></script>
 </div>
 
 
