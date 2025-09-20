@@ -115,4 +115,5 @@ Aoyan Du, Guixin Zhao, **Yuyao Wang**, Aimei Dong, Guohua Lv, Yongbiao Gao, Xian
 # 🎨 Interests
 
 🎵 Mandarin R&B loyalist — Leehom Wang, David Tao, Khalil Fong
+
 🎹 Trained in piano, calligraphy, and ink painting
