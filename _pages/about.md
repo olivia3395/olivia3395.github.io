@@ -50,7 +50,6 @@ My research lies in **transfer learning**, **graph mining**, and **nonparametric
 </div>
 
 
-
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
@@ -63,7 +62,6 @@ My research lies in **transfer learning**, **graph mining**, and **nonparametric
 [**Phase Transition in Nonparametric Minimax Rates for Covariate Shifts on Approximate Manifolds**](https://arxiv.org/abs/2507.00889)  
 **Yuyao Wang**, Nabarun Deb, Debarghya Mukherjee,  
 
-
 - We establish new **minimax rates** for estimating Hölder-smooth regression functions under covariate shift when the **target distribution lies near, but not on, a source manifold**.  
 - Introduces a novel **phase transition phenomenon**: the minimax rate depends sharply on the **proximity between the target and source support**, unifying prior results under a generalized Hölder framework.  
 - Addresses settings where **density ratios are ill-defined**, making classical transfer techniques invalid.  
@@ -73,6 +71,25 @@ My research lies in **transfer learning**, **graph mining**, and **nonparametric
 </div>
 
 
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">IEEE TGRS 2025</div>
+      <img src='images/mkdnet.png' alt="mkdnet" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+
+[**Cross-Domain Hyperspectral Image Classification via Mamba-CNN and Knowledge Distillation**](https://ieeexplore.ieee.org/abstract/document/11133483)  
+Aoyan Du, Guixin Zhao, **Yuyao Wang**, Aimei Dong, Guohua Lv, Yongbiao Gao, Xiangjun Dong
+
+- We propose **MKDnet**, a cross-domain HSI classification framework combining **Mamba-CNN hybrid architecture** with **knowledge distillation** and **graph alignment via optimal transport**.  
+- Effectively captures **both global context and local detail** via Mamba + CNN dual-stream encoder.  
+- Aligns source–target distributions through **domain-level knowledge distillation** and **graph OT-based subgraph matching**.  
+- Achieves **SOTA performance** across multiple public hyperspectral benchmarks under domain shift.
+
+</div>
+</div>
 
 
 
