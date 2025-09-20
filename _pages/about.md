@@ -38,6 +38,7 @@ My research lies in **transfer learning**, **graph mining**, and **nonparametric
   <div class='paper-box-text' markdown="1">
 
 **Transfer Learning on Edge Connecting Probability Estimation Under Graphon Model**
+
 **Yuyao Wang**, Yu-Hung Cheng, Debarghya Mukherjee, Huimin Cheng 
 [**Code**](https://github.com/olivia3395/GTRANS)  
 
