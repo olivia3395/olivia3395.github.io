@@ -112,3 +112,7 @@ Aoyan Du, Guixin Zhao, **Yuyao Wang**, Aimei Dong, Guohua Lv, Yongbiao Gao, Xian
   - Built AWS SageMaker pipeline for property-level loss prediction; boosted Gini +4.3% using XGBoost Tweedie 
   - Developed LLM-powered image risk scoring with GPT-4o + Google Street View; integrated outputs into actuarial models  
 
+# 🎨 Interests
+
+🎵 Mandarin R&B loyalist — Leehom Wang, David Tao, Khalil Fong
+🎹 Trained in piano, calligraphy, and ink painting
