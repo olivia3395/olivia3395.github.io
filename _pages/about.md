@@ -60,7 +60,7 @@ My research lies in **transfer learning**, **graph mining**, and **nonparametric
   <div class='paper-box-text' markdown="1">
 
 [**Phase Transition in Nonparametric Minimax Rates for Covariate Shifts on Approximate Manifolds**](https://arxiv.org/abs/2507.00889)  
-**Yuyao Wang**, Nabarun Deb, Debarghya Mukherjee,  
+**Yuyao Wang**, Nabarun Deb, Debarghya Mukherjee.  
 
 - We establish new **minimax rates** for estimating Hölder-smooth regression functions under covariate shift when the **target distribution lies near, but not on, a source manifold**.  
 - Introduces a novel **phase transition phenomenon**: the minimax rate depends sharply on the **proximity between the target and source support**, unifying prior results under a generalized Hölder framework.  
@@ -96,7 +96,10 @@ Aoyan Du, Guixin Zhao, **Yuyao Wang**, Aimei Dong, Guohua Lv, Yongbiao Gao, Xian
 # 🎖 Honors and Awards
 - *2025.05*: Ralph B. D’Agostino Endowed Fellowship, Boston University  
 - *2025.04*: Outstanding Teaching Fellow Award, Boston University  
-- *2018.10*: Hua Loo-Keng Scholarship, Chinese Academy of Sciences  
+- *2019.06*: Outstanding Graduate, Shandong University
+- *2018.10*: Hua Loo-Keng Scholarship, Chinese Academy of Sciences
+- *2018.09*: First-Class Scholarship, Shandong University  
+- *2018.09*: Outstanding Student Leader, Shandong University  
 
 # 📖 Educations
 - *2021.09 – 2026.05 (expected)*: Ph.D. in Statistics, Boston University
@@ -114,6 +117,6 @@ Aoyan Du, Guixin Zhao, **Yuyao Wang**, Aimei Dong, Guohua Lv, Yongbiao Gao, Xian
 
 # 🎨 Interests
 
-🎵 Mandarin R&B loyalist — Leehom Wang, David Tao, Khalil Fong
+🎵 Mandarin R&B loyalist — Leehom Wang, David Tao, Khalil Fong, Dean Ting
 
 🎹 Trained in piano, calligraphy, and ink painting
