@@ -59,8 +59,8 @@ My research lies in **transfer learning**, **graph mining**, and **nonparametric
   </div>
   <div class='paper-box-text' markdown="1">
 
-[**Phase Transition in Nonparametric Minimax Rates for Covariate Shifts on Approximate Manifolds**](https://arxiv.org/abs/2507.00889)  
-**Yuyao Wang**, Nabarun Deb, Debarghya Mukherjee.  
+[**Phase Transition in Nonparametric Minimax Rates for Covariate Shifts on Approximate Manifolds**](https://arxiv.org/abs/2507.00889) · [**Code**](https://github.com/olivia3395/Covariate-Shifts-on-Approximate-Manifolds) · [**Poster**](https://github.com/olivia3395/Covariate-Shifts-on-Approximate-Manifolds/blob/main/manifold_poster.pdf) · [**Presentation**](https://github.com/olivia3395/Covariate-Shifts-on-Approximate-Manifolds/blob/main/slides_Manifold.pdf)  <br>  
+**Yuyao Wang**, Nabarun Deb, Debarghya Mukherjee  
 
 - We establish new **minimax rates** for estimating Hölder-smooth regression functions under covariate shift when the **target distribution lies near, but not on, a source manifold**.  
 - Introduces a novel **phase transition phenomenon**: the minimax rate depends sharply on the **proximity between the target and source support**, unifying prior results under a generalized Hölder framework.  
