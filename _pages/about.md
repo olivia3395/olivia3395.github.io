@@ -80,8 +80,9 @@ My research lies in **transfer learning**, **graph mining**, and **nonparametric
   </div>
   <div class='paper-box-text' markdown="1">
 
-[**Cross-Domain Hyperspectral Image Classification via Mamba-CNN and Knowledge Distillation**](https://ieeexplore.ieee.org/abstract/document/11133483)  
-Aoyan Du, Guixin Zhao, **Yuyao Wang**, Aimei Dong, Guohua Lv, Yongbiao Gao, Xiangjun Dong
+[**Cross-Domain Hyperspectral Image Classification via Mamba-CNN and Knowledge Distillation**](https://ieeexplore.ieee.org/abstract/document/11133483) · [**Presentation**](https://github.com/olivia3395/Cross-Domain-Hyperspectral-Image-Classification-/blob/main/IEEE%20TRGS%202025.pptx)  <br>  
+Aoyan Du, Guixin Zhao, **Yuyao Wang**, Aimei Dong, Guohua Lv, Yongbiao Gao, Xiangjun Dong  
+
 
 - We propose **MKDnet**, a cross-domain HSI classification framework combining **Mamba-CNN hybrid architecture** with **knowledge distillation** and **graph alignment via optimal transport**.  
 - Effectively captures **both global context and local detail** via Mamba + CNN dual-stream encoder.  
