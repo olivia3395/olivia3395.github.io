@@ -39,6 +39,7 @@ My research lies in **transfer learning**, **graph mining**, and **nonparametric
 
 **Transfer Learning on Edge Connecting Probability Estimation Under Graphon Model** [**NeurIPS 2025**](https://neurips.cc/virtual/2025/poster/116597) · [**Code**](https://github.com/olivia3395/GTRANS)  <br>
 **Yuyao Wang**, Yu-Hung Cheng, Debarghya Mukherjee, Huimin Cheng
+*Boston University*  
 
 
 - We propose **GTRANS**, the first graphon transfer learning method **without node correspondence**, combining **Gromov-Wasserstein optimal transport** and **residual smoothing**.  
@@ -61,6 +62,8 @@ My research lies in **transfer learning**, **graph mining**, and **nonparametric
 
 [**Phase Transition in Nonparametric Minimax Rates for Covariate Shifts on Approximate Manifolds**](https://arxiv.org/abs/2507.00889) · [**Code**](https://github.com/olivia3395/Covariate-Shifts-on-Approximate-Manifolds) · [**Poster**](https://github.com/olivia3395/Covariate-Shifts-on-Approximate-Manifolds/blob/main/manifold_poster.pdf) · [**Presentation**](https://github.com/olivia3395/Covariate-Shifts-on-Approximate-Manifolds/blob/main/slides_Manifold.pdf)  <br>  
 **Yuyao Wang**, Nabarun Deb, Debarghya Mukherjee  
+*Boston University; The University of Chicago Booth School of Business*  
+
 
 - We establish new **minimax rates** for estimating Hölder-smooth regression functions under covariate shift when the **target distribution lies near, but not on, a source manifold**.  
 - Introduces a novel **phase transition phenomenon**: the minimax rate depends sharply on the **proximity between the target and source support**, unifying prior results under a generalized Hölder framework.  
@@ -82,7 +85,7 @@ My research lies in **transfer learning**, **graph mining**, and **nonparametric
 
 [**Cross-Domain Hyperspectral Image Classification via Mamba-CNN and Knowledge Distillation**](https://ieeexplore.ieee.org/abstract/document/11133483) · [**Presentation**](https://github.com/olivia3395/Cross-Domain-Hyperspectral-Image-Classification-/blob/main/IEEE%20TRGS%202025.pptx)  <br>  
 Aoyan Du, Guixin Zhao, **Yuyao Wang**, Aimei Dong, Guohua Lv, Yongbiao Gao, Xiangjun Dong  
-
+*Shandong Artificial Intelligence Institute; Boston University*  
 
 - We propose **MKDnet**, a cross-domain HSI classification framework combining **Mamba-CNN hybrid architecture** with **knowledge distillation** and **graph alignment via optimal transport**.  
 - Effectively captures **both global context and local detail** via Mamba + CNN dual-stream encoder.  
@@ -91,6 +94,31 @@ Aoyan Du, Guixin Zhao, **Yuyao Wang**, Aimei Dong, Guohua Lv, Yongbiao Gao, Xian
 
 </div>
 </div>
+
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">IEEE SMC 2025</div>
+      <img src='images/mcsanet.png' alt="mcsanet" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+
+[**Multi-scale based Cross-modal Semantic Alignment Network for Radiology Report Generation (MCSANet)**](#)   <br>  
+Zhihao Zhang, Long Zhao, **Yuyao Wang**, Dun Lan, Linfeng Jiang, Xiangjun Dong  
+*Shandong Artificial Intelligence Institute; Boston University*  
+
+- We propose **MCSANet**, a radiology report generation framework that enhances **cross-modal semantic alignment** between medical images and diagnostic text.  
+- Incorporates a **multi-scale visual feature extraction (MVE)** module using **multi-head local sparse attention (MLSA)** to capture abnormalities across different spatial scales.  
+- Employs a **cross-modal semantic alignment (CSA)** module with a **learnable matrix**, **gating mechanism**, and **multi-label contrastive loss** to fuse image–text representations effectively.  
+- Utilizes a **Transformer-based report generator** to produce clinically coherent and detailed reports.  
+- Achieves **state-of-the-art (SOTA)** performance on **IU-Xray** and **MIMIC-CXR** datasets, outperforming leading models such as CAMANet, XPRONET, and R2GenCMN.  
+
+</div>
+</div>
+
+
 
 
 
