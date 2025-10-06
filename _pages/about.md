@@ -111,10 +111,9 @@ Zhihao Zhang, Long Zhao, **Yuyao Wang**, Dun Lan, Linfeng Jiang, Xiangjun Dong<b
  
 
 - We propose **MCSANet**, a radiology report generation framework that enhances **cross-modal semantic alignment** between medical images and diagnostic text.  
-- Incorporates a **multi-scale visual feature extraction (MVE)** module using **multi-head local sparse attention (MLSA)** to capture abnormalities across different spatial scales.  
-- Employs a **cross-modal semantic alignment (CSA)** module with a **learnable matrix**, **gating mechanism**, and **multi-label contrastive loss** to fuse image–text representations effectively.  
-- Utilizes a **Transformer-based report generator** to produce clinically coherent and detailed reports.  
-- Achieves **state-of-the-art (SOTA)** performance on **IU-Xray** and **MIMIC-CXR** datasets, outperforming leading models such as CAMANet, XPRONET, and R2GenCMN.  
+- Introduces a **Multi-scale Visual Feature Extraction (MVE)** module with **multi-head local sparse attention (MLSA)** to capture image semantics and abnormalities across different spatial scales.  
+- Incorporates a **Cross-modal Semantic Alignment (CSA)** module with a **learnable matrix**, **gating mechanism**, and **multi-label contrastive loss** for precise image–text fusion.  
+- Combined with a **Transformer-based report generator**, MCSANet achieves **SOTA** performance on **IU-Xray** and **MIMIC-CXR**, surpassing prior models such as CAMANet and XPRONET.  
 
 </div>
 </div>
