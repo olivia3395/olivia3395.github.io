@@ -105,7 +105,7 @@ Aoyan Du, Guixin Zhao, **Yuyao Wang**, Aimei Dong, Guohua Lv, Yongbiao Gao, Xian
   </div>
   <div class='paper-box-text' markdown="1">
 
-**Multi-scale based Cross-modal Semantic Alignment Network for Radiology Report Generation (MCSANet)**<br>
+**Multi-scale based Cross-modal Semantic Alignment Network for Radiology Report Generation**<br>
 Zhihao Zhang, Long Zhao, **Yuyao Wang**, Dun Lan, Linfeng Jiang, Xiangjun Dong<br>
 *Shandong Computer Science Center; Boston University*
  
