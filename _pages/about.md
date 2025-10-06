@@ -84,7 +84,7 @@ My research lies in **transfer learning**, **graph mining**, and **nonparametric
 
 [**Cross-Domain Hyperspectral Image Classification via Mamba-CNN and Knowledge Distillation**](https://ieeexplore.ieee.org/abstract/document/11133483) · [**Presentation**](https://github.com/olivia3395/Cross-Domain-Hyperspectral-Image-Classification-/blob/main/IEEE%20TRGS%202025.pptx)<br>
 Aoyan Du, Guixin Zhao, **Yuyao Wang**, Aimei Dong, Guohua Lv, Yongbiao Gao, Xiangjun Dong<br>
-*Shandong Artificial Intelligence Institute; Boston University*
+*Shandong Computer Science Center; Boston University*
 
 
 - We propose **MKDnet**, a cross-domain HSI classification framework combining **Mamba-CNN hybrid architecture** with **knowledge distillation** and **graph alignment via optimal transport**.  
@@ -107,7 +107,7 @@ Aoyan Du, Guixin Zhao, **Yuyao Wang**, Aimei Dong, Guohua Lv, Yongbiao Gao, Xian
 
 **Multi-scale based Cross-modal Semantic Alignment Network for Radiology Report Generation (MCSANet)**<br>
 Zhihao Zhang, Long Zhao, **Yuyao Wang**, Dun Lan, Linfeng Jiang, Xiangjun Dong<br>
-*Shandong Artificial Intelligence Institute; Boston University*
+*Shandong Computer Science Center; Boston University*
  
 
 - We propose **MCSANet**, a radiology report generation framework that enhances **cross-modal semantic alignment** between medical images and diagnostic text.  
