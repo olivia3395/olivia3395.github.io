@@ -27,7 +27,7 @@ That’s what **transfer learning** is all about.
 In classical statistics, it means borrowing structure or smoothness from a well-studied “source” dataset to help a smaller, noisier “target.”  
 In **reinforcement learning**, the **source** is prior experience—offline logs, simulators, or related tasks/policies; the **target** is the live environment/task. The magic is figuring out **what to keep and what to forget**, so models stay robust even when everything shifts.  
 
-My research:    
+What I build:
 - **Theory-first tools**: minimax/Oracle-type guarantees, regret bounds, and safe transfer criteria under shift.
 - **Graph-aware transfer**: graph alignment so signals move across domains.
 - **RL & bandits under drift**: warm-start policies, uncertainty-aware adaptation, and “what-to-keep vs. what-to-forget” rules.
