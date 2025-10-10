@@ -19,14 +19,13 @@ redirect_from:
 
 I’m **Yuyao Wang**, a Ph.D. candidate in Statistics at Boston University, co-advised by [Debarghya Mukherjee](https://debarghya-mukherjee.github.io/) and [Luis Carvalho](https://math.bu.edu/people/lecarval/).
 
-My research lies in **transfer learning**, **graph mining**, **nonparametric statistics**, and **reinforcement learning**, where I develop **theoretically grounded methods** for structured, heterogeneous data in **low-sample, high-dimensional, and non-IID settings**. Everyone imagines the challenges of theoretical statistics, yet within that struggle lies the quiet beauty of uncovering order in chaos. My work values the elegance of fundamental theory while pursuing its reach across real-world applications, bridging statistics with computer science and beyond. My goal is to blend **statistical theory**, **machine learning**, and **network modeling** to advance estimation, inference, and generalization.  
-
+My research lies in **transfer learning**, **graph mining**, **nonparametric statistics**, and **reinforcement learning**, where I develop **theoretically grounded methods** for structured, heterogeneous data in **low-sample, high-dimensional, and non-IID settings**. Everyone imagines the challenges of theoretical statistics, yet within that struggle lies the quiet beauty of uncovering order in chaos. My work values the elegance of fundamental theory while pursuing its reach across real-world applications, bridging statistics with computer science and beyond. 
 My research asks a simple but very real-world question:  
 > *How can we reuse what we’ve already learned when the world keeps changing?*  
 
 That’s what **transfer learning** is all about.  
 In classical statistics, it means borrowing structure or smoothness from a well-studied “source” dataset to help a smaller, noisier “target.”  
-In **reinforcement learning**, it’s **not** about “source > target” data size. It’s usually **offline → online**. “source” and “target” are about **environments/experience**, not dataset size. The **source** is prior experience—offline logs, simulators, or related tasks/policies; the **target** is the live environment/task. The magic is figuring out **what to keep and what to forget**, so models stay robust even when everything shifts.  
+In **reinforcement learning**, the **source** is prior experience—offline logs, simulators, or related tasks/policies; the **target** is the live environment/task. The magic is figuring out **what to keep and what to forget**, so models stay robust even when everything shifts.  
 
 My research:    
 - **Theory-first tools**: minimax/Oracle-type guarantees, regret bounds, and safe transfer criteria under shift.
