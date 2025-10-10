@@ -19,7 +19,17 @@ redirect_from:
 
 I’m **Yuyao Wang**, a Ph.D. candidate in Statistics at Boston University, co-advised by [Debarghya Mukherjee](https://debarghya-mukherjee.github.io/) and [Luis Carvalho](https://math.bu.edu/people/lecarval/).
 
-My research lies in **transfer learning**, **graph mining**, and **nonparametric statistics**, where I develop **theoretically grounded methods** for structured, heterogeneous data in **low-sample, high-dimensional, and non-IID settings**. Everyone imagines the challenges of theoretical statistics, yet within that struggle lies the quiet beauty of uncovering order in chaos. My work values the elegance of fundamental theory while pursuing its reach across real-world applications, bridging statistics with computer science and beyond. My goal is to blend **statistical theory**, **machine learning**, and **network modeling** to advance estimation, inference, and generalization.  
+My research lies in **transfer learning**, **graph mining**, **nonparametric statistics**, and **reinforcement learning**, where I develop **theoretically grounded methods** for structured, heterogeneous data in **low-sample, high-dimensional, and non-IID settings**. Everyone imagines the challenges of theoretical statistics, yet within that struggle lies the quiet beauty of uncovering order in chaos. My work values the elegance of fundamental theory while pursuing its reach across real-world applications, bridging statistics with computer science and beyond. My goal is to blend **statistical theory**, **machine learning**, and **network modeling** to advance estimation, inference, and generalization.  
+
+My research asks a simple but very real-world question:  
+> *How can we reuse what we’ve already learned when the world keeps changing?*  
+
+That’s what **transfer learning** is all about.  
+In classical statistics, it means borrowing structure or smoothness from a well-studied “source” dataset to help a smaller, noisier “target.”  
+In **reinforcement learning**, the “source” isn’t just data — it’s past experiences, strategies, and representations an agent has already mastered. The magic is figuring out **what to keep and what to forget**, so models stay robust even when everything shifts.  
+
+
+
 
 
 # 🔥 News
