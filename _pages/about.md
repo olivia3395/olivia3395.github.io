@@ -26,7 +26,7 @@ My research asks a simple but very real-world question:
 
 That’s what **transfer learning** is all about.  
 In classical statistics, it means borrowing structure or smoothness from a well-studied “source” dataset to help a smaller, noisier “target.”  
-In **reinforcement learning**, it’s **not** about “source > target” data size. It’s usually **offline → online** (pretrain on logs/simulators/related tasks, then adapt online with limited interaction), or **across task families** (meta-RL, multi-task RL). What gets transferred are **representations, policies, dynamics priors, and exploration strategies**—so the agent starts smart and adapts fast, while avoiding negative transfer when dynamics/rewards shift. The magic is figuring out **what to keep and what to forget**, so models stay robust even when everything shifts.  
+In **reinforcement learning**, it’s **not** about “source > target” data size. It’s usually **offline → online**. “source” and “target” are about **environments/experience**, not dataset size. The **source** is prior experience—offline logs, simulators, or related tasks/policies; the **target** is the live environment/task. The magic is figuring out **what to keep and what to forget**, so models stay robust even when everything shifts.  
 
 My research:    
 - **Theory-first tools**: minimax/Oracle-type guarantees, regret bounds, and safe transfer criteria under shift.
