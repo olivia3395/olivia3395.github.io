@@ -141,7 +141,7 @@ Zhihao Zhang, Long Zhao, **Yuyao Wang**, Dun Lan, Linfeng Jiang, Xiangjun Dong<b
 - *2018.09*: Outstanding Student Leader, Shandong University  
 
 # 📖 Educations
-- *2021.09 – 2026.05 (expected)*: Ph.D. in Statistics, Boston University
+- *2021.09 – Now*: Ph.D. in Statistics, Boston University
 
 - *2019.09 – 2020.05*: M.A. in Statistics (Data Science Track), Columbia University
 
