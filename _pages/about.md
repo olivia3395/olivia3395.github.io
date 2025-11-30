@@ -47,7 +47,7 @@ What I build:
   </div>
   <div class='paper-box-text' markdown="1">
 
-**Transfer Learning on Edge Connecting Probability Estimation Under Graphon Model** [**NeurIPS 2025**](https://neurips.cc/virtual/2025/poster/116597) · [**Code**](https://github.com/olivia3395/GTRANS) <br>
+[**Transfer Learning on Edge Connecting Probability Estimation Under Graphon Model**](https://openreview.net/pdf/9fdf0bec54b67ea8e157e38dff92c95be29345c0.pdf) [**NeurIPS 2025**](https://neurips.cc/virtual/2025/poster/116597) · [**Code**](https://github.com/olivia3395/GTRANS) <br>
 **Yuyao Wang**, Yu-Hung Cheng, Debarghya Mukherjee, Huimin Cheng<br>
 *Boston University*  
 
