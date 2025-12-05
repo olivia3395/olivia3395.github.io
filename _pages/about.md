@@ -47,15 +47,13 @@ What I build:
   </div>
   <div class='paper-box-text' markdown="1">
 
-[**Transfer Learning on Edge Connecting Probability Estimation Under Graphon Model**](https://openreview.net/pdf/9fdf0bec54b67ea8e157e38dff92c95be29345c0.pdf) [**NeurIPS 2025**](https://neurips.cc/virtual/2025/poster/116597) · [**Code**](https://github.com/olivia3395/GTRANS) <br>
-**Yuyao Wang**, Yu-Hung Cheng, Debarghya Mukherjee, Huimin Cheng<br>
-*Boston University*  
+[**Transfer Learning on Edge Connecting Probability Estimation Under Graphon Model**](https://openreview.net/pdf/9fdf0bec54b67ea8e157e38dff92c95be29345c0.pdf) · [**NeurIPS 2025**](https://neurips.cc/virtual/2025/poster/116597) · [**Code**](https://github.com/olivia3395/GTRANS)  
+**Yuyao Wang**, Yu-Hung Cheng, Debarghya Mukherjee, Huimin Cheng · *Boston University*  
 
+- **First transfer learning framework for graphon-based edge probability estimation without node correspondence.**  
+- Combines **Gromov–Wasserstein alignment** and **residual smoothing** with **nonparametric stability & convergence guarantees**.  
+- Achieves **SOTA link prediction and graph classification**, especially for **small, sparse, and heterogeneous target graphs**.
 
-- We propose **GTRANS**, the first graphon transfer learning method **without node correspondence**, combining **Gromov-Wasserstein optimal transport** and **residual smoothing**.  
-- **Theoretical Guarantee**: We prove stability and convergence of the transport-based alignment under nonparametric assumptions.  
-- **Applications**: GTRANS improves **link prediction and graph classification**, especially under **small target graphs and sparse settings**.  
-- Achieves **state-of-the-art (SOTA)** performance on both synthetic and real-world datasets.
 
 </div>
 </div>
@@ -74,10 +72,9 @@ What I build:
 **Yuyao Wang**, Nabarun Deb, Debarghya Mukherjee<br>
 *Boston University; The University of Chicago Booth School of Business*
 
-- We establish new **minimax rates** for estimating Hölder-smooth regression functions under covariate shift when the **target distribution lies near, but not on, a source manifold**.  
-- Introduces a novel **phase transition phenomenon**: the minimax rate depends sharply on the **proximity between the target and source support**, unifying prior results under a generalized Hölder framework.  
-- Addresses settings where **density ratios are ill-defined**, making classical transfer techniques invalid.  
-- Our estimator adapts to unknown manifold dimension and achieves near-optimal rates **without prior geometric knowledge**.
+- Establishes **new minimax rates** for Hölder regression under covariate shift when the target lies **near—but not on—the source manifold**.  
+- Reveals a sharp **phase transition**: estimation difficulty is governed by the **target–source support gap**, unifying prior geometric-transfer regimes.  
+- Develops an estimator that remains **valid without density ratios** and achieves **near-optimal, dimension-adaptive rates** without geometric assumptions.
 
 </div>
 </div>
@@ -96,11 +93,9 @@ What I build:
 Aoyan Du, Guixin Zhao, **Yuyao Wang**, Aimei Dong, Guohua Lv, Yongbiao Gao, Xiangjun Dong<br>
 *Shandong Computer Science Center; Boston University*
 
-
-- We propose **MKDnet**, a cross-domain HSI classification framework combining **Mamba-CNN hybrid architecture** with **knowledge distillation** and **graph alignment via optimal transport**.  
-- Effectively captures **both global context and local detail** via Mamba + CNN dual-stream encoder.  
-- Aligns source–target distributions through **domain-level knowledge distillation** and **graph OT-based subgraph matching**.  
-- Achieves **SOTA performance** across multiple public hyperspectral benchmarks under domain shift.
+- Proposes **MKDnet**, a cross-domain HSI classifier integrating a **Mamba–CNN hybrid encoder** with **knowledge distillation** and **OT-based graph alignment**.  
+- Captures **global context and fine local structure** through dual-stream feature modeling and domain-consistent representation learning.  
+- Achieves **state-of-the-art performance** on multiple hyperspectral benchmarks under significant domain shift.
 
 </div>
 </div>
@@ -119,11 +114,10 @@ Aoyan Du, Guixin Zhao, **Yuyao Wang**, Aimei Dong, Guohua Lv, Yongbiao Gao, Xian
 Zhihao Zhang, Long Zhao, **Yuyao Wang**, Dun Lan, Linfeng Jiang, Xiangjun Dong<br>
 *Shandong Computer Science Center; Boston University*
  
+- Proposes **MCSANet**, a radiology report generation framework that strengthens **cross-modal semantic alignment** between medical images and clinical text.  
+- Combines **multi-scale visual encoding** with **learnable cross-modal fusion** to capture abnormalities and align image–text semantics with high precision.  
+- Delivers **state-of-the-art performance** on IU-Xray and MIMIC-CXR, outperforming prior medical vision–language models.
 
-- We propose **MCSANet**, a radiology report generation framework that enhances **cross-modal semantic alignment** between medical images and diagnostic text.  
-- Introduces a **Multi-scale Visual Feature Extraction (MVE)** module with **multi-head local sparse attention (MLSA)** to capture image semantics and abnormalities across different spatial scales.  
-- Incorporates a **Cross-modal Semantic Alignment (CSA)** module with a **learnable matrix**, **gating mechanism**, and **multi-label contrastive loss** for precise image–text fusion.  
-- Combined with a **Transformer-based report generator**, MCSANet achieves **SOTA** performance on **IU-Xray** and **MIMIC-CXR**, surpassing prior models such as CAMANet and XPRONET.  
 
 </div>
 </div>
