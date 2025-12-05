@@ -20,17 +20,19 @@ redirect_from:
 I’m **Yuyao Wang**, a Ph.D. candidate in Statistics at Boston University, co-advised by [Debarghya Mukherjee](https://debarghya-mukherjee.github.io/) and [Luis Carvalho](https://math.bu.edu/people/lecarval/).
 
 My research spans **transfer learning**, **graph mining**, **nonparametric statistics**, and **reinforcement learning**, focusing on developing **theoretically grounded methods** for structured and heterogeneous data in **low-sample, high-dimensional, and non-IID settings**.  
-My research asks a simple but very real-world question:  
+I am driven by a fundamental question: 
 
 > **How can we reliably reuse past knowledge when the data-generating world keeps shifting?**
 
 In statistical learning, this means transferring geometric structure or smoothness from a well-understood **source** distribution to a smaller or noisier **target**.  
-In reinforcement learning, the **source** is prior trajectories, simulators, or related tasks, while the **target** is the evolving environment—requiring principled rules for **what to retain, what to adapt, and what to forget**.
+In reinforcement learning, the **source** is prior trajectories, simulators, or related tasks, while the **target** is the evolving environment—requiring principled rules for **what to retain, what to adapt, and what to forget**. 
+In the era of **LLMs and VLMs**, transfer becomes even more critical: these models implicitly encode vast cross-domain knowledge, and the challenge is to **extract, specialize, and safely adapt** that knowledge to downstream tasks without overfitting, hallucination, or misalignment.
 
 What I build:
 - **Theoretical foundations**: minimax rates, oracle inequalities, regret bounds, and safe transfer criteria under covariate or structural shift.  
 - **Graph-structured transfer methods**: alignment and transport of information across graphs and manifolds.  
 - **RL/bandit algorithms under drift**: warm-started policies with uncertainty-aware adaptation for robust sequential decision-making.
+- **LLM/VLM transfer principles**: mechanisms for controlled adaptation, domain grounding, and structure-preserving fine-tuning.  
 
 # 🔥 News
 - *2025.09*: 🎉 My first-author paper **"Transfer Learning on Edge Connecting Probability Estimation Under Graphon Model"** is accepted by ([NeurIPS 2025](https://neurips.cc/))!
