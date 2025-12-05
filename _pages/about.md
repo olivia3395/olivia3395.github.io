@@ -24,9 +24,7 @@ I am driven by a fundamental question:
 
 > **How can we reliably reuse past knowledge when the data-generating world keeps shifting?**
 
-In statistical learning, this means transferring geometric structure or smoothness from a well-understood **source** distribution to a smaller or noisier **target**.  
-In reinforcement learning, the **source** is prior trajectories, simulators, or related tasks, while the **target** is the evolving environment—requiring principled rules for **what to retain, what to adapt, and what to forget**. 
-In the era of **LLMs and VLMs**, transfer becomes even more critical: these models implicitly encode vast cross-domain knowledge, and the challenge is to **extract, specialize, and safely adapt** that knowledge to downstream tasks without overfitting, hallucination, or misalignment.
+In statistical learning, this means transferring geometric structure or smoothness from a well-understood **source** distribution to a smaller or noisier **target**. In reinforcement learning, the **source** is prior trajectories, simulators, or related tasks, while the **target** is the evolving environment—requiring principled rules for **what to retain, what to adapt, and what to forget**. In the era of **LLMs and VLMs**, transfer becomes even more critical: these models implicitly encode vast cross-domain knowledge, and the challenge is to **extract, specialize, and safely adapt** that knowledge to downstream tasks without overfitting, hallucination, or misalignment.
 
 What I build:
 - **Theoretical foundations**: minimax rates, oracle inequalities, regret bounds, and safe transfer criteria under covariate or structural shift.  
