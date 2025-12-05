@@ -19,18 +19,18 @@ redirect_from:
 
 I’m **Yuyao Wang**, a Ph.D. candidate in Statistics at Boston University, co-advised by [Debarghya Mukherjee](https://debarghya-mukherjee.github.io/) and [Luis Carvalho](https://math.bu.edu/people/lecarval/).
 
-My research lies in **transfer learning**, **graph mining**, **nonparametric statistics**, and **reinforcement learning**, where I develop **theoretically grounded methods** for structured, heterogeneous data in **low-sample, high-dimensional, and non-IID settings**. Everyone imagines the challenges of theoretical statistics, yet within that struggle lies the quiet beauty of uncovering order in chaos. My work values the elegance of fundamental theory while pursuing its reach across real-world applications, bridging statistics with computer science and beyond. 
+My research spans **transfer learning**, **graph mining**, **nonparametric statistics**, and **reinforcement learning**, focusing on developing **theoretically grounded methods** for structured and heterogeneous data in **low-sample, high-dimensional, and non-IID settings**.  
 My research asks a simple but very real-world question:  
-> *How can we reuse what we’ve already learned when the world keeps changing?*  
 
-That’s what **transfer learning** is all about.  
-In classical statistics, it means borrowing structure or smoothness from a well-studied “source” dataset to help a smaller, noisier “target.”  
-In **reinforcement learning**, the **source** is prior experience—offline logs, simulators, or related tasks/policies; the **target** is the live environment/task. The magic is figuring out **what to keep and what to forget**, so models stay robust even when everything shifts.  
+> **How can we reliably reuse past knowledge when the data-generating world keeps shifting?**
+
+In statistical learning, this means transferring geometric structure or smoothness from a well-understood **source** distribution to a smaller or noisier **target**.  
+In reinforcement learning, the **source** is prior trajectories, simulators, or related tasks, while the **target** is the evolving environment—requiring principled rules for **what to retain, what to adapt, and what to forget**.
 
 What I build:
-- **Theory-first tools**: minimax/Oracle-type guarantees, regret bounds, and safe transfer criteria under shift.
-- **Graph-aware transfer**: graph alignment so signals move across domains.
-- **RL & bandits under drift**: warm-start policies, uncertainty-aware adaptation, and “what-to-keep vs. what-to-forget” rules.
+- **Theoretical foundations**: minimax rates, oracle inequalities, regret bounds, and safe transfer criteria under covariate or structural shift.  
+- **Graph-structured transfer methods**: alignment and transport of information across graphs and manifolds.  
+- **RL/bandit algorithms under drift**: warm-started policies with uncertainty-aware adaptation for robust sequential decision-making.
 
 # 🔥 News
 - *2025.09*: 🎉 My first-author paper **"Transfer Learning on Edge Connecting Probability Estimation Under Graphon Model"** is accepted by ([NeurIPS 2025](https://neurips.cc/))!
