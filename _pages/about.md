@@ -101,31 +101,6 @@ Aoyan Du, Guixin Zhao, **Yuyao Wang**, Aimei Dong, Guohua Lv, Yongbiao Gao, Xian
 </div>
 
 
-<div class='paper-box'>
-  <div class='paper-box-image'>
-    <div>
-      <div class="badge">IEEE SMC 2025</div>
-      <img src='images/mcsanet.png' alt="mcsanet" width="100%">
-    </div>
-  </div>
-  <div class='paper-box-text' markdown="1">
-
-**Multi-scale based Cross-modal Semantic Alignment Network for Radiology Report Generation**<br>
-Zhihao Zhang, Long Zhao, **Yuyao Wang**, Dun Lan, Linfeng Jiang, Xiangjun Dong<br>
-*Shandong Computer Science Center; Boston University*
- 
-- Proposes **MCSANet**, a radiology report generation framework that strengthens **cross-modal semantic alignment** between medical images and clinical text.  
-- Combines **multi-scale visual encoding** with **learnable cross-modal fusion** to capture abnormalities and align image–text semantics with high precision.  
-- Delivers **state-of-the-art performance** on IU-Xray and MIMIC-CXR, outperforming prior medical vision–language models.
-
-
-</div>
-</div>
-
-
-
-
-
 # 🎖 Honors and Awards
 - *2025.05*: Ralph B. D’Agostino Endowed Fellowship, Boston University  
 - *2025.04*: Outstanding Teaching Fellow Award, Boston University  
