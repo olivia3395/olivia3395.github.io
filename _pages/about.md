@@ -51,7 +51,7 @@ What I build:
 · [**NeurIPS 2025**](https://neurips.cc/virtual/2025/poster/116597)
 · [**Poster**](https://github.com/olivia3395/GTrans/blob/main/neurips_poster.pdf)
 · [**Slides**](https://github.com/olivia3395/GTrans/blob/main/Neurips2025_final1.pptx)
-· [**Code**](https://github.com/olivia3395/GTRANS)
+· [**Code**](https://github.com/olivia3395/GTRANS)<br>
 **Yuyao Wang**, Yu-Hung Cheng, Debarghya Mukherjee, Huimin Cheng · *Boston University*  
 
 - **First transfer learning framework for graphon-based edge probability estimation without node correspondence.**  
