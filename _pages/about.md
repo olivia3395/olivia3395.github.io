@@ -106,6 +106,7 @@ Aoyan Du, Guixin Zhao, **Yuyao Wang**, Aimei Dong, Guohua Lv, Yongbiao Gao, Xian
 
 
 # 🎖 Honors and Awards
+- *2025.09*: Travel Grant, Boston University  
 - *2025.05*: Ralph B. D’Agostino Endowed Fellowship, Boston University  
 - *2025.04*: Outstanding Teaching Fellow Award, Boston University  
 - *2019.06*: Outstanding Graduate, Shandong University
