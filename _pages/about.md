@@ -19,7 +19,7 @@ redirect_from:
 
 I’m **Yuyao Wang**, a Ph.D. candidate in Statistics at Boston University, co-advised by [Debarghya Mukherjee](https://debarghya-mukherjee.github.io/) and [Luis Carvalho](https://math.bu.edu/people/lecarval/).
 
-My research spans **transfer learning**, **graph mining**, **nonparametric statistics**, and **reinforcement learning**, focusing on developing **theoretically grounded methods** for structured and heterogeneous data in **low-sample, high-dimensional, and non-IID settings**.  
+My research spans **transfer learning**, **optimal transport**, **graph mining**, **nonparametric statistics**, and **reinforcement learning**, focusing on developing **theoretically grounded methods** for structured and heterogeneous data in **low-sample, high-dimensional, and non-IID settings**.  
 I am driven by a fundamental question: 
 
 > **How can we reliably reuse past knowledge when the data-generating world keeps shifting?**
