@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Yuyao Wang(王宇瑶)"
+  name             : "Yuyao Wang"
   avatar           : "images/avatar.png"
   bio              : "Ph.D. Candidate in Statistics @ Boston University"
   location         : "Boston, MA, USA"
