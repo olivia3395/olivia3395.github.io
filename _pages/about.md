@@ -17,20 +17,36 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I’m **Yuyao Wang**, a Ph.D. candidate in Statistics at Boston University, co-advised by [Debarghya Mukherjee](https://debarghya-mukherjee.github.io/) and [Luis Carvalho](https://math.bu.edu/people/lecarval/).
+# Yuyao Wang (王宇瑶)
 
-My research spans **transfer learning**, **optimal transport**, **graph mining**, **nonparametric statistics**, and **reinforcement learning**, focusing on developing **theoretically grounded methods** for structured and heterogeneous data in **low-sample, high-dimensional, and non-IID settings**.  
-I am driven by a fundamental question: 
+Ph.D. candidate in Statistics at Boston University, co-advised by [Debarghya Mukherjee](https://debarghya-mukherjee.github.io/) and [Luis Carvalho](https://math.bu.edu/people/lecarval/).
 
-> **How can we reliably reuse past knowledge when the data-generating world keeps shifting?**
+Howdy! I work at the intersection of **transfer learning**, **optimal transport**, **graph mining**, **nonparametric statistics**, and **reinforcement learning**—building **theoretically grounded** methods for structured, heterogeneous data in **low-sample, high-dimensional, and non-IID** settings.
 
-In statistical learning, this means transferring geometric structure or smoothness from a well-understood **source** distribution to a smaller or noisier **target**. In reinforcement learning, the **source** is prior trajectories, simulators, or related tasks, while the **target** is the evolving environment—requiring principled rules for **what to retain, what to adapt, and what to forget**. In the era of **LLMs and VLMs**, transfer becomes even more critical: these models implicitly encode vast cross-domain knowledge, and the challenge is to **extract, specialize, and safely adapt** that knowledge to downstream tasks without overfitting, hallucination, or misalignment.
+The question that keeps me up (in a good way):
 
-What I build:
-- **Theoretical foundations**: minimax rates, oracle inequalities, regret bounds, and safe transfer criteria under covariate or structural shift.  
-- **Graph-structured transfer methods**: alignment and transport of information across graphs and manifolds.  
-- **RL/bandit algorithms under drift**: warm-started policies with uncertainty-aware adaptation for robust sequential decision-making.
-- **LLM/VLM transfer principles**: mechanisms for controlled adaptation, domain grounding, and structure-preserving fine-tuning.  
+> **How can we reuse past knowledge when the world—and the data—won’t sit still?**
+
+In statistical learning, this is about transferring geometry or smoothness from a well-understood **source** distribution to a smaller, noisier **target** under shift.  
+In reinforcement learning, the **source** might be prior trajectories, simulators, or related tasks, while the **target** is the evolving environment—so we need principled rules for **what to keep, what to adapt, and what to forget**.
+
+And yes—**LLMs/VLMs** make this even more exciting (and tricky): they already contain a lot of cross-domain knowledge, but the real challenge is **extracting and specializing it safely** for downstream tasks without **overfitting, hallucination, or misalignment**.
+
+## What I build
+
+- **Theory that actually supports practice**  
+  Minimax rates, oracle inequalities, regret bounds, and safe-transfer criteria under covariate or structural shift.
+
+- **Graph-structured transfer methods**  
+  Aligning and transporting information across graphs/manifolds to make transfer robust when correspondence is messy or unknown.
+
+- **RL/bandits under drift**  
+  Warm-started policies with uncertainty-aware adaptation for reliable sequential decision-making in changing environments.
+
+- **Transfer principles for LLMs/VLMs**  
+  Controlled adaptation, domain grounding, and structure-preserving fine-tuning—so models adapt *without* getting sloppy.
+
+If any of this resonates—whether you’re thinking about theory, systems, or real-world deployment—I’d love to connect.
 
 # 🔥 News
 - *2025.09*: 🎉 My first-author paper **"Transfer Learning on Edge Connecting Probability Estimation Under Graphon Model"** is accepted by ([NeurIPS 2025](https://neurips.cc/))!
