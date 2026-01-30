@@ -77,7 +77,7 @@ If any of this resonates—whether you’re thinking about theory, systems, or r
   <div class='paper-box-image'>
     <div>
       <div class="badge">Under Review</div>
-      <img src='images/scot_workflow.png' alt="scot" width="100%">
+      <img src='images/scot_main.png' alt="scot" width="100%">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
