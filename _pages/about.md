@@ -47,6 +47,10 @@ If any of this resonates—whether you’re thinking about theory, systems, or r
 
 # 📝 Publications 
 
+
+<!-- ===================== Leading Author ===================== -->
+<h2 class="pub-section-title">Leading Author</h2>
+
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
@@ -57,20 +61,17 @@ If any of this resonates—whether you’re thinking about theory, systems, or r
   <div class='paper-box-text' markdown="1">
 
 [**Transfer Learning on Edge Connecting Probability Estimation Under Graphon Model**](https://openreview.net/pdf/9fdf0bec54b67ea8e157e38dff92c95be29345c0.pdf)
-· [**NeurIPS 2025**](https://neurips.cc/virtual/2025/poster/116597)
+· [**NeurIPS**](https://neurips.cc/virtual/2025/poster/116597)
 · [**Poster**](https://github.com/olivia3395/GTrans/blob/main/neurips_poster.pdf)
 · [**Slides**](https://github.com/olivia3395/GTrans/blob/main/Neurips2025_final1.pptx)
 · [**Code**](https://github.com/olivia3395/GTRANS)<br>
-**Yuyao Wang**, Yu-Hung Cheng, Debarghya Mukherjee, Huimin Cheng · *Boston University*  
+*Boston University*
 
-- **First transfer learning framework for graphon-based edge probability estimation without node correspondence.**  
-- Combines **Gromov–Wasserstein alignment** and **residual smoothing** with **nonparametric stability & convergence guarantees**.  
-- Achieves **SOTA link prediction and graph classification**, especially for **small, sparse, and heterogeneous target graphs**.
-
+- **Graphon transfer without node correspondence:** aligns source/target graphs via **Gromov–Wasserstein**, then transfers edge-probability structure in a fully nonparametric way.  
+- **Provably stable + practically strong:** **residual smoothing** boosts small/sparse/heterogeneous targets, with **convergence & stability guarantees** and SOTA gains on link prediction / graph classification.
 
 </div>
 </div>
-
 
 <div class='paper-box'>
   <div class='paper-box-image'>
@@ -81,17 +82,21 @@ If any of this resonates—whether you’re thinking about theory, systems, or r
   </div>
   <div class='paper-box-text' markdown="1">
 
-[**Phase Transition in Nonparametric Minimax Rates for Covariate Shifts on Approximate Manifolds**](https://arxiv.org/abs/2507.00889) · [**Code**](https://github.com/olivia3395/Covariate-Shifts-on-Approximate-Manifolds) · [**Poster**](https://github.com/olivia3395/Covariate-Shifts-on-Approximate-Manifolds/blob/main/manifold_poster.pdf) · [**Presentation**](https://github.com/olivia3395/Covariate-Shifts-on-Approximate-Manifolds/blob/main/slides_Manifold.pdf)<br>
-**Yuyao Wang**, Nabarun Deb, Debarghya Mukherjee<br>
-*Boston University; The University of Chicago Booth School of Business*
+[**Phase Transition in Nonparametric Minimax Rates for Covariate Shifts on Approximate Manifolds**](https://arxiv.org/abs/2507.00889)
+· [**Code**](https://github.com/olivia3395/Covariate-Shifts-on-Approximate-Manifolds)
+· [**Poster**](https://github.com/olivia3395/Covariate-Shifts-on-Approximate-Manifolds/blob/main/manifold_poster.pdf)
+· [**Slides**](https://github.com/olivia3395/Covariate-Shifts-on-Approximate-Manifolds/blob/main/slides_Manifold.pdf)<br>
+*Boston University; Chicago Booth*
 
-- Establishes **new minimax rates** for Hölder regression under covariate shift when the target lies **near—but not on—the source manifold**.  
-- Reveals a sharp **phase transition**: estimation difficulty is governed by the **target–source support gap**, unifying prior geometric-transfer regimes.  
-- Develops an estimator that remains **valid without density ratios** and achieves **near-optimal, dimension-adaptive rates** without geometric assumptions.
+- **New minimax theory for “near-manifold” shift:** exposes a sharp **phase transition** controlled by the **support gap** between target and source neighborhoods—unifying multiple geometric-transfer regimes.  
+- **Ratio-free, adaptive estimator:** achieves **near-optimal, dimension-adaptive rates** **without density ratios** and without assuming you know the geometry (works under approximate manifold mismatch).
 
 </div>
 </div>
 
+
+<!-- ===================== Co-author ===================== -->
+<h2 class="pub-section-title">Co-author</h2>
 
 <div class='paper-box'>
   <div class='paper-box-image'>
@@ -102,13 +107,12 @@ If any of this resonates—whether you’re thinking about theory, systems, or r
   </div>
   <div class='paper-box-text' markdown="1">
 
-[**Cross-Domain Hyperspectral Image Classification via Mamba-CNN and Knowledge Distillation**](https://ieeexplore.ieee.org/abstract/document/11133483) · [**Presentation**](https://github.com/olivia3395/Cross-Domain-Hyperspectral-Image-Classification-/blob/main/IEEE%20TRGS%202025.pptx)<br>
-Aoyan Du, Guixin Zhao, **Yuyao Wang**, Aimei Dong, Guohua Lv, Yongbiao Gao, Xiangjun Dong<br>
-*Shandong Computer Science Center; Boston University*
+[**Cross-Domain Hyperspectral Image Classification via Mamba-CNN and Knowledge Distillation**](https://ieeexplore.ieee.org/abstract/document/11133483)
+· [**Slides**](https://github.com/olivia3395/Cross-Domain-Hyperspectral-Image-Classification-/blob/main/IEEE%20TRGS%202025.pptx)<br>
+*IEEE TGRS 2025*
 
-- Proposes **MKDnet**, a cross-domain HSI classifier integrating a **Mamba–CNN hybrid encoder** with **knowledge distillation** and **OT-based graph alignment**.  
-- Captures **global context and fine local structure** through dual-stream feature modeling and domain-consistent representation learning.  
-- Achieves **state-of-the-art performance** on multiple hyperspectral benchmarks under significant domain shift.
+- **Mamba–CNN dual-stream encoder** captures long-range spectral context + fine-grained local cues, designed for severe cross-domain shift in HSI.  
+- **Distillation + OT-style alignment** enforces domain-consistent representations, delivering SOTA accuracy across multiple hyperspectral benchmarks.
 
 </div>
 </div>
