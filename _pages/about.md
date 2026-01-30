@@ -171,8 +171,8 @@ Soft-Correspondence Objectives**](#)<br>
 · [**Slides**](https://github.com/olivia3395/Cross-Domain-Hyperspectral-Image-Classification-/blob/main/IEEE%20TRGS%202025.pptx)<br>
 *IEEE TGRS 2025*
 
-- **Mamba–CNN dual-stream encoder** captures long-range spectral context + fine-grained local cues, designed for severe cross-domain shift in HSI.  
-- **Distillation + OT-style alignment** enforces domain-consistent representations, delivering SOTA accuracy across multiple hyperspectral benchmarks.
+- **Hybrid spectral–spatial modeling for domain shift:** integrates a **Mamba-based global spectral encoder** with **CNN local feature extraction**, capturing long-range dependencies while preserving fine-grained spatial structure in hyperspectral images.  
+- **Dual-level transfer via distillation + graph alignment:** performs **teacher–student knowledge distillation** for distribution alignment and **OT-guided graph consistency** across domains, yielding robust cross-domain generalization under severe spectral mismatch.
 
 </div>
 </div>
