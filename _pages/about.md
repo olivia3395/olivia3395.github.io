@@ -76,6 +76,25 @@ If any of this resonates—whether you’re thinking about theory, systems, or r
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
+      <div class="badge">Under Review</div>
+      <img src='images/scot_workflow.png' alt="scot" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+
+[**SCOT: Cross-City Transfer via Sinkhorn Optimal-Transport Soft Correspondence**](#)<br>
+*Boston University; Shandong University*
+
+- **Explicit many-to-many correspondence (no node matching):** learns a **Sinkhorn entropic-OT coupling** between unequal region sets and uses it to define **soft aligned pairs** for cross-city transfer.  
+- **OT-guided semantic sharpening + stability:** combines **OT-weighted contrastive alignment** with **cycle-style reconstruction**; extends to multi-source with a **target-aware prototype hub** to prevent collapse and handle strong heterogeneity.
+
+</div>
+</div>
+
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
       <div class="badge">Under Review @ JASA</div>
       <img src='images/phaseshift.png' alt="phaseshift" width="100%">
     </div>
