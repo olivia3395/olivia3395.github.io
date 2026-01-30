@@ -89,7 +89,7 @@ If any of this resonates—whether you’re thinking about theory, systems, or r
 *Boston University; Chicago Booth*
 
 - **New minimax theory for “near-manifold” shift:** exposes a sharp **phase transition** controlled by the **support gap** between target and source neighborhoods—unifying multiple geometric-transfer regimes.  
-- **Ratio-free, adaptive estimator:** achieves **near-optimal, dimension-adaptive rates** **without density ratios** and without assuming you know the geometry (works under approximate manifold mismatch).
+- **Ratio-free, adaptive estimator:** achieves **near-optimal, dimension-adaptive rates** **without density ratios** and without assuming knowing the geometry (works under approximate manifold mismatch).
 
 </div>
 </div>
