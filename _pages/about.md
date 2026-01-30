@@ -112,6 +112,26 @@ Soft-Correspondence Objectives**](#)<br>
 
 
 
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">Under Review</div>
+      <img src='images/synergy_bpr_workflow.png' alt="synergy-bpr" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+
+[**INCM: Inconsistency-Aware Synergistic Multimodal Recommendation via Cross-Modal Hard Negative Sampling**](#)<br>
+*Boston University; Shandong University; Tsinghua University*
+
+- **Disentangles synergy vs.\ redundancy in multimodal signals:** explicitly decomposes item information into **unique (text / vision)** and **synergistic** components using **heterogeneous–homogeneity graph transformations**, avoiding naïve feature fusion.  
+- **Inconsistency-aware learning with principled negatives:** introduces **cross-modal hard negative sampling** and a **Synergy-BPR objective** that suppresses redundant cues while amplifying truly complementary signals, yielding robust gains under noisy or conflicting modalities.
+
+</div>
+</div>
+
+
+
 
 <div class='paper-box'>
   <div class='paper-box-image'>
