@@ -178,6 +178,26 @@ Soft-Correspondence Objectives**](#)<br>
 </div>
 
 
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">Under Review</div>
+      <img src='images/ssgp_workflow.png' alt="ssgp" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+
+[**Semantic Scientific Graph Pruning for Reliable Agentic Paper Reproduction**](#)<br>
+*Boston University; Shandong University*
+
+- **Semantic pruning for controllable agent search:** proposes **Semantic Scientific Graph Pruning (SSGP)** to transform dense scientific graphs into **task-adaptive local subgraphs**, using **rank-based ensemble scoring** to retain only semantically essential neighbors.  
+- **Enables reliable agentic reproduction:** couples pruned graphs with **reuse–patch modular execution** and **confidence-weighted aggregation**, dramatically reducing search space while improving **reproducibility, stability, and success rate** of LLM-based scientific agents.
+
+</div>
+</div>
+
+
+
 # 🎖 Honors and Awards
 - *2025.09*: Student Travel Grant, Boston University  
 - *2025.05*: Ralph B. D’Agostino Endowed Fellowship, Boston University  
