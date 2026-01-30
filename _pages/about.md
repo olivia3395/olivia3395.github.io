@@ -82,7 +82,8 @@ If any of this resonates—whether you’re thinking about theory, systems, or r
   </div>
   <div class='paper-box-text' markdown="1">
 
-[**SCOT: Cross-City Transfer via Sinkhorn Optimal-Transport Soft Correspondence**](#)<br>
+[**SCOT: Multi-Source Cross-City Transfer with Optimal-Transport
+Soft-Correspondence Objectives**](#)<br>
 *Boston University; Shandong University*
 
 - **Explicit many-to-many correspondence (no node matching):** learns a **Sinkhorn entropic-OT coupling** between unequal region sets and uses it to define **soft aligned pairs** for cross-city transfer.  
