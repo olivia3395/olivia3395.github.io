@@ -65,7 +65,7 @@ If any of this resonates—whether you’re thinking about theory, systems, or r
 · [**Poster**](https://github.com/olivia3395/GTrans/blob/main/neurips_poster.pdf)
 · [**Slides**](https://github.com/olivia3395/GTrans/blob/main/Neurips2025_final1.pptx)
 · [**Code**](https://github.com/olivia3395/GTRANS)<br>
-*Boston University*
+*NeurIPS 2025*
 
 - **Graphon transfer without node correspondence:** aligns source/target graphs via **Gromov–Wasserstein**, then transfers edge-probability structure in a fully nonparametric way.  
 - **Provably stable + practically strong:** **residual smoothing** boosts small/sparse/heterogeneous targets, with **convergence & stability guarantees** and SOTA gains on link prediction / graph classification.
