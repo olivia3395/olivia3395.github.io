@@ -199,6 +199,28 @@ Soft-Correspondence Objectives**](#)<br>
 
 
 
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">IEEE SMC 2025</div>
+      <img src='images/mcsanet.png' alt="mcsanet" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+
+[**Multi-scale based Cross-modal Semantic Alignment Network for Radiology Report Generation**](https://ieeexplore.ieee.org/document/11343384)<br>
+*IEEE SMC 2025*
+
+- **Multi-scale visual encoding for clinically salient abnormalities:** builds hierarchical image representations that capture both global anatomy and fine-grained lesion cues, improving localization of subtle findings critical for report generation.  
+- **Cross-modal semantic alignment with learnable fusion:** enforces tight image–text correspondence via learnable cross-modal interactions (alignment-driven fusion), reducing hallucinated statements and boosting abnormality-focused sentence generation.
+
+</div>
+</div>
+
+
+
+
+
 # 🎖 Honors and Awards
 - *2025.09*: Student Travel Grant, Boston University  
 - *2025.05*: Ralph B. D’Agostino Endowed Fellowship, Boston University  
