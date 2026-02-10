@@ -167,7 +167,7 @@ Soft-Correspondence Objectives**](#)<br>
   </div>
   <div class='paper-box-text' markdown="1">
 
-[**INCM: Inconsistency-Aware Synergistic Multimodal Recommendation via Cross-Modal Hard Negative Sampling**](#)<br>
+[**Inconsistency aware Multi Modal Recommendation**](#)<br>
 *Boston University; Shandong University; Tsinghua University*
 
 - **Disentangles synergy vs redundancy in multimodal signals:** explicitly decomposes item information into **unique (text / vision)** and **synergistic** components using **heterogeneous–homogeneity graph transformations**, avoiding naïve feature fusion.  
