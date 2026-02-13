@@ -43,6 +43,7 @@ If any of this resonates—whether you’re thinking about theory, systems, or r
 
 # 🔥 News
 - *2025.09*: 🎉 My first-author paper **"Transfer Learning on Edge Connecting Probability Estimation Under Graphon Model"** is accepted by ([NeurIPS 2025](https://neurips.cc/))!
+- *2025.08*: 🎉 My co-authored paper **"Multi-scale based Cross-modal Semantic Alignment Network for Radiology Report Generation"** is accepted by ([IEEE SMC 2025](https://ieeexplore.ieee.org/))!
 - *2025.08*: 🎉 My co-authored paper **"Cross-Domain Hyperspectral Image Classification via Mamba-CNN and Knowledge Distillation"** is accepted by ([IEEE TGRS 2025](https://ieeexplore.ieee.org/))!
 
 # 📝 Publications 
