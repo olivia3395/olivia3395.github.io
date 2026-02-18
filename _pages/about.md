@@ -61,7 +61,7 @@ If any of this resonates—whether you’re thinking about theory, systems, or r
   </div>
   <div class='paper-box-text' markdown="1">
 
-[**Transfer Learning on Edge Connecting Probability Estimation Under Graphon Model**](https://openreview.net/pdf/9fdf0bec54b67ea8e157e38dff92c95be29345c0.pdf)
+[**Transfer Learning on Edge Connecting Probability Estimation Under Graphon Model**](https://openreview.net/pdf?id=i3sWs5614Y)
 · [**NeurIPS**](https://neurips.cc/virtual/2025/poster/116597)
 · [**Poster**](https://github.com/olivia3395/GTrans/blob/main/neurips_poster.pdf)
 · [**Slides**](https://github.com/olivia3395/GTrans/blob/main/Neurips2025_final1.pptx)
