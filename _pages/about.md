@@ -42,7 +42,9 @@ In statistical learning, this is about transferring geometry or smoothness from 
   Controlled adaptation, domain grounding, and structure-preserving fine-tuning—so models adapt *without* getting sloppy.
 
 
-Along my academic journey, I have been deeply fortunate to study and conduct research under the guidance of inspiring scholars, including [Prof. Liang Zhao](https://www.arch.tsinghua.edu.cn/info/FUrban%20Planning%20and%20Design/1776), [Prof. Zhanxing Zhu](https://zhanxingzhu.github.io/), and [Prof. Yongshun Gong](https://faculty.sdu.edu.cn/gongyongshun/en/), whose work spans urban spatial systems, deep learning theory, and representation learning. Their collective perspectives—ranging from structural urban development and infrastructure planning to the theoretical foundations of machine learning and scalable modeling of complex spatio-temporal data—have profoundly shaped how I approach structured, evolving, and heterogeneous systems, and continue to influence my pursuit of principled, transferable learning methods.
+Along my academic journey, I have been deeply fortunate to study and conduct research under the guidance of inspiring scholars, including [Prof. Liang Zhao](https://www.arch.tsinghua.edu.cn/info/FUrban%20Planning%20and%20Design/1776), [Prof. Zhanxing Zhu](https://zhanxingzhu.github.io/), and [Prof. Yongshun Gong](https://faculty.sdu.edu.cn/gongyongshun/en/), whose work spans urban spatial systems, deep learning theory, and representation learning. Their collective perspectives, from urban systems and infrastructure to machine learning theory and scalable spatio-temporal modeling, have shaped how I study structured, evolving, and heterogeneous systems, guiding my pursuit of principled transfer learning methods.
+
+
 
 
 # 🔥 News
