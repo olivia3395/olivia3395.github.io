@@ -25,6 +25,8 @@ The question that keeps me up (in a good way):
 
 In statistical learning, this is about transferring geometry or smoothness from a well-understood **source** distribution to a smaller, noisier **target** under shift.  In reinforcement learning, the **source** might be prior trajectories, simulators, or related tasks, while the **target** is the evolving environment, so we need principled rules for **what to keep, what to adapt, and what to forget**. And yes! **LLMs/VLMs** make this even more exciting (and tricky): they already contain a lot of cross-domain knowledge, but the real challenge is **extracting and specializing it safely** for downstream tasks without **overfitting, hallucination, or misalignment**.
 
+
+
 ## What I build
 
 - **Theory that actually supports practice**  
@@ -39,7 +41,9 @@ In statistical learning, this is about transferring geometry or smoothness from 
 - **Transfer principles for LLMs/VLMs**  
   Controlled adaptation, domain grounding, and structure-preserving fine-tuning—so models adapt *without* getting sloppy.
 
-If any of this resonates—whether you’re thinking about theory, systems, or real-world deployment—I’d love to connect.
+
+Along my academic journey, I have been deeply fortunate to study and conduct research under the guidance of inspiring scholars, including [Prof. Liang Zhao](https://www.arch.tsinghua.edu.cn/info/FUrban%20Planning%20and%20Design/1776), [Prof. Zhanxing Zhu](https://zhanxingzhu.github.io/), and [Prof. Yongshun Gong](https://faculty.sdu.edu.cn/gongyongshun/en/), whose work spans urban spatial systems, deep learning theory, and representation learning. Their collective perspectives—ranging from structural urban development and infrastructure planning to the theoretical foundations of machine learning and scalable modeling of complex spatio-temporal data—have profoundly shaped how I approach structured, evolving, and heterogeneous systems, and continue to influence my pursuit of principled, transferable learning methods.
+
 
 # 🔥 News
 - *2025.09*: 🎉 My first-author paper **"Transfer Learning on Edge Connecting Probability Estimation Under Graphon Model"** is accepted by ([NeurIPS 2025](https://neurips.cc/))!
