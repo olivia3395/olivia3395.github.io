@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Howdy! I’m a Ph.D. candidate in Statistics at Boston University, co-advised by [Debarghya Mukherjee](https://debarghya-mukherjee.github.io/) and [Luis Carvalho](https://math.bu.edu/people/lecarval/); I build theoretically grounded transfer-learning methods (optimal transport, graph mining, nonparametric stats, and RL) for structured, heterogeneous data in low-sample, high-dimensional, non-IID settings.
+Howdy! I’m a Ph.D. candidate in Statistics at Boston University, co-advised by [Prof. Debarghya Mukherjee](https://debarghya-mukherjee.github.io/) and [Prof. Luis Carvalho](https://math.bu.edu/people/lecarval/); I build theoretically grounded transfer-learning methods (optimal transport, graph mining, nonparametric stats, and RL) for structured, heterogeneous data in low-sample, high-dimensional, non-IID settings.
 
 The question that keeps me up (in a good way):
 
