@@ -227,7 +227,6 @@ Soft-Correspondence Objectives**](#)<br>
 
 
 
-
 # 🎖 Honors and Awards
 - *2025.09*: Student Travel Grant, Boston University  
 - *2025.05*: Ralph B. D’Agostino Endowed Fellowship, Boston University  
@@ -271,12 +270,12 @@ Soft-Correspondence Objectives**](#)<br>
 - **Time Series Forecasting for Financial Exposure (SARIMA/ETS/Prophet)** · [Code](https://github.com/olivia3395/GlobalRiskAnalysisUSA) · [Demo](https://olivia3395.github.io/GlobalRiskAnalysisUSA/) — robust forecasts + residual diagnostics.  
 - **Movie Recommendation** · [Code](https://github.com/olivia3395/Spring2020-Project4-group8) — ALS/SVD + kernel ridge refinement; accuracy ↑ **15%**, compute ↓ **20%**.  
 - **Customer Segmentation** · [Code](https://github.com/olivia3395/Customer_Segmentation) — elbow/silhouette-driven clustering for targeting.  
-- **R\&B Lyrical Analysis(LDA + VADER)** · [Code](https://github.com/olivia3395/R-B_Lyrics) — topic discovery + sentiment trends across decades.
+- **R&B Lyrical Analysis(LDA + VADER)** · [Code](https://github.com/olivia3395/R-B_Lyrics) — topic discovery + sentiment trends across decades.
 
 
 # 🎨 Interests
 
-🎵 Mandarin R&B loyalist — Leehom Wang, David Tao, Khalil Fong, Dean Ting
+🎵 Mandarin R&B loyalist — Leehom Wang, David Tao, Khalil Fong🦋, Dean Ting
 
 🎹 Trained in piano, calligraphy, and ink painting
 
