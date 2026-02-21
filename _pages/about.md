@@ -228,7 +228,6 @@ Soft-Correspondence Objectives**](#)<br>
 
 
 
-
 # 🎖 Honors and Awards
 - *2025.09*: Student Travel Grant, Boston University  
 - *2025.05*: Ralph B. D’Agostino Endowed Fellowship, Boston University  
@@ -243,6 +242,9 @@ Soft-Correspondence Objectives**](#)<br>
 
 - *2019.09 – 2020.05*: M.A. in Statistics (Data Science Track), Columbia University
 
+- *2018.05 – 2019.06*: B.S. in Mathematics, Chinese Academy of Sciences
+  (Jointly Supervised Talent Program)
+  
 - *2015.09 – 2019.06*: B.S. in Mathematics, Shandong University
 
 
@@ -254,8 +256,10 @@ Soft-Correspondence Objectives**](#)<br>
 
 # 🗂️ Projects
 
-
-- **Advanced Dog Breed Classification (CNN + VGG16/ResNet50)** · [Code](https://github.com/olivia3395/dog_identification_app) · [Demo](https://olivia3395.github.io/dog_identification_app/) — **75.48%** accuracy (Stanford Dogs); Flask deployment.  
+- **LLaMA 2 Fine-Tuning (QLoRA)** · [Code](https://github.com/olivia3395/LLaMA2_finetuning) — 4-bit QLoRA (PEFT/bitsandbytes) instruction tuning on consumer GPUs.  
+- **LLM 1-bit Quantization (HQQ)** · [Code](https://github.com/olivia3395/HQQ_1-bit_Quantization) — implemented HQQ 1-bit weight quantization on LLaMA 2; speed–accuracy benchmarks.  
+- **RLHF (PPO)** · [Code](https://github.com/olivia3395/rlhf_finetuning) — PPO-based RLHF with custom rewards for controllable generation.  
+- **Dog Breed Classification (CNN + VGG16/ResNet50)** · [Code](https://github.com/olivia3395/dog_identification_app) · [Demo](https://olivia3395.github.io/dog_identification_app/) — **75.48%** accuracy (Stanford Dogs); Flask deployment.  
 - **Credit Risk Prediction (XGBoost + SMOTE)** · [Code](https://github.com/olivia3395/credit-default-risk) — **0.976 AUC**; default-class recall **91%**, F1 **0.95**.  
 - **Pedestrian Detection (Fast R-CNN style + Siamese)** · [Code](https://github.com/olivia3395) — 1k+ annotations; few-shot-ready pipeline + pruning/fusion for faster inference.  
 - **Mask Detection (ResNet50 + Grad-CAM)** · [Code](https://github.com/olivia3395/MaskDetection) — **94%** test accuracy; explainable predictions via Grad-CAM.  
@@ -265,32 +269,9 @@ Soft-Correspondence Objectives**](#)<br>
 - **Bayesian Logistic Regression (RStan; Spike-and-Slab)** · [Code](https://github.com/olivia3395/Bayesian_Lung_Cancer_Prediction) · [Demo](https://olivia3395.github.io/Bayesian_Lung_Cancer_Prediction/) — sparse selection + full MCMC diagnostics.  
 - **A/B Testing for Ad Targeting Optimization** · [Code](https://github.com/olivia3395/AB_Test_Ad) — bootstrap CIs + power analysis; drove **+15%** conversion.  
 - **Time Series Forecasting for Financial Exposure (SARIMA/ETS/Prophet)** · [Code](https://github.com/olivia3395/GlobalRiskAnalysisUSA) · [Demo](https://olivia3395.github.io/GlobalRiskAnalysisUSA/) — robust forecasts + residual diagnostics.  
-- **Collaborative Filtering for Movie Recommendation** · [Code](https://github.com/olivia3395/Spring2020-Project4-group8) — ALS/SVD + kernel ridge refinement; accuracy ↑ **15%**, compute ↓ **20%**.  
-- **Customer Segmentation (KMeans + PCA)** · [Code](https://github.com/olivia3395/Customer_Segmentation) — elbow/silhouette-driven clustering for targeting.  
-- **R\&B Lyrical Analysis and Sentiment Mining (LDA + VADER)** · [Code](https://github.com/olivia3395/R-B_Lyrics) — topic discovery + sentiment trends across decades.
-
-<h2 class="pub-section-title">Projects</h2>
-
-| 🐶 Dog ID | 🏦 Credit Risk | 😷 Mask |
-|---|---|---|
-| **Dog Breed Classification** <br> · [Code](https://github.com/olivia3395/dog_identification_app) · [Demo](https://olivia3395.github.io/dog_identification_app/) <br> **75.48%** acc (Stanford Dogs) | **XGBoost + SMOTE** <br> · [Code](https://github.com/olivia3395/credit-default-risk) <br> **0.976 AUC**; recall **91%** | **ResNet + Grad-CAM** <br> · [Code](https://github.com/olivia3395/MaskDetection) <br> **94%** test acc |
-
-| 💬 Fin Sentiment | ✉️ Spam | 🗺️ Airbnb |
-|---|---|---|
-| **DistilBERT Sentiment** <br> · [Code](https://github.com/olivia3395/finanial-text-analysis) · [Demo](https://olivia3395.github.io/finanial-text-analysis/) <br> **85%** acc; **30%** faster | **TF-IDF + Naive Bayes** <br> · [Code](https://github.com/olivia3395/spam_detection) <br> **96%** prec / **94%** rec | **R Shiny Dashboard** <br> · [Code](https://github.com/olivia3395/rshinyapp_airbnb) · [Demo](https://yuyaowang.shinyapps.io/airbnb_app/) <br> maps + filtering |
-
-| 🚶 Pedestrian | 🧬 Bayesian | 🧪 A/B Test |
-|---|---|---|
-| **Fast R-CNN + Siamese** <br> · [Code](https://github.com/olivia3395) <br> 1k+ labels; few-shot + pruning | **RStan (Spike-and-Slab)** <br> · [Code](https://github.com/olivia3395/Bayesian_Lung_Cancer_Prediction) · [Demo](https://olivia3395.github.io/Bayesian_Lung_Cancer_Prediction/) <br> sparse selection + diagnostics | **Ad Targeting** <br> · [Code](https://github.com/olivia3395/AB_Test_Ad) <br> bootstrap CIs; **+15%** CR |
-
-| ⏱️ Time Series | 🎬 Recsys | 🎵 Lyrics |
-|---|---|---|
-| **SARIMA / ETS / Prophet** <br> · [Code](https://github.com/olivia3395/GlobalRiskAnalysisUSA) · [Demo](https://olivia3395.github.io/GlobalRiskAnalysisUSA/) <br> forecasting + diagnostics | **ALS / SVD + KRR** <br> · [Code](https://github.com/olivia3395/Spring2020-Project4-group8) <br> acc ↑**15%**; compute ↓**20%** | **LDA + VADER** <br> · [Code](https://github.com/olivia3395/R-B_Lyrics) <br> topic + sentiment trends |
-
-| 🧩 Segmentation | 🙂 Emotion |  |
-|---|---|---|
-| **KMeans + PCA** <br> · [Code](https://github.com/olivia3395/Customer_Segmentation) <br> elbow/silhouette selection | **PCA + LDA** <br> · [Code](https://github.com/olivia3395/Spring2020-Project3-group7) <br> dim ↓**40%**; baselines |  |
-
+- **Movie Recommendation** · [Code](https://github.com/olivia3395/Spring2020-Project4-group8) — ALS/SVD + kernel ridge refinement; accuracy ↑ **15%**, compute ↓ **20%**.  
+- **Customer Segmentation** · [Code](https://github.com/olivia3395/Customer_Segmentation) — elbow/silhouette-driven clustering for targeting.  
+- **R\&B Lyrical Analysis(LDA + VADER)** · [Code](https://github.com/olivia3395/R-B_Lyrics) — topic discovery + sentiment trends across decades.
 
 
 # 🎨 Interests
