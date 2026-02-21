@@ -252,7 +252,7 @@ Soft-Correspondence Objectives**](#)<br>
   - Built AWS SageMaker pipeline for property-level loss prediction; boosted Gini +4.3% using XGBoost Tweedie 
   - Developed LLM-powered image risk scoring with GPT-4o + Google Street View; integrated outputs into actuarial models  
 
-# 🚀 Projects
+# 🗂️ Projects
 
 
 - **Advanced Dog Breed Classification (CNN + VGG16/ResNet50)** · [Code](https://github.com/olivia3395/dog_identification_app) · [Demo](https://olivia3395.github.io/dog_identification_app/) — **75.48%** accuracy (Stanford Dogs); Flask deployment.  
