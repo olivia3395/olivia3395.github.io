@@ -258,7 +258,7 @@ Soft-Correspondence Objectives**](#)<br>
 # 🗂️ Projects
 
 - **LLaMA 2 Fine-Tuning (QLoRA)** · [Code](https://github.com/olivia3395/LLaMA2_finetuning) — 4-bit QLoRA (PEFT/bitsandbytes) instruction tuning on consumer GPUs.  
-- **LLM 1-bit Quantization (HQQ)** · [Code](https://github.com/olivia3395/HQQ_1-bit_Quantization) — implemented HQQ 1-bit weight quantization on LLaMA 2; speed–accuracy benchmarks.  
+- **LLM 1-bit Quantization (HQQ)** · [Code](https://github.com/olivia3395/HQQ_1-bit_Quantization) —  HQQ 1-bit weight quantization on LLaMA 2; speed–accuracy benchmarks.  
 - **RLHF (PPO)** · [Code](https://github.com/olivia3395/rlhf_finetuning) — PPO-based RLHF with custom rewards for controllable generation.  
 - **Dog Breed Classification (CNN + VGG16/ResNet50)** · [Code](https://github.com/olivia3395/dog_identification_app) · [Demo](https://olivia3395.github.io/dog_identification_app/) — **75.48%** accuracy (Stanford Dogs); Flask deployment.  
 - **Credit Risk Prediction (XGBoost + SMOTE)** · [Code](https://github.com/olivia3395/credit-default-risk) — **0.976 AUC**; default-class recall **91%**, F1 **0.95**.  
