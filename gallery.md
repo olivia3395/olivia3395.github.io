@@ -1,19 +1,7 @@
-
-
 ---
-layout: single
 permalink: /gallery/
-title: " "
-author_profile: false
-header:
-  show_overlay_excerpt: false
-  teaser: ""
-  image: ""
-breadcrumbs: false
-toc: false
-classes: wide
+title: "Gallery"
 ---
-
 
 # 🏞️ Gallery
 
