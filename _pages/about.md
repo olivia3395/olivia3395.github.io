@@ -283,12 +283,10 @@ Soft-Correspondence Objectives**](#)<br>
 
 # 🧑‍🏫 Teaching Experience
 
-**Boston University**
-
-- **Instructor:**  
+- **Instructor, Boston University:**  
   MA 582 *Mathematical Statistics*; MA 113 *Elementary Statistics*  
 
-- **Teaching Assistant:**  
+- **Teaching Assistant, Boston University:**  
   MA 575 *Generalized Linear Models*; MA 582 *Mathematical Statistics*; MA 415 *Data Science in R*; MA 214 *Applied Statistics*; MA 213 *Statistics and Probability*; MA 113 *Elementary Statistics*
   
 # 🎨 Interests
