@@ -133,7 +133,7 @@ A small collection of my favorite moments outdoors — mostly national parks.
         <span class="badge">Valley</span>
       </div>
     </div>
-    <p class="album-meta">Granite Walls, Waterfalls, Valley Views.</p>
+    <p class="album-meta">Granite walls, waterfalls, valley views.</p>
     <div class="photo-grid">
       <div class="photo"><img src="/images/gallery/yosemite/yosemite1.jpg" alt="Yosemite 1"></div>
       <div class="photo"><img src="/images/gallery/yosemite/yosemite2.jpg" alt="Yosemite 2"></div>
@@ -156,7 +156,7 @@ A small collection of my favorite moments outdoors — mostly national parks.
         <span class="badge">Sunset</span>
       </div>
     </div>
-    <p class="album-meta">Badwater Basin — North America’s lowest point (−86 m), Salt Flats, Desert Sunsets.</p>
+    <p class="album-meta">Badwater basin — North America’s lowest point (−86 m), salt flats, desert sunsets.</p>
     <div class="photo-grid">
       <div class="photo"><img src="/images/gallery/deathvalley/deathvalley1.jpg"  alt="Death Valley 1"></div>
       <div class="photo"><img src="/images/gallery/deathvalley/deathvalley2.jpg"  alt="Death Valley 2"></div>
@@ -182,7 +182,7 @@ A small collection of my favorite moments outdoors — mostly national parks.
       <span class="badge">Bison</span>
     </div>
   </div>
-  <p class="album-meta">Geysers, Bison, Waterfalls，Snow Peaks.</p>
+  <p class="album-meta">Geysers, bison, waterfalls，snow peaks.</p>
   <div class="photo-grid">
     <div class="photo"><img src="/images/gallery/yellowstone/yellowstone1.jpg"  alt="Yellowstone 1"></div>
     <div class="photo"><img src="/images/gallery/yellowstone/yellowstone2.jpg"  alt="Yellowstone 2"></div>
@@ -245,7 +245,7 @@ A small collection of my favorite moments outdoors — mostly national parks.
       <span class="badge">Fjords</span>
     </div>
   </div>
-  <p class="album-meta">Icy Fjords, Tidewater Glaciers.</p>
+  <p class="album-meta">Icy fjords, tidewater glaciers.</p>
 
   <div class="photo-grid">
     <div class="photo"><img src="/images/gallery/kenai_fjords/kenai1.jpg" alt="Kenai Fjords 1"></div>
