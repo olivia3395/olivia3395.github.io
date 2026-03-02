@@ -12,7 +12,7 @@ A small collection of my favorite moments outdoors — mostly national parks.
 Yosemite · Yellowstone · Death Valley · Grand Canyon · Glacier · Joshua Tree · Acadia · Everglades · Denali · Katmai · Kenai Fjords
 
 
-
+<!-- 4-column gallery grid -->
 <style>
 .gallery-grid{
   display:grid;
@@ -93,8 +93,3 @@ Yosemite · Yellowstone · Death Valley · Grand Canyon · Glacier · Joshua Tre
   </div>
 
 </div>
-
-
-
-
-
