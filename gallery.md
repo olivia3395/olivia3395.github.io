@@ -133,7 +133,7 @@ A small collection of my favorite moments outdoors — mostly national parks.
         <span class="badge">Valley</span>
       </div>
     </div>
-    <p class="album-meta">El Capitan vibes, misty falls, and classic valley views.</p>
+    <p class="album-meta">Granite Walls, Waterfalls, Valley Views.</p>
     <div class="photo-grid">
       <div class="photo"><img src="/images/gallery/yosemite/yosemite1.jpg" alt="Yosemite 1"></div>
       <div class="photo"><img src="/images/gallery/yosemite/yosemite2.jpg" alt="Yosemite 2"></div>
@@ -156,7 +156,7 @@ A small collection of my favorite moments outdoors — mostly national parks.
         <span class="badge">Sunset</span>
       </div>
     </div>
-    <p class="album-meta">North America’s lowest point, vast salt flats, and unreal desert light.</p>
+    <p class="album-meta">Badwater Basin — North America’s lowest point (−86 m), Salt Flats, Desert Sunsets.</p>
     <div class="photo-grid">
       <div class="photo"><img src="/images/gallery/deathvalley/deathvalley1.jpg"  alt="Death Valley 1"></div>
       <div class="photo"><img src="/images/gallery/deathvalley/deathvalley2.jpg"  alt="Death Valley 2"></div>
@@ -173,18 +173,55 @@ A small collection of my favorite moments outdoors — mostly national parks.
     </div>
   </div>
 
-  <!-- Yellowstone placeholder -->
-  <div class="album-card">
-    <div class="album-head">
-      <p class="album-title">🌋 Yellowstone <span style="font-weight:600;color:#6b7280;">(WY/MT/ID)</span></p>
-      <div class="album-badges">
-        <span class="badge">Geysers</span>
-        <span class="badge">Bison</span>
-      </div>
-    </div>
-    <div class="placeholder">Photos coming soon.</div>
-  </div>
 
+<div class="album-card">
+  <div class="album-head">
+    <p class="album-title">🌋 Yellowstone <span style="font-weight:600;color:#6b7280;">(WY/MT/ID)</span></p>
+    <div class="album-badges">
+      <span class="badge">Geysers</span>
+      <span class="badge">Bison</span>
+    </div>
+  </div>
+  <p class="album-meta">Geysers, Bison, Waterfalls，Snow Peaks.</p>
+  <div class="photo-grid">
+    <div class="photo"><img src="/images/gallery/yellowstone/yellowstone1.jpg"  alt="Yellowstone 1"></div>
+    <div class="photo"><img src="/images/gallery/yellowstone/yellowstone2.jpg"  alt="Yellowstone 2"></div>
+    <div class="photo"><img src="/images/gallery/yellowstone/yellowstone3.jpg"  alt="Yellowstone 3"></div>
+    <div class="photo"><img src="/images/gallery/yellowstone/yellowstone4.jpg"  alt="Yellowstone 4"></div>
+    <div class="photo"><img src="/images/gallery/yellowstone/yellowstone5.jpg"  alt="Yellowstone 5"></div>
+    <div class="photo"><img src="/images/gallery/yellowstone/yellowstone6.jpg"  alt="Yellowstone 6"></div>
+    <div class="photo"><img src="/images/gallery/yellowstone/yellowstone7.jpg"  alt="Yellowstone 7"></div>
+    <div class="photo"><img src="/images/gallery/yellowstone/yellowstone8.jpg"  alt="Yellowstone 8"></div>
+    <div class="photo"><img src="/images/gallery/yellowstone/yellowstone9.jpg"  alt="Yellowstone 9"></div>
+    <div class="photo"><img src="/images/gallery/yellowstone/yellowstone10.jpg" alt="Yellowstone 10"></div>
+    <div class="photo"><img src="/images/gallery/yellowstone/yellowstone11.jpg" alt="Yellowstone 11"></div>
+    <div class="photo"><img src="/images/gallery/yellowstone/yellowstone12.jpg" alt="Yellowstone 12"></div>
+    <div class="photo"><img src="/images/gallery/yellowstone/yellowstone13.jpg" alt="Yellowstone 13"></div>
+    <div class="photo"><img src="/images/gallery/yellowstone/yellowstone14.jpg" alt="Yellowstone 14"></div>
+    <div class="photo"><img src="/images/gallery/yellowstone/yellowstone15.jpg" alt="Yellowstone 15"></div>
+    <div class="photo"><img src="/images/gallery/yellowstone/yellowstone16.jpg" alt="Yellowstone 16"></div>
+    <div class="photo"><img src="/images/gallery/yellowstone/yellowstone17.jpg" alt="Yellowstone 17"></div>
+    <div class="photo"><img src="/images/gallery/yellowstone/yellowstone18.jpg" alt="Yellowstone 18"></div>
+    <div class="photo"><img src="/images/gallery/yellowstone/yellowstone19.jpg" alt="Yellowstone 19"></div>
+    <div class="photo"><img src="/images/gallery/yellowstone/yellowstone20.jpg" alt="Yellowstone 20"></div>
+    <div class="photo"><img src="/images/gallery/yellowstone/yellowstone21.jpg" alt="Yellowstone 21"></div>
+    <div class="photo"><img src="/images/gallery/yellowstone/yellowstone22.jpg" alt="Yellowstone 22"></div>
+    <div class="photo"><img src="/images/gallery/yellowstone/yellowstone23.jpg" alt="Yellowstone 23"></div>
+    <div class="photo"><img src="/images/gallery/yellowstone/yellowstone24.jpg" alt="Yellowstone 24"></div>
+    <div class="photo"><img src="/images/gallery/yellowstone/yellowstone25.jpg" alt="Yellowstone 25"></div>
+    <div class="photo"><img src="/images/gallery/yellowstone/yellowstone26.jpg" alt="Yellowstone 26"></div>
+    <div class="photo"><img src="/images/gallery/yellowstone/yellowstone27.jpg" alt="Yellowstone 27"></div>
+    <div class="photo"><img src="/images/gallery/yellowstone/yellowstone28.jpg" alt="Yellowstone 28"></div>
+    <div class="photo"><img src="/images/gallery/yellowstone/yellowstone29.jpg" alt="Yellowstone 29"></div>
+    <div class="photo"><img src="/images/gallery/yellowstone/yellowstone30.jpg" alt="Yellowstone 30"></div>
+    <div class="photo"><img src="/images/gallery/yellowstone/yellowstone31.jpg" alt="Yellowstone 31"></div>
+    <div class="photo"><img src="/images/gallery/yellowstone/yellowstone32.jpg" alt="Yellowstone 32"></div>
+    <div class="photo"><img src="/images/gallery/yellowstone/yellowstone33.jpg" alt="Yellowstone 33"></div>
+    <div class="photo"><img src="/images/gallery/yellowstone/yellowstone34.jpg" alt="Yellowstone 34"></div>
+    <div class="photo"><img src="/images/gallery/yellowstone/yellowstone35.jpg" alt="Yellowstone 35"></div>
+    <div class="photo"><img src="/images/gallery/yellowstone/yellowstone36.jpg" alt="Yellowstone 36"></div>
+  </div>
+</div>
   <!-- Grand Canyon placeholder -->
   <div class="album-card">
     <div class="album-head">
