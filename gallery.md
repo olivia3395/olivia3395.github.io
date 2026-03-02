@@ -236,3 +236,28 @@ A small collection of my favorite moments outdoors — mostly national parks.
 
 </div>
 
+
+<div class="album-card">
+  <div class="album-head">
+    <p class="album-title">🧊 Kenai Fjords <span style="font-weight:600;color:#6b7280;">(AK)</span></p>
+    <div class="album-badges">
+      <span class="badge">Glaciers</span>
+      <span class="badge">Fjords</span>
+    </div>
+  </div>
+  <p class="album-meta">Icy Fjords, Tidewater Glaciers.</p>
+
+  <div class="photo-grid">
+    <div class="photo"><img src="/images/gallery/kenai_fjords/kenai1.jpg" alt="Kenai Fjords 1"></div>
+    <div class="photo"><img src="/images/gallery/kenai_fjords/kenai2.jpg" alt="Kenai Fjords 2"></div>
+    <div class="photo"><img src="/images/gallery/kenai_fjords/kenai3.jpg" alt="Kenai Fjords 3"></div>
+    <div class="photo"><img src="/images/gallery/kenai_fjords/kenai4.jpg" alt="Kenai Fjords 4"></div>
+    <div class="photo"><img src="/images/gallery/kenai_fjords/kenai5.jpg" alt="Kenai Fjords 5"></div>
+    <div class="photo"><img src="/images/gallery/kenai_fjords/kenai6.jpg" alt="Kenai Fjords 6"></div>
+    <div class="photo"><img src="/images/gallery/kenai_fjords/kenai7.jpg" alt="Kenai Fjords 7"></div>
+    <div class="photo"><img src="/images/gallery/kenai_fjords/kenai8.jpg" alt="Kenai Fjords 8"></div>
+  </div>
+</div>
+
+
+
