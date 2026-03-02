@@ -280,6 +280,20 @@ Soft-Correspondence Objectives**](#)<br>
 - **Presentations:** CIKM 2024; NeurIPS 2025  
 - **Reviewer:** CIKM 2025; ICME 2026; ICML 2026; KDD 2026
 
+
+# 🧑‍🏫 Teaching Experience
+
+**Boston University**
+
+- **Instructor:**  
+  MA 582 *Mathematical Statistics*; MA 113 *Elementary Statistics*  
+
+- **Teaching Assistant:**  
+  MA 575 *Generalized Linear Models*; MA 582 *Mathematical Statistics*; MA 415 *Data Science in R*; MA 214 *Applied Statistics*; MA 213 *Statistics and Probability*; MA 113 *Elementary Statistics*  
+
+- **Teaching focus:** Statistical inference (estimation/testing/asymptotics), regression & GLMs, and applied data analysis in **R**;
+- 
+
 # 🎨 Interests
 
 🎵 Mandarin R&B loyalist — Leehom Wang, David Tao, Khalil Fong🦋, Dean Ting
