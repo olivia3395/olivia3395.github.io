@@ -292,4 +292,6 @@ Soft-Correspondence Objectives**](#)<br>
 
 🎹 Trained in piano, calligraphy, and ink painting
 
+🏞️ National park enthusiast — welcome to my [Gallery](/gallery/)  
+
 
