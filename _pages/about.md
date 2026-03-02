@@ -289,11 +289,8 @@ Soft-Correspondence Objectives**](#)<br>
   MA 582 *Mathematical Statistics*; MA 113 *Elementary Statistics*  
 
 - **Teaching Assistant:**  
-  MA 575 *Generalized Linear Models*; MA 582 *Mathematical Statistics*; MA 415 *Data Science in R*; MA 214 *Applied Statistics*; MA 213 *Statistics and Probability*; MA 113 *Elementary Statistics*  
-
-- **Teaching focus:** Statistical inference (estimation/testing/asymptotics), regression & GLMs, and applied data analysis in **R**;
-- 
-
+  MA 575 *Generalized Linear Models*; MA 582 *Mathematical Statistics*; MA 415 *Data Science in R*; MA 214 *Applied Statistics*; MA 213 *Statistics and Probability*; MA 113 *Elementary Statistics*
+  
 # 🎨 Interests
 
 🎵 Mandarin R&B loyalist — Leehom Wang, David Tao, Khalil Fong🦋, Dean Ting
