@@ -69,9 +69,21 @@ Yosemite · Yellowstone · Death Valley · Grand Canyon · Glacier · Joshua Tre
 
   <div class="gallery-card">
     <p class="gallery-title">🏜️ Death Valley (CA/NV)</p>
-    <div class="placeholder">Photos coming soon</div>
-    <p class="gallery-note">Salt flats + desert sunsets.</p>
+    <img src="/images/gallery/deathvalley/deathvalley1.jpg"  alt="Death Valley 1">
+    <img src="/images/gallery/deathvalley/deathvalley2.jpg"  alt="Death Valley 2">
+    <img src="/images/gallery/deathvalley/deathvalley3.jpg"  alt="Death Valley 3">
+    <img src="/images/gallery/deathvalley/deathvalley4.jpg"  alt="Death Valley 4">
+    <img src="/images/gallery/deathvalley/deathvalley5.jpg"  alt="Death Valley 5">
+    <img src="/images/gallery/deathvalley/deathvalley6.jpg"  alt="Death Valley 6">
+    <img src="/images/gallery/deathvalley/deathvalley7.jpg"  alt="Death Valley 7">
+    <img src="/images/gallery/deathvalley/deathvalley8.jpg"  alt="Death Valley 8">
+    <img src="/images/gallery/deathvalley/deathvalley9.jpg"  alt="Death Valley 9">
+    <img src="/images/gallery/deathvalley/deathvalley10.jpg" alt="Death Valley 10">
+    <img src="/images/gallery/deathvalley/deathvalley11.jpg" alt="Death Valley 11">
+    <img src="/images/gallery/deathvalley/deathvalley12.jpg" alt="Death Valley 12">
+    <p class="gallery-note">Badwater Basin — North America’s lowest point (−86 m), Salt Flats, Desert Sunsets.</p>
   </div>
+
 
   <div class="gallery-card">
     <p class="gallery-title">🏞️ Grand Canyon (AZ)</p>
@@ -89,7 +101,7 @@ Yosemite · Yellowstone · Death Valley · Grand Canyon · Glacier · Joshua Tre
     <img src="/images/gallery/yosemite/yosemite6.jpg" alt="Yosemite 6">
     <img src="/images/gallery/yosemite/yosemite7.jpg" alt="Yosemite 7">
     <img src="/images/gallery/yosemite/yosemite8.jpg" alt="Yosemite 8">
-    <p class="gallery-note">Granite walls, waterfalls, and valley views.</p>
+    <p class="gallery-note">Granite Walls, Waterfalls, Valley Views.</p>
   </div>
 
 </div>
