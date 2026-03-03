@@ -671,6 +671,34 @@ A small collection of my favorite moments outdoors — mostly national parks.
 
 
 
+<div class="album-card">
+  <div class="album-head">
+    <p class="album-title">🏝️ Key West <span style="font-weight:600;color:#6b7280;">(FL)</span></p>
+    <div class="album-badges">
+      <span class="badge">Island Vibes</span>
+      <span class="badge">Sunset</span>
+      <span class="badge">Pastel Streets</span>
+    </div>
+  </div>
+  <p class="album-meta">At the edge of the Keys.</p>
+
+  <div class="photo-grid">
+    <div class="photo"><img src="/images/gallery/keywest/keywest1.jpg"  alt="Key West 1"></div>
+    <div class="photo"><img src="/images/gallery/keywest/keywest2.jpg"  alt="Key West 2"></div>
+    <div class="photo"><img src="/images/gallery/keywest/keywest3.jpg"  alt="Key West 3"></div>
+    <div class="photo"><img src="/images/gallery/keywest/keywest4.jpg"  alt="Key West 4"></div>
+    <div class="photo"><img src="/images/gallery/keywest/keywest5.jpg"  alt="Key West 5"></div>
+    <div class="photo"><img src="/images/gallery/keywest/keywest6.jpg"  alt="Key West 6"></div>
+    <div class="photo"><img src="/images/gallery/keywest/keywest7.jpg"  alt="Key West 7"></div>
+    <div class="photo"><img src="/images/gallery/keywest/keywest8.jpg"  alt="Key West 8"></div>
+    <div class="photo"><img src="/images/gallery/keywest/keywest9.jpg"  alt="Key West 9"></div>
+    <div class="photo"><img src="/images/gallery/keywest/keywest10.jpg" alt="Key West 10"></div>
+    <div class="photo"><img src="/images/gallery/keywest/keywest11.jpg" alt="Key West 11"></div>
+    <div class="photo"><img src="/images/gallery/keywest/keywest12.jpg" alt="Key West 12"></div>
+  </div>
+</div>
+
+
 
 <div class="album-card">
   <div class="album-head">
