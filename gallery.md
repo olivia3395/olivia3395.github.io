@@ -574,5 +574,35 @@ A small collection of my favorite moments outdoors — mostly national parks.
 
 
 
+<div class="album-card">
+  <div class="album-head">
+    <p class="album-title">🌅 Sunset in the Bay Area <span style="font-weight:600;color:#6b7280;">(CA)</span></p>
+    <div class="album-badges">
+      <span class="badge">Golden Hour</span>
+      <span class="badge">Bridge</span>
+      <span class="badge">Fog</span>
+    </div>
+  </div>
+  <p class="album-meta">Bay Area dusk — glowing horizons, silhouettes, and fog rolling in.</p>
+
+  <div class="photo-grid">
+    <div class="photo"><img src="/images/gallery/sunset_bay/sunset1.jpg"  alt="Bay Area Sunset 1"></div>
+    <div class="photo"><img src="/images/gallery/sunset_bay/sunset2.jpg"  alt="Bay Area Sunset 2"></div>
+    <div class="photo"><img src="/images/gallery/sunset_bay/sunset3.jpg"  alt="Bay Area Sunset 3"></div>
+    <div class="photo"><img src="/images/gallery/sunset_bay/sunset4.jpg"  alt="Bay Area Sunset 4"></div>
+    <div class="photo"><img src="/images/gallery/sunset_bay/sunset5.jpg"  alt="Bay Area Sunset 5"></div>
+    <div class="photo"><img src="/images/gallery/sunset_bay/sunset6.jpg"  alt="Bay Area Sunset 6"></div>
+    <div class="photo"><img src="/images/gallery/sunset_bay/sunset7.jpg"  alt="Bay Area Sunset 7"></div>
+    <div class="photo"><img src="/images/gallery/sunset_bay/sunset8.jpg"  alt="Bay Area Sunset 8"></div>
+    <div class="photo"><img src="/images/gallery/sunset_bay/sunset9.jpg"  alt="Bay Area Sunset 9"></div>
+    <div class="photo"><img src="/images/gallery/sunset_bay/sunset10.jpg" alt="Bay Area Sunset 10"></div>
+    <div class="photo"><img src="/images/gallery/sunset_bay/sunset11.jpg" alt="Bay Area Sunset 11"></div>
+    <div class="photo"><img src="/images/gallery/sunset_bay/sunset12.jpg" alt="Bay Area Sunset 12"></div>
+  </div>
+</div>
+
+
+
+
 
 
