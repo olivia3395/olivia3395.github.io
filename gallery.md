@@ -670,6 +670,29 @@ A small collection of my favorite moments outdoors — mostly national parks.
 </div>
 
 
+<div class="album-card">
+  <div class="album-head">
+    <p class="album-title">🌊 California Coastline <span style="font-weight:600;color:#6b7280;">(CA)</span></p>
+    <div class="album-badges">
+      <span class="badge">Cliffs</span>
+      <span class="badge">Waves</span>
+    </div>
+  </div>
+  <p class="album-meta">Coastal drives, cliffside views, and Pacific blue.</p>
+
+  <div class="photo-grid">
+    <div class="photo"><img src="/images/gallery/ca_coast/ca1.jpg" alt="California Coast 1"></div>
+    <div class="photo"><img src="/images/gallery/ca_coast/ca2.jpg" alt="California Coast 2"></div>
+    <div class="photo"><img src="/images/gallery/ca_coast/ca3.jpg" alt="California Coast 3"></div>
+    <div class="photo"><img src="/images/gallery/ca_coast/ca4.jpg" alt="California Coast 4"></div>
+    <div class="photo"><img src="/images/gallery/ca_coast/ca5.jpg" alt="California Coast 5"></div>
+    <div class="photo"><img src="/images/gallery/ca_coast/ca6.jpg" alt="California Coast 6"></div>
+    <div class="photo"><img src="/images/gallery/ca_coast/ca7.jpg" alt="California Coast 7"></div>
+    <div class="photo"><img src="/images/gallery/ca_coast/ca8.jpg" alt="California Coast 8"></div>
+  </div>
+</div>
+
+
 
 <div class="album-card">
   <div class="album-head">
