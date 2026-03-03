@@ -239,6 +239,36 @@ A small collection of my favorite moments outdoors — mostly national parks.
 
 <div class="album-card">
   <div class="album-head">
+    <p class="album-title">🐊 Everglades <span style="font-weight:600;color:#6b7280;">(FL)</span></p>
+    <div class="album-badges">
+      <span class="badge">Wetlands</span>
+      <span class="badge">Mangroves</span>
+      <span class="badge">Wildlife</span>
+    </div>
+  </div>
+  <p class="album-meta">Alligators, mangroves, wetlands.</p>
+
+  <div class="photo-grid">
+    <div class="photo"><img src="/images/gallery/everglades/everglades1.jpg"  alt="Everglades 1"></div>
+    <div class="photo"><img src="/images/gallery/everglades/everglades2.jpg"  alt="Everglades 2"></div>
+    <div class="photo"><img src="/images/gallery/everglades/everglades3.jpg"  alt="Everglades 3"></div>
+    <div class="photo"><img src="/images/gallery/everglades/everglades4.jpg"  alt="Everglades 4"></div>
+    <div class="photo"><img src="/images/gallery/everglades/everglades5.jpg"  alt="Everglades 5"></div>
+    <div class="photo"><img src="/images/gallery/everglades/everglades6.jpg"  alt="Everglades 6"></div>
+    <div class="photo"><img src="/images/gallery/everglades/everglades7.jpg"  alt="Everglades 7"></div>
+    <div class="photo"><img src="/images/gallery/everglades/everglades8.jpg"  alt="Everglades 8"></div>
+    <div class="photo"><img src="/images/gallery/everglades/everglades9.jpg"  alt="Everglades 9"></div>
+    <div class="photo"><img src="/images/gallery/everglades/everglades10.jpg" alt="Everglades 10"></div>
+    <div class="photo"><img src="/images/gallery/everglades/everglades11.jpg" alt="Everglades 11"></div>
+    <div class="photo"><img src="/images/gallery/everglades/everglades12.jpg" alt="Everglades 12"></div>
+  </div>
+</div>
+
+
+
+
+<div class="album-card">
+  <div class="album-head">
     <p class="album-title">🏔️ Denali <span style="font-weight:600;color:#6b7280;">(AK)</span></p>
     <div class="album-badges">
       <span class="badge">Alpine</span>
@@ -289,6 +319,8 @@ A small collection of my favorite moments outdoors — mostly national parks.
     <div class="photo"><img src="/images/gallery/kenai_fjords/kenai8.jpg" alt="Kenai Fjords 8"></div>
   </div>
 </div>
+
+
 
 
 
