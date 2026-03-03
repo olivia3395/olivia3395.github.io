@@ -502,10 +502,6 @@ A small collection of my favorite moments outdoors — mostly national parks.
     <div class="photo"><img src="/images/gallery/alaska/alaska10.jpg" alt="Alaska 10"></div>
     <div class="photo"><img src="/images/gallery/alaska/alaska11.jpg" alt="Alaska 11"></div>
     <div class="photo"><img src="/images/gallery/alaska/alaska12.jpg" alt="Alaska 12"></div>
-    <div class="photo"><img src="/images/gallery/alaska/alaska13.jpg" alt="Alaska 13"></div>
-    <div class="photo"><img src="/images/gallery/alaska/alaska14.jpg" alt="Alaska 14"></div>
-    <div class="photo"><img src="/images/gallery/alaska/alaska15.jpg" alt="Alaska 15"></div>
-    <div class="photo"><img src="/images/gallery/alaska/alaska16.jpg" alt="Alaska 16"></div>
   </div>
 </div>
 
