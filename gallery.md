@@ -336,6 +336,34 @@ A small collection of my favorite moments outdoors — mostly national parks.
   </div>
 </div>
 
+<div class="album-card">
+  <div class="album-head">
+    <p class="album-title">🌵 Joshua Tree <span style="font-weight:600;color:#6b7280;">(CA)</span></p>
+    <div class="album-badges">
+      <span class="badge">Desert</span>
+      <span class="badge">Boulders</span>
+      <span class="badge">Sunset</span>
+    </div>
+  </div>
+  <p class="album-meta">Joshua trees, granite boulders, and warm desert light.</p>
+
+  <div class="photo-grid">
+    <div class="photo"><img src="/images/gallery/joshua_tree/joshua1.jpg"  alt="Joshua Tree 1"></div>
+    <div class="photo"><img src="/images/gallery/joshua_tree/joshua2.jpg"  alt="Joshua Tree 2"></div>
+    <div class="photo"><img src="/images/gallery/joshua_tree/joshua3.jpg"  alt="Joshua Tree 3"></div>
+    <div class="photo"><img src="/images/gallery/joshua_tree/joshua4.jpg"  alt="Joshua Tree 4"></div>
+    <div class="photo"><img src="/images/gallery/joshua_tree/joshua5.jpg"  alt="Joshua Tree 5"></div>
+    <div class="photo"><img src="/images/gallery/joshua_tree/joshua6.jpg"  alt="Joshua Tree 6"></div>
+    <div class="photo"><img src="/images/gallery/joshua_tree/joshua7.jpg"  alt="Joshua Tree 7"></div>
+    <div class="photo"><img src="/images/gallery/joshua_tree/joshua8.jpg"  alt="Joshua Tree 8"></div>
+    <div class="photo"><img src="/images/gallery/joshua_tree/joshua9.jpg"  alt="Joshua Tree 9"></div>
+    <div class="photo"><img src="/images/gallery/joshua_tree/joshua10.jpg" alt="Joshua Tree 10"></div>
+    <div class="photo"><img src="/images/gallery/joshua_tree/joshua11.jpg" alt="Joshua Tree 11"></div>
+    <div class="photo"><img src="/images/gallery/joshua_tree/joshua12.jpg" alt="Joshua Tree 12"></div>
+  </div>
+</div>
+
+
 
 
 <div class="album-card">
