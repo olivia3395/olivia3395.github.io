@@ -239,6 +239,47 @@ A small collection of my favorite moments outdoors — mostly national parks.
 
 <div class="album-card">
   <div class="album-head">
+    <p class="album-title">🧊 Glacier <span style="font-weight:600;color:#6b7280;">(MT)</span></p>
+    <div class="album-badges">
+      <span class="badge">Lakes</span>
+      <span class="badge">Peaks</span>
+      <span class="badge">Trails</span>
+    </div>
+  </div>
+  <p class="album-meta">Glacial lakes, sharp ridgelines, and alpine trails.</p>
+
+  <div class="photo-grid">
+    <div class="photo"><img src="/images/gallery/glacier/glacier1.jpg"  alt="Glacier 1"></div>
+    <div class="photo"><img src="/images/gallery/glacier/glacier2.jpg"  alt="Glacier 2"></div>
+    <div class="photo"><img src="/images/gallery/glacier/glacier3.jpg"  alt="Glacier 3"></div>
+    <div class="photo"><img src="/images/gallery/glacier/glacier4.jpg"  alt="Glacier 4"></div>
+    <div class="photo"><img src="/images/gallery/glacier/glacier5.jpg"  alt="Glacier 5"></div>
+    <div class="photo"><img src="/images/gallery/glacier/glacier6.jpg"  alt="Glacier 6"></div>
+    <div class="photo"><img src="/images/gallery/glacier/glacier7.jpg"  alt="Glacier 7"></div>
+    <div class="photo"><img src="/images/gallery/glacier/glacier8.jpg"  alt="Glacier 8"></div>
+    <div class="photo"><img src="/images/gallery/glacier/glacier9.jpg"  alt="Glacier 9"></div>
+    <div class="photo"><img src="/images/gallery/glacier/glacier10.jpg" alt="Glacier 10"></div>
+    <div class="photo"><img src="/images/gallery/glacier/glacier11.jpg" alt="Glacier 11"></div>
+    <div class="photo"><img src="/images/gallery/glacier/glacier12.jpg" alt="Glacier 12"></div>
+    <div class="photo"><img src="/images/gallery/glacier/glacier13.jpg" alt="Glacier 13"></div>
+    <div class="photo"><img src="/images/gallery/glacier/glacier14.jpg" alt="Glacier 14"></div>
+    <div class="photo"><img src="/images/gallery/glacier/glacier15.jpg" alt="Glacier 15"></div>
+    <div class="photo"><img src="/images/gallery/glacier/glacier16.jpg" alt="Glacier 16"></div>
+    <div class="photo"><img src="/images/gallery/glacier/glacier17.jpg" alt="Glacier 17"></div>
+    <div class="photo"><img src="/images/gallery/glacier/glacier18.jpg" alt="Glacier 18"></div>
+    <div class="photo"><img src="/images/gallery/glacier/glacier19.jpg" alt="Glacier 19"></div>
+    <div class="photo"><img src="/images/gallery/glacier/glacier20.jpg" alt="Glacier 20"></div>
+    <div class="photo"><img src="/images/gallery/glacier/glacier21.jpg" alt="Glacier 21"></div>
+    <div class="photo"><img src="/images/gallery/glacier/glacier22.jpg" alt="Glacier 22"></div>
+    <div class="photo"><img src="/images/gallery/glacier/glacier23.jpg" alt="Glacier 23"></div>
+    <div class="photo"><img src="/images/gallery/glacier/glacier24.jpg" alt="Glacier 24"></div>
+  </div>
+</div>
+
+
+
+<div class="album-card">
+  <div class="album-head">
     <p class="album-title">🐊 Everglades <span style="font-weight:600;color:#6b7280;">(FL)</span></p>
     <div class="album-badges">
       <span class="badge">Wetlands</span>
