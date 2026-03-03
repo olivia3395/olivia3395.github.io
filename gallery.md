@@ -481,7 +481,7 @@ A small collection of my favorite moments outdoors — mostly national parks.
 
 <div class="album-card">
   <div class="album-head">
-    <p class="album-title">🌇 Sunset in LA <span style="font-weight:600;color:#6b7280;">(CA)</span></p>
+    <p class="album-title">🌄 Sunset in LA <span style="font-weight:600;color:#6b7280;">(CA)</span></p>
     <div class="album-badges">
       <span class="badge">Golden Hour</span>
       <span class="badge">City Lights</span>
