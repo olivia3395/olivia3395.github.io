@@ -685,6 +685,36 @@ A small collection of my favorite moments outdoors — mostly national parks.
 </div>
 
 
+<div class="album-card">
+  <div class="album-head">
+    <p class="album-title">🦭 La Jolla <span style="font-weight:600;color:#6b7280;">(CA)</span></p>
+    <div class="album-badges">
+      <span class="badge">Sea Lions</span>
+      <span class="badge">Seals</span>
+      <span class="badge">Sea Caves</span>
+    </div>
+  </div>
+  <p class="album-meta">Sea lions on the rocks, seals in the coves.</p>
+
+  <div class="photo-grid">
+    <div class="photo"><img src="/images/gallery/lajolla/LaJolla1.jpg"  alt="La Jolla 1"></div>
+    <div class="photo"><img src="/images/gallery/lajolla/LaJolla2.jpg"  alt="La Jolla 2"></div>
+    <div class="photo"><img src="/images/gallery/lajolla/LaJolla3.jpg"  alt="La Jolla 3"></div>
+    <div class="photo"><img src="/images/gallery/lajolla/LaJolla4.jpg"  alt="La Jolla 4"></div>
+    <div class="photo"><img src="/images/gallery/lajolla/LaJolla5.jpg"  alt="La Jolla 5"></div>
+    <div class="photo"><img src="/images/gallery/lajolla/LaJolla6.jpg"  alt="La Jolla 6"></div>
+    <div class="photo"><img src="/images/gallery/lajolla/LaJolla7.jpg"  alt="La Jolla 7"></div>
+    <div class="photo"><img src="/images/gallery/lajolla/LaJolla8.jpg"  alt="La Jolla 8"></div>
+    <div class="photo"><img src="/images/gallery/lajolla/LaJolla9.jpg"  alt="La Jolla 9"></div>
+    <div class="photo"><img src="/images/gallery/lajolla/LaJolla10.jpg" alt="La Jolla 10"></div>
+    <div class="photo"><img src="/images/gallery/lajolla/LaJolla11.jpg" alt="La Jolla 11"></div>
+    <div class="photo"><img src="/images/gallery/lajolla/LaJolla12.jpg" alt="La Jolla 12"></div>
+  </div>
+</div>
+
+
+
+
 
 <div class="album-card">
   <div class="album-head">
