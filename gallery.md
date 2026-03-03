@@ -604,7 +604,7 @@ A small collection of my favorite moments outdoors — mostly national parks.
 
 <div class="album-card">
   <div class="album-head">
-    <p class="album-title">🌁 San Francisco at Dusk <span style="font-weight:600;color:#6b7280;">(CA)</span></p>
+    <p class="album-title">🌁 San Francisco <span style="font-weight:600;color:#6b7280;">(CA)</span></p>
     <div class="album-badges">
       <span class="badge">Golden Gate</span>
       <span class="badge">Fog</span>
