@@ -550,4 +550,29 @@ A small collection of my favorite moments outdoors — mostly national parks.
 
 
 
+<div class="album-card">
+  <div class="album-head">
+    <p class="album-title">🌇 Sunset in Miami <span style="font-weight:600;color:#6b7280;">(FL)</span></p>
+    <div class="album-badges">
+      <span class="badge">Skyline</span>
+      <span class="badge">Downtown</span>
+    </div>
+  </div>
+  <p class="album-meta">City skyline at golden hour.</p>
+
+  <div class="photo-grid">
+    <div class="photo"><img src="/images/gallery/sunset_miami/sunset1.jpg" alt="Miami City Sunset 1"></div>
+    <div class="photo"><img src="/images/gallery/sunset_miami/sunset2.jpg" alt="Miami City Sunset 2"></div>
+    <div class="photo"><img src="/images/gallery/sunset_miami/sunset3.jpg" alt="Miami City Sunset 3"></div>
+    <div class="photo"><img src="/images/gallery/sunset_miami/sunset4.jpg" alt="Miami City Sunset 4"></div>
+    <div class="photo"><img src="/images/gallery/sunset_miami/sunset5.jpg" alt="Miami City Sunset 5"></div>
+    <div class="photo"><img src="/images/gallery/sunset_miami/sunset6.jpg" alt="Miami City Sunset 6"></div>
+    <div class="photo"><img src="/images/gallery/sunset_miami/sunset7.jpg" alt="Miami City Sunset 7"></div>
+    <div class="photo"><img src="/images/gallery/sunset_miami/sunset8.jpg" alt="Miami City Sunset 8"></div>
+  </div>
+</div>
+
+
+
+
 
