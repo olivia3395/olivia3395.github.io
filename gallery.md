@@ -626,6 +626,42 @@ A small collection of my favorite moments outdoors — mostly national parks.
 
 
 
+
+<div class="album-card">
+  <div class="album-head">
+    <p class="album-title">🧊 Knik Glacier <span style="font-weight:600;color:#6b7280;">(AK)</span></p>
+    <div class="album-badges">
+      <span class="badge">Ice Caves</span>
+      <span class="badge">Outwash Plain</span>
+    </div>
+  </div>
+  <p class="album-meta">Knik’s icy blues.</p>
+
+  <div class="photo-grid">
+    <div class="photo"><img src="/images/gallery/knik_glacier/knik1.jpg"  alt="Knik Glacier 1"></div>
+    <div class="photo"><img src="/images/gallery/knik_glacier/knik2.jpg"  alt="Knik Glacier 2"></div>
+    <div class="photo"><img src="/images/gallery/knik_glacier/knik3.jpg"  alt="Knik Glacier 3"></div>
+    <div class="photo"><img src="/images/gallery/knik_glacier/knik4.jpg"  alt="Knik Glacier 4"></div>
+    <div class="photo"><img src="/images/gallery/knik_glacier/knik5.jpg"  alt="Knik Glacier 5"></div>
+    <div class="photo"><img src="/images/gallery/knik_glacier/knik6.jpg"  alt="Knik Glacier 6"></div>
+    <div class="photo"><img src="/images/gallery/knik_glacier/knik7.jpg"  alt="Knik Glacier 7"></div>
+    <div class="photo"><img src="/images/gallery/knik_glacier/knik8.jpg"  alt="Knik Glacier 8"></div>
+    <div class="photo"><img src="/images/gallery/knik_glacier/knik9.jpg"  alt="Knik Glacier 9"></div>
+    <div class="photo"><img src="/images/gallery/knik_glacier/knik10.jpg" alt="Knik Glacier 10"></div>
+    <div class="photo"><img src="/images/gallery/knik_glacier/knik11.jpg" alt="Knik Glacier 11"></div>
+    <div class="photo"><img src="/images/gallery/knik_glacier/knik12.jpg" alt="Knik Glacier 12"></div>
+    <div class="photo"><img src="/images/gallery/knik_glacier/knik13.jpg" alt="Knik Glacier 13"></div>
+    <div class="photo"><img src="/images/gallery/knik_glacier/knik14.jpg" alt="Knik Glacier 14"></div>
+    <div class="photo"><img src="/images/gallery/knik_glacier/knik15.jpg" alt="Knik Glacier 15"></div>
+    <div class="photo"><img src="/images/gallery/knik_glacier/knik16.jpg" alt="Knik Glacier 16"></div>
+    <div class="photo"><img src="/images/gallery/knik_glacier/knik17.jpg" alt="Knik Glacier 17"></div>
+    <div class="photo"><img src="/images/gallery/knik_glacier/knik18.jpg" alt="Knik Glacier 18"></div>
+    <div class="photo"><img src="/images/gallery/knik_glacier/knik19.jpg" alt="Knik Glacier 19"></div>
+    <div class="photo"><img src="/images/gallery/knik_glacier/knik20.jpg" alt="Knik Glacier 20"></div>
+  </div>
+</div>
+
+
 <div class="album-card">
   <div class="album-head">
     <p class="album-title">💧 Jinan (Hometown) <span style="font-weight:600;color:#6b7280;">(China)</span></p>
