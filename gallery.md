@@ -604,5 +604,27 @@ A small collection of my favorite moments outdoors — mostly national parks.
 
 
 
+<div class="album-card">
+  <div class="album-head">
+    <p class="album-title">💧 Jinan (Hometown) <span style="font-weight:600;color:#6b7280;">(China)</span></p>
+    <div class="album-badges">
+      <span class="badge">City of Springs</span>
+    </div>
+  </div>
+  <p class="album-meta">My hometown — the “City of Springs” (泉城)  — my youth, my family, my friends.</p>
+
+  <div class="photo-grid">
+    <div class="photo"><img src="/images/gallery/jinan/hometown1.jpg" alt="Jinan (Hometown) 1"></div>
+    <div class="photo"><img src="/images/gallery/jinan/hometown2.jpg" alt="Jinan (Hometown) 2"></div>
+    <div class="photo"><img src="/images/gallery/jinan/hometown3.jpg" alt="Jinan (Hometown) 3"></div>
+    <div class="photo"><img src="/images/gallery/jinan/hometown4.jpg" alt="Jinan (Hometown) 4"></div>
+    <div class="photo"><img src="/images/gallery/jinan/hometown5.jpg" alt="Jinan (Hometown) 5"></div>
+    <div class="photo"><img src="/images/gallery/jinan/hometown6.jpg" alt="Jinan (Hometown) 6"></div>
+    <div class="photo"><img src="/images/gallery/jinan/hometown7.jpg" alt="Jinan (Hometown) 7"></div>
+    <div class="photo"><img src="/images/gallery/jinan/hometown8.jpg" alt="Jinan (Hometown) 8"></div>
+  </div>
+</div>
+
+
 
 
