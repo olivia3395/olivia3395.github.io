@@ -479,5 +479,42 @@ A small collection of my favorite moments outdoors — mostly national parks.
 
 
 
+<div class="album-card">
+  <div class="album-head">
+    <p class="album-title">🌇 Sunset in LA <span style="font-weight:600;color:#6b7280;">(CA)</span></p>
+    <div class="album-badges">
+      <span class="badge">Golden Hour</span>
+      <span class="badge">City Lights</span>
+      <span class="badge">Ocean Air</span>
+    </div>
+  </div>
+  <p class="album-meta">Golden hour over City of Angels.</p>
+
+  <div class="photo-grid">
+    <div class="photo"><img src="/images/gallery/sunset_la/sunset1.jpg"  alt="Sunset in LA 1"></div>
+    <div class="photo"><img src="/images/gallery/sunset_la/sunset2.jpg"  alt="Sunset in LA 2"></div>
+    <div class="photo"><img src="/images/gallery/sunset_la/sunset3.jpg"  alt="Sunset in LA 3"></div>
+    <div class="photo"><img src="/images/gallery/sunset_la/sunset4.jpg"  alt="Sunset in LA 4"></div>
+    <div class="photo"><img src="/images/gallery/sunset_la/sunset5.jpg"  alt="Sunset in LA 5"></div>
+    <div class="photo"><img src="/images/gallery/sunset_la/sunset6.jpg"  alt="Sunset in LA 6"></div>
+    <div class="photo"><img src="/images/gallery/sunset_la/sunset7.jpg"  alt="Sunset in LA 7"></div>
+    <div class="photo"><img src="/images/gallery/sunset_la/sunset8.jpg"  alt="Sunset in LA 8"></div>
+    <div class="photo"><img src="/images/gallery/sunset_la/sunset9.jpg"  alt="Sunset in LA 9"></div>
+    <div class="photo"><img src="/images/gallery/sunset_la/sunset10.jpg" alt="Sunset in LA 10"></div>
+    <div class="photo"><img src="/images/gallery/sunset_la/sunset11.jpg" alt="Sunset in LA 11"></div>
+    <div class="photo"><img src="/images/gallery/sunset_la/sunset12.jpg" alt="Sunset in LA 12"></div>
+    <div class="photo"><img src="/images/gallery/sunset_la/sunset13.jpg" alt="Sunset in LA 13"></div>
+    <div class="photo"><img src="/images/gallery/sunset_la/sunset14.jpg" alt="Sunset in LA 14"></div>
+    <div class="photo"><img src="/images/gallery/sunset_la/sunset15.jpg" alt="Sunset in LA 15"></div>
+    <div class="photo"><img src="/images/gallery/sunset_la/sunset16.jpg" alt="Sunset in LA 16"></div>
+    <div class="photo"><img src="/images/gallery/sunset_la/sunset17.jpg" alt="Sunset in LA 17"></div>
+    <div class="photo"><img src="/images/gallery/sunset_la/sunset18.jpg" alt="Sunset in LA 18"></div>
+    <div class="photo"><img src="/images/gallery/sunset_la/sunset19.jpg" alt="Sunset in LA 19"></div>
+    <div class="photo"><img src="/images/gallery/sunset_la/sunset20.jpg" alt="Sunset in LA 20"></div>
+  </div>
+</div>
+
+
+
 
 
