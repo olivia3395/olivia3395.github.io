@@ -602,6 +602,28 @@ A small collection of my favorite moments outdoors — mostly national parks.
 </div>
 
 
+<div class="album-card">
+  <div class="album-head">
+    <p class="album-title">🌁 San Francisco at Dusk <span style="font-weight:600;color:#6b7280;">(CA)</span></p>
+    <div class="album-badges">
+      <span class="badge">Golden Gate</span>
+      <span class="badge">Fog</span>
+    </div>
+  </div>
+  <p class="album-meta">Fog over the Golden Gate.</p>
+
+  <div class="photo-grid">
+    <div class="photo"><img src="/images/gallery/sf/sf1.jpg" alt="San Francisco Dusk 1"></div>
+    <div class="photo"><img src="/images/gallery/sf/sf2.jpg" alt="San Francisco Dusk 2"></div>
+    <div class="photo"><img src="/images/gallery/sf/sf3.jpg" alt="San Francisco Dusk 3"></div>
+    <div class="photo"><img src="/images/gallery/sf/sf4.jpg" alt="San Francisco Dusk 4"></div>
+    <div class="photo"><img src="/images/gallery/sf/sf5.jpg" alt="San Francisco Dusk 5"></div>
+    <div class="photo"><img src="/images/gallery/sf/sf6.jpg" alt="San Francisco Dusk 6"></div>
+    <div class="photo"><img src="/images/gallery/sf/sf7.jpg" alt="San Francisco Dusk 7"></div>
+    <div class="photo"><img src="/images/gallery/sf/sf8.jpg" alt="San Francisco Dusk 8"></div>
+  </div>
+</div>
+
 
 
 <div class="album-card">
