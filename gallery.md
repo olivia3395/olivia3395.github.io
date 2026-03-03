@@ -664,6 +664,30 @@ A small collection of my favorite moments outdoors — mostly national parks.
 
 <div class="album-card">
   <div class="album-head">
+    <p class="album-title">⛴️ Seward <span style="font-weight:600;color:#6b7280;">(AK)</span></p>
+    <div class="album-badges">
+      <span class="badge">End of the Road</span>
+      <span class="badge">Last Frontier</span>
+    </div>
+  </div>
+  <p class="album-meta">Where the road stops, mountains drop into the sea, and Alaska feels like the edge of the world.</p>
+
+  <div class="photo-grid">
+    <div class="photo"><img src="/images/gallery/seward/seward1.jpg" alt="Seward 1"></div>
+    <div class="photo"><img src="/images/gallery/seward/seward2.jpg" alt="Seward 2"></div>
+    <div class="photo"><img src="/images/gallery/seward/seward3.jpg" alt="Seward 3"></div>
+    <div class="photo"><img src="/images/gallery/seward/seward4.jpg" alt="Seward 4"></div>
+    <div class="photo"><img src="/images/gallery/seward/seward5.jpg" alt="Seward 5"></div>
+    <div class="photo"><img src="/images/gallery/seward/seward6.jpg" alt="Seward 6"></div>
+    <div class="photo"><img src="/images/gallery/seward/seward7.jpg" alt="Seward 7"></div>
+    <div class="photo"><img src="/images/gallery/seward/seward8.jpg" alt="Seward 8"></div>
+  </div>
+</div>
+
+
+
+<div class="album-card">
+  <div class="album-head">
     <p class="album-title">💧 Jinan (Hometown) <span style="font-weight:600;color:#6b7280;">(China)</span></p>
     <div class="album-badges">
       <span class="badge">City of Springs</span>
