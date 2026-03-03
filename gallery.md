@@ -221,20 +221,42 @@ A small collection of my favorite moments outdoors — mostly national parks.
     <div class="photo"><img src="/images/gallery/yellowstone/yellowstone35.jpg" alt="Yellowstone 35"></div>
     <div class="photo"><img src="/images/gallery/yellowstone/yellowstone36.jpg" alt="Yellowstone 36"></div>
   </div>
-</div>
-  <!-- Grand Canyon placeholder -->
-  <div class="album-card">
-    <div class="album-head">
-      <p class="album-title">🏞️ Grand Canyon <span style="font-weight:600;color:#6b7280;">(AZ)</span></p>
-      <div class="album-badges">
-        <span class="badge">Rim Trails</span>
-        <span class="badge">Golden Hour</span>
-      </div>
-    </div>
-    <div class="placeholder">Photos coming soon.</div>
-  </div>
 
+
+
+
+<div class="album-card">
+  <div class="album-head">
+    <p class="album-title">🏜️ Grand Canyon <span style="font-weight:600;color:#6b7280;">(AZ/UT)</span></p>
+    <div class="album-badges">
+      <span class="badge">Grand Canyon</span>
+      <span class="badge">Monument Valley</span>
+      <span class="badge">Antelope Canyon</span>
+    </div>
+  </div>
+  <p class="album-meta">Grand canyon, monument valley, antelope canyon.</p>
+
+  <div class="photo-grid">
+    <div class="photo"><img src="/images/gallery/canyon/canyon1.jpg"  alt="Canyon 1"></div>
+    <div class="photo"><img src="/images/gallery/canyon/canyon2.jpg"  alt="Canyon 2"></div>
+    <div class="photo"><img src="/images/gallery/canyon/canyon3.jpg"  alt="Canyon 3"></div>
+    <div class="photo"><img src="/images/gallery/canyon/canyon4.jpg"  alt="Canyon 4"></div>
+    <div class="photo"><img src="/images/gallery/canyon/canyon5.jpg"  alt="Canyon 5"></div>
+    <div class="photo"><img src="/images/gallery/canyon/canyon6.jpg"  alt="Canyon 6"></div>
+    <div class="photo"><img src="/images/gallery/canyon/canyon7.jpg"  alt="Canyon 7"></div>
+    <div class="photo"><img src="/images/gallery/canyon/canyon8.jpg"  alt="Canyon 8"></div>
+    <div class="photo"><img src="/images/gallery/canyon/canyon9.jpg"  alt="Canyon 9"></div>
+    <div class="photo"><img src="/images/gallery/canyon/canyon10.jpg" alt="Canyon 10"></div>
+    <div class="photo"><img src="/images/gallery/canyon/canyon11.jpg" alt="Canyon 11"></div>
+    <div class="photo"><img src="/images/gallery/canyon/canyon12.jpg" alt="Canyon 12"></div>
+    <div class="photo"><img src="/images/gallery/canyon/canyon13.jpg" alt="Canyon 13"></div>
+    <div class="photo"><img src="/images/gallery/canyon/canyon14.jpg" alt="Canyon 14"></div>
+    <div class="photo"><img src="/images/gallery/canyon/canyon15.jpg" alt="Canyon 15"></div>
+    <div class="photo"><img src="/images/gallery/canyon/canyon16.jpg" alt="Canyon 16"></div>
+  </div>
 </div>
+
+
 
 
 <div class="album-card">
