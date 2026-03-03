@@ -239,6 +239,44 @@ A small collection of my favorite moments outdoors — mostly national parks.
 
 <div class="album-card">
   <div class="album-head">
+    <p class="album-title">🌅 Acadia <span style="font-weight:600;color:#6b7280;">(ME)</span></p>
+    <div class="album-badges">
+      <span class="badge">Sunrise</span>
+      <span class="badge">Coast</span>
+      <span class="badge">Granite</span>
+    </div>
+  </div>
+  <p class="album-meta">Cadillac Mountain sunrise, rocky coastlines, and pine-scented trails.</p>
+
+  <div class="photo-grid">
+    <div class="photo"><img src="/images/gallery/acadia/acadia1.jpg"  alt="Acadia 1"></div>
+    <div class="photo"><img src="/images/gallery/acadia/acadia2.jpg"  alt="Acadia 2"></div>
+    <div class="photo"><img src="/images/gallery/acadia/acadia3.jpg"  alt="Acadia 3"></div>
+    <div class="photo"><img src="/images/gallery/acadia/acadia4.jpg"  alt="Acadia 4"></div>
+    <div class="photo"><img src="/images/gallery/acadia/acadia5.jpg"  alt="Acadia 5"></div>
+    <div class="photo"><img src="/images/gallery/acadia/acadia6.jpg"  alt="Acadia 6"></div>
+    <div class="photo"><img src="/images/gallery/acadia/acadia7.jpg"  alt="Acadia 7"></div>
+    <div class="photo"><img src="/images/gallery/acadia/acadia8.jpg"  alt="Acadia 8"></div>
+    <div class="photo"><img src="/images/gallery/acadia/acadia9.jpg"  alt="Acadia 9"></div>
+    <div class="photo"><img src="/images/gallery/acadia/acadia10.jpg" alt="Acadia 10"></div>
+    <div class="photo"><img src="/images/gallery/acadia/acadia11.jpg" alt="Acadia 11"></div>
+    <div class="photo"><img src="/images/gallery/acadia/acadia12.jpg" alt="Acadia 12"></div>
+    <div class="photo"><img src="/images/gallery/acadia/acadia13.jpg" alt="Acadia 13"></div>
+    <div class="photo"><img src="/images/gallery/acadia/acadia14.jpg" alt="Acadia 14"></div>
+    <div class="photo"><img src="/images/gallery/acadia/acadia15.jpg" alt="Acadia 15"></div>
+    <div class="photo"><img src="/images/gallery/acadia/acadia16.jpg" alt="Acadia 16"></div>
+    <div class="photo"><img src="/images/gallery/acadia/acadia17.jpg" alt="Acadia 17"></div>
+    <div class="photo"><img src="/images/gallery/acadia/acadia18.jpg" alt="Acadia 18"></div>
+    <div class="photo"><img src="/images/gallery/acadia/acadia19.jpg" alt="Acadia 19"></div>
+    <div class="photo"><img src="/images/gallery/acadia/acadia20.jpg" alt="Acadia 20"></div>
+  </div>
+</div>
+
+
+
+
+<div class="album-card">
+  <div class="album-head">
     <p class="album-title">🧊 Glacier <span style="font-weight:600;color:#6b7280;">(MT)</span></p>
     <div class="album-badges">
       <span class="badge">Lakes</span>
