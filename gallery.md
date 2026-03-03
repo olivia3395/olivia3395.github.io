@@ -670,6 +670,39 @@ A small collection of my favorite moments outdoors — mostly national parks.
 </div>
 
 
+
+<div class="album-card">
+  <div class="album-head">
+    <p class="album-title">🌿 Huntington Library <span style="font-weight:600;color:#6b7280;">(CA)</span></p>
+    <div class="album-badges">
+      <span class="badge">Chinese Garden</span>
+      <span class="badge">Botanical Gardens</span>
+    </div>
+  </div>
+  <p class="album-meta">Chinese Garden (Liu Fang Yuan), botanical gardens.</p>
+
+  <div class="photo-grid">
+    <div class="photo"><img src="/images/gallery/huntington/huntington1.jpg"  alt="Huntington Library 1"></div>
+    <div class="photo"><img src="/images/gallery/huntington/huntington2.jpg"  alt="Huntington Library 2"></div>
+    <div class="photo"><img src="/images/gallery/huntington/huntington3.jpg"  alt="Huntington Library 3"></div>
+    <div class="photo"><img src="/images/gallery/huntington/huntington4.jpg"  alt="Huntington Library 4"></div>
+    <div class="photo"><img src="/images/gallery/huntington/huntington5.jpg"  alt="Huntington Library 5"></div>
+    <div class="photo"><img src="/images/gallery/huntington/huntington6.jpg"  alt="Huntington Library 6"></div>
+    <div class="photo"><img src="/images/gallery/huntington/huntington7.jpg"  alt="Huntington Library 7"></div>
+    <div class="photo"><img src="/images/gallery/huntington/huntington8.jpg"  alt="Huntington Library 8"></div>
+    <div class="photo"><img src="/images/gallery/huntington/huntington9.jpg"  alt="Huntington Library 9"></div>
+    <div class="photo"><img src="/images/gallery/huntington/huntington10.jpg" alt="Huntington Library 10"></div>
+    <div class="photo"><img src="/images/gallery/huntington/huntington11.jpg" alt="Huntington Library 11"></div>
+    <div class="photo"><img src="/images/gallery/huntington/huntington12.jpg" alt="Huntington Library 12"></div>
+    <div class="photo"><img src="/images/gallery/huntington/huntington13.jpg" alt="Huntington Library 13"></div>
+    <div class="photo"><img src="/images/gallery/huntington/huntington14.jpg" alt="Huntington Library 14"></div>
+    <div class="photo"><img src="/images/gallery/huntington/huntington15.jpg" alt="Huntington Library 15"></div>
+    <div class="photo"><img src="/images/gallery/huntington/huntington16.jpg" alt="Huntington Library 16"></div>
+  </div>
+</div>
+
+
+
 <div class="album-card">
   <div class="album-head">
     <p class="album-title">🌊 California Coastline <span style="font-weight:600;color:#6b7280;">(CA)</span></p>
