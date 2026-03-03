@@ -395,6 +395,34 @@ A small collection of my favorite moments outdoors — mostly national parks.
 
 
 
+<div class="album-card">
+  <div class="album-head">
+    <p class="album-title">🏞️ Lake Tahoe <span style="font-weight:600;color:#6b7280;">(CA/NV)</span></p>
+    <div class="album-badges">
+      <span class="badge">Alpine Lake</span>
+      <span class="badge">Pines</span>
+      <span class="badge">Blue Water</span>
+    </div>
+  </div>
+  <p class="album-meta">Crystal lake, granite shorelines.</p>
+
+  <div class="photo-grid">
+    <div class="photo"><img src="/images/gallery/lake_tahoe/tahoe1.jpg"  alt="Lake Tahoe 1"></div>
+    <div class="photo"><img src="/images/gallery/lake_tahoe/tahoe2.jpg"  alt="Lake Tahoe 2"></div>
+    <div class="photo"><img src="/images/gallery/lake_tahoe/tahoe3.jpg"  alt="Lake Tahoe 3"></div>
+    <div class="photo"><img src="/images/gallery/lake_tahoe/tahoe4.jpg"  alt="Lake Tahoe 4"></div>
+    <div class="photo"><img src="/images/gallery/lake_tahoe/tahoe5.jpg"  alt="Lake Tahoe 5"></div>
+    <div class="photo"><img src="/images/gallery/lake_tahoe/tahoe6.jpg"  alt="Lake Tahoe 6"></div>
+    <div class="photo"><img src="/images/gallery/lake_tahoe/tahoe7.jpg"  alt="Lake Tahoe 7"></div>
+    <div class="photo"><img src="/images/gallery/lake_tahoe/tahoe8.jpg"  alt="Lake Tahoe 8"></div>
+    <div class="photo"><img src="/images/gallery/lake_tahoe/tahoe9.jpg"  alt="Lake Tahoe 9"></div>
+    <div class="photo"><img src="/images/gallery/lake_tahoe/tahoe10.jpg" alt="Lake Tahoe 10"></div>
+    <div class="photo"><img src="/images/gallery/lake_tahoe/tahoe11.jpg" alt="Lake Tahoe 11"></div>
+    <div class="photo"><img src="/images/gallery/lake_tahoe/tahoe12.jpg" alt="Lake Tahoe 12"></div>
+  </div>
+</div>
+
+
 
 <div class="album-card">
   <div class="album-head">
