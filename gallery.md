@@ -755,6 +755,29 @@ A small collection of my favorite moments outdoors — mostly national parks.
 </div>
 
 
+<div class="album-card">
+  <div class="album-head">
+    <p class="album-title">🍷 Temecula <span style="font-weight:600;color:#6b7280;">(CA)</span></p>
+    <div class="album-badges">
+      <span class="badge">Wine Tasting</span>
+      <span class="badge">Vineyards</span>
+    </div>
+  </div>
+  <p class="album-meta">Temecula wine country.</p>
+
+  <div class="photo-grid">
+    <div class="photo"><img src="/images/gallery/temecula/temecula1.jpg" alt="Temecula 1"></div>
+    <div class="photo"><img src="/images/gallery/temecula/temecula2.jpg" alt="Temecula 2"></div>
+    <div class="photo"><img src="/images/gallery/temecula/temecula3.jpg" alt="Temecula 3"></div>
+    <div class="photo"><img src="/images/gallery/temecula/temecula4.jpg" alt="Temecula 4"></div>
+    <div class="photo"><img src="/images/gallery/temecula/temecula5.jpg" alt="Temecula 5"></div>
+    <div class="photo"><img src="/images/gallery/temecula/temecula6.jpg" alt="Temecula 6"></div>
+    <div class="photo"><img src="/images/gallery/temecula/temecula7.jpg" alt="Temecula 7"></div>
+    <div class="photo"><img src="/images/gallery/temecula/temecula8.jpg" alt="Temecula 8"></div>
+  </div>
+</div>
+
+
 
 <div class="album-card">
   <div class="album-head">
