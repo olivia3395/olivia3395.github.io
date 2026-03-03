@@ -583,7 +583,7 @@ A small collection of my favorite moments outdoors — mostly national parks.
       <span class="badge">Fog</span>
     </div>
   </div>
-  <p class="album-meta">Bay Area dusk — glowing horizons, silhouettes, and fog rolling in.</p>
+  <p class="album-meta">Bay Area dusk, silhouettes in bloom.</p>
 
   <div class="photo-grid">
     <div class="photo"><img src="/images/gallery/sunset_bay/sunset1.jpg"  alt="Bay Area Sunset 1"></div>
