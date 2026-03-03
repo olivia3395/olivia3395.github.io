@@ -626,6 +626,51 @@ A small collection of my favorite moments outdoors — mostly national parks.
 
 
 
+<div class="album-card">
+  <div class="album-head">
+    <p class="album-title">🦁 San Diego Zoo & Safari Park <span style="font-weight:600;color:#6b7280;">(CA)</span></p>
+    <div class="album-badges">
+      <span class="badge">Zoo</span>
+      <span class="badge">Safari Park</span>
+      <span class="badge">Winter & Summer</span>
+    </div>
+  </div>
+  <p class="album-meta">Winter or summer — always zoo o’clock.</p>
+
+  <div class="photo-grid">
+    <div class="photo"><img src="/images/gallery/zoo/zoo1.jpg"  alt="San Diego Zoo 1"></div>
+    <div class="photo"><img src="/images/gallery/zoo/zoo2.jpg"  alt="San Diego Zoo 2"></div>
+    <div class="photo"><img src="/images/gallery/zoo/zoo3.jpg"  alt="San Diego Zoo 3"></div>
+    <div class="photo"><img src="/images/gallery/zoo/zoo4.jpg"  alt="San Diego Zoo 4"></div>
+    <div class="photo"><img src="/images/gallery/zoo/zoo5.jpg"  alt="San Diego Zoo 5"></div>
+    <div class="photo"><img src="/images/gallery/zoo/zoo6.jpg"  alt="San Diego Zoo 6"></div>
+    <div class="photo"><img src="/images/gallery/zoo/zoo7.jpg"  alt="San Diego Zoo 7"></div>
+    <div class="photo"><img src="/images/gallery/zoo/zoo8.jpg"  alt="San Diego Zoo 8"></div>
+    <div class="photo"><img src="/images/gallery/zoo/zoo9.jpg"  alt="San Diego Zoo 9"></div>
+    <div class="photo"><img src="/images/gallery/zoo/zoo10.jpg" alt="San Diego Zoo 10"></div>
+    <div class="photo"><img src="/images/gallery/zoo/zoo11.jpg" alt="San Diego Zoo 11"></div>
+    <div class="photo"><img src="/images/gallery/zoo/zoo12.jpg" alt="San Diego Zoo 12"></div>
+    <div class="photo"><img src="/images/gallery/zoo/zoo13.jpg" alt="San Diego Zoo 13"></div>
+    <div class="photo"><img src="/images/gallery/zoo/zoo14.jpg" alt="San Diego Zoo 14"></div>
+    <div class="photo"><img src="/images/gallery/zoo/zoo15.jpg" alt="San Diego Zoo 15"></div>
+    <div class="photo"><img src="/images/gallery/zoo/zoo16.jpg" alt="San Diego Zoo 16"></div>
+    <div class="photo"><img src="/images/gallery/zoo/zoo17.jpg" alt="San Diego Zoo 17"></div>
+    <div class="photo"><img src="/images/gallery/zoo/zoo18.jpg" alt="San Diego Zoo 18"></div>
+    <div class="photo"><img src="/images/gallery/zoo/zoo19.jpg" alt="San Diego Zoo 19"></div>
+    <div class="photo"><img src="/images/gallery/zoo/zoo20.jpg" alt="San Diego Zoo 20"></div>
+    <div class="photo"><img src="/images/gallery/zoo/zoo21.jpg" alt="San Diego Zoo 21"></div>
+    <div class="photo"><img src="/images/gallery/zoo/zoo22.jpg" alt="San Diego Zoo 22"></div>
+    <div class="photo"><img src="/images/gallery/zoo/zoo23.jpg" alt="San Diego Zoo 23"></div>
+    <div class="photo"><img src="/images/gallery/zoo/zoo24.jpg" alt="San Diego Zoo 24"></div>
+    <div class="photo"><img src="/images/gallery/zoo/zoo25.jpg" alt="San Diego Zoo 25"></div>
+    <div class="photo"><img src="/images/gallery/zoo/zoo26.jpg" alt="San Diego Zoo 26"></div>
+    <div class="photo"><img src="/images/gallery/zoo/zoo27.jpg" alt="San Diego Zoo 27"></div>
+    <div class="photo"><img src="/images/gallery/zoo/zoo28.jpg" alt="San Diego Zoo 28"></div>
+  </div>
+</div>
+
+
+
 
 <div class="album-card">
   <div class="album-head">
