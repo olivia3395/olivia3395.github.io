@@ -345,7 +345,7 @@ A small collection of my favorite moments outdoors — mostly national parks.
       <span class="badge">Sunset</span>
     </div>
   </div>
-  <p class="album-meta">Joshua trees, granite boulders, and warm desert light.</p>
+  <p class="album-meta">Joshua trees, granite boulders.</p>
 
   <div class="photo-grid">
     <div class="photo"><img src="/images/gallery/joshua_tree/joshua1.jpg"  alt="Joshua Tree 1"></div>
