@@ -239,6 +239,37 @@ A small collection of my favorite moments outdoors — mostly national parks.
 
 <div class="album-card">
   <div class="album-head">
+    <p class="album-title">🏔️ Denali <span style="font-weight:600;color:#6b7280;">(AK)</span></p>
+    <div class="album-badges">
+      <span class="badge">Alpine</span>
+      <span class="badge">Tundra</span>
+    </div>
+  </div>
+  <p class="album-meta">Mountains, tundra light, and long Alaska days.</p>
+  <div class="photo-grid">
+    <div class="photo"><img src="/images/gallery/denali/denali1.jpg"  alt="Denali 1"></div>
+    <div class="photo"><img src="/images/gallery/denali/denali2.jpg"  alt="Denali 2"></div>
+    <div class="photo"><img src="/images/gallery/denali/denali3.jpg"  alt="Denali 3"></div>
+    <div class="photo"><img src="/images/gallery/denali/denali4.jpg"  alt="Denali 4"></div>
+    <div class="photo"><img src="/images/gallery/denali/denali5.jpg"  alt="Denali 5"></div>
+    <div class="photo"><img src="/images/gallery/denali/denali6.jpg"  alt="Denali 6"></div>
+    <div class="photo"><img src="/images/gallery/denali/denali7.jpg"  alt="Denali 7"></div>
+    <div class="photo"><img src="/images/gallery/denali/denali8.jpg"  alt="Denali 8"></div>
+    <div class="photo"><img src="/images/gallery/denali/denali9.jpg"  alt="Denali 9"></div>
+    <div class="photo"><img src="/images/gallery/denali/denali10.jpg" alt="Denali 10"></div>
+    <div class="photo"><img src="/images/gallery/denali/denali11.jpg" alt="Denali 11"></div>
+    <div class="photo"><img src="/images/gallery/denali/denali12.jpg" alt="Denali 12"></div>
+    <div class="photo"><img src="/images/gallery/denali/denali13.jpg" alt="Denali 13"></div>
+    <div class="photo"><img src="/images/gallery/denali/denali14.jpg" alt="Denali 14"></div>
+    <div class="photo"><img src="/images/gallery/denali/denali15.jpg" alt="Denali 15"></div>
+    <div class="photo"><img src="/images/gallery/denali/denali16.jpg" alt="Denali 16"></div>
+  </div>
+</div>
+
+
+
+<div class="album-card">
+  <div class="album-head">
     <p class="album-title">🧊 Kenai Fjords <span style="font-weight:600;color:#6b7280;">(AK)</span></p>
     <div class="album-badges">
       <span class="badge">Glaciers</span>
