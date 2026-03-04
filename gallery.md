@@ -17,7 +17,7 @@ classes: wide
 
 🏔️ National park lover · 🫧 lake admirer · 🌅 opacarophile
 
-🦋 Some moments are meant to be lived twice—once in the world, and once when you look back.
+🦋 Some moments are meant to be lived twice—once in the world, and once when you look back. ✨
 
 🌱 To row toward where greener grass grows; To sing aloud in the starlight's glow. 🌠
 
