@@ -651,7 +651,7 @@ classes: wide
       <span class="badge">Super Blue Moon</span>
     </div>
   </div>
-  <p class="album-meta">LA nights with a La La Land glow — shot under the 2023 Super Blue Moon (Aug 30–31, 2023), \& NYC city lights from an Empire State Building view.</p>
+  <p class="album-meta"> La La Land under the 2023 Super Blue Moon, NYC from an Empire State Building view.</p>
 
   <div class="photo-grid">
     <div class="photo"><img src="/images/gallery/night/night1.jpg" alt="Night 1"></div>
