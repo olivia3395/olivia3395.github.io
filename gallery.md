@@ -644,7 +644,7 @@ classes: wide
 
 <div class="album-card">
   <div class="album-head">
-    <p class="album-title">🌃 Night Lights: LA × NYC <span style="font-weight:600;color:#6b7280;">(2023)</span></p>
+    <p class="album-title">🌃 Dream of Lights: LA × NYC  <span style="font-weight:600;color:#6b7280;"> </span></p>
     <div class="album-badges">
       <span class="badge">LA Night</span>
       <span class="badge">Empire State View</span>
