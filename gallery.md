@@ -730,6 +730,38 @@ A small collection of my favorite moments outdoors — mostly national parks.
 </div>
 
 
+<div class="album-card">
+  <div class="album-head">
+    <p class="album-title">☀️ Summer in Boston <span style="font-weight:600;color:#6b7280;">(MA)</span></p>
+    <div class="album-badges">
+      <span class="badge">Charles River</span>
+      <span class="badge">Whale Watching</span>
+      <span class="badge">Revere Beach</span>
+    </div>
+  </div>
+  <p class="album-meta">Charles River sunsets, whale-watching days.</p>
+
+  <div class="photo-grid">
+    <div class="photo"><img src="/images/gallery/boston_summer/boston1.jpg"  alt="Summer in Boston 1"></div>
+    <div class="photo"><img src="/images/gallery/boston_summer/boston2.jpg"  alt="Summer in Boston 2"></div>
+    <div class="photo"><img src="/images/gallery/boston_summer/boston3.jpg"  alt="Summer in Boston 3"></div>
+    <div class="photo"><img src="/images/gallery/boston_summer/boston4.jpg"  alt="Summer in Boston 4"></div>
+    <div class="photo"><img src="/images/gallery/boston_summer/boston5.jpg"  alt="Summer in Boston 5"></div>
+    <div class="photo"><img src="/images/gallery/boston_summer/boston6.jpg"  alt="Summer in Boston 6"></div>
+    <div class="photo"><img src="/images/gallery/boston_summer/boston7.jpg"  alt="Summer in Boston 7"></div>
+    <div class="photo"><img src="/images/gallery/boston_summer/boston8.jpg"  alt="Summer in Boston 8"></div>
+    <div class="photo"><img src="/images/gallery/boston_summer/boston9.jpg"  alt="Summer in Boston 9"></div>
+    <div class="photo"><img src="/images/gallery/boston_summer/boston10.jpg" alt="Summer in Boston 10"></div>
+    <div class="photo"><img src="/images/gallery/boston_summer/boston11.jpg" alt="Summer in Boston 11"></div>
+    <div class="photo"><img src="/images/gallery/boston_summer/boston12.jpg" alt="Summer in Boston 12"></div>
+    <div class="photo"><img src="/images/gallery/boston_summer/boston13.jpg" alt="Summer in Boston 13"></div>
+    <div class="photo"><img src="/images/gallery/boston_summer/boston14.jpg" alt="Summer in Boston 14"></div>
+    <div class="photo"><img src="/images/gallery/boston_summer/boston15.jpg" alt="Summer in Boston 15"></div>
+    <div class="photo"><img src="/images/gallery/boston_summer/boston16.jpg" alt="Summer in Boston 16"></div>
+  </div>
+</div>
+
+
 
 <div class="album-card">
   <div class="album-head">
