@@ -44,9 +44,6 @@ In statistical learning, this is about transferring geometry or smoothness from 
 
 Curious about my research? I put together a friendly, no-jargon **[slide](transfer_learning.pdf)** deck on how I think about transfer learning (and why it matters)
 
-Along my academic journey, I have been deeply fortunate to study and conduct research under the guidance of inspiring scholars, including [Prof. Liang Zhao](https://www.arch.tsinghua.edu.cn/info/FUrban%20Planning%20and%20Design/1776), [Prof. Zhanxing Zhu](https://zhanxingzhu.github.io/), and [Prof. Yongshun Gong](https://faculty.sdu.edu.cn/gongyongshun/en/), whose work spans urban spatial systems, deep learning theory, and representation learning. Their collective perspectives, from urban systems and infrastructure to machine learning theory and scalable spatio-temporal modeling, have shaped how I study structured, evolving, and heterogeneous systems, guiding my pursuit of principled transfer learning methods.
-
-
 
 
 # 🔥 News
@@ -229,7 +226,7 @@ Soft-Correspondence Objectives**](#)<br>
 
 
 
-# 🎖 Honors and Awards
+# 🎖 Honors 
 - *2025.09*: Student Travel Grant, Boston University  
 - *2025.05*: Ralph B. D’Agostino Endowed Fellowship, Boston University  
 - *2025.04*: Outstanding Teaching Fellow Award, Boston University  
