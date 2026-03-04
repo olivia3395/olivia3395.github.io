@@ -644,6 +644,30 @@ classes: wide
 
 <div class="album-card">
   <div class="album-head">
+    <p class="album-title">🌃 Night Lights: LA × NYC <span style="font-weight:600;color:#6b7280;">(2023)</span></p>
+    <div class="album-badges">
+      <span class="badge">LA Night</span>
+      <span class="badge">Empire State View</span>
+      <span class="badge">Super Blue Moon</span>
+    </div>
+  </div>
+  <p class="album-meta">LA nights with a La La Land glow — shot under the 2023 Super Blue Moon (Aug 30–31, 2023), \& NYC city lights from an Empire State Building view.</p>
+
+  <div class="photo-grid">
+    <div class="photo"><img src="/images/gallery/night/night1.jpg" alt="Night 1"></div>
+    <div class="photo"><img src="/images/gallery/night/night2.jpg" alt="Night 2"></div>
+    <div class="photo"><img src="/images/gallery/night/night3.jpg" alt="Night 3"></div>
+    <div class="photo"><img src="/images/gallery/night/night4.jpg" alt="Night 4"></div>
+    <div class="photo"><img src="/images/gallery/night/night5.jpg" alt="Night 5"></div>
+    <div class="photo"><img src="/images/gallery/night/night6.jpg" alt="Night 6"></div>
+    <div class="photo"><img src="/images/gallery/night/night7.jpg" alt="Night 7"></div>
+    <div class="photo"><img src="/images/gallery/night/night8.jpg" alt="Night 8"></div>
+  </div>
+</div>
+
+
+<div class="album-card">
+  <div class="album-head">
     <p class="album-title">🌁 San Francisco <span style="font-weight:600;color:#6b7280;">(CA)</span></p>
     <div class="album-badges">
       <span class="badge">Golden Gate</span>
@@ -931,6 +955,7 @@ classes: wide
     <div class="photo"><img src="/images/gallery/vizcaya/vizcaya8.jpg" alt="Vizcaya 8"></div>
   </div>
 </div>
+
 
 
 <div class="album-card">
