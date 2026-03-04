@@ -15,7 +15,12 @@ classes: wide
 
 # 🏞️ Gallery (Yuyao’s Wonderland)
 
-[← Back to Home](/)
+
+<p style="margin:6px 0 12px 0;">
+  <a href="/" style="display:inline-block;padding:6px 10px;border:1px solid rgba(0,0,0,0.12);border-radius:999px;text-decoration:none;">
+    ← Back to Home
+  </a>
+</p>
 
 🏔️ National park lover · 🫧 lake admirer · 🌅 opacarophile
 
