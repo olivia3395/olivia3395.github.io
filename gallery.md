@@ -13,7 +13,7 @@ classes: wide
 ---
 
 
-# 🏞️ Gallery
+# 🏞️ Gallery (Yuyao’s Wonderland)
 
 [← Back to Home](/)
 
