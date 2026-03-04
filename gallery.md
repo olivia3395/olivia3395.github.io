@@ -906,6 +906,30 @@ classes: wide
 
 <div class="album-card">
   <div class="album-head">
+    <p class="album-title">🌿 Vizcaya Gardens <span style="font-weight:600;color:#6b7280;">(Miami, FL)</span></p>
+    <div class="album-badges">
+      <span class="badge">Formal Garden</span>
+      <span class="badge">Estate</span>
+      <span class="badge">Old World</span>
+    </div>
+  </div>
+  <p class="album-meta">Vizcaya’s garden rooms.</p>
+
+  <div class="photo-grid">
+    <div class="photo"><img src="/images/gallery/vizcaya/vizcaya1.jpg" alt="Vizcaya 1"></div>
+    <div class="photo"><img src="/images/gallery/vizcaya/vizcaya2.jpg" alt="Vizcaya 2"></div>
+    <div class="photo"><img src="/images/gallery/vizcaya/vizcaya3.jpg" alt="Vizcaya 3"></div>
+    <div class="photo"><img src="/images/gallery/vizcaya/vizcaya4.jpg" alt="Vizcaya 4"></div>
+    <div class="photo"><img src="/images/gallery/vizcaya/vizcaya5.jpg" alt="Vizcaya 5"></div>
+    <div class="photo"><img src="/images/gallery/vizcaya/vizcaya6.jpg" alt="Vizcaya 6"></div>
+    <div class="photo"><img src="/images/gallery/vizcaya/vizcaya7.jpg" alt="Vizcaya 7"></div>
+    <div class="photo"><img src="/images/gallery/vizcaya/vizcaya8.jpg" alt="Vizcaya 8"></div>
+  </div>
+</div>
+
+
+<div class="album-card">
+  <div class="album-head">
     <p class="album-title">🦭 La Jolla <span style="font-weight:600;color:#6b7280;">(CA)</span></p>
     <div class="album-badges">
       <span class="badge">Sea Lions</span>
