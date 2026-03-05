@@ -811,7 +811,7 @@ classes: wide
       <span class="badge">Architecture</span>
     </div>
   </div>
-  <p class="album-meta">A day at The Getty — Van Gogh’s <em>Irises</em>, sunlit stone terraces.</p>
+  <p class="album-meta">A day at The Getty — Van Gogh’s Irises, sunlit stone terraces.</p>
 
   <div class="photo-grid">
     <div class="photo"><img src="/images/gallery/getty/getty1.jpg" alt="The Getty 1"></div>
