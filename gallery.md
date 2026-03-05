@@ -988,6 +988,50 @@ classes: wide
 
 
 
+<div class="album-card">
+  <div class="album-head">
+    <p class="album-title">🏔️ Xinjiang <span style="font-weight:600;color:#6b7280;">(China)</span></p>
+    <div class="album-badges">
+      <span class="badge">Grasslands</span>
+      <span class="badge">Lakes</span>
+      <span class="badge">Snow Peaks</span>
+    </div>
+  </div>
+  <p class="album-meta">Sayram Lake’s sapphire blues, Nalati’s grasslands, Kanas snow peaks.</p>
+
+  <div class="photo-grid">
+    <div class="photo"><img src="/images/gallery/xinjiang/xinjiang1.jpg"  alt="Xinjiang 1"></div>
+    <div class="photo"><img src="/images/gallery/xinjiang/xinjiang2.jpg"  alt="Xinjiang 2"></div>
+    <div class="photo"><img src="/images/gallery/xinjiang/xinjiang3.jpg"  alt="Xinjiang 3"></div>
+    <div class="photo"><img src="/images/gallery/xinjiang/xinjiang4.jpg"  alt="Xinjiang 4"></div>
+    <div class="photo"><img src="/images/gallery/xinjiang/xinjiang5.jpg"  alt="Xinjiang 5"></div>
+    <div class="photo"><img src="/images/gallery/xinjiang/xinjiang6.jpg"  alt="Xinjiang 6"></div>
+    <div class="photo"><img src="/images/gallery/xinjiang/xinjiang7.jpg"  alt="Xinjiang 7"></div>
+    <div class="photo"><img src="/images/gallery/xinjiang/xinjiang8.jpg"  alt="Xinjiang 8"></div>
+    <div class="photo"><img src="/images/gallery/xinjiang/xinjiang9.jpg"  alt="Xinjiang 9"></div>
+    <div class="photo"><img src="/images/gallery/xinjiang/xinjiang10.jpg" alt="Xinjiang 10"></div>
+    <div class="photo"><img src="/images/gallery/xinjiang/xinjiang11.jpg" alt="Xinjiang 11"></div>
+    <div class="photo"><img src="/images/gallery/xinjiang/xinjiang12.jpg" alt="Xinjiang 12"></div>
+    <div class="photo"><img src="/images/gallery/xinjiang/xinjiang13.jpg" alt="Xinjiang 13"></div>
+    <div class="photo"><img src="/images/gallery/xinjiang/xinjiang14.jpg" alt="Xinjiang 14"></div>
+    <div class="photo"><img src="/images/gallery/xinjiang/xinjiang15.jpg" alt="Xinjiang 15"></div>
+    <div class="photo"><img src="/images/gallery/xinjiang/xinjiang16.jpg" alt="Xinjiang 16"></div>
+    <div class="photo"><img src="/images/gallery/xinjiang/xinjiang17.jpg" alt="Xinjiang 17"></div>
+    <div class="photo"><img src="/images/gallery/xinjiang/xinjiang18.jpg" alt="Xinjiang 18"></div>
+    <div class="photo"><img src="/images/gallery/xinjiang/xinjiang19.jpg" alt="Xinjiang 19"></div>
+    <div class="photo"><img src="/images/gallery/xinjiang/xinjiang20.jpg" alt="Xinjiang 20"></div>
+    <div class="photo"><img src="/images/gallery/xinjiang/xinjiang21.jpg" alt="Xinjiang 21"></div>
+    <div class="photo"><img src="/images/gallery/xinjiang/xinjiang22.jpg" alt="Xinjiang 22"></div>
+    <div class="photo"><img src="/images/gallery/xinjiang/xinjiang23.jpg" alt="Xinjiang 23"></div>
+    <div class="photo"><img src="/images/gallery/xinjiang/xinjiang24.jpg" alt="Xinjiang 24"></div>
+    <div class="photo"><img src="/images/gallery/xinjiang/xinjiang25.jpg" alt="Xinjiang 25"></div>
+    <div class="photo"><img src="/images/gallery/xinjiang/xinjiang26.jpg" alt="Xinjiang 26"></div>
+    <div class="photo"><img src="/images/gallery/xinjiang/xinjiang27.jpg" alt="Xinjiang 27"></div>
+    <div class="photo"><img src="/images/gallery/xinjiang/xinjiang28.jpg" alt="Xinjiang 28"></div>
+  </div>
+</div>
+
+
 
 <div class="album-card">
   <div class="album-head">
