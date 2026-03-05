@@ -195,7 +195,7 @@ Soft-Correspondence Objectives**](#)<br>
   </div>
   <div class='paper-box-text' markdown="1">
 
-[**Semantic Scientific Graph Pruning for Reliable Agentic Paper Reproduction**](#)<br>
+[**Semantic Scientific Graph Pruning for Reliable Agentic Paper Reproduction**](https://arxiv.org/abs/2603.01801)<br>
 *Boston University; Shandong University*
 
 - **Semantic pruning for controllable agent search:** proposes **Semantic Scientific Graph Pruning (SSGP)** to transform dense scientific graphs into **task-adaptive local subgraphs**, using **rank-based ensemble scoring** to retain only semantically essential neighbors.  
