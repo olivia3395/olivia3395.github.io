@@ -1036,6 +1036,35 @@ classes: wide
 </div>
 
 
+<div class="album-card">
+  <div class="album-head">
+    <p class="album-title">🌊 Qingdao <span style="font-weight:600;color:#6b7280;">(China)</span></p>
+    <div class="album-badges">
+      <span class="badge">Seaside</span>
+      <span class="badge">Red Roofs</span>
+      <span class="badge">Sea Breeze</span>
+    </div>
+  </div>
+  <p class="album-meta">Coastal light, red-roofed streets, and that unmistakable sea breeze.</p>
+
+  <div class="photo-grid">
+    <div class="photo"><img src="/images/gallery/qingdao/qingdao1.jpg"  alt="Qingdao 1"></div>
+    <div class="photo"><img src="/images/gallery/qingdao/qingdao2.jpg"  alt="Qingdao 2"></div>
+    <div class="photo"><img src="/images/gallery/qingdao/qingdao3.jpg"  alt="Qingdao 3"></div>
+    <div class="photo"><img src="/images/gallery/qingdao/qingdao4.jpg"  alt="Qingdao 4"></div>
+    <div class="photo"><img src="/images/gallery/qingdao/qingdao5.jpg"  alt="Qingdao 5"></div>
+    <div class="photo"><img src="/images/gallery/qingdao/qingdao6.jpg"  alt="Qingdao 6"></div>
+    <div class="photo"><img src="/images/gallery/qingdao/qingdao7.jpg"  alt="Qingdao 7"></div>
+    <div class="photo"><img src="/images/gallery/qingdao/qingdao8.jpg"  alt="Qingdao 8"></div>
+    <div class="photo"><img src="/images/gallery/qingdao/qingdao9.jpg"  alt="Qingdao 9"></div>
+    <div class="photo"><img src="/images/gallery/qingdao/qingdao10.jpg" alt="Qingdao 10"></div>
+    <div class="photo"><img src="/images/gallery/qingdao/qingdao11.jpg" alt="Qingdao 11"></div>
+    <div class="photo"><img src="/images/gallery/qingdao/qingdao12.jpg" alt="Qingdao 12"></div>
+  </div>
+</div>
+
+
+
 
 <div class="album-card">
   <div class="album-head">
