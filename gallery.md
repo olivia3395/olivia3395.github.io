@@ -804,7 +804,7 @@ classes: wide
 
 <div class="album-card">
   <div class="album-head">
-    <p class="album-title">🏛️ The Getty <span style="font-weight:600;color:#6b7280;">(Los Angeles, CA)</span></p>
+    <p class="album-title">🏛️ The Getty <span style="font-weight:600;color:#6b7280;">(CA)</span></p>
     <div class="album-badges">
       <span class="badge">Van Gogh: Irises</span>
       <span class="badge">Museum Light</span>
