@@ -797,6 +797,30 @@ classes: wide
   </div>
 </div>
 
+<div class="album-card">
+  <div class="album-head">
+    <p class="album-title">🏛️ The Getty <span style="font-weight:600;color:#6b7280;">(Los Angeles, CA)</span></p>
+    <div class="album-badges">
+      <span class="badge">Van Gogh: Irises</span>
+      <span class="badge">Museum Light</span>
+      <span class="badge">Architecture</span>
+    </div>
+  </div>
+  <p class="album-meta">A day at The Getty — Van Gogh’s <em>Irises</em>, sunlit stone terraces.</p>
+
+  <div class="photo-grid">
+    <div class="photo"><img src="/images/gallery/getty/getty1.jpg" alt="The Getty 1"></div>
+    <div class="photo"><img src="/images/gallery/getty/getty2.jpg" alt="The Getty 2"></div>
+    <div class="photo"><img src="/images/gallery/getty/getty3.jpg" alt="The Getty 3"></div>
+    <div class="photo"><img src="/images/gallery/getty/getty4.jpg" alt="The Getty 4"></div>
+    <div class="photo"><img src="/images/gallery/getty/getty5.jpg" alt="The Getty 5"></div>
+    <div class="photo"><img src="/images/gallery/getty/getty6.jpg" alt="The Getty 6"></div>
+    <div class="photo"><img src="/images/gallery/getty/getty7.jpg" alt="The Getty 7"></div>
+    <div class="photo"><img src="/images/gallery/getty/getty8.jpg" alt="The Getty 8"></div>
+  </div>
+</div>
+
+
 
 
 <div class="album-card">
