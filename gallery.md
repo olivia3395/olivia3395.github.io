@@ -242,11 +242,12 @@ classes: wide
     <p class="album-title">🏜️ Grand Canyon <span style="font-weight:600;color:#6b7280;">(AZ/UT)</span></p>
     <div class="album-badges">
       <span class="badge">Grand Canyon</span>
+      <span class="badge">Horseshoe Bend</span>
       <span class="badge">Monument Valley</span>
       <span class="badge">Antelope Canyon</span>
     </div>
   </div>
-  <p class="album-meta">Grand canyon, monument valley, antelope canyon.</p>
+  <p class="album-meta">Grand canyon, horseshoe bend, monument valley, antelope canyon.</p>
 
   <div class="photo-grid">
     <div class="photo"><img src="/images/gallery/canyon/canyon1.jpg"  alt="Canyon 1"></div>
@@ -265,6 +266,10 @@ classes: wide
     <div class="photo"><img src="/images/gallery/canyon/canyon14.jpg" alt="Canyon 14"></div>
     <div class="photo"><img src="/images/gallery/canyon/canyon15.jpg" alt="Canyon 15"></div>
     <div class="photo"><img src="/images/gallery/canyon/canyon16.jpg" alt="Canyon 16"></div>
+    <div class="photo"><img src="/images/gallery/canyon/canyon17.jpg" alt="Canyon 17"></div>
+    <div class="photo"><img src="/images/gallery/canyon/canyon18.jpg" alt="Canyon 18"></div>
+    <div class="photo"><img src="/images/gallery/canyon/canyon19.jpg" alt="Canyon 19"></div>
+    <div class="photo"><img src="/images/gallery/canyon/canyon20.jpg" alt="Canyon 20"></div>
   </div>
 </div>
 
