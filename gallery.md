@@ -1045,7 +1045,7 @@ classes: wide
       <span class="badge">Sea Breeze</span>
     </div>
   </div>
-  <p class="album-meta">Coastal light, red-roofed streets, and that unmistakable sea breeze.</p>
+  <p class="album-meta">Coastal light, red-roofed streets, sea breeze.</p>
 
   <div class="photo-grid">
     <div class="photo"><img src="/images/gallery/qingdao/qingdao1.jpg"  alt="Qingdao 1"></div>
