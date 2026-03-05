@@ -1028,6 +1028,10 @@ classes: wide
     <div class="photo"><img src="/images/gallery/xinjiang/xinjiang26.jpg" alt="Xinjiang 26"></div>
     <div class="photo"><img src="/images/gallery/xinjiang/xinjiang27.jpg" alt="Xinjiang 27"></div>
     <div class="photo"><img src="/images/gallery/xinjiang/xinjiang28.jpg" alt="Xinjiang 28"></div>
+    <div class="photo"><img src="/images/gallery/xinjiang/xinjiang29.jpg" alt="Xinjiang 29"></div>
+    <div class="photo"><img src="/images/gallery/xinjiang/xinjiang30.jpg" alt="Xinjiang 30"></div>
+    <div class="photo"><img src="/images/gallery/xinjiang/xinjiang31.jpg" alt="Xinjiang 31"></div>
+    <div class="photo"><img src="/images/gallery/xinjiang/xinjiang32.jpg" alt="Xinjiang 32"></div>
   </div>
 </div>
 
