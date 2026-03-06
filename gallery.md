@@ -773,6 +773,31 @@ classes: wide
 
 <div class="album-card">
   <div class="album-head">
+    <p class="album-title">🌸 Spring in Boston × NYC <span style="font-weight:600;color:#6b7280;">(MA/NY)</span></p>
+    <div class="album-badges">
+      <span class="badge">Cherry Blossoms</span>
+      <span class="badge">City Walks</span>
+      <span class="badge">Soft Light</span>
+    </div>
+  </div>
+  <p class="album-meta"> blossoms.</p>
+
+  <div class="photo-grid">
+    <div class="photo"><img src="/images/gallery/spring/spring1.jpg" alt="Spring 1"></div>
+    <div class="photo"><img src="/images/gallery/spring/spring2.jpg" alt="Spring 2"></div>
+    <div class="photo"><img src="/images/gallery/spring/spring3.jpg" alt="Spring 3"></div>
+    <div class="photo"><img src="/images/gallery/spring/spring4.jpg" alt="Spring 4"></div>
+    <div class="photo"><img src="/images/gallery/spring/spring5.jpg" alt="Spring 5"></div>
+    <div class="photo"><img src="/images/gallery/spring/spring6.jpg" alt="Spring 6"></div>
+    <div class="photo"><img src="/images/gallery/spring/spring7.jpg" alt="Spring 7"></div>
+    <div class="photo"><img src="/images/gallery/spring/spring8.jpg" alt="Spring 8"></div>
+  </div>
+</div>
+
+
+
+<div class="album-card">
+  <div class="album-head">
     <p class="album-title">☀️ Summer in Boston <span style="font-weight:600;color:#6b7280;">(MA)</span></p>
     <div class="album-badges">
       <span class="badge">Charles River</span>
