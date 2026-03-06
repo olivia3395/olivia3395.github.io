@@ -780,7 +780,7 @@ classes: wide
       <span class="badge">Soft Light</span>
     </div>
   </div>
-  <p class="album-meta"> blossoms.</p>
+  <p class="album-meta"> A season of blush and breeze.</p>
 
   <div class="photo-grid">
     <div class="photo"><img src="/images/gallery/spring/spring1.jpg" alt="Spring 1"></div>
