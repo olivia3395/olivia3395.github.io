@@ -881,7 +881,6 @@ classes: wide
     <div class="album-badges">
       <span class="badge">Monuments</span>
       <span class="badge">Museums</span>
-      <span class="badge">Reflecting Pool</span>
     </div>
   </div>
   <p class="album-meta">A DC day — monuments and museums.</p>
