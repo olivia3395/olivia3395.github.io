@@ -649,6 +649,30 @@ classes: wide
 
 <div class="album-card">
   <div class="album-head">
+    <p class="album-title">🗽 Sunset in New York City <span style="font-weight:600;color:#6b7280;">(NY)</span></p>
+    <div class="album-badges">
+      <span class="badge">Statue of Liberty</span>
+      <span class="badge">Harbor</span>
+      <span class="badge">Golden Hour</span>
+    </div>
+  </div>
+  <p class="album-meta">NYC at sunset — the harbor glow and the Statue of Liberty.</p>
+
+  <div class="photo-grid">
+    <div class="photo"><img src="/images/gallery/nyc/nyc1.jpg" alt="NYC Sunset 1"></div>
+    <div class="photo"><img src="/images/gallery/nyc/nyc2.jpg" alt="NYC Sunset 2"></div>
+    <div class="photo"><img src="/images/gallery/nyc/nyc3.jpg" alt="NYC Sunset 3"></div>
+    <div class="photo"><img src="/images/gallery/nyc/nyc4.jpg" alt="NYC Sunset 4"></div>
+    <div class="photo"><img src="/images/gallery/nyc/nyc5.jpg" alt="NYC Sunset 5"></div>
+    <div class="photo"><img src="/images/gallery/nyc/nyc6.jpg" alt="NYC Sunset 6"></div>
+    <div class="photo"><img src="/images/gallery/nyc/nyc7.jpg" alt="NYC Sunset 7"></div>
+    <div class="photo"><img src="/images/gallery/nyc/nyc8.jpg" alt="NYC Sunset 8"></div>
+  </div>
+</div>
+
+
+<div class="album-card">
+  <div class="album-head">
     <p class="album-title">🌃 Dream of Lights: LA × NYC  <span style="font-weight:600;color:#6b7280;"> </span></p>
     <div class="album-badges">
       <span class="badge">LA Night</span>
