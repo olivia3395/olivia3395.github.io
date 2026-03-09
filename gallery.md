@@ -875,6 +875,31 @@ classes: wide
 </div>
 
 
+<div class="album-card">
+  <div class="album-head">
+    <p class="album-title">🏛️ Washington, DC <span style="font-weight:600;color:#6b7280;">(DC)</span></p>
+    <div class="album-badges">
+      <span class="badge">Monuments</span>
+      <span class="badge">Museums</span>
+      <span class="badge">Reflecting Pool</span>
+    </div>
+  </div>
+  <p class="album-meta">A DC day — monuments and museums.</p>
+
+  <div class="photo-grid">
+    <div class="photo"><img src="/images/gallery/dc/dc1.jpg" alt="Washington DC 1"></div>
+    <div class="photo"><img src="/images/gallery/dc/dc2.jpg" alt="Washington DC 2"></div>
+    <div class="photo"><img src="/images/gallery/dc/dc3.jpg" alt="Washington DC 3"></div>
+    <div class="photo"><img src="/images/gallery/dc/dc4.jpg" alt="Washington DC 4"></div>
+    <div class="photo"><img src="/images/gallery/dc/dc5.jpg" alt="Washington DC 5"></div>
+    <div class="photo"><img src="/images/gallery/dc/dc6.jpg" alt="Washington DC 6"></div>
+    <div class="photo"><img src="/images/gallery/dc/dc7.jpg" alt="Washington DC 7"></div>
+    <div class="photo"><img src="/images/gallery/dc/dc8.jpg" alt="Washington DC 8"></div>
+  </div>
+</div>
+
+
+
 
 
 <div class="album-card">
