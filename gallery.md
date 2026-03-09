@@ -694,6 +694,30 @@ classes: wide
   </div>
 </div>
 
+<div class="album-card">
+  <div class="album-head">
+    <p class="album-title">🏙️ Chicago × Vegas <span style="font-weight:600;color:#6b7280;">(IL/NV)</span></p>
+    <div class="album-badges">
+      <span class="badge">Skyline</span>
+      <span class="badge">City Lights</span>
+      <span class="badge">Street Scenes</span>
+    </div>
+  </div>
+  <p class="album-meta">Two cities, two moods — Chicago and Vegas.</p>
+
+  <div class="photo-grid">
+    <div class="photo"><img src="/images/gallery/city/city1.jpg" alt="City 1"></div>
+    <div class="photo"><img src="/images/gallery/city/city2.jpg" alt="City 2"></div>
+    <div class="photo"><img src="/images/gallery/city/city3.jpg" alt="City 3"></div>
+    <div class="photo"><img src="/images/gallery/city/city4.jpg" alt="City 4"></div>
+    <div class="photo"><img src="/images/gallery/city/city5.jpg" alt="City 5"></div>
+    <div class="photo"><img src="/images/gallery/city/city6.jpg" alt="City 6"></div>
+    <div class="photo"><img src="/images/gallery/city/city7.jpg" alt="City 7"></div>
+    <div class="photo"><img src="/images/gallery/city/city8.jpg" alt="City 8"></div>
+  </div>
+</div>
+
+
 
 <div class="album-card">
   <div class="album-head">
