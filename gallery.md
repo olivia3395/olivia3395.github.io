@@ -718,6 +718,29 @@ classes: wide
 </div>
 
 
+<div class="album-card">
+  <div class="album-head">
+    <p class="album-title">🌊 Santa Cruz <span style="font-weight:600;color:#6b7280;">(CA)</span></p>
+    <div class="album-badges">
+      <span class="badge">Coast</span>
+      <span class="badge">Cliffs</span>
+      <span class="badge">Surf</span>
+    </div>
+  </div>
+  <p class="album-meta">Salt air, coastal cliffs, and the Pacific in motion.</p>
+
+  <div class="photo-grid">
+    <div class="photo"><img src="/images/gallery/santa_cruz/cruz1.jpg" alt="Santa Cruz 1"></div>
+    <div class="photo"><img src="/images/gallery/santa_cruz/cruz2.jpg" alt="Santa Cruz 2"></div>
+    <div class="photo"><img src="/images/gallery/santa_cruz/cruz3.jpg" alt="Santa Cruz 3"></div>
+    <div class="photo"><img src="/images/gallery/santa_cruz/cruz4.jpg" alt="Santa Cruz 4"></div>
+    <div class="photo"><img src="/images/gallery/santa_cruz/cruz5.jpg" alt="Santa Cruz 5"></div>
+    <div class="photo"><img src="/images/gallery/santa_cruz/cruz6.jpg" alt="Santa Cruz 6"></div>
+    <div class="photo"><img src="/images/gallery/santa_cruz/cruz7.jpg" alt="Santa Cruz 7"></div>
+    <div class="photo"><img src="/images/gallery/santa_cruz/cruz8.jpg" alt="Santa Cruz 8"></div>
+  </div>
+</div>
+
 
 <div class="album-card">
   <div class="album-head">
