@@ -727,7 +727,7 @@ classes: wide
       <span class="badge">Surf</span>
     </div>
   </div>
-  <p class="album-meta">Salt air, coastal cliffs, and the Pacific in motion.</p>
+  <p class="album-meta">Salt air, and coastal cliffs.</p>
 
   <div class="photo-grid">
     <div class="photo"><img src="/images/gallery/santa_cruz/cruz1.jpg" alt="Santa Cruz 1"></div>
