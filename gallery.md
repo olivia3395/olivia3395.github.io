@@ -718,27 +718,7 @@ classes: wide
 </div>
 
 
-<div class="album-card">
-  <div class="album-head">
-    <p class="album-title">🌊 Manchester-by-the-Sea <span style="font-weight:600;color:#6b7280;">(MA)</span></p>
-    <div class="album-badges">
-      <span class="badge">New England Coast</span>
-      <span class="badge">Harbor</span>
-    </div>
-  </div>
-  <p class="album-meta">A quiet New England shoreline.</p>
 
-  <div class="photo-grid">
-    <div class="photo"><img src="/images/gallery/manchester/manchester1.jpg" alt="Manchester-by-the-Sea 1"></div>
-    <div class="photo"><img src="/images/gallery/manchester/manchester2.jpg" alt="Manchester-by-the-Sea 2"></div>
-    <div class="photo"><img src="/images/gallery/manchester/manchester3.jpg" alt="Manchester-by-the-Sea 3"></div>
-    <div class="photo"><img src="/images/gallery/manchester/manchester4.jpg" alt="Manchester-by-the-Sea 4"></div>
-    <div class="photo"><img src="/images/gallery/manchester/manchester5.jpg" alt="Manchester-by-the-Sea 5"></div>
-    <div class="photo"><img src="/images/gallery/manchester/manchester6.jpg" alt="Manchester-by-the-Sea 6"></div>
-    <div class="photo"><img src="/images/gallery/manchester/manchester7.jpg" alt="Manchester-by-the-Sea 7"></div>
-    <div class="photo"><img src="/images/gallery/manchester/manchester8.jpg" alt="Manchester-by-the-Sea 8"></div>
-  </div>
-</div>
 
 
 <div class="album-card">
