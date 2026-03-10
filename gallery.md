@@ -724,7 +724,6 @@ classes: wide
     <div class="album-badges">
       <span class="badge">New England Coast</span>
       <span class="badge">Harbor</span>
-      <span class="badge">Quiet Light</span>
     </div>
   </div>
   <p class="album-meta">A quiet New England shoreline.</p>
