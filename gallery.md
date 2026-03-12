@@ -898,6 +898,14 @@ classes: wide
     <div class="photo"><img src="/images/gallery/boston_summer/boston14.jpg" alt="Summer in Boston 14"></div>
     <div class="photo"><img src="/images/gallery/boston_summer/boston15.jpg" alt="Summer in Boston 15"></div>
     <div class="photo"><img src="/images/gallery/boston_summer/boston16.jpg" alt="Summer in Boston 16"></div>
+    <div class="photo"><img src="/images/gallery/boston_summer/boston17.jpg" alt="Summer in Boston 17"></div>
+    <div class="photo"><img src="/images/gallery/boston_summer/boston18.jpg" alt="Summer in Boston 18"></div>
+    <div class="photo"><img src="/images/gallery/boston_summer/boston19.jpg" alt="Summer in Boston 19"></div>
+    <div class="photo"><img src="/images/gallery/boston_summer/boston20.jpg" alt="Summer in Boston 20"></div>
+    <div class="photo"><img src="/images/gallery/boston_summer/boston21.jpg" alt="Summer in Boston 21"></div>
+    <div class="photo"><img src="/images/gallery/boston_summer/boston22.jpg" alt="Summer in Boston 22"></div>
+    <div class="photo"><img src="/images/gallery/boston_summer/boston23.jpg" alt="Summer in Boston 23"></div>
+    <div class="photo"><img src="/images/gallery/boston_summer/boston24.jpg" alt="Summer in Boston 24"></div>
   </div>
 </div>
 
