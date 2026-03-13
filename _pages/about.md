@@ -234,7 +234,7 @@ Soft-Correspondence Objectives**](#)<br>
 - *2019*: Outstanding Graduate, Shandong University  
 
 - *2018*: Hua Loo-Keng Scholarship, Chinese Academy of Sciences  
-- *2018*: Internet+ Innovation & Entrepreneurship Competition — National Gold Award 
+- *2018*: National Gold Award, Internet+ Innovation & Entrepreneurship Competition
 - *2018*: First-Class Scholarship, Shandong University  
 - *2018*: Outstanding Student Leader, Shandong University  
 
