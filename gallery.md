@@ -530,6 +530,33 @@ classes: wide
 
 <div class="album-card">
   <div class="album-head">
+    <p class="album-title">🦒 Orlando Zoo <span style="font-weight:600;color:#6b7280;">(CA)</span></p>
+    <div class="album-badges">
+      <span class="badge">Wildlife</span>
+      <span class="badge">Zoo Day</span>
+    </div>
+  </div>
+  <p class="album-meta">A zoo day in Orlando.</p>
+
+  <div class="photo-grid">
+    <div class="photo"><img src="/images/gallery/orlando_zoo/orlandozoo1.jpg"  alt="Zoo Day 1"></div>
+    <div class="photo"><img src="/images/gallery/orlando_zoo/orlandozoo2.jpg"  alt="Zoo Day 2"></div>
+    <div class="photo"><img src="/images/gallery/orlando_zoo/orlandozoo3.jpg"  alt="Zoo Day 3"></div>
+    <div class="photo"><img src="/images/gallery/orlando_zoo/orlandozoo4.jpg"  alt="Zoo Day 4"></div>
+    <div class="photo"><img src="/images/gallery/orlando_zoo/orlandozoo5.jpg"  alt="Zoo Day 5"></div>
+    <div class="photo"><img src="/images/gallery/orlando_zoo/orlandozoo6.jpg"  alt="Zoo Day 6"></div>
+    <div class="photo"><img src="/images/gallery/orlando_zoo/orlandozoo7.jpg"  alt="Zoo Day 7"></div>
+    <div class="photo"><img src="/images/gallery/orlando_zoo/orlandozoo8.jpg"  alt="Zoo Day 8"></div>
+    <div class="photo"><img src="/images/gallery/orlando_zoo/orlandozoo9.jpg"  alt="Zoo Day 9"></div>
+    <div class="photo"><img src="/images/gallery/orlando_zoo/orlandozoo10.jpg" alt="Zoo Day 10"></div>
+    <div class="photo"><img src="/images/gallery/orlando_zoo/orlandozoo11.jpg" alt="Zoo Day 11"></div>
+    <div class="photo"><img src="/images/gallery/orlando_zoo/orlandozoo12.jpg" alt="Zoo Day 12"></div>
+  </div>
+</div>
+
+
+<div class="album-card">
+  <div class="album-head">
     <p class="album-title">🌄 Sunset in LA <span style="font-weight:600;color:#6b7280;">(CA)</span></p>
     <div class="album-badges">
       <span class="badge">Golden Hour</span>
