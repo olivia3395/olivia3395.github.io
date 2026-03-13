@@ -227,13 +227,12 @@ Soft-Correspondence Objectives**](#)<br>
 
 
 # 🎖 Honors 
-- *2025.09*: Student Travel Grant, Boston University  
-- *2025.05*: Ralph B. D’Agostino Endowed Fellowship, Boston University  
-- *2025.04*: Outstanding Teaching Fellow Award, Boston University  
-- *2019.06*: Outstanding Graduate, Shandong University
-- *2018.10*: Hua Loo-Keng Scholarship, Chinese Academy of Sciences
-- *2018.09*: First-Class Scholarship, Shandong University  
-- *2018.09*: Outstanding Student Leader, Shandong University  
+- *2025*: Student Travel Grant; Ralph B. D’Agostino Endowed Fellowship; Outstanding Teaching Fellow Award, Boston University  
+- *2019*: Outstanding Graduate, Shandong University
+- *2018*: Hua Loo-Keng Scholarship, Chinese Academy of Sciences; Internet+ Innovation & Entrepreneurship Competition — National Gold Award; First-Class Scholarship; Outstanding Student Leader, Shandong University
+- *2017*: First-Class Scholarship; Outstanding Student Leader, Shandong University
+
+
 
 # 📖 Educations
 - *2021.09 – Now*: Ph.D. in Statistics, Boston University
