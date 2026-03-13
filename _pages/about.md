@@ -240,7 +240,7 @@ Soft-Correspondence Objectives**](#)<br>
 
 - *2017*: First-Class Scholarship, Shandong University  
 - *2017*: Outstanding Student Leader, Shandong University  
-- 
+
 
 
 
