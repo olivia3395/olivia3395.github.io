@@ -527,30 +527,30 @@ classes: wide
 </div>
 
 
-
 <div class="album-card">
   <div class="album-head">
-    <p class="album-title">🦒 Orlando Zoo <span style="font-weight:600;color:#6b7280;">(CA)</span></p>
+    <p class="album-title">🦒 Oakland Zoo <span style="font-weight:600;color:#6b7280;">(CA)</span></p>
     <div class="album-badges">
       <span class="badge">Wildlife</span>
-      <span class="badge">Zoo Day</span>
+      <span class="badge">Conservation</span>
+      <span class="badge">Bay Views</span>
     </div>
   </div>
-  <p class="album-meta">A zoo day in Orlando.</p>
+  <p class="album-meta">A sunny day at Oakland Zoo — wildlife moments and hillside views.</p>
 
   <div class="photo-grid">
-    <div class="photo"><img src="/images/gallery/orlando_zoo/orlandozoo1.jpg"  alt="Zoo Day 1"></div>
-    <div class="photo"><img src="/images/gallery/orlando_zoo/orlandozoo2.jpg"  alt="Zoo Day 2"></div>
-    <div class="photo"><img src="/images/gallery/orlando_zoo/orlandozoo3.jpg"  alt="Zoo Day 3"></div>
-    <div class="photo"><img src="/images/gallery/orlando_zoo/orlandozoo4.jpg"  alt="Zoo Day 4"></div>
-    <div class="photo"><img src="/images/gallery/orlando_zoo/orlandozoo5.jpg"  alt="Zoo Day 5"></div>
-    <div class="photo"><img src="/images/gallery/orlando_zoo/orlandozoo6.jpg"  alt="Zoo Day 6"></div>
-    <div class="photo"><img src="/images/gallery/orlando_zoo/orlandozoo7.jpg"  alt="Zoo Day 7"></div>
-    <div class="photo"><img src="/images/gallery/orlando_zoo/orlandozoo8.jpg"  alt="Zoo Day 8"></div>
-    <div class="photo"><img src="/images/gallery/orlando_zoo/orlandozoo9.jpg"  alt="Zoo Day 9"></div>
-    <div class="photo"><img src="/images/gallery/orlando_zoo/orlandozoo10.jpg" alt="Zoo Day 10"></div>
-    <div class="photo"><img src="/images/gallery/orlando_zoo/orlandozoo11.jpg" alt="Zoo Day 11"></div>
-    <div class="photo"><img src="/images/gallery/orlando_zoo/orlandozoo12.jpg" alt="Zoo Day 12"></div>
+    <div class="photo"><img src="/images/gallery/oakland_zoo/oaklandzoo1.jpg"  alt="Oakland Zoo 1"></div>
+    <div class="photo"><img src="/images/gallery/oakland_zoo/oaklandzoo2.jpg"  alt="Oakland Zoo 2"></div>
+    <div class="photo"><img src="/images/gallery/oakland_zoo/oaklandzoo3.jpg"  alt="Oakland Zoo 3"></div>
+    <div class="photo"><img src="/images/gallery/oakland_zoo/oaklandzoo4.jpg"  alt="Oakland Zoo 4"></div>
+    <div class="photo"><img src="/images/gallery/oakland_zoo/oaklandzoo5.jpg"  alt="Oakland Zoo 5"></div>
+    <div class="photo"><img src="/images/gallery/oakland_zoo/oaklandzoo6.jpg"  alt="Oakland Zoo 6"></div>
+    <div class="photo"><img src="/images/gallery/oakland_zoo/oaklandzoo7.jpg"  alt="Oakland Zoo 7"></div>
+    <div class="photo"><img src="/images/gallery/oakland_zoo/oaklandzoo8.jpg"  alt="Oakland Zoo 8"></div>
+    <div class="photo"><img src="/images/gallery/oakland_zoo/oaklandzoo9.jpg"  alt="Oakland Zoo 9"></div>
+    <div class="photo"><img src="/images/gallery/oakland_zoo/oaklandzoo10.jpg" alt="Oakland Zoo 10"></div>
+    <div class="photo"><img src="/images/gallery/oakland_zoo/oaklandzoo11.jpg" alt="Oakland Zoo 11"></div>
+    <div class="photo"><img src="/images/gallery/oakland_zoo/oaklandzoo12.jpg" alt="Oakland Zoo 12"></div>
   </div>
 </div>
 
