@@ -551,6 +551,14 @@ classes: wide
     <div class="photo"><img src="/images/gallery/oakland_zoo/oaklandzoo10.jpg" alt="Oakland Zoo 10"></div>
     <div class="photo"><img src="/images/gallery/oakland_zoo/oaklandzoo11.jpg" alt="Oakland Zoo 11"></div>
     <div class="photo"><img src="/images/gallery/oakland_zoo/oaklandzoo12.jpg" alt="Oakland Zoo 12"></div>
+     <div class="photo"><img src="/images/gallery/oakland_zoo/oaklandzoo13.jpg" alt="Oakland Zoo 13"></div>
+    <div class="photo"><img src="/images/gallery/oakland_zoo/oaklandzoo14.jpg" alt="Oakland Zoo 14"></div>
+    <div class="photo"><img src="/images/gallery/oakland_zoo/oaklandzoo15.jpg" alt="Oakland Zoo 15"></div>
+    <div class="photo"><img src="/images/gallery/oakland_zoo/oaklandzoo16.jpg" alt="Oakland Zoo 16"></div>
+    <div class="photo"><img src="/images/gallery/oakland_zoo/oaklandzoo17.jpg" alt="Oakland Zoo 17"></div>
+    <div class="photo"><img src="/images/gallery/oakland_zoo/oaklandzoo18.jpg" alt="Oakland Zoo 18"></div>
+    <div class="photo"><img src="/images/gallery/oakland_zoo/oaklandzoo19.jpg" alt="Oakland Zoo 19"></div>
+    <div class="photo"><img src="/images/gallery/oakland_zoo/oaklandzoo20.jpg" alt="Oakland Zoo 20"></div>
   </div>
 </div>
 
