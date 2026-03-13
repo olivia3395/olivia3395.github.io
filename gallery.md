@@ -182,6 +182,10 @@ classes: wide
       <div class="photo"><img src="/images/gallery/deathvalley/deathvalley10.jpg" alt="Death Valley 10"></div>
       <div class="photo"><img src="/images/gallery/deathvalley/deathvalley11.jpg" alt="Death Valley 11"></div>
       <div class="photo"><img src="/images/gallery/deathvalley/deathvalley12.jpg" alt="Death Valley 12"></div>
+       <div class="photo"><img src="/images/gallery/deathvalley/deathvalley13.jpg" alt="Death Valley 13"></div>
+       <div class="photo"><img src="/images/gallery/deathvalley/deathvalley14.jpg" alt="Death Valley 14"></div>
+       <div class="photo"><img src="/images/gallery/deathvalley/deathvalley15.jpg" alt="Death Valley 15"></div>
+       <div class="photo"><img src="/images/gallery/deathvalley/deathvalley16.jpg" alt="Death Valley 16"></div>
     </div>
   </div>
 
