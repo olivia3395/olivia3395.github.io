@@ -992,6 +992,30 @@ classes: wide
 
 
 
+<div class="album-card">
+  <div class="album-head">
+    <p class="album-title">☀️ Summer in New England <span style="font-weight:600;color:#6b7280;">(ME/MA)</span></p>
+    <div class="album-badges">
+      <span class="badge">Portland Lighthouse</span>
+      <span class="badge">Rocky Coast</span>
+      <span class="badge">Harbors</span>
+    </div>
+  </div>
+  <p class="album-meta">Lighthouses in Portland, seaside walks in Manchester-by-the-Sea.</p>
+
+  <div class="photo-grid">
+    <div class="photo"><img src="/images/gallery/newengland/newengland1.jpg" alt="New England 1"></div>
+    <div class="photo"><img src="/images/gallery/newengland/newengland2.jpg" alt="New England 2"></div>
+    <div class="photo"><img src="/images/gallery/newengland/newengland3.jpg" alt="New England 3"></div>
+    <div class="photo"><img src="/images/gallery/newengland/newengland4.jpg" alt="New England 4"></div>
+    <div class="photo"><img src="/images/gallery/newengland/newengland5.jpg" alt="New England 5"></div>
+    <div class="photo"><img src="/images/gallery/newengland/newengland6.jpg" alt="New England 6"></div>
+    <div class="photo"><img src="/images/gallery/newengland/newengland7.jpg" alt="New England 7"></div>
+    <div class="photo"><img src="/images/gallery/newengland/newengland8.jpg" alt="New England 8"></div>
+  </div>
+</div>
+
+
 
 
 <div class="album-card">
