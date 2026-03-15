@@ -440,6 +440,10 @@ classes: wide
     <div class="photo"><img src="/images/gallery/lake_tahoe/tahoe10.jpg" alt="Lake Tahoe 10"></div>
     <div class="photo"><img src="/images/gallery/lake_tahoe/tahoe11.jpg" alt="Lake Tahoe 11"></div>
     <div class="photo"><img src="/images/gallery/lake_tahoe/tahoe12.jpg" alt="Lake Tahoe 12"></div>
+    <div class="photo"><img src="/images/gallery/lake_tahoe/tahoe13.jpg" alt="Lake Tahoe 13"></div>
+    <div class="photo"><img src="/images/gallery/lake_tahoe/tahoe14.jpg" alt="Lake Tahoe 14"></div>
+    <div class="photo"><img src="/images/gallery/lake_tahoe/tahoe15.jpg" alt="Lake Tahoe 15"></div>
+    <div class="photo"><img src="/images/gallery/lake_tahoe/tahoe16.jpg" alt="Lake Tahoe 16"></div>
   </div>
 </div>
 
