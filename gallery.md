@@ -950,6 +950,35 @@ classes: wide
 
 <div class="album-card">
   <div class="album-head">
+    <p class="album-title">❄️ Winter in Boston <span style="font-weight:600;color:#6b7280;">(MA)</span></p>
+    <div class="album-badges">
+      <span class="badge">Snow</span>
+      <span class="badge">Charles River</span>
+      <span class="badge">City Walks</span>
+    </div>
+  </div>
+  <p class="album-meta">Boston in winter.</p>
+
+  <div class="photo-grid">
+    <div class="photo"><img src="/images/gallery/winter_boston/winter_boston1.jpg"  alt="Winter in Boston 1"></div>
+    <div class="photo"><img src="/images/gallery/winter_boston/winter_boston2.jpg"  alt="Winter in Boston 2"></div>
+    <div class="photo"><img src="/images/gallery/winter_boston/winter_boston3.jpg"  alt="Winter in Boston 3"></div>
+    <div class="photo"><img src="/images/gallery/winter_boston/winter_boston4.jpg"  alt="Winter in Boston 4"></div>
+    <div class="photo"><img src="/images/gallery/winter_boston/winter_boston5.jpg"  alt="Winter in Boston 5"></div>
+    <div class="photo"><img src="/images/gallery/winter_boston/winter_boston6.jpg"  alt="Winter in Boston 6"></div>
+    <div class="photo"><img src="/images/gallery/winter_boston/winter_boston7.jpg"  alt="Winter in Boston 7"></div>
+    <div class="photo"><img src="/images/gallery/winter_boston/winter_boston8.jpg"  alt="Winter in Boston 8"></div>
+    <div class="photo"><img src="/images/gallery/winter_boston/winter_boston9.jpg"  alt="Winter in Boston 9"></div>
+    <div class="photo"><img src="/images/gallery/winter_boston/winter_boston10.jpg" alt="Winter in Boston 10"></div>
+    <div class="photo"><img src="/images/gallery/winter_boston/winter_boston11.jpg" alt="Winter in Boston 11"></div>
+    <div class="photo"><img src="/images/gallery/winter_boston/winter_boston12.jpg" alt="Winter in Boston 12"></div>
+  </div>
+</div>
+
+
+
+<div class="album-card">
+  <div class="album-head">
     <p class="album-title">🏛️ The Getty <span style="font-weight:600;color:#6b7280;">(CA)</span></p>
     <div class="album-badges">
       <span class="badge">Van Gogh: Irises</span>
@@ -970,6 +999,8 @@ classes: wide
     <div class="photo"><img src="/images/gallery/getty/getty8.jpg" alt="The Getty 8"></div>
   </div>
 </div>
+
+
 
 
 <div class="album-card">
