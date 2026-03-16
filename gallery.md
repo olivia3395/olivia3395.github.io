@@ -1244,6 +1244,30 @@ classes: wide
 
 <div class="album-card">
   <div class="album-head">
+    <p class="album-title">🎓 Columbia University <span style="font-weight:600;color:#6b7280;">(NYC)</span></p>
+    <div class="album-badges">
+      <span class="badge">Alma Mater</span>
+      <span class="badge">Morningside Heights</span>
+    </div>
+  </div>
+  <p class="album-meta">My alma mater.</p>
+
+  <div class="photo-grid">
+    <div class="photo"><img src="/images/gallery/columbia/columbia1.jpg" alt="Columbia University 1"></div>
+    <div class="photo"><img src="/images/gallery/columbia/columbia2.jpg" alt="Columbia University 2"></div>
+    <div class="photo"><img src="/images/gallery/columbia/columbia3.jpg" alt="Columbia University 3"></div>
+    <div class="photo"><img src="/images/gallery/columbia/columbia4.jpg" alt="Columbia University 4"></div>
+    <div class="photo"><img src="/images/gallery/columbia/columbia5.jpg" alt="Columbia University 5"></div>
+    <div class="photo"><img src="/images/gallery/columbia/columbia6.jpg" alt="Columbia University 6"></div>
+    <div class="photo"><img src="/images/gallery/columbia/columbia7.jpg" alt="Columbia University 7"></div>
+    <div class="photo"><img src="/images/gallery/columbia/columbia8.jpg" alt="Columbia University 8"></div>
+  </div>
+</div>
+
+
+
+<div class="album-card">
+  <div class="album-head">
     <p class="album-title">🏔️ Xinjiang <span style="font-weight:600;color:#6b7280;">(China)</span></p>
     <div class="album-badges">
       <span class="badge">Grasslands</span>
