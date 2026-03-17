@@ -948,6 +948,30 @@ classes: wide
   </div>
 </div>
 
+
+<div class="album-card">
+  <div class="album-head">
+    <p class="album-title">🍁 Fall in Boston <span style="font-weight:600;color:#6b7280;">(MA)</span></p>
+    <div class="album-badges">
+      <span class="badge">Maple Kisses</span>
+      <span class="badge">Falling for You</span>
+    </div>
+  </div>
+  <p class="album-meta">If you fall, fall in Boston 🍂.</p>
+
+  <div class="photo-grid">
+    <div class="photo"><img src="/images/gallery/fall_boston/fall_bos1.jpg" alt="Fall in Boston 1"></div>
+    <div class="photo"><img src="/images/gallery/fall_boston/fall_bos2.jpg" alt="Fall in Boston 2"></div>
+    <div class="photo"><img src="/images/gallery/fall_boston/fall_bos3.jpg" alt="Fall in Boston 3"></div>
+    <div class="photo"><img src="/images/gallery/fall_boston/fall_bos4.jpg" alt="Fall in Boston 4"></div>
+    <div class="photo"><img src="/images/gallery/fall_boston/fall_bos5.jpg" alt="Fall in Boston 5"></div>
+    <div class="photo"><img src="/images/gallery/fall_boston/fall_bos6.jpg" alt="Fall in Boston 6"></div>
+    <div class="photo"><img src="/images/gallery/fall_boston/fall_bos7.jpg" alt="Fall in Boston 7"></div>
+    <div class="photo"><img src="/images/gallery/fall_boston/fall_bos8.jpg" alt="Fall in Boston 8"></div>
+  </div>
+</div>
+
+
 <div class="album-card">
   <div class="album-head">
     <p class="album-title">❄️ Winter in Boston <span style="font-weight:600;color:#6b7280;">(MA)</span></p>
