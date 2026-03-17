@@ -1265,6 +1265,28 @@ classes: wide
 </div>
 
 
+<div class="album-card">
+  <div class="album-head">
+    <p class="album-title">🏫 Shandong Experimental High School <span style="font-weight:600;color:#6b7280;">(Jinan, China)</span></p>
+    <div class="album-badges">
+      <span class="badge">Old Days</span>
+      <span class="badge">Memory Lane</span>
+    </div>
+  </div>
+  <p class="album-meta">Where the days were long and the dreams were even longer.</p>
+
+  <div class="photo-grid">
+    <div class="photo"><img src="/images/gallery/highschool/highschool1.jpg" alt="High School 1"></div>
+    <div class="photo"><img src="/images/gallery/highschool/highschool2.jpg" alt="High School 2"></div>
+    <div class="photo"><img src="/images/gallery/highschool/highschool3.jpg" alt="High School 3"></div>
+    <div class="photo"><img src="/images/gallery/highschool/highschool4.jpg" alt="High School 4"></div>
+    <div class="photo"><img src="/images/gallery/highschool/highschool5.jpg" alt="High School 5"></div>
+    <div class="photo"><img src="/images/gallery/highschool/highschool6.jpg" alt="High School 6"></div>
+    <div class="photo"><img src="/images/gallery/highschool/highschool7.jpg" alt="High School 7"></div>
+    <div class="photo"><img src="/images/gallery/highschool/highschool8.jpg" alt="High School 8"></div>
+  </div>
+</div>
+
 
 <div class="album-card">
   <div class="album-head">
