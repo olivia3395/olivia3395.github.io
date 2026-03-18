@@ -82,7 +82,7 @@ I built **MBTI Vibe**, a multimodal AI app that analyzes text and images to gues
 I built **What If Cinema**, an AI storytelling app for anyone who has ever left a movie wondering: what if it ended differently? Users can rewrite a film’s final heartbeat by inserting a new scene, changing a choice, or shifting one moment that changes everything. Rather than generating random fiction, it stays close to the emotional soul of the original story — preserving its tone, longing, and ache while imagining endings that feel tender, devastating, hopeful, or quietly healing.
 
 
-Not every ending needs to be undone. But some deserve to be imagined differently.
+Not every ending needs to be undone. But some deserve to be imagined differently. 🎞️
 
 **Come try it out here:** [**What If Cinema**](https://what-if-cinema.vercel.app/). See the project here: [**GitHub**](https://github.com/olivia3395/What_If_Cinema).
 
