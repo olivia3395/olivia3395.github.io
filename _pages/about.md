@@ -51,7 +51,6 @@ Curious about my research? I put together a friendly, no-jargon **[slide](transf
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
-      <div class="badge">Vibe Check</div>
       <img src='images/mbti_vibe.png' alt="mbti-vibe" width="100%">
     </div>
   </div>
