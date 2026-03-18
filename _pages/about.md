@@ -48,16 +48,24 @@ Curious about my research? I put together a friendly, no-jargon **[slide](transf
 
 # ✨ My Apps 
 
-### **[MBTI Vibe](https://mbti-vibe-ten.vercel.app/)**  
-*A tiny vibe-check machine for text, images, and personality aesthetics*  
-[[GitHub]](https://github.com/olivia3395/MBTI-Vibe)
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">Vibe Check</div>
+      <img src='images/mbti_vibe.png' alt="mbti-vibe" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
 
-On the more playful side, I built **MBTI Vibe**, a multimodal AI app that analyzes text and images to guess the **MBTI vibe** your content gives off. Think captions, poems, screenshots, moodboards, and all those small digital traces of self-expression.
+[**MBTI Vibe**](https://mbti-vibe-ten.vercel.app/)
+· [**GitHub**](https://github.com/olivia3395/MBTI-Vibe)<br>
 
-It does **not** claim to tell you who someone “really is.” Instead, it asks a much softer and more fun question: **what kind of personality atmosphere does this content radiate? 💫
+On the more playful side, I built **MBTI Vibe**, a multimodal AI app that analyzes text and images to guess the **MBTI vibe** your content gives off. Think captions, poems, screenshots, moodboards, and all those tiny digital traces of self-expression. It does **not** claim to tell you who someone “really is.” Instead, it asks a much softer and more fun question: **what kind of personality atmosphere does this content radiate?** 💫
 
-**Come try it out here:** **[MBTI Vibe](https://mbti-vibe-ten.vercel.app/)**. See the project here: **[GitHub](https://github.com/olivia3395/MBTI-Vibe)**.
+**Come try it out here:** [**MBTI Vibe**](https://mbti-vibe-ten.vercel.app/). See the project here: [**GitHub**](https://github.com/olivia3395/MBTI-Vibe).
 
+  </div>
+</div>
 
 
 
