@@ -45,7 +45,7 @@ In statistical learning, this is about transferring geometry or smoothness from 
 Curious about my research? I put together a friendly, no-jargon **[slide](transfer_learning.pdf)** deck on how I think about transfer learning (and why it matters)
 
 
-I also built **[MBTI Vibe](https://mbti-vibe-ten.vercel.app/)**, a playful multimodal AI web app that analyzes text and images—captions, poems, screenshots, aesthetics, and little fragments of self-expression—to ask: *what kind of MBTI vibe does this content give off?* It is conversational, aesthetic, and just self-aware enough to remind you that it is **not** diagnosing anyone’s “true” personality, only interpreting the expressive energy and atmosphere their content projects. ✨ See the project here: **[GitHub](https://github.com/olivia3395/MBTI-Vibe)**.
+I also built **[MBTI Vibe](https://mbti-vibe-ten.vercel.app/)**, a playful multimodal AI web app that analyzes text and images—captions, poems, screenshots, aesthetics, and little fragments of self-expression—to ask: *what kind of MBTI vibe does this content give off?* It is conversational, aesthetic, and just self-aware enough to remind you that it is **not** diagnosing anyone’s “true” personality, only interpreting the expressive energy and atmosphere their content projects. ✨  **Come try it out here:** **[MBTI Vibe](https://mbti-vibe-ten.vercel.app/)**. See the project here: **[GitHub](https://github.com/olivia3395/MBTI-Vibe)**.
 
 
 # 🔥 News
