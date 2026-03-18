@@ -69,6 +69,29 @@ I built **MBTI Vibe**, a multimodal AI app that analyzes text and images to gues
 
 
 
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <img src='images/what_if_cinema.png' alt="what if cinema" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+
+[**What If Cinema**](https://what-if-cinema.vercel.app/)
+· [**GitHub**](https://github.com/olivia3395/What_If_Cinema)<br>
+
+I built **What If Cinema**, an AI storytelling app for everyone who has ever left a movie thinking: *but what if it ended differently?* It lets users rewrite the final heartbeat of a film by inserting a new scene, changing a choice, or gently shifting one moment that changes everything. Instead of generating random fiction, it tries to stay faithful to the emotional soul of the original story — preserving its tone, its longing, its ache — while imagining alternate endings that can feel tender, devastating, hopeful, or quietly healing.
+
+Not every ending needs to be undone. But some deserve to be imagined differently.
+
+**Come try it out here:** [**What If Cinema**](https://what-if-cinema.vercel.app/). See the project here: [**GitHub**](https://github.com/olivia3395/What_If_Cinema).
+
+  </div>
+</div>
+
+
+
+
 # 🔥 News
 - *2025.09*: 🎉 My first-author paper **"Transfer Learning on Edge Connecting Probability Estimation Under Graphon Model"** is accepted by ([NeurIPS 2025](https://neurips.cc/))!
 - *2025.08*: 🎉 My co-authored paper **"Multi-scale based Cross-modal Semantic Alignment Network for Radiology Report Generation"** is accepted by ([IEEE SMC 2025](https://ieeexplore.ieee.org/))!
