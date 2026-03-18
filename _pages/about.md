@@ -60,7 +60,7 @@ Curious about my research? I put together a friendly, no-jargon **[slide](transf
 [**MBTI Vibe**](https://mbti-vibe-ten.vercel.app/)
 · [**GitHub**](https://github.com/olivia3395/MBTI-Vibe)<br>
 
-On the more playful side, I built **MBTI Vibe**, a multimodal AI app that analyzes text and images to guess the **MBTI vibe** your content gives off. Think captions, poems, screenshots, moodboards, and all those tiny digital traces of self-expression. It does **not** claim to tell you who someone “really is.” Instead, it asks a much softer and more fun question: **what kind of personality atmosphere does this content radiate?** 💫
+On the more playful side, I built **MBTI Vibe**, a multimodal AI app that analyzes text and images to guess the MBTI vibe your content gives off. Think captions, poems, screenshots, moodboards, and all those tiny digital traces of self-expression. It does not claim to tell you who someone “really is.” Instead, it asks a much softer and more fun question: what kind of personality atmosphere does this content radiate? 💫
 
 **Come try it out here:** [**MBTI Vibe**](https://mbti-vibe-ten.vercel.app/). See the project here: [**GitHub**](https://github.com/olivia3395/MBTI-Vibe).
 
