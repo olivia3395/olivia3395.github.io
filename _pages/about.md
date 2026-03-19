@@ -46,6 +46,13 @@ Curious about my research? I put together a friendly, no-jargon **[slide](transf
 
 
 
+
+
+# 🔥 News
+- *2025.09*: 🎉 My first-author paper **"Transfer Learning on Edge Connecting Probability Estimation Under Graphon Model"** is accepted by ([NeurIPS 2025](https://neurips.cc/))!
+- *2025.08*: 🎉 My co-authored paper **"Multi-scale based Cross-modal Semantic Alignment Network for Radiology Report Generation"** is accepted by ([IEEE SMC 2025](https://ieeexplore.ieee.org/))!
+- *2025.08*: 🎉 My co-authored paper **"Cross-Domain Hyperspectral Image Classification via Mamba-CNN and Knowledge Distillation"** is accepted by ([IEEE TGRS 2025](https://ieeexplore.ieee.org/))!
+
 # ✨ My Apps 
 
 <div class='paper-box'>
@@ -90,12 +97,25 @@ Not every ending needs to be undone. But some deserve to be imagined differently
 </div>
 
 
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <img src='images/letter_from_sceen.png' alt="Letters from the Screen" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+
+[**Letters from the Screen**](https://letters-from-the-screen.vercel.app/)
+· [**GitHub**](https://github.com/olivia3395/Letters_from_the_Screen)<br>
+
+I built **Letters from the Screen**, a cinematic emotional companion where users share what is on their heart and receive a healing letter from the movie or TV character they need most in that moment. Designed as a fateful letter from the screen rather than a chatbot, the experience is literary, intimate, and deeply comforting. Sometimes, when life feels heavy, what we need is not advice, but a voice. ✉️
+
+**Come try it out here:** [**Letters from the Screen**](https://letters-from-the-screen.vercel.app/). See the project here: [**GitHub**](https://github.com/olivia3395/Letters_from_the_Screen).
+
+  </div>
+</div>
 
 
-# 🔥 News
-- *2025.09*: 🎉 My first-author paper **"Transfer Learning on Edge Connecting Probability Estimation Under Graphon Model"** is accepted by ([NeurIPS 2025](https://neurips.cc/))!
-- *2025.08*: 🎉 My co-authored paper **"Multi-scale based Cross-modal Semantic Alignment Network for Radiology Report Generation"** is accepted by ([IEEE SMC 2025](https://ieeexplore.ieee.org/))!
-- *2025.08*: 🎉 My co-authored paper **"Cross-Domain Hyperspectral Image Classification via Mamba-CNN and Knowledge Distillation"** is accepted by ([IEEE TGRS 2025](https://ieeexplore.ieee.org/))!
 
 # 📝 Publications 
 
