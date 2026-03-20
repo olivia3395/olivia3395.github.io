@@ -46,8 +46,6 @@ Curious about my research? I put together a friendly, no-jargon **[slide](transf
 
 
 
-
-
 # 🔥 News
 - *2025.09*: 🎉 My first-author paper **"Transfer Learning on Edge Connecting Probability Estimation Under Graphon Model"** is accepted by ([NeurIPS 2025](https://neurips.cc/))!
 - *2025.08*: 🎉 My co-authored paper **"Multi-scale based Cross-modal Semantic Alignment Network for Radiology Report Generation"** is accepted by ([IEEE SMC 2025](https://ieeexplore.ieee.org/))!
