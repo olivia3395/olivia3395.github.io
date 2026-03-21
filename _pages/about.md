@@ -64,7 +64,7 @@ Curious about my research? I put together a friendly, no-jargon **[slide](transf
 [**MBTI Vibe**](https://mbti-vibe-ten.vercel.app/)
 · [**GitHub**](https://github.com/olivia3395/MBTI-Vibe)<br>
 
-I built **MBTI Vibe**, a multimodal AI app that analyzes text and images to guess the MBTI vibe your content gives off. Think captions, poems, screenshots, moodboards, and all those tiny digital traces of self-expression. It does not claim to tell you who someone “really is.” Instead, it asks a much softer and more fun question: what kind of personality atmosphere does this content radiate? 💫
+**MBTI Vibe** is a multimodal AI app that analyzes text and images to guess the MBTI vibe your content gives off. Think captions, poems, screenshots, moodboards, and all those tiny digital traces of self-expression. It does not claim to tell you who someone “really is.” Instead, it asks a much softer and more fun question: what kind of personality atmosphere does this content radiate? 💫
 
 **Come try it out here:** [**MBTI Vibe**](https://mbti-vibe-ten.vercel.app/). See the project here: [**GitHub**](https://github.com/olivia3395/MBTI-Vibe).
 
@@ -84,7 +84,7 @@ I built **MBTI Vibe**, a multimodal AI app that analyzes text and images to gues
 [**What If Cinema**](https://what-if-cinema.vercel.app/)
 · [**GitHub**](https://github.com/olivia3395/What_If_Cinema)<br>
 
-I built **What If Cinema**, an AI storytelling app for anyone who has ever left a movie wondering: what if it ended differently? Users can rewrite a film’s final heartbeat by inserting a new scene, changing a choice, or shifting one moment that changes everything. Rather than generating random fiction, it stays close to the emotional soul of the original story — preserving its tone, longing, and ache while imagining endings that feel tender, devastating, hopeful, or quietly healing. Not every ending needs to be undone. But some deserve to be imagined differently. 🎞️
+**What If Cinema** is an AI storytelling app for anyone who has ever left a movie wondering: what if it ended differently? Users can rewrite a film’s final heartbeat by inserting a new scene, changing a choice, or shifting one moment that changes everything. Rather than generating random fiction, it stays close to the emotional soul of the original story — preserving its tone, longing, and ache while imagining endings that feel tender, devastating, hopeful, or quietly healing. Not every ending needs to be undone. But some deserve to be imagined differently. 🎞️
 
 **Come try it out here:** [**What If Cinema**](https://what-if-cinema.vercel.app/). See the project here: [**GitHub**](https://github.com/olivia3395/What_If_Cinema).
 
@@ -103,7 +103,7 @@ I built **What If Cinema**, an AI storytelling app for anyone who has ever left 
 [**Letters from the Screen**](https://letters-from-the-screen.vercel.app/)
 · [**GitHub**](https://github.com/olivia3395/Letters_from_the_Screen)<br>
 
-I built **Letters from the Screen**, a cinematic emotional companion where users share what is on their heart and receive a healing letter from the movie or TV character they need most in that moment. Designed as a fateful letter from the screen rather than a chatbot, the experience is literary, intimate, and deeply comforting. Sometimes, when life feels heavy, what we need is not advice, but a voice. ✉️
+**Letters from the Screen** is a cinematic emotional companion where users share what is on their heart and receive a healing letter from the movie or TV character they need most in that moment. More love letter than chatbot, the experience is intimate, comforting, and a little magical. Sometimes what we need is not advice, but a voice that feels like it found us. ✉️
 
 **Come try it out here:** [**Letters from the Screen**](https://letters-from-the-screen.vercel.app/). See the project here: [**GitHub**](https://github.com/olivia3395/Letters_from_the_Screen).
 
@@ -122,7 +122,7 @@ I built **Letters from the Screen**, a cinematic emotional companion where users
 [**If You Disappeared on a Trip**](https://if-you-disappeared.vercel.app/)
 · [**GitHub**](https://github.com/olivia3395/if-you-disappeared)<br>
 
-I built **If You Disappeared on a Trip**, a AI travel storytelling app for anyone who has ever wanted to quietly disappear for a while. Instead of planning flights or itineraries, it turns a feeling into a vivid little life somewhere else — a soft, atmospheric travel micro-story shaped by mood, place, and longing. Users can begin with a sentence, a destination, or a set of emotional vibes, and the app responds with a structured journey full of real places, tiny details, what you saw, what you ate, what you photographed, and what you wrote down. It is not really about booking a trip. It is about briefly living one. ✈️
+**If You Disappeared on a Trip** is a AI travel app for anyone who has ever wanted to quietly vanish for a day or two. Instead of giving you an itinerary, it turns a mood into a tiny borrowed life somewhere else — soft, atmospheric, and just a little bit funny. Think scenes, snacks, photographs, and the kind of thoughts you only seem to have in another city. ✈️
 
 **Come try it out here:** [**If You Disappeared on a Trip**](https://if-you-disappeared.vercel.app/). See the project here: [**GitHub**](https://github.com/olivia3395/if-you-disappeared).
 
