@@ -43,7 +43,7 @@ In statistical learning, this is about transferring geometry or smoothness from 
 
 Curious about my research? I put together a friendly, no-jargon **[slide](transfer_learning.pdf)** deck on how I think about transfer learning (and why it matters)
 
-Alongside theory and modeling, I also enjoy building AI apps that make these ideas tangible — translating technical systems into interactive experiences people can actually use, feel, and remember.
+Alongside theory and modeling, I also enjoy building AI apps that make these ideas tangible, translating technical systems into interactive experiences people can actually use, feel, and remember.
 
 
 
