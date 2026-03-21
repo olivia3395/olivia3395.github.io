@@ -111,6 +111,26 @@ I built **Letters from the Screen**, a cinematic emotional companion where users
 </div>
 
 
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <img src='images/if_you_disappeared.png' alt="If You Disappeared on a Trip" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+
+[**If You Disappeared on a Trip**](https://if-you-disappeared.vercel.app/)
+· [**GitHub**](https://github.com/olivia3395/if-you-disappeared)<br>
+
+I built **If You Disappeared on a Trip**, a AI travel storytelling app for anyone who has ever wanted to quietly disappear for a while. Instead of planning flights or itineraries, it turns a feeling into a vivid little life somewhere else — a soft, atmospheric travel micro-story shaped by mood, place, and longing. Users can begin with a sentence, a destination, or a set of emotional vibes, and the app responds with a structured journey full of real places, tiny details, what you saw, what you ate, what you photographed, and what you wrote down. It is not really about booking a trip. It is about briefly living one. ✈️
+
+**Come try it out here:** [**If You Disappeared on a Trip**](https://if-you-disappeared.vercel.app/). See the project here: [**GitHub**](https://github.com/olivia3395/if-you-disappeared).
+
+  </div>
+</div>
+
+
+
 
 # 📝 Publications 
 
