@@ -26,7 +26,6 @@ The question that keeps me up (in a good way):
 In statistical learning, this is about transferring geometry or smoothness from a well-understood **source** distribution to a smaller, noisier **target** under shift.  In reinforcement learning, the **source** might be prior trajectories, simulators, or related tasks, while the **target** is the evolving environment, so we need principled rules for **what to keep, what to adapt, and what to forget**. And yes! **LLMs/VLMs** make this even more exciting (and tricky): they already contain a lot of cross-domain knowledge, but the real challenge is **extracting and specializing it safely** for downstream tasks without **overfitting, hallucination, or misalignment**.
 
 
-
 ## What I build
 
 - **Theory that actually supports practice**  
@@ -43,6 +42,8 @@ In statistical learning, this is about transferring geometry or smoothness from 
 
 
 Curious about my research? I put together a friendly, no-jargon **[slide](transfer_learning.pdf)** deck on how I think about transfer learning (and why it matters)
+
+Alongside theory and modeling, I also enjoy building AI apps that make these ideas tangible — translating technical systems into interactive experiences people can actually use, feel, and remember.
 
 
 
