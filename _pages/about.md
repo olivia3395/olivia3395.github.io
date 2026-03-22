@@ -105,7 +105,7 @@ Beyond my research, I enjoy building AI apps that reveal another side of how I t
 [**Letters from the Screen**](https://letters-from-the-screen.vercel.app/)
 · [**GitHub**](https://github.com/olivia3395/Letters_from_the_Screen)<br>
 
-**Letters from the Screen** is a cinematic emotional companion where users share what is on their heart and receive a healing letter from the movie or TV character they need most in that moment. More love letter than chatbot, the experience is intimate, comforting, and a little magical. Sometimes what we need is not advice, but a voice that feels like it found us. ✉️
+**Letters from the Screen** is a cinematic emotional companion where users share what is on their heart and receive a healing letter from the movie or TV character they need most in that moment. More love letter than chatbot, it feels intimate, tender, and just a little magical. The comfort lies in its emotional closeness: it offers not advice, but presence — the rare feeling that a voice from another story has stepped out of the screen to sit beside you for a while. ✉️
 
 **Come try it out here:** [**Letters from the Screen**](https://letters-from-the-screen.vercel.app/). See the project here: [**GitHub**](https://github.com/olivia3395/Letters_from_the_Screen).
 
