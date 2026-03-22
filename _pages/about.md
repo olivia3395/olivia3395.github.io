@@ -43,8 +43,7 @@ In statistical learning, this is about transferring geometry or smoothness from 
 
 Curious about my research? I put together a friendly, no-jargon **[slide](transfer_learning.pdf)** deck on how I think about transfer learning (and why it matters)
 
-Beyond my research, I enjoy building AI apps that reveal another side of how I think. The apps I build reflect a very personal way of seeing the world ✨ I have always felt that what makes us human is not confined to the body, but lives in something harder to name — spirit, consciousness, memory, emotional residue 🌌 I am deeply drawn to cinema and interactive experiences because they can make that invisible layer briefly tangible 🎬 In this sense, my work is not only about models and systems, but also about trying to understand how technology might capture something of presence, atmosphere, and the inner life that lingers beyond any single form 🌙
-
+Beyond theory and modeling, I am drawn to building AI applications that reflect how I see people and the world ✨ I have always felt that human beings are more than their outward forms, that something of the spirit, memory, and inner life exceeds the body that temporarily carries it 🌙 That is why I am especially fascinated by cinema, atmosphere, and emotionally resonant digital experiences 🎬
 
 
 
