@@ -131,6 +131,25 @@ Beyond theory and modeling, I am drawn to building AI applications that reflect 
 </div>
 
 
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <img src='images/souvenir_of_a_life.png' alt="Souvenirs of a Life Not Yet Lived" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+
+[**Souvenirs of a Life Not Yet Lived**](https://souvenir-of-a-life.vercel.app/)
+· [**GitHub**](https://github.com/olivia3395/Souvenir_of_a_life)<br>
+
+**Souvenirs of a Life Not Yet Lived** is an immersive AI travel app where users step into a private museum of the lives they almost lived. Instead of planning a trip, it generates a small, emotionally resonant keepsake from a parallel life — a ticket, a postcard, a receipt, a note — based on the user’s mood, longing, and the kind of life they have been quietly standing outside of. The experience is cinematic, intimate, and collectible, inviting users not just to imagine another city, but another self they might still be growing toward. ✨
+
+**Come try it out here:** [**Souvenirs of a Life Not Yet Lived**](https://souvenir-of-a-life.vercel.app/). See the project here: [**GitHub**](https://github.com/olivia3395/Souvenir_of_a_life).
+
+  </div>
+</div>
+
+
 
 
 # 📝 Publications 
