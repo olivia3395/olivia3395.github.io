@@ -124,7 +124,7 @@ Beyond my research, I enjoy building AI apps that reveal another side of how I t
 [**If You Disappeared on a Trip**](https://if-you-disappeared.vercel.app/)
 · [**GitHub**](https://github.com/olivia3395/if-you-disappeared)<br>
 
-**If You Disappeared on a Trip** is a AI travel app for anyone who has ever wanted to quietly vanish for a day or two. Instead of giving you an itinerary, it turns a mood into a tiny borrowed life somewhere else — soft, atmospheric, and just a little bit funny. Think scenes, snacks, photographs, and the kind of thoughts you only seem to have in another city. ✈️
+**If You Disappeared on a Trip** is an AI travel app for anyone who has ever wanted to slip away for a day or two. Instead of offering a typical itinerary, it creates a small borrowed life in another city based on your mood — cinematic, soothing, and touched with a bit of humor. There is a healing quality to it: not because it solves anything, but because it gives people a brief, imaginative place to rest, wander, and feel held by another version of life. Think scenes, snacks, photographs, and the kind of inner weather that only changes when you leave home. ✈️
 
 **Come try it out here:** [**If You Disappeared on a Trip**](https://if-you-disappeared.vercel.app/). See the project here: [**GitHub**](https://github.com/olivia3395/if-you-disappeared).
 
