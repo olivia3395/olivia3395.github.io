@@ -5,12 +5,12 @@ main:
     
   - title: "News"
     url: "/#-news"
-
-  - title: "My Apps"
-    url: "/#-my-apps"
     
   - title: "Publications"
     url: "/#-publications"
+    
+  - title: "My Apps"
+    url: "/#-my-apps"
 
   - title: "Honors"
     url: "/#-honors"
