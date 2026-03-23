@@ -52,103 +52,6 @@ Beyond theory and modeling, I am drawn to building AI applications that reflect 
 - *2025.08*: 🎉 My co-authored paper **"Multi-scale based Cross-modal Semantic Alignment Network for Radiology Report Generation"** is accepted by ([IEEE SMC 2025](https://ieeexplore.ieee.org/))!
 - *2025.08*: 🎉 My co-authored paper **"Cross-Domain Hyperspectral Image Classification via Mamba-CNN and Knowledge Distillation"** is accepted by ([IEEE TGRS 2025](https://ieeexplore.ieee.org/))!
 
-# ✨ My Apps 
-
-<div class='paper-box'>
-  <div class='paper-box-image'>
-    <div>
-      <img src='images/mbti_vibe.png' alt="mbti-vibe" width="100%">
-    </div>
-  </div>
-  <div class='paper-box-text' markdown="1">
-
-[**MBTI Vibe**](https://mbti-vibe-ten.vercel.app/)
-· [**GitHub**](https://github.com/olivia3395/MBTI-Vibe)<br>
-
-**MBTI Vibe** is a multimodal AI app that analyzes text and images to guess the MBTI vibe your content gives off. Think captions, poems, screenshots, moodboards, and all those tiny digital traces of self-expression. It does not claim to tell you who someone “really is.” Instead, it asks a much softer and more fun question: what kind of personality atmosphere does this content radiate? 💫
-
-Come try it out [**here**](https://mbti-vibe-ten.vercel.app/). See the project [**here**](https://github.com/olivia3395/MBTI-Vibe).
-
-  </div>
-</div>
-
-
-
-<div class='paper-box'>
-  <div class='paper-box-image'>
-    <div>
-      <img src='images/what_if_cinema.png' alt="what if cinema" width="100%">
-    </div>
-  </div>
-  <div class='paper-box-text' markdown="1">
-
-[**What If Cinema**](https://what-if-cinema.vercel.app/)
-· [**GitHub**](https://github.com/olivia3395/What_If_Cinema)<br>
-
-**What If Cinema** is an AI storytelling app for anyone who has ever left a movie wondering: what if it ended differently? Users can rewrite a film’s final heartbeat by inserting a new scene, changing a choice, or shifting one moment that changes everything. Rather than generating random fiction, it stays close to the emotional soul of the original story — preserving its tone, longing, and ache while imagining endings that feel tender, devastating, hopeful, or quietly healing. Not every ending needs to be undone. But some deserve to be imagined differently. 🎞️
-
-Come try it out [**here**](https://what-if-cinema.vercel.app/). See the project [**here**](https://github.com/olivia3395/What_If_Cinema).
-
-  </div>
-</div>
-
-
-<div class='paper-box'>
-  <div class='paper-box-image'>
-    <div>
-      <img src='images/letter_from_sceen.png' alt="Letters from the Screen" width="100%">
-    </div>
-  </div>
-  <div class='paper-box-text' markdown="1">
-
-[**Letters from the Screen**](https://letters-from-the-screen.vercel.app/)
-· [**GitHub**](https://github.com/olivia3395/Letters_from_the_Screen)<br>
-
-**Letters from the Screen** is a cinematic emotional companion where users share what is on their heart and receive a healing letter from the movie or TV character they need most in that moment. More love letter than chatbot, it feels intimate, tender, and just a little magical. The comfort lies in its emotional closeness: it offers not advice, but presence — the rare feeling that a voice from another story has stepped out of the screen to sit beside you for a while. ✉️
-
-Come try it out [**here**](https://letters-from-the-screen.vercel.app/). See the project [**here**](https://github.com/olivia3395/Letters_from_the_Screen).
-
-  </div>
-</div>
-
-
-<div class='paper-box'>
-  <div class='paper-box-image'>
-    <div>
-      <img src='images/if_you_disappeared.png' alt="If You Disappeared on a Trip" width="100%">
-    </div>
-  </div>
-  <div class='paper-box-text' markdown="1">
-
-[**If You Disappeared on a Trip**](https://if-you-disappeared.vercel.app/)
-· [**GitHub**](https://github.com/olivia3395/if-you-disappeared)<br>
-
-**If You Disappeared on a Trip** is an AI travel app for anyone who has ever wanted to slip away for a day or two. Instead of offering a typical itinerary, it creates a small borrowed life in another city based on your mood — cinematic, soothing, and touched with a bit of humor. There is a healing quality to it: not because it solves anything, but because it gives people a brief, imaginative place to rest, wander, and feel held by another version of life. Think scenes, snacks, photographs, and the kind of inner weather that only changes when you leave home. ✈️
-
-Come try it out [**here**](https://if-you-disappeared.vercel.app/). See the project [**here**](https://github.com/olivia3395/if-you-disappeared).
-
-  </div>
-</div>
-
-
-<div class='paper-box'>
-  <div class='paper-box-image'>
-    <div>
-      <img src='images/souvenir_of_a_life.png' alt="Souvenirs of a Life Not Yet Lived" width="100%">
-    </div>
-  </div>
-  <div class='paper-box-text' markdown="1">
-
-[**Souvenirs of a Life Not Yet Lived**](https://souvenir-of-a-life.vercel.app/)
-· [**GitHub**](https://github.com/olivia3395/Souvenir_of_a_life)<br>
-
-**Souvenirs of a Life Not Yet Lived** is an immersive AI travel app where users step into a private museum of the lives they almost lived. Instead of planning a trip, it generates a small, emotionally resonant keepsake from a parallel life — a ticket, a postcard, a receipt, a note — based on the user’s mood, longing, and the kind of life they have been quietly standing outside of. The experience is cinematic, intimate, and collectible, inviting users not just to imagine another city, but another self they might still be growing toward. ✨
-
-Come try it out [**here**](https://souvenir-of-a-life.vercel.app/). See the project [**here**](https://github.com/olivia3395/Souvenir_of_a_life).
-
-  </div>
-</div>
-
 
 
 
@@ -324,6 +227,106 @@ Soft-Correspondence Objectives**](#)<br>
 
 </div>
 </div>
+
+
+# ✨ My Apps 
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <img src='images/mbti_vibe.png' alt="mbti-vibe" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+
+[**MBTI Vibe**](https://mbti-vibe-ten.vercel.app/)
+· [**GitHub**](https://github.com/olivia3395/MBTI-Vibe)<br>
+
+**MBTI Vibe** is a multimodal AI app that analyzes text and images to guess the MBTI vibe your content gives off. Think captions, poems, screenshots, moodboards, and all those tiny digital traces of self-expression. It does not claim to tell you who someone “really is.” Instead, it asks a much softer and more fun question: what kind of personality atmosphere does this content radiate? 💫
+
+Come try it out [**here**](https://mbti-vibe-ten.vercel.app/). See the project [**here**](https://github.com/olivia3395/MBTI-Vibe).
+
+  </div>
+</div>
+
+
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <img src='images/what_if_cinema.png' alt="what if cinema" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+
+[**What If Cinema**](https://what-if-cinema.vercel.app/)
+· [**GitHub**](https://github.com/olivia3395/What_If_Cinema)<br>
+
+**What If Cinema** is an AI storytelling app for anyone who has ever left a movie wondering: what if it ended differently? Users can rewrite a film’s final heartbeat by inserting a new scene, changing a choice, or shifting one moment that changes everything. Rather than generating random fiction, it stays close to the emotional soul of the original story — preserving its tone, longing, and ache while imagining endings that feel tender, devastating, hopeful, or quietly healing. Not every ending needs to be undone. But some deserve to be imagined differently. 🎞️
+
+Come try it out [**here**](https://what-if-cinema.vercel.app/). See the project [**here**](https://github.com/olivia3395/What_If_Cinema).
+
+  </div>
+</div>
+
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <img src='images/letter_from_sceen.png' alt="Letters from the Screen" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+
+[**Letters from the Screen**](https://letters-from-the-screen.vercel.app/)
+· [**GitHub**](https://github.com/olivia3395/Letters_from_the_Screen)<br>
+
+**Letters from the Screen** is a cinematic emotional companion where users share what is on their heart and receive a healing letter from the movie or TV character they need most in that moment. More love letter than chatbot, it feels intimate, tender, and just a little magical. The comfort lies in its emotional closeness: it offers not advice, but presence — the rare feeling that a voice from another story has stepped out of the screen to sit beside you for a while. ✉️
+
+Come try it out [**here**](https://letters-from-the-screen.vercel.app/). See the project [**here**](https://github.com/olivia3395/Letters_from_the_Screen).
+
+  </div>
+</div>
+
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <img src='images/if_you_disappeared.png' alt="If You Disappeared on a Trip" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+
+[**If You Disappeared on a Trip**](https://if-you-disappeared.vercel.app/)
+· [**GitHub**](https://github.com/olivia3395/if-you-disappeared)<br>
+
+**If You Disappeared on a Trip** is an AI travel app for anyone who has ever wanted to slip away for a day or two. Instead of offering a typical itinerary, it creates a small borrowed life in another city based on your mood — cinematic, soothing, and touched with a bit of humor. There is a healing quality to it: not because it solves anything, but because it gives people a brief, imaginative place to rest, wander, and feel held by another version of life. Think scenes, snacks, photographs, and the kind of inner weather that only changes when you leave home. ✈️
+
+Come try it out [**here**](https://if-you-disappeared.vercel.app/). See the project [**here**](https://github.com/olivia3395/if-you-disappeared).
+
+  </div>
+</div>
+
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <img src='images/souvenir_of_a_life.png' alt="Souvenirs of a Life Not Yet Lived" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+
+[**Souvenirs of a Life Not Yet Lived**](https://souvenir-of-a-life.vercel.app/)
+· [**GitHub**](https://github.com/olivia3395/Souvenir_of_a_life)<br>
+
+**Souvenirs of a Life Not Yet Lived** is an immersive AI travel app where users step into a private museum of the lives they almost lived. Instead of planning a trip, it generates a small, emotionally resonant keepsake from a parallel life — a ticket, a postcard, a receipt, a note — based on the user’s mood, longing, and the kind of life they have been quietly standing outside of. The experience is cinematic, intimate, and collectible, inviting users not just to imagine another city, but another self they might still be growing toward. ✨
+
+Come try it out [**here**](https://souvenir-of-a-life.vercel.app/). See the project [**here**](https://github.com/olivia3395/Souvenir_of_a_life).
+
+  </div>
+</div>
+
+
 
 
 
