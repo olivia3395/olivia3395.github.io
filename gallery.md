@@ -1152,6 +1152,38 @@ classes: wide
 </div>
 
 
+<div class="album-card">
+  <div class="album-head">
+    <p class="album-title">🖼️ Mr. Brainwash Art Museum <span style="font-weight:600;color:#6b7280;">(Beverly Hills, CA)</span></p>
+    <div class="album-badges">
+      <span class="badge">Street Pop</span>
+      <span class="badge">Bold Color</span>
+    </div>
+  </div>
+  <p class="album-meta">A little bittersweet — the museum closed in Jan 2026.</p>
+
+  <div class="photo-grid">
+    <div class="photo"><img src="/images/gallery/mr_brainwash/mr_brainwash1.jpg"  alt="Mr Brainwash 1"></div>
+    <div class="photo"><img src="/images/gallery/mr_brainwash/mr_brainwash2.jpg"  alt="Mr Brainwash 2"></div>
+    <div class="photo"><img src="/images/gallery/mr_brainwash/mr_brainwash3.jpg"  alt="Mr Brainwash 3"></div>
+    <div class="photo"><img src="/images/gallery/mr_brainwash/mr_brainwash4.jpg"  alt="Mr Brainwash 4"></div>
+    <div class="photo"><img src="/images/gallery/mr_brainwash/mr_brainwash5.jpg"  alt="Mr Brainwash 5"></div>
+    <div class="photo"><img src="/images/gallery/mr_brainwash/mr_brainwash6.jpg"  alt="Mr Brainwash 6"></div>
+    <div class="photo"><img src="/images/gallery/mr_brainwash/mr_brainwash7.jpg"  alt="Mr Brainwash 7"></div>
+    <div class="photo"><img src="/images/gallery/mr_brainwash/mr_brainwash8.jpg"  alt="Mr Brainwash 8"></div>
+    <div class="photo"><img src="/images/gallery/mr_brainwash/mr_brainwash9.jpg"  alt="Mr Brainwash 9"></div>
+    <div class="photo"><img src="/images/gallery/mr_brainwash/mr_brainwash10.jpg" alt="Mr Brainwash 10"></div>
+    <div class="photo"><img src="/images/gallery/mr_brainwash/mr_brainwash11.jpg" alt="Mr Brainwash 11"></div>
+    <div class="photo"><img src="/images/gallery/mr_brainwash/mr_brainwash12.jpg" alt="Mr Brainwash 12"></div>
+    <div class="photo"><img src="/images/gallery/mr_brainwash/mr_brainwash13.jpg" alt="Mr Brainwash 13"></div>
+    <div class="photo"><img src="/images/gallery/mr_brainwash/mr_brainwash14.jpg" alt="Mr Brainwash 14"></div>
+    <div class="photo"><img src="/images/gallery/mr_brainwash/mr_brainwash15.jpg" alt="Mr Brainwash 15"></div>
+    <div class="photo"><img src="/images/gallery/mr_brainwash/mr_brainwash16.jpg" alt="Mr Brainwash 16"></div>
+  </div>
+</div>
+
+
+
 
 <div class="album-card">
   <div class="album-head">
