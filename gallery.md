@@ -1160,7 +1160,7 @@ classes: wide
       <span class="badge">Bold Color</span>
     </div>
   </div>
-  <p class="album-meta">A little bittersweet — the museum closed in Jan 2026.</p>
+  <p class="album-meta">A little bittersweet — the museum closed in Jan 2026, so I’m saving these frames here, as a quiet souvenir of a place that once bright.</p>
 
   <div class="photo-grid">
     <div class="photo"><img src="/images/gallery/mr_brainwash/mr_brainwash1.jpg"  alt="Mr Brainwash 1"></div>
