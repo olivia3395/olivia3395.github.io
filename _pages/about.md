@@ -339,9 +339,10 @@ Come try it out [**here**](https://souvenir-of-a-life.vercel.app/). See the proj
 [**The Map of Me**](https://the-map-of-me.vercel.app/)
 · [**GitHub**](https://github.com/olivia3395/the-map-of-me)<br>
 
-**The Map of Me** is an immersive cultural atlas where users save the places that matter to them and watch each one unfold into a richer world of film, literature, and city memory. Instead of stopping at a map marker, the app turns a place into a curated shelf of references — what was filmed there, what was written there, and what streets or landmarks still carry its atmosphere. Designed as a cinematic, editorial, and collectible experience, it invites users not just to map where they have been, but to discover how a city can live on through screen, page, and place. ✨
+**The Map of Me** is a map-based cultural discovery app that lets users collect meaningful places and explore what lives around them beyond geography alone. After adding a city, users can move from the global atlas into a more curated layer of screen references, books, and local landmarks, so that a place becomes not just somewhere on the map, but a small world of its own. With its editorial layout and archive-inspired interface, the project reimagines mapping as a form of cultural browsing — part atlas, part city shelf, part personal collection. 🗺️
 
 Come try it out [**here**](https://the-map-of-me.vercel.app/). See the project [**here**](https://github.com/olivia3395/the-map-of-me).
+
 
   </div>
 </div>
