@@ -343,9 +343,6 @@ Come try it out [**here**](https://the-map-of-me.vercel.app/). See the project [
 - *2018*: First-Class Scholarship, Shandong University  
 - *2018*: Outstanding Student Leader, Shandong University  
 
-- *2017*: First-Class Scholarship, Shandong University  
-- *2017*: Outstanding Student Leader, Shandong University  
-
 
 
 
