@@ -85,6 +85,25 @@ Beyond theory and modeling, I am drawn to building AI applications that reflect 
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
+      <div class="badge">Under Review </div>
+      <img src='images/tess_workflow.png' alt="tess" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+
+[**From Text to Forecasts: Bridging Modality Gap with Temporal Evolution Semantic Space**](https://arxiv.org/abs/2603.12664)<br>
+*Boston University; Hong Kong University of Science and Technology; Shandong University*
+
+- **Bridges the text–time-series modality gap:** introduces a **Temporal Evolution Semantic Space (TESS)** that distills free-form text into **interpretable temporal primitives** (mean shift, volatility, shape, lag), instead of directly fusing noisy token embeddings.  
+- **LLM-guided yet numerically grounded forecasting:** uses **structured prompting + confidence-aware gating** to inject reliable semantic signals as prefix tokens into a Transformer forecaster, yielding **robust gains under event-driven non-stationarity** (up to **29% error reduction**).
+
+</div>
+</div>
+
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
       <div class="badge">Under Review</div>
       <img src='images/scot_main.png' alt="scot" width="100%">
     </div>
@@ -97,24 +116,6 @@ Soft-Correspondence Objectives**](#)<br>
 
 - **Explicit many-to-many correspondence (no node matching):** learns a **Sinkhorn entropic-OT coupling** between unequal region sets and uses it to define **soft aligned pairs** for cross-city transfer.  
 - **OT-guided semantic sharpening + stability:** combines **OT-weighted contrastive alignment** with **cycle-style reconstruction**; extends to multi-source with a **target-aware prototype hub** to prevent collapse and handle strong heterogeneity.
-
-</div>
-</div>
-
-<div class='paper-box'>
-  <div class='paper-box-image'>
-    <div>
-      <div class="badge">Under Review </div>
-      <img src='images/tess_workflow.png' alt="tess" width="100%">
-    </div>
-  </div>
-  <div class='paper-box-text' markdown="1">
-
-[**From Text to Forecasts: Bridging Modality Gap with Temporal Evolution Semantic Space**](#)<br>
-*Boston University; Hong Kong University of Science and Technology; Shandong University*
-
-- **Bridges the text–time-series modality gap:** introduces a **Temporal Evolution Semantic Space (TESS)** that distills free-form text into **interpretable temporal primitives** (mean shift, volatility, shape, lag), instead of directly fusing noisy token embeddings.  
-- **LLM-guided yet numerically grounded forecasting:** uses **structured prompting + confidence-aware gating** to inject reliable semantic signals as prefix tokens into a Transformer forecaster, yielding **robust gains under event-driven non-stationarity** (up to **29% error reduction**).
 
 </div>
 </div>
