@@ -370,14 +370,15 @@ Come try it out [**here**](https://the-map-of-me.vercel.app/). See the project [
   - Developed LLM-powered image risk scoring with GPT-4o + Google Street View; integrated outputs into actuarial models  
 
 # 🗂️ Projects
-
+- **Mini GPT Pre-Training** · [Code](https://github.com/olivia3395/Mini-GPT-Pre-Training) — Decoder-only GPT built from scratch in PyTorch; character-level LM trained on TinyShakespeare.
+- **LLaMA 2 Fine-Tuning (QLoRA)** · [Code](https://github.com/olivia3395/LLaMA2_finetuning) — 4-bit QLoRA (PEFT/bitsandbytes) instruction tuning on consumer GPUs.
+- **LLM 1-bit Quantization (HQQ)** · [Code](https://github.com/olivia3395/HQQ_1-bit_Quantization) — HQQ 1-bit weight quantization on LLaMA 2; speed–accuracy benchmarks.
+- **RLHF (PPO)** · [Code](https://github.com/olivia3395/rlhf_finetuning) — PPO-based RLHF with custom rewards for controllable generation.
+- **Traffic Bot Detection** · [Code](https://github.com/olivia3395/Traffic_Bot_Detection) — Three-layer ensemble (statistical rules + Isolation Forest + Gradient Boosting) with LLM-agent fingerprinting; < 15ms inference.
 - **Dog Breed Classification (CNN + VGG16/ResNet50)** · [Code](https://github.com/olivia3395/dog_identification_app) · [Demo](https://olivia3395.github.io/dog_identification_app/) — **75.48%** accuracy (Stanford Dogs); Flask deployment.  
 - **Credit Risk Prediction (XGBoost + SMOTE)** · [Code](https://github.com/olivia3395/credit-default-risk) — **0.976 AUC**; default-class recall **91%**, F1 **0.95**.  
 - **Pedestrian Detection (Fast R-CNN style + Siamese)** · [Code](https://github.com/olivia3395) — few-shot-ready pipeline + pruning/fusion for faster inference.  
 - **Mask Detection (ResNet50 + Grad-CAM)** · [Code](https://github.com/olivia3395/MaskDetection) — **94%** test accuracy; explainable predictions via Grad-CAM.
-- **LLaMA 2 Fine-Tuning (QLoRA)** · [Code](https://github.com/olivia3395/LLaMA2_finetuning) — 4-bit QLoRA (PEFT/bitsandbytes) instruction tuning on consumer GPUs.  
-- **LLM 1-bit Quantization (HQQ)** · [Code](https://github.com/olivia3395/HQQ_1-bit_Quantization) —  HQQ 1-bit weight quantization on LLaMA 2; speed–accuracy benchmarks.  
-- **RLHF (PPO)** · [Code](https://github.com/olivia3395/rlhf_finetuning) — PPO-based RLHF with custom rewards for controllable generation.  
 - **Financial Sentiment Analysis (DistilBERT)** · [Code](https://github.com/olivia3395/finanial-text-analysis) · [Demo](https://olivia3395.github.io/finanial-text-analysis/) — **85%** accuracy; **30%** faster inference.  
 - **Spam Detection (TF-IDF + Naive Bayes)** · [Code](https://github.com/olivia3395/spam_detection) — **96%** precision / **94%** recall; interpretable token analysis.  
 - **Interactive Airbnb Booking Dashboard (R Shiny)** · [Code](https://github.com/olivia3395/rshinyapp_airbnb) · [Demo](https://yuyaowang.shinyapps.io/airbnb_app/) — interactive maps + real-time filtering.  
