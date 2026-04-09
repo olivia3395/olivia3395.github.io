@@ -335,6 +335,24 @@ Come try it out [**here**](https://the-map-of-me.vercel.app/). See the project [
 
 
 
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <img src='images/macondo.png' alt="A Room in Macondo" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+
+[**A Room in Macondo**](https://a-room-in-macondo.vercel.app/)
+· [**GitHub**](https://github.com/olivia3395/a-room-in-macondo)<br>
+
+**A Room in Macondo** is an atmospheric AI literary experience inspired by the world of *One Hundred Years of Solitude*. Rather than retelling the novel, it invites users to step inside its weather for a moment — to enter a room, a ritual, and a fate of their own within a rain-soaked world of memory, fire, butterflies, and magical realism. Through a small sequence of questions, the app transforms mood into a story fragment that feels less like generated text and more like something recovered from an old archive in Macondo itself. With its dark-gold palette, burning-paper visuals, and haunted editorial layout, the project reimagines literary interaction as something immersive, cinematic, and quietly uncanny. 🦋
+
+Come try it out [**here**](https://a-room-in-macondo.vercel.app/). See the project [**here**](https://github.com/olivia3395/a-room-in-macondo).
+
+  </div>
+</div>
+
 
 # 🎖 Honors 
 - *2025*: Student Travel Grant, Boston University  
