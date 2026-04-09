@@ -392,7 +392,7 @@ Come try it out [**here**](https://a-room-in-macondo.vercel.app/). See the proje
 - **LLaMA 2 Fine-Tuning (QLoRA)** · [Code](https://github.com/olivia3395/LLaMA2_finetuning) — 4-bit QLoRA (PEFT/bitsandbytes) instruction tuning on consumer GPUs.
 - **LLM 1-bit Quantization (HQQ)** · [Code](https://github.com/olivia3395/HQQ_1-bit_Quantization) — HQQ 1-bit weight quantization on LLaMA 2; speed–accuracy benchmarks.
 - **RLHF (PPO)** · [Code](https://github.com/olivia3395/rlhf_finetuning) — PPO-based RLHF with custom rewards for controllable generation.
-- **Traffic Bot Detection** · [Code](https://github.com/olivia3395/Traffic_Bot_Detection) — Three-layer ensemble (statistical rules + Isolation Forest + Gradient Boosting) with LLM-agent fingerprinting; < 15ms inference.
+- **Traffic Bot Detection** · [Code](https://github.com/olivia3395/Traffic_Bot_Detection) — Three-layer ensemble (statistical rules + Isolation Forest + Gradient Boosting) with LLM-agent fingerprinting.
 - **Dog Breed Classification (CNN + VGG16/ResNet50)** · [Code](https://github.com/olivia3395/dog_identification_app) · [Demo](https://olivia3395.github.io/dog_identification_app/) — **75.48%** accuracy (Stanford Dogs); Flask deployment.  
 - **Credit Risk Prediction (XGBoost + SMOTE)** · [Code](https://github.com/olivia3395/credit-default-risk) — **0.976 AUC**; default-class recall **91%**, F1 **0.95**.  
 - **Pedestrian Detection (Fast R-CNN style + Siamese)** · [Code](https://github.com/olivia3395) — few-shot-ready pipeline + pruning/fusion for faster inference.  
