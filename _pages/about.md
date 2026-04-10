@@ -232,7 +232,7 @@ Soft-Correspondence Objectives**](#)<br>
 
 - **[Adaptive RAG with Query Routing and Self-Reflection](https://github.com/olivia3395/Adaptive_RAG)** · [Code](https://github.com/olivia3395/Adaptive_RAG)  
   Routes queries, iterates retrieval, and self-checks for unsupported answers.  
-  - FastAPI + ChromaDB + graph retrieval components; Side-by-side comparison: vanilla RAG vs GraphRAG vs Adaptive RAG
+  - FastAPI + ChromaDB + graph retrieval components
 
 - **[LLaMA 2 Fine-Tuning (QLoRA)](https://github.com/olivia3395/LLaMA2_finetuning)** · [Code](https://github.com/olivia3395/LLaMA2_finetuning)  
   4-bit NF4 (bitsandbytes) + LoRA adapters; prompt formats + cosine LR + merge/export.  
