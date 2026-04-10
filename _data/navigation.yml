@@ -12,6 +12,11 @@ main:
   - title: "My Apps"
     url: "/#-my-apps"
 
+
+  - title: "LLM Engineering Projects" 
+    url: "/#-llm-engineering-projects"
+    
+
   - title: "Honors"
     url: "/#-honors"
 
