@@ -216,6 +216,48 @@ Soft-Correspondence Objectives**](#)<br>
 
 
 
+# 🤖 LLM Engineering Projects
+
+- **[Traffic Bot Detection](https://github.com/olivia3395/traffic_bot_detection)** · [Code](https://github.com/olivia3395/traffic_bot_detection)  
+  Built a three-layer ensemble (rules, Isolation Forest, Gradient Boosting) with an **LLM-agent fingerprint scorer** (timing regularity, link coverage, API probing).  
+  - CSIC 2010 + hybrid synthetic LLM traffic  
+  - **>93% recall**, **<1% FPR**, **<15ms latency**
+
+- **[DataPilot: AI Data Science Agent for Autonomous CSV Analysis](https://github.com/olivia3395/DataPilot_Studio-)** · [Code](https://github.com/olivia3395/DataPilot_Studio-)  
+  Streamlit agent with **planner–analyst–verifier** workflow for profiling CSVs, generating executable Python, visualization, and grounded summaries.  
+  - Baseline ML pipelines + **XGBoost**, feature importance  
+  - Sample datasets + downloadable reports/code
+
+- **[GraphRAG: Graph-Enhanced Multimodal RAG](https://github.com/olivia3395/GraphRAG)** · [Code](https://github.com/olivia3395/GraphRAG)  
+  Production-style RAG combining dense retrieval + entity-graph expansion + image-text retrieval.  
+  - FastAPI + ChromaDB + sentence-transformers + CLIP  
+  - Supports heterogeneous text/image corpora
+
+- **[Adaptive RAG with Query Routing and Self-Reflection](https://github.com/olivia3395/Adaptive_RAG)** · [Code](https://github.com/olivia3395/Adaptive_RAG)  
+  Routes queries, iterates retrieval, and self-checks for unsupported answers.  
+  - FastAPI + ChromaDB + graph retrieval components  
+  - Side-by-side comparison: vanilla RAG vs GraphRAG vs Adaptive RAG
+
+- **[LLaMA 2 Fine-Tuning (QLoRA)](https://github.com/olivia3395/LLaMA2_finetuning)** · [Code](https://github.com/olivia3395/LLaMA2_finetuning)  
+  4-bit NF4 (bitsandbytes) + LoRA adapters; prompt formats + cosine LR + merge/export.  
+  - Evaluated with perplexity / token accuracy / ROUGE-L
+
+- **[RLHF (PPO)](https://github.com/olivia3395/rlhf_finetuning)** · [Code](https://github.com/olivia3395/rlhf_finetuning)  
+  PPO RLHF with composite reward and adaptive KL controller.  
+  - GPT-2 actor-critic + GAE + clipped PPO + W&B logging
+
+- **[Mini LLM Pre-Training](https://github.com/olivia3395/mini_pretrain)** · [Code](https://github.com/olivia3395/mini_pretrain)  
+  Pre-trained a **10.7M** GPT from scratch in PyTorch on TinyShakespeare.  
+  - PPL **65 → ~4.7** after 5k iters
+
+- **[LLM 1-bit Quantization (HQQ)](https://github.com/olivia3395/HQQ_1-bit_Quantization)** · [Code](https://github.com/olivia3395/HQQ_1-bit_Quantization)  
+  Half-Quadratic Quantization (1–8 bit) via proximal optimization; no calibration data.  
+  - **W1G64: 12.7×** compression, **>4×** speedup
+
+- **[DraftVerify: Speculative Decoding](https://github.com/olivia3395/DraftVerify)** · [Code](https://github.com/olivia3395/DraftVerify)  
+  Draft+verifier speculative decoding to reduce AR decoding cost.  
+  - Benchmarked latency/throughput/acceptance vs vanilla decoding
+ 
 
 # ✨ My Apps 
 
