@@ -8,12 +8,12 @@ main:
     
   - title: "Publications"
     url: "/#-publications"
-    
-  - title: "My Apps"
-    url: "/#-my-apps"
 
   - title: "LLM Engineering Projects" 
     url: "/#-llm-engineering-projects"
+    
+  - title: "My Apps"
+    url: "/#-my-apps"
     
   - title: "Honors"
     url: "/#-honors"
