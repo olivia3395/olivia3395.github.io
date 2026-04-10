@@ -89,6 +89,28 @@ Beyond theory and modeling, I am drawn to building AI applications that reflect 
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
+      <div class="badge">Under Review @ JASA</div>
+      <img src='images/phaseshift.png' alt="phaseshift" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+
+[**Phase Transition in Nonparametric Minimax Rates for Covariate Shifts on Approximate Manifolds**](https://arxiv.org/abs/2507.00889)
+· [**Code**](https://github.com/olivia3395/Covariate-Shifts-on-Approximate-Manifolds)
+· [**Poster**](https://github.com/olivia3395/Covariate-Shifts-on-Approximate-Manifolds/blob/main/manifold_poster.pdf)
+· [**Slides**](https://github.com/olivia3395/Covariate-Shifts-on-Approximate-Manifolds/blob/main/slides_Manifold.pdf)<br>
+*Boston University; Chicago Booth*
+
+- **New minimax theory for “near-manifold” shift:** exposes a sharp **phase transition** controlled by the **support gap** between target and source neighborhoods—unifying multiple geometric-transfer regimes.  
+- **Ratio-free, adaptive estimator:** achieves **near-optimal, dimension-adaptive rates** **without density ratios** and without assuming knowing the geometry (works under approximate manifold mismatch).
+
+</div>
+</div>
+
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
       <div class="badge">Under Review </div>
       <img src='images/tess_workflow.png' alt="tess" width="100%">
     </div>
@@ -126,27 +148,27 @@ Soft-Correspondence Objectives**](#)<br>
 
 
 
-
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
-      <div class="badge">Under Review @ JASA</div>
-      <img src='images/phaseshift.png' alt="phaseshift" width="100%">
+      <div class="badge">Under Review</div>
+      <img src='images/synergy_bpr_workflow.png' alt="synergy-bpr" width="100%">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
 
-[**Phase Transition in Nonparametric Minimax Rates for Covariate Shifts on Approximate Manifolds**](https://arxiv.org/abs/2507.00889)
-· [**Code**](https://github.com/olivia3395/Covariate-Shifts-on-Approximate-Manifolds)
-· [**Poster**](https://github.com/olivia3395/Covariate-Shifts-on-Approximate-Manifolds/blob/main/manifold_poster.pdf)
-· [**Slides**](https://github.com/olivia3395/Covariate-Shifts-on-Approximate-Manifolds/blob/main/slides_Manifold.pdf)<br>
-*Boston University; Chicago Booth*
 
-- **New minimax theory for “near-manifold” shift:** exposes a sharp **phase transition** controlled by the **support gap** between target and source neighborhoods—unifying multiple geometric-transfer regimes.  
-- **Ratio-free, adaptive estimator:** achieves **near-optimal, dimension-adaptive rates** **without density ratios** and without assuming knowing the geometry (works under approximate manifold mismatch).
+[**INCM: INConsistency-aware Multi-modal Recommendation with Cross-Modal Hard Negatives**](#)<br>
+*Boston University; Shandong University; Tsinghua University*
+
+* **Inconsistency-aware multimodal ranking:** studies how cross-modal discrepancies in recommendation may provide complementary ranking evidence or degrade fusion quality, and explicitly incorporates these effects into the training objective.
+* **Cross-modal hard negatives + synergy-aware ranking loss:** proposes **CHNS** to mine modality-specific hard negatives across branches, and a **Synergy-aware BPR** loss to ensure the fused branch achieves stronger preference margins than unimodal branches.
+
+
 
 </div>
 </div>
+
 
 
 <!-- ===================== Co-author ===================== -->
@@ -170,26 +192,6 @@ Soft-Correspondence Objectives**](#)<br>
 
 </div>
 </div>
-
-
-<div class='paper-box'>
-  <div class='paper-box-image'>
-    <div>
-      <div class="badge">Under Review</div>
-      <img src='images/synergy_bpr_workflow.png' alt="synergy-bpr" width="100%">
-    </div>
-  </div>
-  <div class='paper-box-text' markdown="1">
-
-[**Inconsistency aware Multi Modal Recommendation**](#)<br>
-*Boston University; Shandong University; Tsinghua University*
-
-- **Disentangles synergy vs redundancy in multimodal signals:** explicitly decomposes item information into **unique (text / vision)** and **synergistic** components using **heterogeneous–homogeneity graph transformations**, avoiding naïve feature fusion.  
-- **Inconsistency-aware learning with principled negatives:** introduces **cross-modal hard negative sampling** and a **Synergy-BPR objective** that suppresses redundant cues while amplifying truly complementary signals, yielding robust gains under noisy or conflicting modalities.
-
-</div>
-</div>
-
 
 
 
