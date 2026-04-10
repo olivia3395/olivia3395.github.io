@@ -444,7 +444,7 @@ Come try it out [**here**](https://a-room-in-macondo.vercel.app/). See the proje
 - **R&B Lyrical Analysis(LDA + VADER)** · [Code](https://github.com/olivia3395/R-B_Lyrics) — topic discovery + sentiment trends across decades.
 
 
-# 📃 Academic Service & Presentations
+# 📃 Academic Service & Talks
 
 - **Presentations:** CIKM 2024; NeurIPS 2025  
 - **Reviewer:** CIKM 2025; ICME 2026; ICML 2026; KDD 2026
