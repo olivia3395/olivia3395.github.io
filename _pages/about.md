@@ -219,11 +219,11 @@ Soft-Correspondence Objectives**](#)<br>
 # 🤖 LLM Engineering Projects
 
 - **[Traffic Bot Detection](https://github.com/olivia3395/traffic_bot_detection)** · [Code](https://github.com/olivia3395/traffic_bot_detection)  
-  Built a three-layer ensemble (rules, Isolation Forest, Gradient Boosting) with an **LLM-agent fingerprint scorer** (timing regularity, link coverage, API probing).  
+  Built a three-layer ensemble with an **LLM-agent fingerprint scorer** (timing regularity, link coverage, API probing).  
   - CSIC 2010 + hybrid synthetic LLM traffic
 
 - **[DataPilot: AI Data Science Agent for Autonomous CSV Analysis](https://github.com/olivia3395/DataPilot_Studio-)** · [Code](https://github.com/olivia3395/DataPilot_Studio-)  
-  Streamlit agent with **planner–analyst–verifier** workflow for profiling CSVs, generating executable Python, visualization, and grounded summaries.  
+  Streamlit agent with **planner–analyst–verifier** workflow for profiling CSVs, generating executable Python, visualization, and summaries.  
   - Baseline ML pipelines + **XGBoost**, feature importance; Sample datasets + downloadable reports/code
 
 - **[GraphRAG: Graph-Enhanced Multimodal RAG](https://github.com/olivia3395/GraphRAG)** · [Code](https://github.com/olivia3395/GraphRAG)  
