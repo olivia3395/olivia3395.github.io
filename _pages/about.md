@@ -216,9 +216,9 @@ Soft-Correspondence Objectives**](#)<br>
 
 
 
-# 🤖 LLM Systems
+# 🤖 LLM Engineering Projects
 
-## AI Agent & Tool Use
+
 
 <div class='paper-box'>
   <div class='paper-box-text' markdown="1">
@@ -252,7 +252,7 @@ A Streamlit-based AI data science agent powered by a **multi-step planner–anal
 
 
 
-## RAG System Engineering
+
 
 <div class='paper-box'>
   <div class='paper-box-text' markdown="1">
@@ -286,7 +286,6 @@ An adaptive RAG system that **routes queries, performs iterative retrieval** to 
 
 
 
-## LLM Evaluation & Alignment
 
 <div class='paper-box'>
   <div class='paper-box-text' markdown="1">
@@ -334,7 +333,6 @@ Pre-trained a **10.7M-parameter GPT from scratch** in pure PyTorch (6-layer deco
 
 
 
-## Efficient Inference
 
 <div class='paper-box'>
   <div class='paper-box-text' markdown="1">
