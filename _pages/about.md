@@ -220,23 +220,19 @@ Soft-Correspondence Objectives**](#)<br>
 
 - **[Traffic Bot Detection](https://github.com/olivia3395/traffic_bot_detection)** · [Code](https://github.com/olivia3395/traffic_bot_detection)  
   Built a three-layer ensemble (rules, Isolation Forest, Gradient Boosting) with an **LLM-agent fingerprint scorer** (timing regularity, link coverage, API probing).  
-  - CSIC 2010 + hybrid synthetic LLM traffic  
-  - **>93% recall**, **<1% FPR**, **<15ms latency**
+  - CSIC 2010 + hybrid synthetic LLM traffic
 
 - **[DataPilot: AI Data Science Agent for Autonomous CSV Analysis](https://github.com/olivia3395/DataPilot_Studio-)** · [Code](https://github.com/olivia3395/DataPilot_Studio-)  
   Streamlit agent with **planner–analyst–verifier** workflow for profiling CSVs, generating executable Python, visualization, and grounded summaries.  
-  - Baseline ML pipelines + **XGBoost**, feature importance  
-  - Sample datasets + downloadable reports/code
+  - Baseline ML pipelines + **XGBoost**, feature importance; Sample datasets + downloadable reports/code
 
 - **[GraphRAG: Graph-Enhanced Multimodal RAG](https://github.com/olivia3395/GraphRAG)** · [Code](https://github.com/olivia3395/GraphRAG)  
   Production-style RAG combining dense retrieval + entity-graph expansion + image-text retrieval.  
-  - FastAPI + ChromaDB + sentence-transformers + CLIP  
-  - Supports heterogeneous text/image corpora
+  - FastAPI + ChromaDB + sentence-transformers + CLIP; Supports heterogeneous text/image corpora
 
 - **[Adaptive RAG with Query Routing and Self-Reflection](https://github.com/olivia3395/Adaptive_RAG)** · [Code](https://github.com/olivia3395/Adaptive_RAG)  
   Routes queries, iterates retrieval, and self-checks for unsupported answers.  
-  - FastAPI + ChromaDB + graph retrieval components  
-  - Side-by-side comparison: vanilla RAG vs GraphRAG vs Adaptive RAG
+  - FastAPI + ChromaDB + graph retrieval components; Side-by-side comparison: vanilla RAG vs GraphRAG vs Adaptive RAG
 
 - **[LLaMA 2 Fine-Tuning (QLoRA)](https://github.com/olivia3395/LLaMA2_finetuning)** · [Code](https://github.com/olivia3395/LLaMA2_finetuning)  
   4-bit NF4 (bitsandbytes) + LoRA adapters; prompt formats + cosine LR + merge/export.  
