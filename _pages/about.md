@@ -136,8 +136,7 @@ Beyond theory and modeling, I am drawn to building AI applications that reflect 
   </div>
   <div class='paper-box-text' markdown="1">
 
-[**SCOT: Multi-Source Cross-City Transfer with Optimal-Transport
-Soft-Correspondence Objectives**](#)<br>
+[**SCOT: Multi-Source Cross-City Transfer with Optimal-Transport Soft-Correspondence Objectives**](https://arxiv.org/abs/2604.07383)<br>
 *Boston University; Shandong University*
 
 - **Explicit many-to-many correspondence (no node matching):** learns a **Sinkhorn entropic-OT coupling** between unequal region sets and uses it to define **soft aligned pairs** for cross-city transfer.  
