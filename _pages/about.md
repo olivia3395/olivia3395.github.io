@@ -233,6 +233,18 @@ Beyond theory and modeling, I am drawn to building AI applications that reflect 
   Routes queries, iterates retrieval, and self-checks for unsupported answers.  
   - FastAPI + ChromaDB + graph retrieval components
 
+- **[RAGAudit: Retrieval-Augmented Generation with Hallucination Detection](https://github.com/olivia3395/RAGAudit)** · [Code](https://github.com/olivia3395/RAGAudit)  
+  Built a production-style RAG pipeline with **hybrid BM25 + FAISS retrieval**, Reciprocal Rank Fusion, and a **three-layer hallucination detector** combining NLI faithfulness, SelfCheckGPT consistency, and semantic entropy.  
+  - Wikipedia DPR + Natural Questions + HaluEval; Mistral-7B; evaluated with Recall@5, MRR@5, EM, F1, and AUROC
+
+- **[TuneShift: Adaptive Instruction Tuning for Domain Transfer](https://github.com/olivia3395/TuneShift)** · [Code](https://github.com/olivia3395/TuneShift)  
+  Built a modular LLM fine-tuning workbench for **domain transfer**, supporting supervised finetuning, instruction tuning, dialogue finetuning, and **parameter-efficient adaptation** with LoRA / QLoRA.  
+  - Compared general-to-domain adaptation strategies; evaluated with EM, token-level F1, ROUGE-L, and generation behavior analysis
+
+- **[AlignDPO: Preference Optimization from Scratch](https://github.com/olivia3395/AlignDPO-Preference-Optimization-from-Scratch)** · [Code](https://github.com/olivia3395/AlignDPO-Preference-Optimization-from-Scratch)  
+  Implemented **DPO, IPO, and KTO from scratch** and fine-tuned Mistral-7B on Anthropic HH-RLHF using **QLoRA (4-bit NF4)**, avoiding an explicit reward model and RL loop.  
+  - Systematic ablations across preference losses; evaluated with reward accuracy, reward margin, and GPT-4-as-judge win rate
+
 - **[LLaMA 2 Fine-Tuning (QLoRA)](https://github.com/olivia3395/LLaMA2_finetuning)** · [Code](https://github.com/olivia3395/LLaMA2_finetuning)  
   4-bit NF4 (bitsandbytes) + LoRA adapters; prompt formats + cosine LR + merge/export.  
   - Evaluated with perplexity / token accuracy / ROUGE-L
