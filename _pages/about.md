@@ -237,17 +237,17 @@ Beyond theory and modeling, I am drawn to building AI applications that reflect 
   Built a production-style RAG pipeline with **hybrid BM25 + FAISS retrieval**, Reciprocal Rank Fusion, and a **three-layer hallucination detector** combining NLI faithfulness, SelfCheckGPT consistency, and semantic entropy.  
   - Wikipedia DPR + Natural Questions + HaluEval; Mistral-7B; evaluated with Recall@5, MRR@5, EM, F1, and AUROC
 
-- **[TuneShift: Adaptive Instruction Tuning for Domain Transfer](https://github.com/olivia3395/TuneShift)** · [Code](https://github.com/olivia3395/TuneShift)  
-  Built a modular LLM fine-tuning workbench for **domain transfer**, supporting supervised finetuning, instruction tuning, dialogue finetuning, and **parameter-efficient adaptation** with LoRA / QLoRA.  
-  - Compared general-to-domain adaptation strategies; evaluated with EM, token-level F1, ROUGE-L, and generation behavior analysis
+- **[RAGAudit](https://github.com/olivia3395/RAGAudit)** · [Code](https://github.com/olivia3395/RAGAudit)  
+  Production-style RAG with **hybrid BM25 + FAISS retrieval** and a **three-signal hallucination detector** (NLI, SelfCheckGPT, semantic entropy).  
+  - Wikipedia DPR + Natural Questions + HaluEval; Mistral-7B; Recall@5, MRR@5, EM, F1, AUROC
 
-- **[AlignDPO: Preference Optimization from Scratch](https://github.com/olivia3395/AlignDPO-Preference-Optimization-from-Scratch)** · [Code](https://github.com/olivia3395/AlignDPO-Preference-Optimization-from-Scratch)  
-  Implemented **DPO, IPO, and KTO from scratch** and fine-tuned Mistral-7B on Anthropic HH-RLHF using **QLoRA (4-bit NF4)**, avoiding an explicit reward model and RL loop.  
-  - Systematic ablations across preference losses; evaluated with reward accuracy, reward margin, and GPT-4-as-judge win rate
+- **[TuneShift](https://github.com/olivia3395/TuneShift)** · [Code](https://github.com/olivia3395/TuneShift)  
+  Modular LLM fine-tuning framework for **domain transfer**, supporting instruction tuning, dialogue finetuning, and **LoRA / QLoRA** adaptation.  
+  - Compared adaptation strategies across domains with EM, F1, and ROUGE-L
 
-- **[LLaMA 2 Fine-Tuning (QLoRA)](https://github.com/olivia3395/LLaMA2_finetuning)** · [Code](https://github.com/olivia3395/LLaMA2_finetuning)  
-  4-bit NF4 (bitsandbytes) + LoRA adapters; prompt formats + cosine LR + merge/export.  
-  - Evaluated with perplexity / token accuracy / ROUGE-L
+- **[AlignDPO](https://github.com/olivia3395/AlignDPO-Preference-Optimization-from-Scratch)** · [Code](https://github.com/olivia3395/AlignDPO-Preference-Optimization-from-Scratch)  
+  Preference optimization from scratch with **DPO, IPO, and KTO**, using **QLoRA** to fine-tune Mistral-7B on Anthropic HH-RLHF.  
+  - Evaluated with reward accuracy, reward margin, and GPT-4-as-judge win rate
 
 - **[RLHF (PPO)](https://github.com/olivia3395/rlhf_finetuning)** · [Code](https://github.com/olivia3395/rlhf_finetuning)  
   PPO RLHF with composite reward and adaptive KL controller.  
