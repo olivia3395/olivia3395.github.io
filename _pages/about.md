@@ -215,7 +215,7 @@ Beyond theory and modeling, I am drawn to building AI applications that reflect 
 
 
 
-# 🤖 LLM Engineering Projects
+# 🤖 LLM Engineering & Production System Projects
 
 
 
@@ -263,7 +263,18 @@ Beyond theory and modeling, I am drawn to building AI applications that reflect 
   Draft+verifier speculative decoding to reduce AR decoding cost.  
   - Benchmarked latency/throughput/acceptance vs vanilla decoding
  
+- **[Causal Promotion Optimization for Retail Demand](https://github.com/olivia3395/Causal-Promotion-Optimization)** · [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="15" alt="GitHub"/> Code](https://github.com/olivia3395/Causal-Promotion-Optimization) · [📄 PDF](https://github.com/olivia3395/Causal-Promotion-Optimization/blob/main/Causal_Promotion.pdf)  
+  Doubly robust / **AIPW** promotion-effect estimation with **LightGBM** nuisance models and **EconML DRLearner** for CATE; budget-constrained promotion planning via **OR-Tools**.
+  - Retail panel data; overlap, balance & robustness diagnostics; deployed with **FastAPI + Streamlit** for interactive policy scoring and recommendation export
+ 
+- **[Demand Forecasting with Transformers](https://github.com/olivia3395/Retail-Demand-Forecasting)** · [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="15" alt="GitHub"/> Code](https://github.com/olivia3395/Retail-Demand-Forecasting) · [📄 PDF](https://github.com/olivia3395/Retail-Demand-Forecasting/blob/main/Retail_Demand.pdf)  
+  Store-SKU demand forecasting pipeline on **M5** with **Seasonal Naive**, **LightGBM** baselines and a **Temporal Fusion Transformer** for 28-day horizon forecasting.
+  - Automated data download, retail feature engineering, time-based evaluation; reproducible pipelines with exported forecasts and business-facing analysis artifacts
 
+- **[Congestion Pricing Impact Analyzer for Urban Mobility](https://github.com/olivia3395/Pricing-Impact-Analyzer)** · [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="15" alt="GitHub"/> Code](https://github.com/olivia3395/Pricing-Impact-Analyzer) · [📄 PDF](https://github.com/olivia3395/Pricing-Impact-Analyzer/blob/main/Congestion%20Pricing%20Impact%20Analyzer.pdf)  
+  Full causal inference stack (**TWFE DiD → CS-DiD → Synthetic DiD → Double ML**) on 12M+ NYC TLC trips; DML with 5-fold cross-fitted **Random Forest** nuisance learners yielded $\hat{\theta}=-0.124$ ($-11.7\%$ CBD trips, $p<0.001$).
+  - Zone-level CATE via **Causal Forest** (EconML/GRF) with honest splitting ($\bar{\tau}=-0.118$, SD$=0.089$); RATE targeting curves, policy trees, 7-family robustness validation
+  
 
 # ✨ My Apps 
 
