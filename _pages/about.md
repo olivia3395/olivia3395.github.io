@@ -217,48 +217,49 @@ Beyond theory and modeling, I am drawn to building AI applications that reflect 
 
 # 🤖 LLM Engineering Projects
 
-- **[Traffic Bot Detection](https://github.com/olivia3395/traffic_bot_detection)** · [Code](https://github.com/olivia3395/traffic_bot_detection)  
+
+
+- **[Traffic Bot Detection](https://github.com/olivia3395/traffic_bot_detection)** · [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="15" alt="GitHub"/> Code](https://github.com/olivia3395/traffic_bot_detection)  
   Built a three-layer ensemble with an **LLM-agent fingerprint scorer** (timing regularity, link coverage, API probing).  
   - CSIC 2010 + hybrid synthetic LLM traffic
 
-- **[DataPilot: AI Data Science Agent for Autonomous CSV Analysis](https://github.com/olivia3395/DataPilot_Studio-)** · [Code](https://github.com/olivia3395/DataPilot_Studio-)  
+- **[DataPilot: AI Data Science Agent for Autonomous CSV Analysis](https://github.com/olivia3395/DataPilot_Studio-)** · [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="15" alt="GitHub"/> Code](https://github.com/olivia3395/DataPilot_Studio-)  
   Streamlit agent with **planner–analyst–verifier** workflow for profiling CSVs, generating executable Python, visualization, and summaries.  
   - Baseline ML pipelines + **XGBoost**, feature importance; Sample datasets + downloadable reports/code
 
-- **[GraphRAG: Graph-Enhanced Multimodal RAG](https://github.com/olivia3395/GraphRAG)** · [Code](https://github.com/olivia3395/GraphRAG)  
+- **[GraphRAG: Graph-Enhanced Multimodal RAG](https://github.com/olivia3395/GraphRAG)** · [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="15" alt="GitHub"/> Code](https://github.com/olivia3395/GraphRAG)  
   Production-style RAG combining dense retrieval + entity-graph expansion + image-text retrieval.  
   - FastAPI + ChromaDB + sentence-transformers + CLIP; Supports heterogeneous text/image corpora
 
-- **[Adaptive RAG with Query Routing and Self-Reflection](https://github.com/olivia3395/Adaptive_RAG)** · [Code](https://github.com/olivia3395/Adaptive_RAG)  
+- **[Adaptive RAG with Query Routing and Self-Reflection](https://github.com/olivia3395/Adaptive_RAG)** · [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="15" alt="GitHub"/> Code](https://github.com/olivia3395/Adaptive_RAG)  
   Routes queries, iterates retrieval, and self-checks for unsupported answers.  
   - FastAPI + ChromaDB + graph retrieval components
 
-- **[RAGAudit: Retrieval-Augmented Generation with Hallucination Detection](https://github.com/olivia3395/RAGAudit)** · [Code](https://github.com/olivia3395/RAGAudit) · [📄 PDF](https://github.com/olivia3395/RAGAudit/blob/main/RAG%20%26%20Hallucination%20Detection.pdf)  
+- **[RAGAudit: Retrieval-Augmented Generation with Hallucination Detection](https://github.com/olivia3395/RAGAudit)** · [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="15" alt="GitHub"/> Code](https://github.com/olivia3395/RAGAudit) · [📄 PDF](https://github.com/olivia3395/RAGAudit/blob/main/RAG%20%26%20Hallucination%20Detection.pdf)  
   Built a RAG pipeline with **BM25+FAISS**, **RRF**, and hallucination detection via **NLI**, **SelfCheckGPT**, and **semantic entropy**.
   - Wikipedia DPR + Natural Questions + HaluEval; Mistral-7B; evaluated with Recall@5, MRR@5, EM, F1, and AUROC
 
-
-- **[TuneShift](https://github.com/olivia3395/TuneShift)** · [Code](https://github.com/olivia3395/TuneShift)  
+- **[TuneShift](https://github.com/olivia3395/TuneShift)** · [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="15" alt="GitHub"/> Code](https://github.com/olivia3395/TuneShift)  
   Modular LLM fine-tuning framework for **domain transfer**, supporting instruction tuning, dialogue finetuning, and **LoRA / QLoRA** adaptation.  
   - Compared adaptation strategies across domains with EM, F1, and ROUGE-L
 
-- **[AlignDPO](https://github.com/olivia3395/AlignDPO-Preference-Optimization-from-Scratch)** · [Code](https://github.com/olivia3395/AlignDPO-Preference-Optimization-from-Scratch) · [📄 PDF](https://github.com/olivia3395/AlignDPO-Preference-Optimization-from-Scratch/blob/main/DPO%20%26%20PPO.pdf)  
+- **[AlignDPO](https://github.com/olivia3395/AlignDPO-Preference-Optimization-from-Scratch)** · [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="15" alt="GitHub"/> Code](https://github.com/olivia3395/AlignDPO-Preference-Optimization-from-Scratch) · [📄 PDF](https://github.com/olivia3395/AlignDPO-Preference-Optimization-from-Scratch/blob/main/DPO%20%26%20PPO.pdf)  
   Preference optimization from scratch with **DPO, IPO, and KTO**, using **QLoRA** to fine-tune Mistral-7B on Anthropic HH-RLHF.  
   - Evaluated with reward accuracy, reward margin, and GPT-4-as-judge win rate
 
-- **[RLHF (PPO)](https://github.com/olivia3395/rlhf_finetuning)** · [Code](https://github.com/olivia3395/rlhf_finetuning) · [📄 PDF](https://github.com/olivia3395/PPO-based-RLHF/blob/main/RAG%20System.pdf)  
+- **[RLHF (PPO)](https://github.com/olivia3395/rlhf_finetuning)** · [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="15" alt="GitHub"/> Code](https://github.com/olivia3395/rlhf_finetuning) · [📄 PDF](https://github.com/olivia3395/PPO-based-RLHF/blob/main/RAG%20System.pdf)  
   PPO RLHF with composite reward and adaptive KL controller.  
   - GPT-2 actor-critic + GAE + clipped PPO + W&B logging
 
-- **[Mini LLM Pre-Training](https://github.com/olivia3395/mini_pretrain)** · [Code](https://github.com/olivia3395/mini_pretrain) · [📄 PDF](https://github.com/olivia3395/Mini-GPT-Pre-Training/blob/main/LLM.pdf)  
+- **[Mini LLM Pre-Training](https://github.com/olivia3395/mini_pretrain)** · [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="15" alt="GitHub"/> Code](https://github.com/olivia3395/mini_pretrain) · [📄 PDF](https://github.com/olivia3395/Mini-GPT-Pre-Training/blob/main/LLM.pdf)  
   Pre-trained a **10.7M** GPT from scratch in PyTorch on TinyShakespeare.  
   - PPL **65 → ~4.7** after 5k iters
 
-- **[LLM 1-bit Quantization (HQQ)](https://github.com/olivia3395/HQQ_1-bit_Quantization)** · [Code](https://github.com/olivia3395/HQQ_1-bit_Quantization)  
+- **[LLM 1-bit Quantization (HQQ)](https://github.com/olivia3395/HQQ_1-bit_Quantization)** · [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="15" alt="GitHub"/> Code](https://github.com/olivia3395/HQQ_1-bit_Quantization)  
   Half-Quadratic Quantization (1–8 bit) via proximal optimization; no calibration data.  
   - **W1G64: 12.7×** compression, **>4×** speedup
 
-- **[DraftVerify: Speculative Decoding](https://github.com/olivia3395/DraftVerify)** · [Code](https://github.com/olivia3395/DraftVerify)  
+- **[DraftVerify: Speculative Decoding](https://github.com/olivia3395/DraftVerify)** · [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="15" alt="GitHub"/> Code](https://github.com/olivia3395/DraftVerify)  
   Draft+verifier speculative decoding to reduce AR decoding cost.  
   - Benchmarked latency/throughput/acceptance vs vanilla decoding
  
