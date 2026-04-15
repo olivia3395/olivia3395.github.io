@@ -9,7 +9,7 @@ main:
   - title: "Publications"
     url: "/#-publications"
 
-  - title: "LLM Engineering Projects" 
+  - title: "LLM Engineering & Production System Projects" 
     url: "/#-llm-engineering-projects"
     
   - title: "My Apps"
