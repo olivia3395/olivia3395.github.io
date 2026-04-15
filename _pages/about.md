@@ -233,27 +233,24 @@ Beyond theory and modeling, I am drawn to building AI applications that reflect 
   Routes queries, iterates retrieval, and self-checks for unsupported answers.  
   - FastAPI + ChromaDB + graph retrieval components
 
-- **[RAGAudit: Retrieval-Augmented Generation with Hallucination Detection](https://github.com/olivia3395/RAGAudit)** · [Code](https://github.com/olivia3395/RAGAudit)  
+- **[RAGAudit: Retrieval-Augmented Generation with Hallucination Detection](https://github.com/olivia3395/RAGAudit)** · [Code](https://github.com/olivia3395/RAGAudit) · [📄 PDF](https://github.com/olivia3395/RAGAudit/blob/main/RAG%20%26%20Hallucination%20Detection.pdf)  
   Built a RAG pipeline with **BM25+FAISS**, **RRF**, and hallucination detection via **NLI**, **SelfCheckGPT**, and **semantic entropy**.
   - Wikipedia DPR + Natural Questions + HaluEval; Mistral-7B; evaluated with Recall@5, MRR@5, EM, F1, and AUROC
 
-- **[RAGAudit](https://github.com/olivia3395/RAGAudit)** · [Code](https://github.com/olivia3395/RAGAudit)  
-  Production-style RAG with **hybrid BM25 + FAISS retrieval** and a **three-signal hallucination detector** (NLI, SelfCheckGPT, semantic entropy).  
-  - Wikipedia DPR + Natural Questions + HaluEval; Mistral-7B; Recall@5, MRR@5, EM, F1, AUROC
 
 - **[TuneShift](https://github.com/olivia3395/TuneShift)** · [Code](https://github.com/olivia3395/TuneShift)  
   Modular LLM fine-tuning framework for **domain transfer**, supporting instruction tuning, dialogue finetuning, and **LoRA / QLoRA** adaptation.  
   - Compared adaptation strategies across domains with EM, F1, and ROUGE-L
 
-- **[AlignDPO](https://github.com/olivia3395/AlignDPO-Preference-Optimization-from-Scratch)** · [Code](https://github.com/olivia3395/AlignDPO-Preference-Optimization-from-Scratch)  
+- **[AlignDPO](https://github.com/olivia3395/AlignDPO-Preference-Optimization-from-Scratch)** · [Code](https://github.com/olivia3395/AlignDPO-Preference-Optimization-from-Scratch) · [📄 PDF](https://github.com/olivia3395/AlignDPO-Preference-Optimization-from-Scratch/blob/main/DPO%20%26%20PPO.pdf)  
   Preference optimization from scratch with **DPO, IPO, and KTO**, using **QLoRA** to fine-tune Mistral-7B on Anthropic HH-RLHF.  
   - Evaluated with reward accuracy, reward margin, and GPT-4-as-judge win rate
 
-- **[RLHF (PPO)](https://github.com/olivia3395/rlhf_finetuning)** · [Code](https://github.com/olivia3395/rlhf_finetuning)  
+- **[RLHF (PPO)](https://github.com/olivia3395/rlhf_finetuning)** · [Code](https://github.com/olivia3395/rlhf_finetuning) · [📄 PDF](https://github.com/olivia3395/PPO-based-RLHF/blob/main/RAG%20System.pdf)  
   PPO RLHF with composite reward and adaptive KL controller.  
   - GPT-2 actor-critic + GAE + clipped PPO + W&B logging
 
-- **[Mini LLM Pre-Training](https://github.com/olivia3395/mini_pretrain)** · [Code](https://github.com/olivia3395/mini_pretrain)  
+- **[Mini LLM Pre-Training](https://github.com/olivia3395/mini_pretrain)** · [Code](https://github.com/olivia3395/mini_pretrain) · [📄 PDF](https://github.com/olivia3395/Mini-GPT-Pre-Training/blob/main/LLM.pdf)  
   Pre-trained a **10.7M** GPT from scratch in PyTorch on TinyShakespeare.  
   - PPL **65 → ~4.7** after 5k iters
 
@@ -265,6 +262,7 @@ Beyond theory and modeling, I am drawn to building AI applications that reflect 
   Draft+verifier speculative decoding to reduce AR decoding cost.  
   - Benchmarked latency/throughput/acceptance vs vanilla decoding
  
+
 
 # ✨ My Apps 
 
