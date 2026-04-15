@@ -234,7 +234,7 @@ Beyond theory and modeling, I am drawn to building AI applications that reflect 
   - FastAPI + ChromaDB + graph retrieval components
 
 - **[RAGAudit: Retrieval-Augmented Generation with Hallucination Detection](https://github.com/olivia3395/RAGAudit)** · [Code](https://github.com/olivia3395/RAGAudit)  
-  Built a production-style RAG pipeline with **hybrid BM25 + FAISS retrieval**, Reciprocal Rank Fusion, and a **three-layer hallucination detector** combining NLI faithfulness, SelfCheckGPT consistency, and semantic entropy.  
+  Built a RAG pipeline with **BM25+FAISS**, **RRF**, and hallucination detection via **NLI**, **SelfCheckGPT**, and **semantic entropy**.
   - Wikipedia DPR + Natural Questions + HaluEval; Mistral-7B; evaluated with Recall@5, MRR@5, EM, F1, and AUROC
 
 - **[RAGAudit](https://github.com/olivia3395/RAGAudit)** · [Code](https://github.com/olivia3395/RAGAudit)  
