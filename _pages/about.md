@@ -68,161 +68,136 @@ Beyond theory and modeling, I am drawn to building AI applications that reflect 
 
 
 
-# 📝 Publications 
+# 📝 Publications
 
+<h2>Leading Author</h2>
 
-<!-- ===================== Leading Author ===================== -->
-<h2 class="pub-section-title">Leading Author</h2>
+<table>
+  <tr>
+    <td width="40%" valign="top">
+      <img src="images/gtrans_workflow.png" alt="GTrans" width="100%">
+    </td>
+    <td valign="top">
+      <img src="https://img.shields.io/badge/NeurIPS_2025-6366F1?style=flat-square&labelColor=6366F1" alt="NeurIPS 2025">&nbsp;<b><font size="4"><a href="https://openreview.net/pdf?id=i3sWs5614Y">Transfer Learning on Edge Connecting Probability Estimation Under Graphon Model</a></font></b><br>
+      <sub><i>Boston University</i></sub><br>
+      <a href="https://neurips.cc/virtual/2025/poster/116597"><img src="https://img.shields.io/badge/Paper-DC2626?style=flat-square&logo=adobeacrobatreader&logoColor=white" alt="Paper"></a>
+      <a href="https://github.com/olivia3395/GTrans/blob/main/neurips_poster.pdf"><img src="https://img.shields.io/badge/Poster-0369A1?style=flat-square" alt="Poster"></a>
+      <a href="https://github.com/olivia3395/GTrans/blob/main/Neurips2025_final1.pptx"><img src="https://img.shields.io/badge/Slides-EA580C?style=flat-square" alt="Slides"></a>
+      <a href="https://github.com/olivia3395/GTRANS"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" alt="Code"></a>
+      <ul>
+        <li><b>Graphon transfer without node correspondence:</b> aligns source/target graphs via <b>Gromov–Wasserstein</b>, then transfers edge-probability structure in a fully nonparametric way.</li>
+        <li><b>Provably stable + practically strong:</b> <b>residual smoothing</b> boosts small/sparse/heterogeneous targets, with <b>convergence & stability guarantees</b> and SOTA gains on link prediction / graph classification.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
-<div class='paper-box'>
-  <div class='paper-box-image'>
-    <div>
-      <div class="badge">NeurIPS 2025</div>
-      <img src='images/gtrans_workflow.png' alt="gtrans" width="100%">
-    </div>
-  </div>
-  <div class='paper-box-text' markdown="1">
+<table>
+  <tr>
+    <td width="40%" valign="top">
+      <img src="images/phaseshift.png" alt="Phase Transition" width="100%">
+    </td>
+    <td valign="top">
+      <img src="https://img.shields.io/badge/Under_Review_@_JASA-94A3B8?style=flat-square&labelColor=94A3B8" alt="JASA">&nbsp;<b><font size="4"><a href="https://arxiv.org/abs/2507.00889">Phase Transition in Nonparametric Minimax Rates for Covariate Shifts on Approximate Manifolds</a></font></b><br>
+      <sub><i>Boston University · Chicago Booth</i></sub><br>
+      <a href="https://arxiv.org/abs/2507.00889"><img src="https://img.shields.io/badge/arXiv-B31B1B?style=flat-square&logo=arxiv&logoColor=white" alt="arXiv"></a>
+      <a href="https://github.com/olivia3395/Covariate-Shifts-on-Approximate-Manifolds/blob/main/manifold_poster.pdf"><img src="https://img.shields.io/badge/Poster-0369A1?style=flat-square" alt="Poster"></a>
+      <a href="https://github.com/olivia3395/Covariate-Shifts-on-Approximate-Manifolds/blob/main/slides_Manifold.pdf"><img src="https://img.shields.io/badge/Slides-EA580C?style=flat-square" alt="Slides"></a>
+      <a href="https://github.com/olivia3395/Covariate-Shifts-on-Approximate-Manifolds"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" alt="Code"></a>
+      <ul>
+        <li><b>New minimax theory for "near-manifold" shift:</b> exposes a sharp <b>phase transition</b> controlled by the <b>support gap</b> between target and source neighborhoods — unifying multiple geometric-transfer regimes.</li>
+        <li><b>Ratio-free, adaptive estimator:</b> achieves <b>near-optimal, dimension-adaptive rates</b> <b>without density ratios</b> and without assuming known geometry (works under approximate manifold mismatch).</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
-[**Transfer Learning on Edge Connecting Probability Estimation Under Graphon Model**](https://openreview.net/pdf?id=i3sWs5614Y)
-· [**NeurIPS**](https://neurips.cc/virtual/2025/poster/116597)
-· [**Poster**](https://github.com/olivia3395/GTrans/blob/main/neurips_poster.pdf)
-· [**Slides**](https://github.com/olivia3395/GTrans/blob/main/Neurips2025_final1.pptx)
-· [**Code**](https://github.com/olivia3395/GTRANS)<br>
-*NeurIPS 2025*
+<table>
+  <tr>
+    <td width="40%" valign="top">
+      <img src="images/tess_workflow.png" alt="TESS" width="100%">
+    </td>
+    <td valign="top">
+      <img src="https://img.shields.io/badge/Under_Review-94A3B8?style=flat-square&labelColor=94A3B8" alt="Under Review">&nbsp;<b><font size="4"><a href="https://arxiv.org/abs/2603.12664">From Text to Forecasts: Bridging Modality Gap with Temporal Evolution Semantic Space</a></font></b><br>
+      <sub><i>Boston University · Hong Kong University of Science and Technology · Shandong University</i></sub><br>
+      <a href="https://arxiv.org/abs/2603.12664"><img src="https://img.shields.io/badge/arXiv-B31B1B?style=flat-square&logo=arxiv&logoColor=white" alt="arXiv"></a>
+      <ul>
+        <li><b>Bridges the text–time-series modality gap:</b> introduces a <b>Temporal Evolution Semantic Space (TESS)</b> that distills free-form text into <b>interpretable temporal primitives</b> (mean shift, volatility, shape, lag), instead of directly fusing noisy token embeddings.</li>
+        <li><b>LLM-guided yet numerically grounded forecasting:</b> uses <b>structured prompting + confidence-aware gating</b> to inject reliable semantic signals as prefix tokens into a Transformer forecaster, yielding <b>robust gains under event-driven non-stationarity</b> (up to <b>29% error reduction</b>).</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
-- **Graphon transfer without node correspondence:** aligns source/target graphs via **Gromov–Wasserstein**, then transfers edge-probability structure in a fully nonparametric way.  
-- **Provably stable + practically strong:** **residual smoothing** boosts small/sparse/heterogeneous targets, with **convergence & stability guarantees** and SOTA gains on link prediction / graph classification.
+<table>
+  <tr>
+    <td width="40%" valign="top">
+      <img src="images/scot_main.png" alt="SCOT" width="100%">
+    </td>
+    <td valign="top">
+      <img src="https://img.shields.io/badge/Under_Review-94A3B8?style=flat-square&labelColor=94A3B8" alt="Under Review">&nbsp;<b><font size="4"><a href="https://arxiv.org/abs/2604.07383">SCOT: Multi-Source Cross-City Transfer with Optimal-Transport Soft-Correspondence Objectives</a></font></b><br>
+      <sub><i>Boston University · Shandong University</i></sub><br>
+      <a href="https://arxiv.org/abs/2604.07383"><img src="https://img.shields.io/badge/arXiv-B31B1B?style=flat-square&logo=arxiv&logoColor=white" alt="arXiv"></a>
+      <ul>
+        <li><b>Explicit many-to-many correspondence (no node matching):</b> learns a <b>Sinkhorn entropic-OT coupling</b> between unequal region sets and uses it to define <b>soft aligned pairs</b> for cross-city transfer.</li>
+        <li><b>OT-guided semantic sharpening + stability:</b> combines <b>OT-weighted contrastive alignment</b> with <b>cycle-style reconstruction</b>; extends to multi-source with a <b>target-aware prototype hub</b> to prevent collapse and handle strong heterogeneity.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
-</div>
-</div>
+<table>
+  <tr>
+    <td width="40%" valign="top">
+      <img src="images/synergy_bpr_workflow.png" alt="INCM" width="100%">
+    </td>
+    <td valign="top">
+      <img src="https://img.shields.io/badge/Under_Review-94A3B8?style=flat-square&labelColor=94A3B8" alt="Under Review">&nbsp;<b><font size="4">INCM: INConsistency-aware Multi-modal Recommendation with Cross-Modal Hard Negatives</font></b><br>
+      <sub><i>Boston University · Shandong University · Tsinghua University</i></sub>
+      <ul>
+        <li><b>Inconsistency-aware multimodal ranking:</b> studies how cross-modal discrepancies in recommendation may provide complementary ranking evidence or degrade fusion quality, and explicitly incorporates these effects into the training objective.</li>
+        <li><b>Cross-modal hard negatives + synergy-aware ranking loss:</b> proposes <b>CHNS</b> to mine modality-specific hard negatives across branches, and a <b>Synergy-aware BPR</b> loss to ensure the fused branch achieves stronger preference margins than unimodal branches.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
-<div class='paper-box'>
-  <div class='paper-box-image'>
-    <div>
-      <div class="badge">Under Review @ JASA</div>
-      <img src='images/phaseshift.png' alt="phaseshift" width="100%">
-    </div>
-  </div>
-  <div class='paper-box-text' markdown="1">
+<h2>Co-author</h2>
 
-[**Phase Transition in Nonparametric Minimax Rates for Covariate Shifts on Approximate Manifolds**](https://arxiv.org/abs/2507.00889)
-· [**Code**](https://github.com/olivia3395/Covariate-Shifts-on-Approximate-Manifolds)
-· [**Poster**](https://github.com/olivia3395/Covariate-Shifts-on-Approximate-Manifolds/blob/main/manifold_poster.pdf)
-· [**Slides**](https://github.com/olivia3395/Covariate-Shifts-on-Approximate-Manifolds/blob/main/slides_Manifold.pdf)<br>
-*Boston University; Chicago Booth*
+<table>
+  <tr>
+    <td width="40%" valign="top">
+      <img src="images/mkdnet.png" alt="MKDNet" width="100%">
+    </td>
+    <td valign="top">
+      <img src="https://img.shields.io/badge/IEEE_TGRS_2025-0891B2?style=flat-square&labelColor=0891B2" alt="IEEE TGRS 2025">&nbsp;<b><font size="4"><a href="https://ieeexplore.ieee.org/abstract/document/11133483">Cross-Domain Hyperspectral Image Classification via Mamba-CNN and Knowledge Distillation</a></font></b><br>
+      <sub><i>IEEE Transactions on Geoscience and Remote Sensing, 2025</i></sub><br>
+      <a href="https://ieeexplore.ieee.org/abstract/document/11133483"><img src="https://img.shields.io/badge/IEEE-00629B?style=flat-square&logo=ieee&logoColor=white" alt="IEEE"></a>
+      <a href="https://github.com/olivia3395/Cross-Domain-Hyperspectral-Image-Classification-/blob/main/IEEE%20TRGS%202025.pptx"><img src="https://img.shields.io/badge/Slides-EA580C?style=flat-square" alt="Slides"></a>
+      <ul>
+        <li><b>Hybrid spectral–spatial modeling for domain shift:</b> integrates a <b>Mamba-based global spectral encoder</b> with <b>CNN local feature extraction</b>, capturing long-range dependencies while preserving fine-grained spatial structure in hyperspectral images.</li>
+        <li><b>Dual-level transfer via distillation + graph alignment:</b> performs <b>teacher–student knowledge distillation</b> for distribution alignment and <b>OT-guided graph consistency</b> across domains, yielding robust cross-domain generalization under severe spectral mismatch.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
-- **New minimax theory for “near-manifold” shift:** exposes a sharp **phase transition** controlled by the **support gap** between target and source neighborhoods—unifying multiple geometric-transfer regimes.  
-- **Ratio-free, adaptive estimator:** achieves **near-optimal, dimension-adaptive rates** **without density ratios** and without assuming knowing the geometry (works under approximate manifold mismatch).
-
-</div>
-</div>
-
-
-<div class='paper-box'>
-  <div class='paper-box-image'>
-    <div>
-      <div class="badge">Under Review </div>
-      <img src='images/tess_workflow.png' alt="tess" width="100%">
-    </div>
-  </div>
-  <div class='paper-box-text' markdown="1">
-
-[**From Text to Forecasts: Bridging Modality Gap with Temporal Evolution Semantic Space**](https://arxiv.org/abs/2603.12664)<br>
-*Boston University; Hong Kong University of Science and Technology; Shandong University*
-
-- **Bridges the text–time-series modality gap:** introduces a **Temporal Evolution Semantic Space (TESS)** that distills free-form text into **interpretable temporal primitives** (mean shift, volatility, shape, lag), instead of directly fusing noisy token embeddings.  
-- **LLM-guided yet numerically grounded forecasting:** uses **structured prompting + confidence-aware gating** to inject reliable semantic signals as prefix tokens into a Transformer forecaster, yielding **robust gains under event-driven non-stationarity** (up to **29% error reduction**).
-
-</div>
-</div>
-
-
-<div class='paper-box'>
-  <div class='paper-box-image'>
-    <div>
-      <div class="badge">Under Review</div>
-      <img src='images/scot_main.png' alt="scot" width="100%">
-    </div>
-  </div>
-  <div class='paper-box-text' markdown="1">
-
-[**SCOT: Multi-Source Cross-City Transfer with Optimal-Transport Soft-Correspondence Objectives**](https://arxiv.org/abs/2604.07383)<br>
-*Boston University; Shandong University*
-
-- **Explicit many-to-many correspondence (no node matching):** learns a **Sinkhorn entropic-OT coupling** between unequal region sets and uses it to define **soft aligned pairs** for cross-city transfer.  
-- **OT-guided semantic sharpening + stability:** combines **OT-weighted contrastive alignment** with **cycle-style reconstruction**; extends to multi-source with a **target-aware prototype hub** to prevent collapse and handle strong heterogeneity.
-
-</div>
-</div>
-
-
-
-<div class='paper-box'>
-  <div class='paper-box-image'>
-    <div>
-      <div class="badge">Under Review</div>
-      <img src='images/synergy_bpr_workflow.png' alt="synergy-bpr" width="100%">
-    </div>
-  </div>
-  <div class='paper-box-text' markdown="1">
-
-
-[**INCM: INConsistency-aware Multi-modal Recommendation with Cross-Modal Hard Negatives**](#)<br>
-*Boston University; Shandong University; Tsinghua University*
-
-* **Inconsistency-aware multimodal ranking:** studies how cross-modal discrepancies in recommendation may provide complementary ranking evidence or degrade fusion quality, and explicitly incorporates these effects into the training objective.
-* **Cross-modal hard negatives + synergy-aware ranking loss:** proposes **CHNS** to mine modality-specific hard negatives across branches, and a **Synergy-aware BPR** loss to ensure the fused branch achieves stronger preference margins than unimodal branches.
-
-
-
-</div>
-</div>
-
-
-
-<!-- ===================== Co-author ===================== -->
-<h2 class="pub-section-title">Co-author</h2>
-
-<div class='paper-box'>
-  <div class='paper-box-image'>
-    <div>
-      <div class="badge">IEEE TGRS 2025</div>
-      <img src='images/mkdnet.png' alt="mkdnet" width="100%">
-    </div>
-  </div>
-  <div class='paper-box-text' markdown="1">
-
-[**Cross-Domain Hyperspectral Image Classification via Mamba-CNN and Knowledge Distillation**](https://ieeexplore.ieee.org/abstract/document/11133483)
-· [**Slides**](https://github.com/olivia3395/Cross-Domain-Hyperspectral-Image-Classification-/blob/main/IEEE%20TRGS%202025.pptx)<br>
-*IEEE TGRS 2025*
-
-- **Hybrid spectral–spatial modeling for domain shift:** integrates a **Mamba-based global spectral encoder** with **CNN local feature extraction**, capturing long-range dependencies while preserving fine-grained spatial structure in hyperspectral images.  
-- **Dual-level transfer via distillation + graph alignment:** performs **teacher–student knowledge distillation** for distribution alignment and **OT-guided graph consistency** across domains, yielding robust cross-domain generalization under severe spectral mismatch.
-
-</div>
-</div>
-
-
-
-
-<div class='paper-box'>
-  <div class='paper-box-image'>
-    <div>
-      <div class="badge">Under Review</div>
-      <img src='images/ssgp_workflow.png' alt="ssgp" width="100%">
-    </div>
-  </div>
-  <div class='paper-box-text' markdown="1">
-
-[**Semantic Scientific Graph Pruning for Reliable Agentic Paper Reproduction**](https://arxiv.org/abs/2603.01801)<br>
-*Boston University; Shandong University*
-
-- **Semantic pruning for controllable agent search:** proposes **Semantic Scientific Graph Pruning (SSGP)** to transform dense scientific graphs into **task-adaptive local subgraphs**, using **rank-based ensemble scoring** to retain only semantically essential neighbors.  
-- **Enables reliable agentic reproduction:** couples pruned graphs with **reuse–patch modular execution** and **confidence-weighted aggregation**, dramatically reducing search space while improving **reproducibility, stability, and success rate** of LLM-based scientific agents.
-
-</div>
-</div>
-
+<table>
+  <tr>
+    <td width="40%" valign="top">
+      <img src="images/ssgp_workflow.png" alt="SSGP" width="100%">
+    </td>
+    <td valign="top">
+      <img src="https://img.shields.io/badge/Under_Review-94A3B8?style=flat-square&labelColor=94A3B8" alt="Under Review">&nbsp;<b><font size="4"><a href="https://arxiv.org/abs/2603.01801">Semantic Scientific Graph Pruning for Reliable Agentic Paper Reproduction</a></font></b><br>
+      <sub><i>Boston University · Shandong University</i></sub><br>
+      <a href="https://arxiv.org/abs/2603.01801"><img src="https://img.shields.io/badge/arXiv-B31B1B?style=flat-square&logo=arxiv&logoColor=white" alt="arXiv"></a>
+      <ul>
+        <li><b>Semantic pruning for controllable agent search:</b> proposes <b>Semantic Scientific Graph Pruning (SSGP)</b> to transform dense scientific graphs into <b>task-adaptive local subgraphs</b>, using <b>rank-based ensemble scoring</b> to retain only semantically essential neighbors.</li>
+        <li><b>Enables reliable agentic reproduction:</b> couples pruned graphs with <b>reuse–patch modular execution</b> and <b>confidence-weighted aggregation</b>, dramatically reducing search space while improving <b>reproducibility, stability, and success rate</b> of LLM-based scientific agents.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 
 # 🤖 LLM Engineering Projects
