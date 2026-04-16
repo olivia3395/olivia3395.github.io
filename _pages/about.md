@@ -295,145 +295,163 @@ Beyond theory and modeling, I am drawn to building AI applications that reflect 
 
 
 
-
-# ✨ My Apps 
-
-<div class='paper-box'>
-  <div class='paper-box-image'>
-    <div>
-      <img src='images/mbti_vibe.png' alt="mbti-vibe" width="100%">
-    </div>
-  </div>
-  <div class='paper-box-text' markdown="1">
-
-[**MBTI Vibe**](https://mbti-vibe-ten.vercel.app/)
-· [**GitHub**](https://github.com/olivia3395/MBTI-Vibe)<br>
-
-**MBTI Vibe** is a multimodal AI app that analyzes text and images to guess the MBTI vibe your content gives off. Think captions, poems, screenshots, moodboards, and all those tiny digital traces of self-expression. It does not claim to tell you who someone “really is.” Instead, it asks a much softer and more fun question: what kind of personality atmosphere does this content radiate? 💫
-
-Come try it out [**here**](https://mbti-vibe-ten.vercel.app/). See the project [**here**](https://github.com/olivia3395/MBTI-Vibe).
-
-  </div>
-</div>
+# ✨ My Apps
 
 
+<table>
+<tr>
+<td width="40%" valign="top">
+<img src="images/mbti_vibe.png" alt="MBTI Vibe" width="100%">
+</td>
+<td valign="top">
 
-<div class='paper-box'>
-  <div class='paper-box-image'>
-    <div>
-      <img src='images/what_if_cinema.png' alt="what if cinema" width="100%">
-    </div>
-  </div>
-  <div class='paper-box-text' markdown="1">
+<img src="https://img.shields.io/badge/✨_PERSONA-8B5CF6?style=flat-square&labelColor=8B5CF6" alt="PERSONA">
 
-[**What If Cinema**](https://what-if-cinema.vercel.app/)
-· [**GitHub**](https://github.com/olivia3395/What_If_Cinema)<br>
+### MBTI Vibe
+*What kind of personality atmosphere does this content radiate?*
 
-**What If Cinema** is an AI storytelling app for anyone who has ever left a movie wondering: what if it ended differently? Users can rewrite a film’s final heartbeat by inserting a new scene, changing a choice, or shifting one moment that changes everything. Rather than generating random fiction, it stays close to the emotional soul of the original story — preserving its tone, longing, and ache while imagining endings that feel tender, devastating, hopeful, or quietly healing. Not every ending needs to be undone. But some deserve to be imagined differently. 🎞️
+A multimodal AI app that reads text and images — captions, poems, screenshots, moodboards, all those tiny digital traces of self-expression — and whispers back the MBTI vibe it gives off. It doesn't claim to tell you who someone *really* is. It asks a softer, kinder question instead.
 
-Come try it out [**here**](https://what-if-cinema.vercel.app/). See the project [**here**](https://github.com/olivia3395/What_If_Cinema).
+<a href="https://mbti-vibe-ten.vercel.app/"><img src="https://img.shields.io/badge/Try_it-22C55E?style=flat-square&logo=rocket&logoColor=white" alt="Try it"></a> <a href="https://github.com/olivia3395/MBTI-Vibe"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" alt="Code"></a>
 
-  </div>
-</div>
+</td>
+</tr>
+</table>
+
+<br>
+
+<table>
+<tr>
+<td width="40%" valign="top">
+<img src="images/what_if_cinema.png" alt="What If Cinema" width="100%">
+</td>
+<td valign="top">
+
+<img src="https://img.shields.io/badge/🎬_CINEMA-DC2626?style=flat-square&labelColor=DC2626" alt="CINEMA">
+
+### What If Cinema
+*Rewrite a film's final heartbeat.*
+
+For anyone who has ever left a movie wondering — *what if it ended differently?* Insert a new scene, change one choice, shift a single moment. It stays close to the emotional soul of the original — preserving its tone, longing, and ache — while imagining endings that feel tender, devastating, hopeful, or quietly healing. Not every ending needs to be undone. But some deserve to be imagined differently.
+
+<a href="https://what-if-cinema.vercel.app/"><img src="https://img.shields.io/badge/Try_it-22C55E?style=flat-square&logo=rocket&logoColor=white" alt="Try it"></a> <a href="https://github.com/olivia3395/What_If_Cinema"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" alt="Code"></a>
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<table>
+<tr>
+<td width="40%" valign="top">
+<img src="images/letter_from_sceen.png" alt="Letters from the Screen" width="100%">
+</td>
+<td valign="top">
+
+<img src="https://img.shields.io/badge/✉️_LETTER-DB2777?style=flat-square&labelColor=DB2777" alt="LETTER">
+
+### Letters from the Screen
+*A healing letter from the character you need most.*
+
+Share what is on your heart, and receive a letter from the movie or TV character who would understand. More love letter than chatbot — intimate, tender, just a little magical. The comfort lies in its emotional closeness: it offers not advice, but presence. The rare feeling that a voice from another story has stepped out of the screen to sit beside you for a while.
+
+<a href="https://letters-from-the-screen.vercel.app/"><img src="https://img.shields.io/badge/Try_it-22C55E?style=flat-square&logo=rocket&logoColor=white" alt="Try it"></a> <a href="https://github.com/olivia3395/Letters_from_the_Screen"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" alt="Code"></a>
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<table>
+<tr>
+<td width="40%" valign="top">
+<img src="images/if_you_disappeared.png" alt="If You Disappeared on a Trip" width="100%">
+</td>
+<td valign="top">
+
+<img src="https://img.shields.io/badge/✈️_ESCAPE-0EA5E9?style=flat-square&labelColor=0EA5E9" alt="ESCAPE">
+
+### If You Disappeared on a Trip
+*A small borrowed life in another city.*
+
+For anyone who has ever wanted to slip away for a day or two. Instead of a typical itinerary, it builds a small borrowed life in another city based on your mood — cinematic, soothing, touched with a bit of humor. Not because it solves anything, but because it gives you a brief imaginative place to rest, wander, and feel held by another version of life. Scenes, snacks, photographs, and the kind of inner weather that only changes when you leave home.
+
+<a href="https://if-you-disappeared.vercel.app/"><img src="https://img.shields.io/badge/Try_it-22C55E?style=flat-square&logo=rocket&logoColor=white" alt="Try it"></a> <a href="https://github.com/olivia3395/if-you-disappeared"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" alt="Code"></a>
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<table>
+<tr>
+<td width="40%" valign="top">
+<img src="images/souvenir_of_a_life.png" alt="Souvenirs of a Life Not Yet Lived" width="100%">
+</td>
+<td valign="top">
+
+<img src="https://img.shields.io/badge/🎟️_KEEPSAKE-C2410C?style=flat-square&labelColor=C2410C" alt="KEEPSAKE">
+
+### Souvenirs of a Life Not Yet Lived
+*A private museum of the lives you almost lived.*
+
+Step into a curated archive of parallel selves. Instead of planning a trip, it generates a small, emotionally resonant keepsake — a ticket, a postcard, a receipt, a note — from a life you've been quietly standing outside of. Cinematic, intimate, collectible. An invitation to imagine not just another city, but another self you might still be growing toward.
+
+<a href="https://souvenir-of-a-life.vercel.app/"><img src="https://img.shields.io/badge/Try_it-22C55E?style=flat-square&logo=rocket&logoColor=white" alt="Try it"></a> <a href="https://github.com/olivia3395/Souvenir_of_a_life"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" alt="Code"></a>
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<table>
+<tr>
+<td width="40%" valign="top">
+<img src="images/the_map_of_me.png" alt="The Map of Me" width="100%">
+</td>
+<td valign="top">
+
+<img src="https://img.shields.io/badge/🗺️_ATLAS-0369A1?style=flat-square&labelColor=0369A1" alt="ATLAS">
+
+### The Map of Me
+*Part atlas, part city shelf, part personal collection.*
+
+A map-based cultural discovery app for collecting meaningful places and exploring what lives around them beyond geography alone. After adding a city, you move from the global atlas into a curated layer of screen references, books, and local landmarks — so a place becomes not just somewhere on the map, but a small world of its own. Editorial, archive-inspired, cultural browsing as cartography.
+
+<a href="https://the-map-of-me.vercel.app/"><img src="https://img.shields.io/badge/Try_it-22C55E?style=flat-square&logo=rocket&logoColor=white" alt="Try it"></a> <a href="https://github.com/olivia3395/the-map-of-me"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" alt="Code"></a>
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<table>
+<tr>
+<td width="40%" valign="top">
+<img src="images/macondo.png" alt="A Room in Macondo" width="100%">
+</td>
+<td valign="top">
+
+<img src="https://img.shields.io/badge/🦋_LITERARY-92400E?style=flat-square&labelColor=92400E" alt="LITERARY">
+
+### A Room in Macondo
+*Step inside the weather of One Hundred Years of Solitude.*
+
+An atmospheric AI literary experience inspired by García Márquez's rain-soaked world of memory, fire, butterflies, and magical realism. Rather than retelling the novel, it invites you into a room, a ritual, and a fate of your own. A small sequence of questions transforms mood into a story fragment that feels less like generated text and more like something recovered from an old archive in Macondo itself. Dark-gold palette, burning-paper visuals, haunted editorial layout.
+
+<a href="https://a-room-in-macondo.vercel.app/"><img src="https://img.shields.io/badge/Try_it-22C55E?style=flat-square&logo=rocket&logoColor=white" alt="Try it"></a> <a href="https://github.com/olivia3395/a-room-in-macondo"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" alt="Code"></a>
+
+</td>
+</tr>
+</table>
 
 
-<div class='paper-box'>
-  <div class='paper-box-image'>
-    <div>
-      <img src='images/letter_from_sceen.png' alt="Letters from the Screen" width="100%">
-    </div>
-  </div>
-  <div class='paper-box-text' markdown="1">
 
-[**Letters from the Screen**](https://letters-from-the-screen.vercel.app/)
-· [**GitHub**](https://github.com/olivia3395/Letters_from_the_Screen)<br>
-
-**Letters from the Screen** is a cinematic emotional companion where users share what is on their heart and receive a healing letter from the movie or TV character they need most in that moment. More love letter than chatbot, it feels intimate, tender, and just a little magical. The comfort lies in its emotional closeness: it offers not advice, but presence — the rare feeling that a voice from another story has stepped out of the screen to sit beside you for a while. ✉️
-
-Come try it out [**here**](https://letters-from-the-screen.vercel.app/). See the project [**here**](https://github.com/olivia3395/Letters_from_the_Screen).
-
-  </div>
-</div>
-
-
-<div class='paper-box'>
-  <div class='paper-box-image'>
-    <div>
-      <img src='images/if_you_disappeared.png' alt="If You Disappeared on a Trip" width="100%">
-    </div>
-  </div>
-  <div class='paper-box-text' markdown="1">
-
-[**If You Disappeared on a Trip**](https://if-you-disappeared.vercel.app/)
-· [**GitHub**](https://github.com/olivia3395/if-you-disappeared)<br>
-
-**If You Disappeared on a Trip** is an AI travel app for anyone who has ever wanted to slip away for a day or two. Instead of offering a typical itinerary, it creates a small borrowed life in another city based on your mood — cinematic, soothing, and touched with a bit of humor. There is a healing quality to it: not because it solves anything, but because it gives people a brief, imaginative place to rest, wander, and feel held by another version of life. Think scenes, snacks, photographs, and the kind of inner weather that only changes when you leave home. ✈️
-
-Come try it out [**here**](https://if-you-disappeared.vercel.app/). See the project [**here**](https://github.com/olivia3395/if-you-disappeared).
-
-  </div>
-</div>
-
-
-<div class='paper-box'>
-  <div class='paper-box-image'>
-    <div>
-      <img src='images/souvenir_of_a_life.png' alt="Souvenirs of a Life Not Yet Lived" width="100%">
-    </div>
-  </div>
-  <div class='paper-box-text' markdown="1">
-
-[**Souvenirs of a Life Not Yet Lived**](https://souvenir-of-a-life.vercel.app/)
-· [**GitHub**](https://github.com/olivia3395/Souvenir_of_a_life)<br>
-
-**Souvenirs of a Life Not Yet Lived** is an immersive AI travel app where users step into a private museum of the lives they almost lived. Instead of planning a trip, it generates a small, emotionally resonant keepsake from a parallel life — a ticket, a postcard, a receipt, a note — based on the user’s mood, longing, and the kind of life they have been quietly standing outside of. The experience is cinematic, intimate, and collectible, inviting users not just to imagine another city, but another self they might still be growing toward. ✨
-
-Come try it out [**here**](https://souvenir-of-a-life.vercel.app/). See the project [**here**](https://github.com/olivia3395/Souvenir_of_a_life).
-
-  </div>
-</div>
-
-
-
-<div class='paper-box'>
-  <div class='paper-box-image'>
-    <div>
-      <img src='images/the_map_of_me.png' alt="The Map of Me" width="100%">
-    </div>
-  </div>
-  <div class='paper-box-text' markdown="1">
-
-[**The Map of Me**](https://the-map-of-me.vercel.app/)
-· [**GitHub**](https://github.com/olivia3395/the-map-of-me)<br>
-
-**The Map of Me** is a map-based cultural discovery app that lets users collect meaningful places and explore what lives around them beyond geography alone. After adding a city, users can move from the global atlas into a more curated layer of screen references, books, and local landmarks, so that a place becomes not just somewhere on the map, but a small world of its own. With its editorial layout and archive-inspired interface, the project reimagines mapping as a form of cultural browsing — part atlas, part city shelf, part personal collection. 🗺️
-
-Come try it out [**here**](https://the-map-of-me.vercel.app/). See the project [**here**](https://github.com/olivia3395/the-map-of-me).
-
-
-  </div>
-</div>
-
-
-
-
-<div class='paper-box'>
-  <div class='paper-box-image'>
-    <div>
-      <img src='images/macondo.png' alt="A Room in Macondo" width="100%">
-    </div>
-  </div>
-  <div class='paper-box-text' markdown="1">
-
-[**A Room in Macondo**](https://a-room-in-macondo.vercel.app/)
-· [**GitHub**](https://github.com/olivia3395/a-room-in-macondo)<br>
-
-**A Room in Macondo** is an atmospheric AI literary experience inspired by the world of *One Hundred Years of Solitude*. Rather than retelling the novel, it invites users to step inside its weather for a moment — to enter a room, a ritual, and a fate of their own within a rain-soaked world of memory, fire, butterflies, and magical realism. Through a small sequence of questions, the app transforms mood into a story fragment that feels less like generated text and more like something recovered from an old archive in Macondo itself. With its dark-gold palette, burning-paper visuals, and haunted editorial layout, the project reimagines literary interaction as something immersive, cinematic, and quietly uncanny. 🦋
-
-Come try it out [**here**](https://a-room-in-macondo.vercel.app/). See the project [**here**](https://github.com/olivia3395/a-room-in-macondo).
-
-  </div>
-</div>
 
 
 # 🎖 Honors 
