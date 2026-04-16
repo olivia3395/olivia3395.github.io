@@ -96,10 +96,10 @@ Beyond theory and modeling, I am drawn to building AI applications that reflect 
       <img src="images/phaseshift.png" alt="Phase Transition" width="100%">
     </td>
     <td valign="top">
-      <img src="https://img.shields.io/badge/Under_Review_@_JASA-94A3B8?style=flat-square&labelColor=94A3B8" alt="JASA">&nbsp;<b><font size="4"><a href="https://arxiv.org/abs/2507.00889">Phase Transition in Nonparametric Minimax Rates for Covariate Shifts on Approximate Manifolds</a></font></b>&nbsp;&nbsp;<a href="https://arxiv.org/abs/2507.00889"><img src="https://img.shields.io/badge/arXiv-B31B1B?style=flat-square&logo=arxiv&logoColor=white" alt="arXiv"></a> <a href="https://github.com/olivia3395/Covariate-Shifts-on-Approximate-Manifolds/blob/main/manifold_poster.pdf"><img src="https://img.shields.io/badge/Poster-0369A1?style=flat-square" alt="Poster"></a> <a href="https://github.com/olivia3395/Covariate-Shifts-on-Approximate-Manifolds/blob/main/slides_Manifold.pdf"><img src="https://img.shields.io/badge/Slides-EA580C?style=flat-square" alt="Slides"></a> <a href="https://github.com/olivia3395/Covariate-Shifts-on-Approximate-Manifolds"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" alt="Code"></a>
+      <img src="https://img.shields.io/badge/Under_Review-94A3B8?style=flat-square&labelColor=94A3B8" alt="Under Review">&nbsp;<b><font size="4"><a href="https://arxiv.org/abs/2507.00889">Phase Transition in Nonparametric Minimax Rates for Covariate Shifts on Approximate Manifolds</a></font></b>&nbsp;&nbsp;<a href="https://arxiv.org/abs/2507.00889"><img src="https://img.shields.io/badge/arXiv-B31B1B?style=flat-square&logo=arxiv&logoColor=white" alt="arXiv"></a> <a href="https://github.com/olivia3395/Covariate-Shifts-on-Approximate-Manifolds/blob/main/manifold_poster.pdf"><img src="https://img.shields.io/badge/Poster-0369A1?style=flat-square" alt="Poster"></a> <a href="https://github.com/olivia3395/Covariate-Shifts-on-Approximate-Manifolds/blob/main/slides_Manifold.pdf"><img src="https://img.shields.io/badge/Slides-EA580C?style=flat-square" alt="Slides"></a> <a href="https://github.com/olivia3395/Covariate-Shifts-on-Approximate-Manifolds"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" alt="Code"></a>
       <ul>
-        <li>Identifies a sharp <b>phase transition</b> in minimax rates driven by the <b>support gap</b> — unifying multiple geometric-transfer regimes under one theory.</li>
-        <li><b>Ratio-free, dimension-adaptive</b> estimator hitting near-optimal rates without density ratios or known geometry.</li>
+        <li><b>New minimax theory for "near-manifold" shift:</b> exposes a sharp <b>phase transition</b> controlled by the <b>support gap</b> between target and source neighborhoods — unifying multiple geometric-transfer regimes.</li>
+        <li><b>Ratio-free, adaptive estimator:</b> achieves <b>near-optimal, dimension-adaptive rates</b> <b>without density ratios</b> and without assuming known geometry (works under approximate manifold mismatch).</li>
       </ul>
     </td>
   </tr>
@@ -113,8 +113,8 @@ Beyond theory and modeling, I am drawn to building AI applications that reflect 
     <td valign="top">
       <img src="https://img.shields.io/badge/Under_Review-94A3B8?style=flat-square&labelColor=94A3B8" alt="Under Review">&nbsp;<b><font size="4"><a href="https://arxiv.org/abs/2603.12664">From Text to Forecasts: Bridging Modality Gap with Temporal Evolution Semantic Space</a></font></b>&nbsp;&nbsp;<a href="https://arxiv.org/abs/2603.12664"><img src="https://img.shields.io/badge/arXiv-B31B1B?style=flat-square&logo=arxiv&logoColor=white" alt="arXiv"></a>
       <ul>
-        <li><b>TESS</b> distills free-form text into <b>interpretable temporal primitives</b> (shift, volatility, shape, lag) — no noisy token-level fusion.</li>
-        <li><b>Confidence-aware gating</b> injects LLM signals as prefix tokens into a Transformer forecaster — <b>up to 29% error reduction</b> under event-driven shifts.</li>
+        <li><b>Bridges the text–time-series modality gap:</b> introduces a <b>Temporal Evolution Semantic Space (TESS)</b> that distills free-form text into <b>interpretable temporal primitives</b> (mean shift, volatility, shape, lag), instead of directly fusing noisy token embeddings.</li>
+        <li><b>LLM-guided yet numerically grounded forecasting:</b> uses <b>structured prompting + confidence-aware gating</b> to inject reliable semantic signals as prefix tokens into a Transformer forecaster, yielding <b>robust gains under event-driven non-stationarity</b> (up to <b>29% error reduction</b>).</li>
       </ul>
     </td>
   </tr>
@@ -143,8 +143,8 @@ Beyond theory and modeling, I am drawn to building AI applications that reflect 
     <td valign="top">
       <img src="https://img.shields.io/badge/Under_Review-94A3B8?style=flat-square&labelColor=94A3B8" alt="Under Review">&nbsp;<b><font size="4">INCM: INConsistency-aware Multi-modal Recommendation with Cross-Modal Hard Negatives</font></b>
       <ul>
-        <li>Turns <b>cross-modal inconsistency</b> from noise into ranking signal — explicitly modeled in the training objective.</li>
-        <li><b>CHNS</b> mines modality-specific hard negatives; <b>Synergy-aware BPR</b> enforces stronger fused margins than any single modality.</li>
+        <li><b>Inconsistency-aware multimodal ranking:</b> studies how cross-modal discrepancies in recommendation may provide complementary ranking evidence or degrade fusion quality, and explicitly incorporates these effects into the training objective.</li>
+        <li><b>Cross-modal hard negatives + synergy-aware ranking loss:</b> proposes <b>CHNS</b> to mine modality-specific hard negatives across branches, and a <b>Synergy-aware BPR</b> loss to ensure the fused branch achieves stronger preference margins than unimodal branches.</li>
       </ul>
     </td>
   </tr>
@@ -160,8 +160,8 @@ Beyond theory and modeling, I am drawn to building AI applications that reflect 
     <td valign="top">
       <img src="https://img.shields.io/badge/IEEE_TGRS_2025-0891B2?style=flat-square&labelColor=0891B2" alt="IEEE TGRS 2025">&nbsp;<b><font size="4"><a href="https://ieeexplore.ieee.org/abstract/document/11133483">Cross-Domain Hyperspectral Image Classification via Mamba-CNN and Knowledge Distillation</a></font></b>&nbsp;&nbsp;<a href="https://ieeexplore.ieee.org/abstract/document/11133483"><img src="https://img.shields.io/badge/IEEE-00629B?style=flat-square&logo=ieee&logoColor=white" alt="IEEE"></a> <a href="https://github.com/olivia3395/Cross-Domain-Hyperspectral-Image-Classification-/blob/main/IEEE%20TRGS%202025.pptx"><img src="https://img.shields.io/badge/Slides-EA580C?style=flat-square" alt="Slides"></a>
       <ul>
-        <li><b>Mamba global encoder + CNN local features</b> — captures long-range spectral dependencies without losing spatial detail.</li>
-        <li><b>Distillation + OT-guided graph alignment</b> delivers robust cross-domain transfer under severe spectral mismatch.</li>
+        <li><b>Hybrid spectral–spatial modeling for domain shift:</b> integrates a <b>Mamba-based global spectral encoder</b> with <b>CNN local feature extraction</b>, capturing long-range dependencies while preserving fine-grained spatial structure in hyperspectral images.</li>
+        <li><b>Dual-level transfer via distillation + graph alignment:</b> performs <b>teacher–student knowledge distillation</b> for distribution alignment and <b>OT-guided graph consistency</b> across domains, yielding robust cross-domain generalization under severe spectral mismatch.</li>
       </ul>
     </td>
   </tr>
