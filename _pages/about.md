@@ -218,208 +218,138 @@ Beyond theory and modeling, I am drawn to building AI applications that reflect 
 # 🤖 LLM Engineering Projects
 
 
-
 <table>
   <tr>
-    <td width="130" valign="top">
-      <img src="https://img.shields.io/badge/AGENT-0D9488?style=flat-square&labelColor=0D9488" alt="AGENT">
-    </td>
-    <td valign="top">
+    <td width="50%" valign="top">
+      <img src="https://img.shields.io/badge/AGENT-0D9488?style=flat-square&labelColor=0D9488" alt="AGENT"><br>
       <b><a href="https://github.com/olivia3395/traffic_bot_detection">Traffic Bot Detection</a></b>
-      &nbsp;·&nbsp;
-      <a href="https://github.com/olivia3395/traffic_bot_detection"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" alt="Code"></a><br>
-      Three-layer ensemble with an <b>LLM-agent fingerprint scorer</b> (timing regularity, link coverage, API probing).<br>
-      <sub>🗂️ CSIC 2010 + hybrid synthetic LLM traffic &nbsp;·&nbsp; 🎯 Isolation Forest + GBM + rule engine</sub>
+      &nbsp;<a href="https://github.com/olivia3395/traffic_bot_detection"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" alt="Code"></a><br>
+      <sub>Isolation Forest · GBM · rule engine · <b>LLM fingerprint scorer</b></sub><br>
+      <sub>🗂️ CSIC 2010 + synthetic LLM traffic</sub>
+    </td>
+    <td width="50%" valign="top">
+      <img src="https://img.shields.io/badge/AGENT-0D9488?style=flat-square&labelColor=0D9488" alt="AGENT"><br>
+      <b><a href="https://github.com/olivia3395/DataPilot_Studio-">DataPilot: AI DS Agent</a></b>
+      &nbsp;<a href="https://github.com/olivia3395/DataPilot_Studio-"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" alt="Code"></a><br>
+      <sub><b>planner–analyst–verifier</b> · Streamlit · XGBoost</sub><br>
+      <sub>📊 Autonomous CSV profiling + code gen</sub>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <img src="https://img.shields.io/badge/AGENT-0D9488?style=flat-square&labelColor=0D9488" alt="AGENT">
+      <img src="https://img.shields.io/badge/RAG-7C3AED?style=flat-square&labelColor=7C3AED" alt="RAG"><br>
+      <b><a href="https://github.com/olivia3395/GraphRAG">GraphRAG: Multimodal RAG</a></b>
+      &nbsp;<a href="https://github.com/olivia3395/GraphRAG"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" alt="Code"></a><br>
+      <sub>dense + <b>entity graph</b> + CLIP image-text</sub><br>
+      <sub>🔧 FastAPI · ChromaDB · sentence-transformers</sub>
     </td>
     <td valign="top">
-      <b><a href="https://github.com/olivia3395/DataPilot_Studio-">DataPilot: AI Data Science Agent</a></b>
-      &nbsp;·&nbsp;
-      <a href="https://github.com/olivia3395/DataPilot_Studio-"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" alt="Code"></a><br>
-      Streamlit agent with <b>planner–analyst–verifier</b> workflow for autonomous CSV profiling, code generation, visualization, and summaries.<br>
-      <sub>⚙️ Baseline ML + XGBoost, feature importance &nbsp;·&nbsp; 📊 Downloadable reports</sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="130" valign="top">
-      <img src="https://img.shields.io/badge/RAG-7C3AED?style=flat-square&labelColor=7C3AED" alt="RAG">
-    </td>
-    <td valign="top">
-      <b><a href="https://github.com/olivia3395/GraphRAG">GraphRAG: Graph-Enhanced Multimodal RAG</a></b>
-      &nbsp;·&nbsp;
-      <a href="https://github.com/olivia3395/GraphRAG"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" alt="Code"></a><br>
-      Production-style RAG combining dense retrieval + entity-graph expansion + image-text retrieval.<br>
-      <sub>🔧 FastAPI + ChromaDB + sentence-transformers + CLIP &nbsp;·&nbsp; 🖼️ Heterogeneous text/image corpora</sub>
+      <img src="https://img.shields.io/badge/RAG-7C3AED?style=flat-square&labelColor=7C3AED" alt="RAG"><br>
+      <b><a href="https://github.com/olivia3395/Adaptive_RAG">Adaptive RAG</a></b>
+      &nbsp;<a href="https://github.com/olivia3395/Adaptive_RAG"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" alt="Code"></a><br>
+      <sub><b>query routing</b> · iterative retrieval · self-check</sub><br>
+      <sub>🔧 FastAPI · ChromaDB</sub>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <img src="https://img.shields.io/badge/RAG-7C3AED?style=flat-square&labelColor=7C3AED" alt="RAG">
-    </td>
-    <td valign="top">
-      <b><a href="https://github.com/olivia3395/Adaptive_RAG">Adaptive RAG with Query Routing &amp; Self-Reflection</a></b>
-      &nbsp;·&nbsp;
-      <a href="https://github.com/olivia3395/Adaptive_RAG"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" alt="Code"></a><br>
-      Routes queries, iterates retrieval, and self-checks for unsupported answers.<br>
-      <sub>🔧 FastAPI + ChromaDB &nbsp;·&nbsp; 🧩 Graph retrieval components</sub>
-    </td>
-  </tr>
-  <tr>
-    <td valign="top">
-      <img src="https://img.shields.io/badge/RAG-7C3AED?style=flat-square&labelColor=7C3AED" alt="RAG">
-    </td>
-    <td valign="top">
-      <b><a href="https://github.com/olivia3395/RAGAudit">RAGAudit: RAG with Hallucination Detection</a></b>
-      &nbsp;·&nbsp;
-      <a href="https://github.com/olivia3395/RAGAudit"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" alt="Code"></a>
-      &nbsp;·&nbsp;
+      <img src="https://img.shields.io/badge/RAG-7C3AED?style=flat-square&labelColor=7C3AED" alt="RAG"><br>
+      <b><a href="https://github.com/olivia3395/RAGAudit">RAGAudit: Hallucination Detection</a></b>
+      &nbsp;<a href="https://github.com/olivia3395/RAGAudit"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" alt="Code"></a>
       <a href="https://github.com/olivia3395/RAGAudit/blob/main/RAG%20%26%20Hallucination%20Detection.pdf"><img src="https://img.shields.io/badge/PDF-DC2626?style=flat-square&logo=adobeacrobatreader&logoColor=white" alt="PDF"></a><br>
-      RAG pipeline with <b>BM25+FAISS</b>, <b>RRF</b>, hallucination detection via <b>NLI</b>, <b>SelfCheckGPT</b>, <b>semantic entropy</b>.<br>
-      <sub>🗂️ Wikipedia DPR + NQ + HaluEval &nbsp;·&nbsp; 🤖 Mistral-7B &nbsp;·&nbsp; 📈 Recall@5, MRR@5, EM, F1, AUROC</sub>
-    </td>
-  </tr>
-
-  <tr>
-    <td width="130" valign="top">
-      <img src="https://img.shields.io/badge/ALIGN-DB2777?style=flat-square&labelColor=DB2777" alt="ALIGN">
+      <sub>BM25+FAISS · RRF · <b>NLI · SelfCheckGPT · sem. entropy</b></sub><br>
+      <sub>🤖 Mistral-7B · 📈 Recall@5, MRR@5, AUROC</sub>
     </td>
     <td valign="top">
-      <b><a href="https://github.com/olivia3395/TuneShift">TuneShift: Modular Fine-Tuning Framework</a></b>
-      &nbsp;·&nbsp;
-      <a href="https://github.com/olivia3395/TuneShift"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" alt="Code"></a><br>
-      Modular LLM fine-tuning for <b>domain transfer</b>, supporting instruction tuning, dialogue fine-tuning, <b>LoRA / QLoRA</b>.<br>
-      <sub>📈 EM, F1, ROUGE-L across domains</sub>
+      <img src="https://img.shields.io/badge/ALIGN-DB2777?style=flat-square&labelColor=DB2777" alt="ALIGN"><br>
+      <b><a href="https://github.com/olivia3395/TuneShift">TuneShift: Fine-Tuning</a></b>
+      &nbsp;<a href="https://github.com/olivia3395/TuneShift"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" alt="Code"></a><br>
+      <sub>instruction · dialogue · <b>LoRA / QLoRA</b></sub><br>
+      <sub>📈 EM · F1 · ROUGE-L · domain transfer</sub>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <img src="https://img.shields.io/badge/ALIGN-DB2777?style=flat-square&labelColor=DB2777" alt="ALIGN">
-    </td>
-    <td valign="top">
-      <b><a href="https://github.com/olivia3395/AlignDPO-Preference-Optimization-from-Scratch">AlignDPO: Preference Optimization from Scratch</a></b>
-      &nbsp;·&nbsp;
-      <a href="https://github.com/olivia3395/AlignDPO-Preference-Optimization-from-Scratch"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" alt="Code"></a>
-      &nbsp;·&nbsp;
+      <img src="https://img.shields.io/badge/ALIGN-DB2777?style=flat-square&labelColor=DB2777" alt="ALIGN"><br>
+      <b><a href="https://github.com/olivia3395/AlignDPO-Preference-Optimization-from-Scratch">AlignDPO</a></b>
+      &nbsp;<a href="https://github.com/olivia3395/AlignDPO-Preference-Optimization-from-Scratch"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" alt="Code"></a>
       <a href="https://github.com/olivia3395/AlignDPO-Preference-Optimization-from-Scratch/blob/main/DPO%20%26%20PPO.pdf"><img src="https://img.shields.io/badge/PDF-DC2626?style=flat-square&logo=adobeacrobatreader&logoColor=white" alt="PDF"></a><br>
-      Preference optimization with <b>DPO, IPO, KTO</b>, using <b>QLoRA</b> to fine-tune Mistral-7B on Anthropic HH-RLHF.<br>
-      <sub>📈 Reward accuracy, reward margin, GPT-4-as-judge win rate</sub>
-    </td>
-  </tr>
-  <tr>
-    <td valign="top">
-      <img src="https://img.shields.io/badge/ALIGN-DB2777?style=flat-square&labelColor=DB2777" alt="ALIGN">
+      <sub><b>DPO · IPO · KTO</b> · QLoRA · Mistral-7B</sub><br>
+      <sub>🧪 HH-RLHF · GPT-4 win rate</sub>
     </td>
     <td valign="top">
+      <img src="https://img.shields.io/badge/ALIGN-DB2777?style=flat-square&labelColor=DB2777" alt="ALIGN"><br>
       <b><a href="https://github.com/olivia3395/rlhf_finetuning">RLHF with PPO</a></b>
-      &nbsp;·&nbsp;
-      <a href="https://github.com/olivia3395/rlhf_finetuning"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" alt="Code"></a>
-      &nbsp;·&nbsp;
+      &nbsp;<a href="https://github.com/olivia3395/rlhf_finetuning"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" alt="Code"></a>
       <a href="https://github.com/olivia3395/PPO-based-RLHF/blob/main/RAG%20System.pdf"><img src="https://img.shields.io/badge/PDF-DC2626?style=flat-square&logo=adobeacrobatreader&logoColor=white" alt="PDF"></a><br>
-      PPO RLHF with composite reward and adaptive KL controller.<br>
-      <sub>🧠 GPT-2 actor-critic + GAE + clipped PPO &nbsp;·&nbsp; 📊 W&amp;B logging</sub>
+      <sub>GPT-2 · GAE · <b>clipped PPO · adaptive KL</b></sub><br>
+      <sub>📊 composite reward · W&amp;B</sub>
     </td>
   </tr>
   <tr>
-    <td width="130" valign="top">
-      <img src="https://img.shields.io/badge/CORE-EA580C?style=flat-square&labelColor=EA580C" alt="CORE">
-    </td>
     <td valign="top">
+      <img src="https://img.shields.io/badge/CORE-EA580C?style=flat-square&labelColor=EA580C" alt="CORE"><br>
       <b><a href="https://github.com/olivia3395/mini_pretrain">Mini LLM Pre-Training</a></b>
-      &nbsp;·&nbsp;
-      <a href="https://github.com/olivia3395/mini_pretrain"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" alt="Code"></a>
-      &nbsp;·&nbsp;
+      &nbsp;<a href="https://github.com/olivia3395/mini_pretrain"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" alt="Code"></a>
       <a href="https://github.com/olivia3395/Mini-GPT-Pre-Training/blob/main/LLM.pdf"><img src="https://img.shields.io/badge/PDF-DC2626?style=flat-square&logo=adobeacrobatreader&logoColor=white" alt="PDF"></a><br>
-      Pre-trained a <b>10.7M-parameter GPT</b> from scratch in PyTorch on TinyShakespeare.<br>
-      <sub>📉 PPL <b>65 → ~4.7</b> after 5k iters</sub>
+      <sub><b>10.7M GPT</b> · PyTorch · TinyShakespeare</sub><br>
+      <sub>📉 <b>PPL 65 → 4.7</b> @ 5k iters</sub>
+    </td>
+    <td valign="top">
+      <img src="https://img.shields.io/badge/CORE-EA580C?style=flat-square&labelColor=EA580C" alt="CORE"><br>
+      <b><a href="https://github.com/olivia3395/HQQ_1-bit_Quantization">HQQ: 1-bit Quantization</a></b>
+      &nbsp;<a href="https://github.com/olivia3395/HQQ_1-bit_Quantization"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" alt="Code"></a><br>
+      <sub>1–8 bit · proximal opt · <b>no calibration</b></sub><br>
+      <sub>⚡ <b>W1G64: 12.7× compress · &gt;4× speedup</b></sub>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <img src="https://img.shields.io/badge/CORE-EA580C?style=flat-square&labelColor=EA580C" alt="CORE">
-    </td>
-    <td valign="top">
-      <b><a href="https://github.com/olivia3395/HQQ_1-bit_Quantization">HQQ: 1-bit LLM Quantization</a></b>
-      &nbsp;·&nbsp;
-      <a href="https://github.com/olivia3395/HQQ_1-bit_Quantization"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" alt="Code"></a><br>
-      Half-Quadratic Quantization (1–8 bit) via proximal optimization; no calibration data.<br>
-      <sub>⚡ <b>W1G64: 12.7× compression, &gt;4× speedup</b></sub>
-    </td>
-  </tr>
-  <tr>
-    <td valign="top">
-      <img src="https://img.shields.io/badge/CORE-EA580C?style=flat-square&labelColor=EA580C" alt="CORE">
-    </td>
-    <td valign="top">
+      <img src="https://img.shields.io/badge/CORE-EA580C?style=flat-square&labelColor=EA580C" alt="CORE"><br>
       <b><a href="https://github.com/olivia3395/DraftVerify">DraftVerify: Speculative Decoding</a></b>
-      &nbsp;·&nbsp;
-      <a href="https://github.com/olivia3395/DraftVerify"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" alt="Code"></a><br>
-      Draft + verifier speculative decoding to cut autoregressive decoding cost.<br>
-      <sub>📊 Latency / throughput / acceptance vs vanilla decoding</sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="130" valign="top">
-      <img src="https://img.shields.io/badge/CAUSAL-0369A1?style=flat-square&labelColor=0369A1" alt="CAUSAL">
+      &nbsp;<a href="https://github.com/olivia3395/DraftVerify"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" alt="Code"></a><br>
+      <sub><b>draft + verifier</b> · speculative decode</sub><br>
+      <sub>📊 latency · throughput · acceptance</sub>
     </td>
     <td valign="top">
+      <img src="https://img.shields.io/badge/CAUSAL-0369A1?style=flat-square&labelColor=0369A1" alt="CAUSAL"><br>
       <b><a href="https://github.com/olivia3395/Causal-Promotion-Optimization">Causal Promotion Optimization</a></b>
-      &nbsp;·&nbsp;
-      <a href="https://github.com/olivia3395/Causal-Promotion-Optimization"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" alt="Code"></a>
-      &nbsp;·&nbsp;
+      &nbsp;<a href="https://github.com/olivia3395/Causal-Promotion-Optimization"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" alt="Code"></a>
       <a href="https://github.com/olivia3395/Causal-Promotion-Optimization/blob/main/Causal_Promotion.pdf"><img src="https://img.shields.io/badge/PDF-DC2626?style=flat-square&logo=adobeacrobatreader&logoColor=white" alt="PDF"></a><br>
-      <b>AIPW</b> uplift with <b>LightGBM</b> nuisance + <b>EconML DRLearner</b> CATE; budget-constrained planning via <b>OR-Tools</b>.<br>
-      <sub>🛒 Retail panel &nbsp;·&nbsp; 🚀 FastAPI + Streamlit</sub>
+      <sub><b>AIPW</b> · LightGBM · <b>DRLearner CATE</b> · OR-Tools</sub><br>
+      <sub>🛒 Retail panel · 🚀 FastAPI + Streamlit</sub>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <img src="https://img.shields.io/badge/CAUSAL-0369A1?style=flat-square&labelColor=0369A1" alt="CAUSAL">
-    </td>
-    <td valign="top">
-      <b><a href="https://github.com/olivia3395/Pricing-Impact-Analyzer">Congestion Pricing Impact Analyzer</a></b>
-      &nbsp;·&nbsp;
-      <a href="https://github.com/olivia3395/Pricing-Impact-Analyzer"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" alt="Code"></a>
-      &nbsp;·&nbsp;
+      <img src="https://img.shields.io/badge/CAUSAL-0369A1?style=flat-square&labelColor=0369A1" alt="CAUSAL"><br>
+      <b><a href="https://github.com/olivia3395/Pricing-Impact-Analyzer">Congestion Pricing Analyzer</a></b>
+      &nbsp;<a href="https://github.com/olivia3395/Pricing-Impact-Analyzer"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" alt="Code"></a>
       <a href="https://github.com/olivia3395/Pricing-Impact-Analyzer/blob/main/Congestion%20Pricing%20Impact%20Analyzer.pdf"><img src="https://img.shields.io/badge/PDF-DC2626?style=flat-square&logo=adobeacrobatreader&logoColor=white" alt="PDF"></a><br>
-      <b>TWFE DiD → CS-DiD → Synthetic DiD → Double ML</b> on 12M+ NYC TLC trips; RF-DML θ̂ = −0.124 (p &lt; 0.001).<br>
-      <sub>🌳 Zone-level CATE via Causal Forest &nbsp;·&nbsp; 📋 RATE curves, policy trees</sub>
-    </td>
-  </tr>
-  <tr>
-    <td valign="top">
-      <img src="https://img.shields.io/badge/ML-16A34A?style=flat-square&labelColor=16A34A" alt="ML">
+      <sub><b>TWFE · CS-DiD · Synth DiD · Double ML</b></sub><br>
+      <sub>🚕 <b>12M+ NYC TLC</b> · θ̂ = −0.124 (p&lt;.001)</sub>
     </td>
     <td valign="top">
-      <b><a href="https://github.com/olivia3395/Retail-Demand-Forecasting">Demand Forecasting with Transformers</a></b>
-      &nbsp;·&nbsp;
-      <a href="https://github.com/olivia3395/Retail-Demand-Forecasting"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" alt="Code"></a>
-      &nbsp;·&nbsp;
+      <img src="https://img.shields.io/badge/ML-16A34A?style=flat-square&labelColor=16A34A" alt="ML"><br>
+      <b><a href="https://github.com/olivia3395/Retail-Demand-Forecasting">Demand Forecasting</a></b>
+      &nbsp;<a href="https://github.com/olivia3395/Retail-Demand-Forecasting"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" alt="Code"></a>
       <a href="https://github.com/olivia3395/Retail-Demand-Forecasting/blob/main/Retail_Demand.pdf"><img src="https://img.shields.io/badge/PDF-DC2626?style=flat-square&logo=adobeacrobatreader&logoColor=white" alt="PDF"></a><br>
-      Store-SKU forecasting on <b>M5</b> with <b>Seasonal Naive</b>, <b>LightGBM</b>, <b>Temporal Fusion Transformer</b>, 28-day horizons.<br>
-      <sub>🔄 Automated pipeline &nbsp;·&nbsp; 🕒 Time-based evaluation</sub>
+      <sub>Seasonal Naive · LightGBM · <b>TFT</b></sub><br>
+      <sub>🛒 <b>M5</b> · 28-day · store-SKU</sub>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <img src="https://img.shields.io/badge/ML-16A34A?style=flat-square&labelColor=16A34A" alt="ML">
-    </td>
-    <td valign="top">
-      <b><a href="https://github.com/olivia3395/Customer-Churn-Prediction">Churn Prediction with MLflow &amp; FastAPI</a></b>
-      &nbsp;·&nbsp;
-      <a href="https://github.com/olivia3395/Customer-Churn-Prediction"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" alt="Code"></a>
-      &nbsp;·&nbsp;
+      <img src="https://img.shields.io/badge/ML-16A34A?style=flat-square&labelColor=16A34A" alt="ML"><br>
+      <b><a href="https://github.com/olivia3395/Customer-Churn-Prediction">Churn Prediction</a></b>
+      &nbsp;<a href="https://github.com/olivia3395/Customer-Churn-Prediction"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" alt="Code"></a>
       <a href="https://github.com/olivia3395/Customer-Churn-Prediction/blob/main/%20Churn%20Prediction.pdf"><img src="https://img.shields.io/badge/Slides-DC2626?style=flat-square&logo=adobeacrobatreader&logoColor=white" alt="Slides"></a><br>
-      GradientBoosting on IBM Telco with <b>sklearn Pipeline</b> + <b>MLflow</b> tracking.<br>
-      <sub>🚀 FastAPI + Pydantic v2 &nbsp;·&nbsp; 📡 Evidently AI KS-test drift monitoring</sub>
+      <sub>GradientBoosting · sklearn · <b>MLflow</b></sub><br>
+      <sub>🚀 FastAPI + Pydantic v2 · 📡 <b>Evidently drift</b></sub>
     </td>
+    <td valign="top"></td>
   </tr>
 </table>
-
-
 
 
 
