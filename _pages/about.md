@@ -679,10 +679,6 @@ Come try it out [**here**](https://a-room-in-macondo.vercel.app/). See the proje
 
 </td>
 </tr>
-
-
-<td valign="top"></td>
-</tr>
 </table>
 
 
