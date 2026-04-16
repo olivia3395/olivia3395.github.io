@@ -583,102 +583,81 @@ Come try it out [**here**](https://a-room-in-macondo.vercel.app/). See the proje
 
 # 🗂️ Projects
 
+
 <table>
-<tr>
-<td width="33%" valign="top">
-
-**🐶 Dog Breed Classification** <br>
-<sub>VGG16 · ResNet50 · Flask · **75.48%**</sub> <br>
-[![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/olivia3395/dog_identification_app) [![Demo](https://img.shields.io/badge/Demo-22C55E?style=flat-square&logo=rocket&logoColor=white)](https://olivia3395.github.io/dog_identification_app/)
-
-</td>
-<td width="33%" valign="top">
-
-**💳 Credit Risk** <br>
-<sub>XGBoost · SMOTE · **AUC 0.976**</sub> <br>
-[![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/olivia3395/credit-default-risk)
-
-</td>
-<td width="33%" valign="top">
-
-**🚶 Pedestrian Detection** <br>
-<sub>Fast R-CNN · Siamese · few-shot</sub> <br>
-[![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/olivia3395)
-
-</td>
-</tr>
-
-<tr>
-<td valign="top">
-
-**😷 Mask Detection** <br>
-<sub>ResNet50 · Grad-CAM · **94%**</sub> <br>
-[![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/olivia3395/MaskDetection)
-
-</td>
-<td valign="top">
-
-**📈 Financial Sentiment** <br>
-<sub>DistilBERT · **85%** · **30%↑ speed**</sub> <br>
-[![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/olivia3395/finanial-text-analysis) [![Demo](https://img.shields.io/badge/Demo-22C55E?style=flat-square&logo=rocket&logoColor=white)](https://olivia3395.github.io/finanial-text-analysis/)
-
-</td>
-<td valign="top">
-
-**✉️ Spam Detection** <br>
-<sub>TF-IDF · NB · **P 96 / R 94**</sub> <br>
-[![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/olivia3395/spam_detection)
-
-</td>
-</tr>
-
-<tr>
-<td valign="top">
-
-**🏠 Airbnb Dashboard** <br>
-<sub>R Shiny · maps · filtering</sub> <br>
-[![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/olivia3395/rshinyapp_airbnb) [![Demo](https://img.shields.io/badge/Demo-22C55E?style=flat-square&logo=rocket&logoColor=white)](https://yuyaowang.shinyapps.io/airbnb_app/)
-
-</td>
-<td valign="top">
-
-**🧬 Bayesian Logistic** <br>
-<sub>RStan · Spike-and-Slab · MCMC</sub> <br>
-[![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/olivia3395/Bayesian_Lung_Cancer_Prediction) [![Demo](https://img.shields.io/badge/Demo-22C55E?style=flat-square&logo=rocket&logoColor=white)](https://olivia3395.github.io/Bayesian_Lung_Cancer_Prediction/)
-
-</td>
-<td valign="top">
-
-**🧪 A/B Testing** <br>
-<sub>Bootstrap · power · **+15% conv.**</sub> <br>
-[![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/olivia3395/AB_Test_Ad)
-
-</td>
-</tr>
-
-<tr>
-<td valign="top">
-
-**📉 Time Series Forecast** <br>
-<sub>SARIMA · ETS · Prophet</sub> <br>
-[![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/olivia3395/GlobalRiskAnalysisUSA) [![Demo](https://img.shields.io/badge/Demo-22C55E?style=flat-square&logo=rocket&logoColor=white)](https://olivia3395.github.io/GlobalRiskAnalysisUSA/)
-
-</td>
-<td valign="top">
-
-**🎬 Movie Recommendation** <br>
-<sub>ALS · SVD · **+15% / −20%**</sub> <br>
-[![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/olivia3395/Spring2020-Project4-group8)
-
-</td>
-<td valign="top">
-
-**👥 Customer Segmentation** <br>
-<sub>K-Means · elbow · silhouette</sub> <br>
-[![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/olivia3395/Customer_Segmentation)
-
-</td>
-</tr>
+  <tr>
+    <td width="33%" valign="top">
+      <b>🐶 Dog Breed Classification</b><br>
+      <sub>VGG16 · ResNet50 · Flask · <b>75.48%</b></sub><br>
+      <a href="https://github.com/olivia3395/dog_identification_app"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" alt="Code"></a>
+      <a href="https://olivia3395.github.io/dog_identification_app/"><img src="https://img.shields.io/badge/Demo-22C55E?style=flat-square&logo=rocket&logoColor=white" alt="Demo"></a>
+    </td>
+    <td width="33%" valign="top">
+      <b>💳 Credit Risk</b><br>
+      <sub>XGBoost · SMOTE · <b>AUC 0.976</b></sub><br>
+      <a href="https://github.com/olivia3395/credit-default-risk"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" alt="Code"></a>
+    </td>
+    <td width="33%" valign="top">
+      <b>🚶 Pedestrian Detection</b><br>
+      <sub>Fast R-CNN · Siamese · few-shot</sub><br>
+      <a href="https://github.com/olivia3395"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" alt="Code"></a>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <b>😷 Mask Detection</b><br>
+      <sub>ResNet50 · Grad-CAM · <b>94%</b></sub><br>
+      <a href="https://github.com/olivia3395/MaskDetection"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" alt="Code"></a>
+    </td>
+    <td valign="top">
+      <b>📈 Financial Sentiment</b><br>
+      <sub>DistilBERT · <b>85%</b> · <b>30%↑ speed</b></sub><br>
+      <a href="https://github.com/olivia3395/finanial-text-analysis"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" alt="Code"></a>
+      <a href="https://olivia3395.github.io/finanial-text-analysis/"><img src="https://img.shields.io/badge/Demo-22C55E?style=flat-square&logo=rocket&logoColor=white" alt="Demo"></a>
+    </td>
+    <td valign="top">
+      <b>✉️ Spam Detection</b><br>
+      <sub>TF-IDF · NB · <b>P 96 / R 94</b></sub><br>
+      <a href="https://github.com/olivia3395/spam_detection"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" alt="Code"></a>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <b>🏠 Airbnb Dashboard</b><br>
+      <sub>R Shiny · maps · filtering</sub><br>
+      <a href="https://github.com/olivia3395/rshinyapp_airbnb"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" alt="Code"></a>
+      <a href="https://yuyaowang.shinyapps.io/airbnb_app/"><img src="https://img.shields.io/badge/Demo-22C55E?style=flat-square&logo=rocket&logoColor=white" alt="Demo"></a>
+    </td>
+    <td valign="top">
+      <b>🧬 Bayesian Logistic</b><br>
+      <sub>RStan · Spike-and-Slab · MCMC</sub><br>
+      <a href="https://github.com/olivia3395/Bayesian_Lung_Cancer_Prediction"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" alt="Code"></a>
+      <a href="https://olivia3395.github.io/Bayesian_Lung_Cancer_Prediction/"><img src="https://img.shields.io/badge/Demo-22C55E?style=flat-square&logo=rocket&logoColor=white" alt="Demo"></a>
+    </td>
+    <td valign="top">
+      <b>🧪 A/B Testing</b><br>
+      <sub>Bootstrap · power · <b>+15% conv.</b></sub><br>
+      <a href="https://github.com/olivia3395/AB_Test_Ad"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" alt="Code"></a>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <b>📉 Time Series Forecast</b><br>
+      <sub>SARIMA · ETS · Prophet</sub><br>
+      <a href="https://github.com/olivia3395/GlobalRiskAnalysisUSA"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" alt="Code"></a>
+      <a href="https://olivia3395.github.io/GlobalRiskAnalysisUSA/"><img src="https://img.shields.io/badge/Demo-22C55E?style=flat-square&logo=rocket&logoColor=white" alt="Demo"></a>
+    </td>
+    <td valign="top">
+      <b>🎬 Movie Recommendation</b><br>
+      <sub>ALS · SVD · <b>+15% / −20%</b></sub><br>
+      <a href="https://github.com/olivia3395/Spring2020-Project4-group8"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" alt="Code"></a>
+    </td>
+    <td valign="top">
+      <b>👥 Customer Segmentation</b><br>
+      <sub>K-Means · elbow · silhouette</sub><br>
+      <a href="https://github.com/olivia3395/Customer_Segmentation"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" alt="Code"></a>
+    </td>
+  </tr>
 </table>
 
 
