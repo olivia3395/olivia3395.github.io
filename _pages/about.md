@@ -295,6 +295,26 @@ Beyond theory and modeling, I am drawn to building AI applications that reflect 
 
 
 
+# 📖 Educations
+- *2021.09 – Now*: Ph.D. in Statistics, Boston University
+
+- *2019.09 – 2020.05*: M.A. in Statistics (Data Science Track), Columbia University
+
+- *2018.05 – 2019.06*: B.S. in Mathematics, Chinese Academy of Sciences
+  (Jointly Supervised Talent Program)
+  
+- *2015.09 – 2019.06*: B.S. in Mathematics, Shandong University
+
+
+# 💻 Internships
+
+- *2025.05 – 2025.08*: Data Scientist Intern, Plymouth Rock Insurance (Boston, MA)  
+  - Built AWS SageMaker pipeline for property-level loss prediction; boosted Gini +4.3% using XGBoost Tweedie 
+  - Developed LLM-powered image risk scoring with GPT-4o + Google Street View; integrated outputs into actuarial models  
+
+
+
+
 # ✨ My Apps
 
 
@@ -432,26 +452,6 @@ Beyond theory and modeling, I am drawn to building AI applications that reflect 
 - *2018*: First-Class Scholarship, Shandong University  
 - *2018*: Outstanding Student Leader, Shandong University  
 
-
-
-
-
-# 📖 Educations
-- *2021.09 – Now*: Ph.D. in Statistics, Boston University
-
-- *2019.09 – 2020.05*: M.A. in Statistics (Data Science Track), Columbia University
-
-- *2018.05 – 2019.06*: B.S. in Mathematics, Chinese Academy of Sciences
-  (Jointly Supervised Talent Program)
-  
-- *2015.09 – 2019.06*: B.S. in Mathematics, Shandong University
-
-
-# 💻 Internships
-
-- *2025.05 – 2025.08*: Data Scientist Intern, Plymouth Rock Insurance (Boston, MA)  
-  - Built AWS SageMaker pipeline for property-level loss prediction; boosted Gini +4.3% using XGBoost Tweedie 
-  - Developed LLM-powered image risk scoring with GPT-4o + Google Street View; integrated outputs into actuarial models  
 
 # 🗂️ Projects
 
