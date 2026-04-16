@@ -299,156 +299,129 @@ Beyond theory and modeling, I am drawn to building AI applications that reflect 
 
 
 <table>
-<tr>
-<td width="40%" valign="top">
-<img src="images/mbti_vibe.png" alt="MBTI Vibe" width="100%">
-</td>
-<td valign="top">
-
-<img src="https://img.shields.io/badge/✨_PERSONA-8B5CF6?style=flat-square&labelColor=8B5CF6" alt="PERSONA">
-
-### MBTI Vibe
-*What kind of personality atmosphere does this content radiate?*
-
-A multimodal AI app that reads text and images — captions, poems, screenshots, moodboards, all those tiny digital traces of self-expression — and whispers back the MBTI vibe it gives off. It doesn't claim to tell you who someone *really* is. It asks a softer, kinder question instead.
-
-<a href="https://mbti-vibe-ten.vercel.app/"><img src="https://img.shields.io/badge/Try_it-22C55E?style=flat-square&logo=rocket&logoColor=white" alt="Try it"></a> <a href="https://github.com/olivia3395/MBTI-Vibe"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" alt="Code"></a>
-
-</td>
-</tr>
+  <tr>
+    <td width="40%" valign="top">
+      <img src="images/mbti_vibe.png" alt="MBTI Vibe" width="100%">
+    </td>
+    <td valign="top">
+      <img src="https://img.shields.io/badge/%E2%9C%A8_PERSONA-8B5CF6?style=flat-square&labelColor=8B5CF6" alt="PERSONA">
+      <h3>MBTI Vibe</h3>
+      <i>What kind of personality atmosphere does this content radiate?</i>
+      <p>A multimodal AI app that reads text and images — captions, poems, screenshots, moodboards, all those tiny digital traces of self-expression — and whispers back the MBTI vibe it gives off. It doesn't claim to tell you who someone <i>really</i> is. It asks a softer, kinder question instead.</p>
+      <a href="https://mbti-vibe-ten.vercel.app/"><img src="https://img.shields.io/badge/Try_it-22C55E?style=flat-square&logo=rocket&logoColor=white" alt="Try it"></a>
+      <a href="https://github.com/olivia3395/MBTI-Vibe"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" alt="Code"></a>
+    </td>
+  </tr>
 </table>
 
 <br>
 
 <table>
-<tr>
-<td width="40%" valign="top">
-<img src="images/what_if_cinema.png" alt="What If Cinema" width="100%">
-</td>
-<td valign="top">
-
-<img src="https://img.shields.io/badge/🎬_CINEMA-DC2626?style=flat-square&labelColor=DC2626" alt="CINEMA">
-
-### What If Cinema
-*Rewrite a film's final heartbeat.*
-
-For anyone who has ever left a movie wondering — *what if it ended differently?* Insert a new scene, change one choice, shift a single moment. It stays close to the emotional soul of the original — preserving its tone, longing, and ache — while imagining endings that feel tender, devastating, hopeful, or quietly healing. Not every ending needs to be undone. But some deserve to be imagined differently.
-
-<a href="https://what-if-cinema.vercel.app/"><img src="https://img.shields.io/badge/Try_it-22C55E?style=flat-square&logo=rocket&logoColor=white" alt="Try it"></a> <a href="https://github.com/olivia3395/What_If_Cinema"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" alt="Code"></a>
-
-</td>
-</tr>
+  <tr>
+    <td width="40%" valign="top">
+      <img src="images/what_if_cinema.png" alt="What If Cinema" width="100%">
+    </td>
+    <td valign="top">
+      <img src="https://img.shields.io/badge/%F0%9F%8E%AC_CINEMA-DC2626?style=flat-square&labelColor=DC2626" alt="CINEMA">
+      <h3>What If Cinema</h3>
+      <i>Rewrite a film's final heartbeat.</i>
+      <p>For anyone who has ever left a movie wondering — <i>what if it ended differently?</i> Insert a new scene, change one choice, shift a single moment. It stays close to the emotional soul of the original — preserving its tone, longing, and ache — while imagining endings that feel tender, devastating, hopeful, or quietly healing. Not every ending needs to be undone. But some deserve to be imagined differently.</p>
+      <a href="https://what-if-cinema.vercel.app/"><img src="https://img.shields.io/badge/Try_it-22C55E?style=flat-square&logo=rocket&logoColor=white" alt="Try it"></a>
+      <a href="https://github.com/olivia3395/What_If_Cinema"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" alt="Code"></a>
+    </td>
+  </tr>
 </table>
 
 <br>
 
 <table>
-<tr>
-<td width="40%" valign="top">
-<img src="images/letter_from_sceen.png" alt="Letters from the Screen" width="100%">
-</td>
-<td valign="top">
-
-<img src="https://img.shields.io/badge/✉️_LETTER-DB2777?style=flat-square&labelColor=DB2777" alt="LETTER">
-
-### Letters from the Screen
-*A healing letter from the character you need most.*
-
-Share what is on your heart, and receive a letter from the movie or TV character who would understand. More love letter than chatbot — intimate, tender, just a little magical. The comfort lies in its emotional closeness: it offers not advice, but presence. The rare feeling that a voice from another story has stepped out of the screen to sit beside you for a while.
-
-<a href="https://letters-from-the-screen.vercel.app/"><img src="https://img.shields.io/badge/Try_it-22C55E?style=flat-square&logo=rocket&logoColor=white" alt="Try it"></a> <a href="https://github.com/olivia3395/Letters_from_the_Screen"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" alt="Code"></a>
-
-</td>
-</tr>
+  <tr>
+    <td width="40%" valign="top">
+      <img src="images/letter_from_sceen.png" alt="Letters from the Screen" width="100%">
+    </td>
+    <td valign="top">
+      <img src="https://img.shields.io/badge/%E2%9C%89%EF%B8%8F_LETTER-DB2777?style=flat-square&labelColor=DB2777" alt="LETTER">
+      <h3>Letters from the Screen</h3>
+      <i>A healing letter from the character you need most.</i>
+      <p>Share what is on your heart, and receive a letter from the movie or TV character who would understand. More love letter than chatbot — intimate, tender, just a little magical. The comfort lies in its emotional closeness: it offers not advice, but presence. The rare feeling that a voice from another story has stepped out of the screen to sit beside you for a while.</p>
+      <a href="https://letters-from-the-screen.vercel.app/"><img src="https://img.shields.io/badge/Try_it-22C55E?style=flat-square&logo=rocket&logoColor=white" alt="Try it"></a>
+      <a href="https://github.com/olivia3395/Letters_from_the_Screen"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" alt="Code"></a>
+    </td>
+  </tr>
 </table>
 
 <br>
 
 <table>
-<tr>
-<td width="40%" valign="top">
-<img src="images/if_you_disappeared.png" alt="If You Disappeared on a Trip" width="100%">
-</td>
-<td valign="top">
-
-<img src="https://img.shields.io/badge/✈️_ESCAPE-0EA5E9?style=flat-square&labelColor=0EA5E9" alt="ESCAPE">
-
-### If You Disappeared on a Trip
-*A small borrowed life in another city.*
-
-For anyone who has ever wanted to slip away for a day or two. Instead of a typical itinerary, it builds a small borrowed life in another city based on your mood — cinematic, soothing, touched with a bit of humor. Not because it solves anything, but because it gives you a brief imaginative place to rest, wander, and feel held by another version of life. Scenes, snacks, photographs, and the kind of inner weather that only changes when you leave home.
-
-<a href="https://if-you-disappeared.vercel.app/"><img src="https://img.shields.io/badge/Try_it-22C55E?style=flat-square&logo=rocket&logoColor=white" alt="Try it"></a> <a href="https://github.com/olivia3395/if-you-disappeared"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" alt="Code"></a>
-
-</td>
-</tr>
+  <tr>
+    <td width="40%" valign="top">
+      <img src="images/if_you_disappeared.png" alt="If You Disappeared on a Trip" width="100%">
+    </td>
+    <td valign="top">
+      <img src="https://img.shields.io/badge/%E2%9C%88%EF%B8%8F_ESCAPE-0EA5E9?style=flat-square&labelColor=0EA5E9" alt="ESCAPE">
+      <h3>If You Disappeared on a Trip</h3>
+      <i>A small borrowed life in another city.</i>
+      <p>For anyone who has ever wanted to slip away for a day or two. Instead of a typical itinerary, it builds a small borrowed life in another city based on your mood — cinematic, soothing, touched with a bit of humor. Not because it solves anything, but because it gives you a brief imaginative place to rest, wander, and feel held by another version of life. Scenes, snacks, photographs, and the kind of inner weather that only changes when you leave home.</p>
+      <a href="https://if-you-disappeared.vercel.app/"><img src="https://img.shields.io/badge/Try_it-22C55E?style=flat-square&logo=rocket&logoColor=white" alt="Try it"></a>
+      <a href="https://github.com/olivia3395/if-you-disappeared"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" alt="Code"></a>
+    </td>
+  </tr>
 </table>
 
 <br>
 
 <table>
-<tr>
-<td width="40%" valign="top">
-<img src="images/souvenir_of_a_life.png" alt="Souvenirs of a Life Not Yet Lived" width="100%">
-</td>
-<td valign="top">
-
-<img src="https://img.shields.io/badge/🎟️_KEEPSAKE-C2410C?style=flat-square&labelColor=C2410C" alt="KEEPSAKE">
-
-### Souvenirs of a Life Not Yet Lived
-*A private museum of the lives you almost lived.*
-
-Step into a curated archive of parallel selves. Instead of planning a trip, it generates a small, emotionally resonant keepsake — a ticket, a postcard, a receipt, a note — from a life you've been quietly standing outside of. Cinematic, intimate, collectible. An invitation to imagine not just another city, but another self you might still be growing toward.
-
-<a href="https://souvenir-of-a-life.vercel.app/"><img src="https://img.shields.io/badge/Try_it-22C55E?style=flat-square&logo=rocket&logoColor=white" alt="Try it"></a> <a href="https://github.com/olivia3395/Souvenir_of_a_life"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" alt="Code"></a>
-
-</td>
-</tr>
+  <tr>
+    <td width="40%" valign="top">
+      <img src="images/souvenir_of_a_life.png" alt="Souvenirs of a Life Not Yet Lived" width="100%">
+    </td>
+    <td valign="top">
+      <img src="https://img.shields.io/badge/%F0%9F%8E%9F%EF%B8%8F_KEEPSAKE-C2410C?style=flat-square&labelColor=C2410C" alt="KEEPSAKE">
+      <h3>Souvenirs of a Life Not Yet Lived</h3>
+      <i>A private museum of the lives you almost lived.</i>
+      <p>Step into a curated archive of parallel selves. Instead of planning a trip, it generates a small, emotionally resonant keepsake — a ticket, a postcard, a receipt, a note — from a life you've been quietly standing outside of. Cinematic, intimate, collectible. An invitation to imagine not just another city, but another self you might still be growing toward.</p>
+      <a href="https://souvenir-of-a-life.vercel.app/"><img src="https://img.shields.io/badge/Try_it-22C55E?style=flat-square&logo=rocket&logoColor=white" alt="Try it"></a>
+      <a href="https://github.com/olivia3395/Souvenir_of_a_life"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" alt="Code"></a>
+    </td>
+  </tr>
 </table>
 
 <br>
 
 <table>
-<tr>
-<td width="40%" valign="top">
-<img src="images/the_map_of_me.png" alt="The Map of Me" width="100%">
-</td>
-<td valign="top">
-
-<img src="https://img.shields.io/badge/🗺️_ATLAS-0369A1?style=flat-square&labelColor=0369A1" alt="ATLAS">
-
-### The Map of Me
-*Part atlas, part city shelf, part personal collection.*
-
-A map-based cultural discovery app for collecting meaningful places and exploring what lives around them beyond geography alone. After adding a city, you move from the global atlas into a curated layer of screen references, books, and local landmarks — so a place becomes not just somewhere on the map, but a small world of its own. Editorial, archive-inspired, cultural browsing as cartography.
-
-<a href="https://the-map-of-me.vercel.app/"><img src="https://img.shields.io/badge/Try_it-22C55E?style=flat-square&logo=rocket&logoColor=white" alt="Try it"></a> <a href="https://github.com/olivia3395/the-map-of-me"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" alt="Code"></a>
-
-</td>
-</tr>
+  <tr>
+    <td width="40%" valign="top">
+      <img src="images/the_map_of_me.png" alt="The Map of Me" width="100%">
+    </td>
+    <td valign="top">
+      <img src="https://img.shields.io/badge/%F0%9F%97%BA%EF%B8%8F_ATLAS-0369A1?style=flat-square&labelColor=0369A1" alt="ATLAS">
+      <h3>The Map of Me</h3>
+      <i>Part atlas, part city shelf, part personal collection.</i>
+      <p>A map-based cultural discovery app for collecting meaningful places and exploring what lives around them beyond geography alone. After adding a city, you move from the global atlas into a curated layer of screen references, books, and local landmarks — so a place becomes not just somewhere on the map, but a small world of its own. Editorial, archive-inspired, cultural browsing as cartography.</p>
+      <a href="https://the-map-of-me.vercel.app/"><img src="https://img.shields.io/badge/Try_it-22C55E?style=flat-square&logo=rocket&logoColor=white" alt="Try it"></a>
+      <a href="https://github.com/olivia3395/the-map-of-me"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" alt="Code"></a>
+    </td>
+  </tr>
 </table>
 
 <br>
 
 <table>
-<tr>
-<td width="40%" valign="top">
-<img src="images/macondo.png" alt="A Room in Macondo" width="100%">
-</td>
-<td valign="top">
-
-<img src="https://img.shields.io/badge/🦋_LITERARY-92400E?style=flat-square&labelColor=92400E" alt="LITERARY">
-
-### A Room in Macondo
-*Step inside the weather of One Hundred Years of Solitude.*
-
-An atmospheric AI literary experience inspired by García Márquez's rain-soaked world of memory, fire, butterflies, and magical realism. Rather than retelling the novel, it invites you into a room, a ritual, and a fate of your own. A small sequence of questions transforms mood into a story fragment that feels less like generated text and more like something recovered from an old archive in Macondo itself. Dark-gold palette, burning-paper visuals, haunted editorial layout.
-
-<a href="https://a-room-in-macondo.vercel.app/"><img src="https://img.shields.io/badge/Try_it-22C55E?style=flat-square&logo=rocket&logoColor=white" alt="Try it"></a> <a href="https://github.com/olivia3395/a-room-in-macondo"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" alt="Code"></a>
-
-</td>
-</tr>
+  <tr>
+    <td width="40%" valign="top">
+      <img src="images/macondo.png" alt="A Room in Macondo" width="100%">
+    </td>
+    <td valign="top">
+      <img src="https://img.shields.io/badge/%F0%9F%A6%8B_LITERARY-92400E?style=flat-square&labelColor=92400E" alt="LITERARY">
+      <h3>A Room in Macondo</h3>
+      <i>Step inside the weather of One Hundred Years of Solitude.</i>
+      <p>An atmospheric AI literary experience inspired by García Márquez's rain-soaked world of memory, fire, butterflies, and magical realism. Rather than retelling the novel, it invites you into a room, a ritual, and a fate of your own. A small sequence of questions transforms mood into a story fragment that feels less like generated text and more like something recovered from an old archive in Macondo itself. Dark-gold palette, burning-paper visuals, haunted editorial layout.</p>
+      <a href="https://a-room-in-macondo.vercel.app/"><img src="https://img.shields.io/badge/Try_it-22C55E?style=flat-square&logo=rocket&logoColor=white" alt="Try it"></a>
+      <a href="https://github.com/olivia3395/a-room-in-macondo"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" alt="Code"></a>
+    </td>
+  </tr>
 </table>
+
 
 
 
