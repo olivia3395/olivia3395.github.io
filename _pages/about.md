@@ -681,11 +681,6 @@ Come try it out [**here**](https://a-room-in-macondo.vercel.app/). See the proje
 </tr>
 
 <tr>
-<td valign="top">
-
-**🎵 R&B Lyrical Analysis** <br>
-<sub>LDA · VADER · topics + sentiment</sub> <br>
-[![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/olivia3395/R-B_Lyrics)
 
 </td>
 <td valign="top"></td>
