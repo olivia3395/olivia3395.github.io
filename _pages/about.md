@@ -314,8 +314,9 @@ Beyond theory and modeling, I am drawn to building AI applications that reflect 
 <b><font size="4">Data Scientist Intern</font></b> · Plymouth Rock Insurance<br>
 <sub>📍 Boston, MA &nbsp;·&nbsp; 🗓️ May 2025 – Aug 2025</sub>
 
-- Built <b>AWS SageMaker</b> pipeline for property-level loss prediction; boosted <b>Gini +4.3%</b> via <b>XGBoost Tweedie</b>.
-- Developed <b>LLM-powered image risk scoring</b> with <b>GPT-4o + Google Street View</b>; integrated outputs into production actuarial models.
+- Architected an end-to-end <b>AWS SageMaker</b> pipeline for property-level loss prediction using an <b>XGBoost Tweedie</b> model on multi-million-policy data, lifting <b>Gini by +4.3%</b> over the production baseline and directly improving underwriting risk segmentation.
+  
+- Pioneered an <b>LLM-powered visual risk scoring</b> system combining <b>GPT-4o multimodal reasoning</b> with <b>Google Street View</b> imagery to capture previously unobservable property features (roof condition, surroundings, hazards); integrated outputs into downstream <b>actuarial pricing models</b> as a novel signal layer.
 
 <br clear="left">
 
