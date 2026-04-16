@@ -309,21 +309,15 @@ Beyond theory and modeling, I am drawn to building AI applications that reflect 
 # 💻 Internships
 
 
-<table>
-  <tr>
-    <td width="100" valign="top">
-      <img src="images/plymouth_logo.png" alt="Plymouth Rock" width="90">
-    </td>
-    <td valign="top">
-      <b><font size="4">Data Scientist Intern</font></b> · <a href="https://www.plymouthrock.com/">Plymouth Rock Insurance</a><br>
-      <sub>📍 Boston, MA &nbsp;·&nbsp; 🗓️ May 2025 – Aug 2025</sub>
-      <ul>
-        <li>Built <b>AWS SageMaker</b> pipeline for property-level loss prediction; boosted <b>Gini +4.3%</b> via <b>XGBoost Tweedie</b>.</li>
-        <li>Developed <b>LLM-powered image risk scoring</b> with <b>GPT-4o + Google Street View</b>; integrated outputs into production actuarial models.</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+<img src="images/plymouth_logo.png" alt="Plymouth Rock" width="90" align="left" hspace="15">
+
+<b><font size="4">Data Scientist Intern</font></b> · Plymouth Rock Insurance<br>
+<sub>📍 Boston, MA &nbsp;·&nbsp; 🗓️ May 2025 – Aug 2025</sub>
+
+- Built <b>AWS SageMaker</b> pipeline for property-level loss prediction; boosted <b>Gini +4.3%</b> via <b>XGBoost Tweedie</b>.
+- Developed <b>LLM-powered image risk scoring</b> with <b>GPT-4o + Google Street View</b>; integrated outputs into production actuarial models.
+
+<br clear="left">
 
 
 
