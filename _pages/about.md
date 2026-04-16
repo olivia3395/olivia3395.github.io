@@ -215,72 +215,187 @@ Beyond theory and modeling, I am drawn to building AI applications that reflect 
 
 
 
+<div align="center">
+
 # 🤖 LLM Engineering Projects
 
+**A curated portfolio — from pre-training and alignment to retrieval, agents, and causal ML.**
 
+<p>
+  <img src="https://img.shields.io/badge/-LLM%20ENGINEERING-6C5CE7?style=flat-square" />
+  <img src="https://img.shields.io/badge/-RAG%20%2F%20AGENTS-00B894?style=flat-square" />
+  <img src="https://img.shields.io/badge/-ALIGNMENT-E17055?style=flat-square" />
+  <img src="https://img.shields.io/badge/-CAUSAL%20ML-0984E3?style=flat-square" />
+</p>
 
-- **[Traffic Bot Detection](https://github.com/olivia3395/traffic_bot_detection)** · [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="15" alt="GitHub"/> Code](https://github.com/olivia3395/traffic_bot_detection)  
-  Built a three-layer ensemble with an **LLM-agent fingerprint scorer** (timing regularity, link coverage, API probing).  
-  - CSIC 2010 + hybrid synthetic LLM traffic
+<sub><a href="#agents--rag">Agents & RAG</a> &nbsp;·&nbsp; <a href="#alignment--fine-tuning">Alignment & Fine-Tuning</a> &nbsp;·&nbsp; <a href="#training--efficiency">Training & Efficiency</a> &nbsp;·&nbsp; <a href="#causal-ml--forecasting">Causal ML & Forecasting</a></sub>
 
-- **[DataPilot: AI Data Science Agent for Autonomous CSV Analysis](https://github.com/olivia3395/DataPilot_Studio-)** · [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="15" alt="GitHub"/> Code](https://github.com/olivia3395/DataPilot_Studio-)  
-  Streamlit agent with **planner–analyst–verifier** workflow for profiling CSVs, generating executable Python, visualization, and summaries.  
-  - Baseline ML pipelines + **XGBoost**, feature importance; Sample datasets + downloadable reports/code
+</div>
 
-- **[GraphRAG: Graph-Enhanced Multimodal RAG](https://github.com/olivia3395/GraphRAG)** · [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="15" alt="GitHub"/> Code](https://github.com/olivia3395/GraphRAG)  
-  Production-style RAG combining dense retrieval + entity-graph expansion + image-text retrieval.  
-  - FastAPI + ChromaDB + sentence-transformers + CLIP; Supports heterogeneous text/image corpora
+<br/>
 
-- **[Adaptive RAG with Query Routing and Self-Reflection](https://github.com/olivia3395/Adaptive_RAG)** · [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="15" alt="GitHub"/> Code](https://github.com/olivia3395/Adaptive_RAG)  
-  Routes queries, iterates retrieval, and self-checks for unsupported answers.  
-  - FastAPI + ChromaDB + graph retrieval components
+---
 
-- **[RAGAudit: Retrieval-Augmented Generation with Hallucination Detection](https://github.com/olivia3395/RAGAudit)** · [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="15" alt="GitHub"/> Code](https://github.com/olivia3395/RAGAudit) · [📄 PDF](https://github.com/olivia3395/RAGAudit/blob/main/RAG%20%26%20Hallucination%20Detection.pdf)  
-  Built a RAG pipeline with **BM25+FAISS**, **RRF**, and hallucination detection via **NLI**, **SelfCheckGPT**, and **semantic entropy**.
-  - Wikipedia DPR + Natural Questions + HaluEval; Mistral-7B; evaluated with Recall@5, MRR@5, EM, F1, and AUROC
+<a id="agents--rag"></a>
+### <img src="https://img.shields.io/badge/-AGENTS%20%26%20RAG-00B894?style=flat-square" />
 
-- **[TuneShift](https://github.com/olivia3395/TuneShift)** · [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="15" alt="GitHub"/> Code](https://github.com/olivia3395/TuneShift)  
-  Modular LLM fine-tuning framework for **domain transfer**, supporting instruction tuning, dialogue finetuning, and **LoRA / QLoRA** adaptation.  
-  - Compared adaptation strategies across domains with EM, F1, and ROUGE-L
+<br/>
 
-- **[AlignDPO](https://github.com/olivia3395/AlignDPO-Preference-Optimization-from-Scratch)** · [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="15" alt="GitHub"/> Code](https://github.com/olivia3395/AlignDPO-Preference-Optimization-from-Scratch) · [📄 PDF](https://github.com/olivia3395/AlignDPO-Preference-Optimization-from-Scratch/blob/main/DPO%20%26%20PPO.pdf)  
-  Preference optimization from scratch with **DPO, IPO, and KTO**, using **QLoRA** to fine-tune Mistral-7B on Anthropic HH-RLHF.  
-  - Evaluated with reward accuracy, reward margin, and GPT-4-as-judge win rate
+**RAGAudit — Retrieval-Augmented Generation with Hallucination Detection**
+&nbsp; <a href="https://github.com/olivia3395/RAGAudit"><img src="https://img.shields.io/badge/-Code-181717?style=flat-square&logo=github&logoColor=white" /></a>
+&nbsp; <a href="https://github.com/olivia3395/RAGAudit/blob/main/RAG%20%26%20Hallucination%20Detection.pdf"><img src="https://img.shields.io/badge/-Report-8E8E93?style=flat-square" /></a>
 
-- **[RLHF (PPO)](https://github.com/olivia3395/rlhf_finetuning)** · [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="15" alt="GitHub"/> Code](https://github.com/olivia3395/rlhf_finetuning) · [📄 PDF](https://github.com/olivia3395/PPO-based-RLHF/blob/main/RAG%20System.pdf)  
-  PPO RLHF with composite reward and adaptive KL controller.  
-  - GPT-2 actor-critic + GAE + clipped PPO + W&B logging
+Full RAG pipeline with **BM25 + FAISS**, **Reciprocal Rank Fusion**, and hallucination detection via **NLI**, **SelfCheckGPT**, and **semantic entropy**. Evaluated on **Wikipedia DPR + Natural Questions + HaluEval** with Mistral-7B across Recall@5, MRR@5, EM, F1, AUROC.
 
-- **[Mini LLM Pre-Training](https://github.com/olivia3395/mini_pretrain)** · [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="15" alt="GitHub"/> Code](https://github.com/olivia3395/mini_pretrain) · [📄 PDF](https://github.com/olivia3395/Mini-GPT-Pre-Training/blob/main/LLM.pdf)  
-  Pre-trained a **10.7M** GPT from scratch in PyTorch on TinyShakespeare.  
-  - PPL **65 → ~4.7** after 5k iters
+<sub>`BM25+FAISS` &nbsp; `RRF` &nbsp; `NLI` &nbsp; `SelfCheckGPT` &nbsp; `Mistral-7B`</sub>
 
-- **[LLM 1-bit Quantization (HQQ)](https://github.com/olivia3395/HQQ_1-bit_Quantization)** · [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="15" alt="GitHub"/> Code](https://github.com/olivia3395/HQQ_1-bit_Quantization)  
-  Half-Quadratic Quantization (1–8 bit) via proximal optimization; no calibration data.  
-  - **W1G64: 12.7×** compression, **>4×** speedup
+<br/>
 
-- **[DraftVerify: Speculative Decoding](https://github.com/olivia3395/DraftVerify)** · [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="15" alt="GitHub"/> Code](https://github.com/olivia3395/DraftVerify)  
-  Draft+verifier speculative decoding to reduce AR decoding cost.  
-  - Benchmarked latency/throughput/acceptance vs vanilla decoding
+**GraphRAG — Graph-Enhanced Multimodal RAG**
+&nbsp; <a href="https://github.com/olivia3395/GraphRAG"><img src="https://img.shields.io/badge/-Code-181717?style=flat-square&logo=github&logoColor=white" /></a>
 
+Production-style RAG combining dense retrieval, entity-graph expansion, and image–text retrieval over heterogeneous corpora.
 
-- **[Causal Promotion Optimization for Retail Demand](https://github.com/olivia3395/Causal-Promotion-Optimization)** · [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="15" alt="GitHub"/> Code](https://github.com/olivia3395/Causal-Promotion-Optimization) · [📄 PDF](https://github.com/olivia3395/Causal-Promotion-Optimization/blob/main/Causal_Promotion.pdf)  
-  **AIPW** uplift estimation with **LightGBM** nuisance models and **EconML DRLearner** for CATE; budget-constrained promotion planning via **OR-Tools**.  
-  - Retail panel data with robustness diagnostics; deployed with **FastAPI + Streamlit**
+<sub>`FastAPI` &nbsp; `ChromaDB` &nbsp; `sentence-transformers` &nbsp; `CLIP`</sub>
 
-- **[Demand Forecasting with Transformers](https://github.com/olivia3395/Retail-Demand-Forecasting)** · [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="15" alt="GitHub"/> Code](https://github.com/olivia3395/Retail-Demand-Forecasting) · [📄 PDF](https://github.com/olivia3395/Retail-Demand-Forecasting/blob/main/Retail_Demand.pdf)  
-  Store-SKU forecasting on **M5** with **Seasonal Naive**, **LightGBM**, and a **Temporal Fusion Transformer** for 28-day horizons.  
-  - Automated data download, feature engineering, time-based evaluation, and exported forecasts
+<br/>
 
-- **[Congestion Pricing Impact Analyzer for Urban Mobility](https://github.com/olivia3395/Pricing-Impact-Analyzer)** · [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="15" alt="GitHub"/> Code](https://github.com/olivia3395/Pricing-Impact-Analyzer) · [📄 PDF](https://github.com/olivia3395/Pricing-Impact-Analyzer/blob/main/Congestion%20Pricing%20Impact%20Analyzer.pdf)  
-  Full causal stack (**TWFE DiD → CS-DiD → Synthetic DiD → Double ML**) on 12M+ NYC TLC trips; **Random Forest** DML estimated $\hat{\theta}=-0.124$ ($p<0.001$).  
-  - Zone-level CATE via **Causal Forest**, with RATE curves, policy trees, and robustness checks
-  
- 
-- **[Churn Prediction with MLflow & FastAPI](https://github.com/olivia3395/Customer-Churn-Prediction)** · [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="15" alt="GitHub"/> Code](https://github.com/olivia3395/Customer-Churn-Prediction) · [📄 Slides](https://github.com/olivia3395/Customer-Churn-Prediction/blob/main/%20Churn%20Prediction.pdf)  
-  GradientBoosting churn model on IBM Telco with **sklearn Pipeline** and **MLflow** tracking.  
-  - Served via **FastAPI** with **Pydantic v2** validation and **Evidently AI** KS-test drift monitoring
+**Adaptive RAG — Query Routing & Self-Reflection**
+&nbsp; <a href="https://github.com/olivia3395/Adaptive_RAG"><img src="https://img.shields.io/badge/-Code-181717?style=flat-square&logo=github&logoColor=white" /></a>
 
+Routes queries by intent, iterates retrieval, and self-checks answers for unsupported claims before returning them.
+
+<sub>`Query Routing` &nbsp; `Self-Reflection` &nbsp; `FastAPI` &nbsp; `ChromaDB`</sub>
+
+<br/>
+
+**Traffic Bot Detection — LLM Agent Fingerprinting**
+&nbsp; <a href="https://github.com/olivia3395/traffic_bot_detection"><img src="https://img.shields.io/badge/-Code-181717?style=flat-square&logo=github&logoColor=white" /></a>
+
+Three-layer ensemble (Isolation Forest + GBM + rule engine) with an **LLM-agent fingerprint scorer** capturing timing regularity, link coverage, and API probing. Evaluated on **CSIC 2010** + hybrid synthetic LLM traffic.
+
+<sub>`Isolation Forest` &nbsp; `GBM` &nbsp; `Rule Engine` &nbsp; `LLM Fingerprinting`</sub>
+
+<br/>
+
+---
+
+<a id="alignment--fine-tuning"></a>
+### <img src="https://img.shields.io/badge/-ALIGNMENT%20%26%20FINE--TUNING-E17055?style=flat-square" />
+
+<br/>
+
+**AlignDPO — Preference Optimization from Scratch**
+&nbsp; <a href="https://github.com/olivia3395/AlignDPO-Preference-Optimization-from-Scratch"><img src="https://img.shields.io/badge/-Code-181717?style=flat-square&logo=github&logoColor=white" /></a>
+&nbsp; <a href="https://github.com/olivia3395/AlignDPO-Preference-Optimization-from-Scratch/blob/main/DPO%20%26%20PPO.pdf"><img src="https://img.shields.io/badge/-Report-8E8E93?style=flat-square" /></a>
+
+Implemented **DPO, IPO, and KTO** from scratch and QLoRA-finetuned **Mistral-7B** on Anthropic HH-RLHF. Evaluated on reward accuracy, reward margin, and **GPT-4-as-judge** win rate.
+
+<sub>`DPO` &nbsp; `IPO` &nbsp; `KTO` &nbsp; `QLoRA` &nbsp; `Mistral-7B`</sub>
+
+<br/>
+
+**RLHF with PPO**
+&nbsp; <a href="https://github.com/olivia3395/rlhf_finetuning"><img src="https://img.shields.io/badge/-Code-181717?style=flat-square&logo=github&logoColor=white" /></a>
+&nbsp; <a href="https://github.com/olivia3395/PPO-based-RLHF/blob/main/RAG%20System.pdf"><img src="https://img.shields.io/badge/-Report-8E8E93?style=flat-square" /></a>
+
+PPO-based RLHF on a GPT-2 actor-critic with **composite reward**, **GAE**, **clipped PPO**, and an **adaptive KL controller**. Full training logged with W&B.
+
+<sub>`PPO` &nbsp; `GAE` &nbsp; `Adaptive KL` &nbsp; `W&B`</sub>
+
+<br/>
+
+**TuneShift — Domain-Transfer Fine-Tuning Framework**
+&nbsp; <a href="https://github.com/olivia3395/TuneShift"><img src="https://img.shields.io/badge/-Code-181717?style=flat-square&logo=github&logoColor=white" /></a>
+
+Modular framework supporting instruction tuning, dialogue finetuning, and **LoRA / QLoRA** adaptation. Compared adaptation strategies across domains on EM, F1, and ROUGE-L.
+
+<sub>`LoRA` &nbsp; `QLoRA` &nbsp; `Instruction Tuning`</sub>
+
+<br/>
+
+---
+
+<a id="training--efficiency"></a>
+### <img src="https://img.shields.io/badge/-TRAINING%20%26%20EFFICIENCY-6C5CE7?style=flat-square" />
+
+<br/>
+
+**HQQ — 1-bit LLM Quantization**
+&nbsp; <a href="https://github.com/olivia3395/HQQ_1-bit_Quantization"><img src="https://img.shields.io/badge/-Code-181717?style=flat-square&logo=github&logoColor=white" /></a>
+&nbsp; <img src="https://img.shields.io/badge/W1G64-12.7×%20compression-6C5CE7?style=flat-square" />
+&nbsp; <img src="https://img.shields.io/badge/Speedup-%3E4×-6C5CE7?style=flat-square" />
+
+**Half-Quadratic Quantization** (1–8 bit) via proximal optimization — no calibration data required.
+
+<sub>`Proximal Optimization` &nbsp; `Post-training Quantization`</sub>
+
+<br/>
+
+**DraftVerify — Speculative Decoding**
+&nbsp; <a href="https://github.com/olivia3395/DraftVerify"><img src="https://img.shields.io/badge/-Code-181717?style=flat-square&logo=github&logoColor=white" /></a>
+
+Draft-plus-verifier speculative decoding to cut autoregressive cost. Benchmarked latency, throughput, and acceptance rate against vanilla decoding.
+
+<sub>`Speculative Decoding` &nbsp; `Inference Acceleration`</sub>
+
+<br/>
+
+**Mini LLM Pre-Training**
+&nbsp; <a href="https://github.com/olivia3395/mini_pretrain"><img src="https://img.shields.io/badge/-Code-181717?style=flat-square&logo=github&logoColor=white" /></a>
+&nbsp; <a href="https://github.com/olivia3395/Mini-GPT-Pre-Training/blob/main/LLM.pdf"><img src="https://img.shields.io/badge/-Report-8E8E93?style=flat-square" /></a>
+&nbsp; <img src="https://img.shields.io/badge/PPL-65%20→%204.7-6C5CE7?style=flat-square" />
+
+Pre-trained a **10.7M GPT** from scratch in PyTorch on TinyShakespeare, converging over 5k iterations.
+
+<sub>`PyTorch` &nbsp; `From-scratch GPT`</sub>
+
+<br/>
+
+---
+
+<a id="causal-ml--forecasting"></a>
+### <img src="https://img.shields.io/badge/-CAUSAL%20ML%20%26%20FORECASTING-0984E3?style=flat-square" />
+
+<br/>
+
+**Congestion Pricing Impact Analyzer**
+&nbsp; <a href="https://github.com/olivia3395/Pricing-Impact-Analyzer"><img src="https://img.shields.io/badge/-Code-181717?style=flat-square&logo=github&logoColor=white" /></a>
+&nbsp; <a href="https://github.com/olivia3395/Pricing-Impact-Analyzer/blob/main/Congestion%20Pricing%20Impact%20Analyzer.pdf"><img src="https://img.shields.io/badge/-Report-8E8E93?style=flat-square" /></a>
+&nbsp; <img src="https://img.shields.io/badge/θ̂-−0.124-0984E3?style=flat-square" />
+&nbsp; <img src="https://img.shields.io/badge/p-%3C0.001-0984E3?style=flat-square" />
+
+Full causal stack — **TWFE DiD → CS-DiD → Synthetic DiD → Double ML** — on 12M+ NYC TLC trips. Zone-level CATE via **Causal Forest** with RATE curves, policy trees, and robustness checks.
+
+<sub>`DiD` &nbsp; `Double ML` &nbsp; `Causal Forest` &nbsp; `Policy Trees`</sub>
+
+<br/>
+
+**Causal Promotion Optimization for Retail**
+&nbsp; <a href="https://github.com/olivia3395/Causal-Promotion-Optimization"><img src="https://img.shields.io/badge/-Code-181717?style=flat-square&logo=github&logoColor=white" /></a>
+&nbsp; <a href="https://github.com/olivia3395/Causal-Promotion-Optimization/blob/main/Causal_Promotion.pdf"><img src="https://img.shields.io/badge/-Report-8E8E93?style=flat-square" /></a>
+
+**AIPW** uplift estimation with **LightGBM** nuisance models and **EconML DRLearner** for CATE. Budget-constrained promotion planning via **OR-Tools**, deployed with FastAPI + Streamlit.
+
+<sub>`AIPW` &nbsp; `DRLearner` &nbsp; `LightGBM` &nbsp; `OR-Tools`</sub>
+
+<br/>
+
+**Demand Forecasting with Transformers**
+&nbsp; <a href="https://github.com/olivia3395/Retail-Demand-Forecasting"><img src="https://img.shields.io/badge/-Code-181717?style=flat-square&logo=github&logoColor=white" /></a>
+&nbsp; <a href="https://github.com/olivia3395/Retail-Demand-Forecasting/blob/main/Retail_Demand.pdf"><img src="https://img.shields.io/badge/-Report-8E8E93?style=flat-square" /></a>
+
+Store–SKU forecasting on **M5** with **Seasonal Naive**, **LightGBM**, and a **Temporal Fusion Transformer** for 28-day horizons. Automated pipeline with time-based evaluation and exported forecasts.
+
+<sub>`TFT` &nbsp; `LightGBM` &nbsp; `M5`</sub>
+
+<br/>
+
+---
+
+<div align="center">
+<sub>Maintained by <a href="https://github.com/olivia3395">@olivia3395</a></sub>
+</div>
 
   
 
