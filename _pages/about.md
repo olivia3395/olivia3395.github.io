@@ -17,37 +17,66 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Howdy! I’m a Ph.D. candidate in Statistics at Boston University, co-advised by [Prof. Debarghya Mukherjee](https://debarghya-mukherjee.github.io/) and [Prof. Luis Carvalho](https://math.bu.edu/people/lecarval/), and I also collaborate with [Prof. Nabarun Deb](https://nabarund.github.io/). Before BU, I earned my M.A. in Statistics from Columbia University and my B.S. in Mathematics from Shandong University, including a year of joint training at the Academy of Mathematics and Systems Science(AMSS), Chinese Academy of Sciences. My research sits at the intersection of statistics and machine learning, where I develop theoretically grounded transfer-learning and representation-learning methods—spanning optimal transport, graph mining, multimodal learning for structured, heterogeneous data in low-sample, high-dimensional, and non-IID settings. 
+Howdy! I'm a Ph.D. candidate in Statistics at <b>Boston University</b>, co-advised by <a href="https://debarghya-mukherjee.github.io/">Prof. Debarghya Mukherjee</a> and <a href="https://math.bu.edu/people/lecarval/">Prof. Luis Carvalho</a>, and I also collaborate with <a href="https://nabarund.github.io/">Prof. Nabarun Deb</a>. Before BU, I earned my M.A. in Statistics from <b>Columbia University</b> and my B.S. in Mathematics from <b>Shandong University</b>, including a year of joint training at the <b>Academy of Mathematics and Systems Science (AMSS), Chinese Academy of Sciences</b>.
 
-The question that keeps me up (in a good way):
+My research sits at the intersection of statistics and machine learning, where I develop <i>theoretically grounded</i> transfer-learning and representation-learning methods — spanning <b>optimal transport</b>, <b>graph mining</b>, and <b>multimodal learning</b> for structured, heterogeneous data in low-sample, high-dimensional, and non-IID settings.
 
-> **How can we reuse past knowledge when the world—and the data—won’t sit still?**
+<br>
 
-In statistical learning, this is about transferring geometry or smoothness from a well-understood **source** distribution to a smaller, noisier **target** under shift.  In reinforcement learning, the **source** might be prior trajectories, simulators, or related tasks, while the **target** is the evolving environment, so we need principled rules for **what to keep, what to adapt, and what to forget**. And yes! **LLMs/VLMs** make this even more exciting (and tricky): they already contain a lot of cross-domain knowledge, but the real challenge is **extracting and specializing it safely** for downstream tasks without **overfitting, hallucination, or misalignment**.
+<table align="center">
+<tr><td align="center">
+<i>The question that keeps me up (in a good way):</i><br><br>
+<b><font size="5">How can we reuse past knowledge when the world —</font></b><br>
+<b><font size="5">and the data — won't sit still?</font></b>
+</td></tr>
+</table>
 
+<br>
+
+In <b>statistical learning</b>, this is about transferring geometry or smoothness from a well-understood <b>source</b> distribution to a smaller, noisier <b>target</b> under shift. In <b>reinforcement learning</b>, the source might be prior trajectories, simulators, or related tasks, while the target is the evolving environment — so we need principled rules for <i>what to keep, what to adapt, and what to forget</i>. And <b>LLMs/VLMs</b> make this even more exciting (and tricky): they already contain a lot of cross-domain knowledge, but the real challenge is <i>extracting and specializing it safely</i> for downstream tasks — without overfitting, hallucination, or misalignment.
+
+<br>
 
 ## What I build
 
-- **Theory that actually supports practice**  
-  Minimax rates, oracle inequalities, regret bounds, and safe-transfer criteria under covariate or structural shift.
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <img src="https://img.shields.io/badge/%F0%9F%93%90_THEORY-0369A1?style=flat-square&labelColor=0369A1" alt="THEORY">&nbsp;<b>Theory that supports practice</b><br>
+      <sub>Minimax rates · oracle inequalities · regret bounds · safe-transfer criteria under covariate or structural shift.</sub>
+    </td>
+    <td width="50%" valign="top">
+      <img src="https://img.shields.io/badge/%F0%9F%95%B8%EF%B8%8F_GRAPHS-7C3AED?style=flat-square&labelColor=7C3AED" alt="GRAPHS">&nbsp;<b>Graph-structured transfer</b><br>
+      <sub>Aligning and transporting information across graphs and manifolds — robust transfer when correspondence is messy or unknown.</sub>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <img src="https://img.shields.io/badge/%F0%9F%8E%B0_RL%2FBANDITS-DB2777?style=flat-square&labelColor=DB2777" alt="RL/BANDITS">&nbsp;<b>RL &amp; bandits under drift</b><br>
+      <sub>Warm-started policies with uncertainty-aware adaptation for reliable sequential decision-making in changing environments.</sub>
+    </td>
+    <td valign="top">
+      <img src="https://img.shields.io/badge/%F0%9F%A4%96_LLMs%2FVLMs-0D9488?style=flat-square&labelColor=0D9488" alt="LLMs/VLMs">&nbsp;<b>Transfer for LLMs / VLMs</b><br>
+      <sub>Controlled adaptation · domain grounding · structure-preserving fine-tuning — so models adapt <i>without</i> getting sloppy.</sub>
+    </td>
+  </tr>
+</table>
 
-- **Graph-structured transfer methods**  
-  Aligning and transporting information across graphs/manifolds to make transfer robust when correspondence is messy or unknown.
+<br>
 
-- **RL/bandits under drift**  
-  Warm-started policies with uncertainty-aware adaptation for reliable sequential decision-making in changing environments.
+> <i>Curious about my research? I put together a friendly, no-jargon <a href="transfer_learning.pdf"><b>slide deck</b></a> on how I think about transfer learning — and why it matters.</i>
 
-- **Transfer principles for LLMs/VLMs**  
-  Controlled adaptation, domain grounding, and structure-preserving fine-tuning—so models adapt *without* getting sloppy.
+<br>
 
 
-Curious about my research? I put together a friendly, no-jargon **[slide](transfer_learning.pdf)** deck on how I think about transfer learning (and why it matters)
 
+<br>
 
-Along my academic journey, I have been deeply fortunate to study and conduct research under the guidance of inspiring scholars, including [Prof. Zhanxing Zhu](https://zhanxingzhu.github.io/), whose influential work includes *Spatio-Temporal Graph Convolutional Networks (STGCN)* for traffic forecasting, and [Prof. Yongshun Gong](https://faculty.sdu.edu.cn/gongyongshun/en/). Their perspectives on deep learning, representation learning, and structured spatio-temporal systems have profoundly shaped how I think about evolving, heterogeneous data, and have guided my pursuit of principled transfer learning methods.
+Along my academic journey, I have been deeply fortunate to study and conduct research under the guidance of inspiring scholars, including <a href="https://zhanxingzhu.github.io/"><b>Prof. Zhanxing Zhu</b></a>, whose influential work includes <i>Spatio-Temporal Graph Convolutional Networks (STGCN)</i> for traffic forecasting, and <a href="https://faculty.sdu.edu.cn/gongyongshun/en/"><b>Prof. Yongshun Gong</b></a>. Their perspectives on deep learning, representation learning, and structured spatio-temporal systems have profoundly shaped how I think about evolving, heterogeneous data, and have guided my pursuit of principled transfer learning methods.
 
+<br>
 
-Beyond theory and modeling, I am drawn to building AI applications that reflect how I see people and the world. I have always felt that human beings are more than their outward forms, that something of the spirit, memory, and inner life exceeds the body that temporarily carries it. That is why I am especially fascinated by cinema, atmosphere, and emotionally resonant digital experiences ✨
+Beyond theory and modeling, I am drawn to building AI applications that reflect how I see people and the world. I have always felt that human beings are more than their outward forms — that something of the spirit, memory, and inner life exceeds the body that temporarily carries it. That is why I am especially fascinated by <i>cinema, atmosphere, and emotionally resonant digital experiences</i>. ✨
 
 
 
