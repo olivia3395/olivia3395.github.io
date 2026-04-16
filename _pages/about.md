@@ -277,6 +277,10 @@ Beyond theory and modeling, I am drawn to building AI applications that reflect 
   - Zone-level CATE via **Causal Forest**, with RATE curves, policy trees, and robustness checks
   
  
+- **[Churn Prediction with MLflow & FastAPI](https://github.com/olivia3395/Customer-Churn-Prediction)** · [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="15" alt="GitHub"/> Code](https://github.com/olivia3395/Customer-Churn-Prediction) · [📄 Slides](https://github.com/olivia3395/Customer-Churn-Prediction/blob/main/%20Churn%20Prediction.pdf)  
+  GradientBoosting churn model on IBM Telco with **sklearn Pipeline** and **MLflow** tracking.  
+  - Served via **FastAPI** with **Pydantic v2** validation and **Evidently AI** KS-test drift monitoring
+
 
   
 
