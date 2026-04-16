@@ -42,21 +42,21 @@ In <b>statistical learning</b>, this is about transferring geometry or smoothnes
 <table>
   <tr>
     <td width="50%" valign="top">
-      <img src="https://img.shields.io/badge/%F0%9F%93%90_THEORY-0369A1?style=flat-square&labelColor=0369A1" alt="THEORY">&nbsp;<b>Theory that supports practice</b><br>
+      <img src="https://img.shields.io/badge/THEORY-0369A1?style=flat-square&labelColor=0369A1" alt="THEORY">&nbsp;<b>Theory that supports practice</b><br>
       <sub>Minimax rates · oracle inequalities · regret bounds · safe-transfer criteria under covariate or structural shift.</sub>
     </td>
     <td width="50%" valign="top">
-      <img src="https://img.shields.io/badge/%F0%9F%95%B8%EF%B8%8F_GRAPHS-7C3AED?style=flat-square&labelColor=7C3AED" alt="GRAPHS">&nbsp;<b>Graph-structured transfer</b><br>
+      <img src="https://img.shields.io/badge/GRAPHS-7C3AED?style=flat-square&labelColor=7C3AED" alt="GRAPHS">&nbsp;<b>Graph-structured transfer</b><br>
       <sub>Aligning and transporting information across graphs and manifolds — robust transfer when correspondence is messy or unknown.</sub>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <img src="https://img.shields.io/badge/%F0%9F%8E%B0_RL%2FBANDITS-DB2777?style=flat-square&labelColor=DB2777" alt="RL/BANDITS">&nbsp;<b>RL &amp; bandits under drift</b><br>
+      <img src="https://img.shields.io/badge/RL_%26_BANDITS-DB2777?style=flat-square&labelColor=DB2777" alt="RL & BANDITS">&nbsp;<b>RL &amp; bandits under drift</b><br>
       <sub>Warm-started policies with uncertainty-aware adaptation for reliable sequential decision-making in changing environments.</sub>
     </td>
     <td valign="top">
-      <img src="https://img.shields.io/badge/%F0%9F%A4%96_LLMs%2FVLMs-0D9488?style=flat-square&labelColor=0D9488" alt="LLMs/VLMs">&nbsp;<b>Transfer for LLMs / VLMs</b><br>
+      <img src="https://img.shields.io/badge/LLMs_%26_VLMs-0D9488?style=flat-square&labelColor=0D9488" alt="LLMs & VLMs">&nbsp;<b>Transfer for LLMs / VLMs</b><br>
       <sub>Controlled adaptation · domain grounding · structure-preserving fine-tuning — so models adapt <i>without</i> getting sloppy.</sub>
     </td>
   </tr>
@@ -68,8 +68,6 @@ In <b>statistical learning</b>, this is about transferring geometry or smoothnes
 
 <br>
 
-
-
 <br>
 
 Along my academic journey, I have been deeply fortunate to study and conduct research under the guidance of inspiring scholars, including <a href="https://zhanxingzhu.github.io/"><b>Prof. Zhanxing Zhu</b></a>, whose influential work includes <i>Spatio-Temporal Graph Convolutional Networks (STGCN)</i> for traffic forecasting, and <a href="https://faculty.sdu.edu.cn/gongyongshun/en/"><b>Prof. Yongshun Gong</b></a>. Their perspectives on deep learning, representation learning, and structured spatio-temporal systems have profoundly shaped how I think about evolving, heterogeneous data, and have guided my pursuit of principled transfer learning methods.
@@ -77,6 +75,7 @@ Along my academic journey, I have been deeply fortunate to study and conduct res
 <br>
 
 Beyond theory and modeling, I am drawn to building AI applications that reflect how I see people and the world. I have always felt that human beings are more than their outward forms — that something of the spirit, memory, and inner life exceeds the body that temporarily carries it. That is why I am especially fascinated by <i>cinema, atmosphere, and emotionally resonant digital experiences</i>. ✨
+
 
 
 
