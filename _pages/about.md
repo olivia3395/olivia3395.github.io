@@ -309,7 +309,7 @@ Beyond theory and modeling, I am drawn to building AI applications that reflect 
 # 💻 Internships
 
 
-<img src="images/plymouth_logo.png" alt="Plymouth Rock" width="50" align="left" hspace="15">
+<img src="images/plymouth_logo.png" alt="Plymouth Rock" width="40" align="left" hspace="15">
 
 <b><font size="4">Data Scientist Intern</font></b> · Plymouth Rock Insurance<br>
 <sub>📍 Boston, MA &nbsp;·&nbsp; 🗓️ May 2025 – Aug 2025</sub>
