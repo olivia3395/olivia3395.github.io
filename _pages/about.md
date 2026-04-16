@@ -215,29 +215,10 @@ Beyond theory and modeling, I am drawn to building AI applications that reflect 
 
 
 
-<div align="center">
-
 # 🤖 LLM Engineering Projects
 
-**A curated portfolio — from pre-training and alignment to retrieval, agents, and causal ML.**
 
-<p>
-  <img src="https://img.shields.io/badge/-LLM%20ENGINEERING-6C5CE7?style=flat-square" />
-  <img src="https://img.shields.io/badge/-RAG%20%2F%20AGENTS-00B894?style=flat-square" />
-  <img src="https://img.shields.io/badge/-ALIGNMENT-E17055?style=flat-square" />
-  <img src="https://img.shields.io/badge/-CAUSAL%20ML-0984E3?style=flat-square" />
-</p>
 
-<sub><a href="#agents--rag">Agents & RAG</a> &nbsp;·&nbsp; <a href="#alignment--fine-tuning">Alignment & Fine-Tuning</a> &nbsp;·&nbsp; <a href="#training--efficiency">Training & Efficiency</a> &nbsp;·&nbsp; <a href="#causal-ml--forecasting">Causal ML & Forecasting</a></sub>
-
-</div>
-
-<br/>
-
----
-
-<a id="agents--rag"></a>
-### <img src="https://img.shields.io/badge/-AGENTS%20%26%20RAG-00B894?style=flat-square" />
 
 <br/>
 
@@ -278,10 +259,7 @@ Three-layer ensemble (Isolation Forest + GBM + rule engine) with an **LLM-agent 
 
 <br/>
 
----
 
-<a id="alignment--fine-tuning"></a>
-### <img src="https://img.shields.io/badge/-ALIGNMENT%20%26%20FINE--TUNING-E17055?style=flat-square" />
 
 <br/>
 
@@ -314,10 +292,6 @@ Modular framework supporting instruction tuning, dialogue finetuning, and **LoRA
 
 <br/>
 
----
-
-<a id="training--efficiency"></a>
-### <img src="https://img.shields.io/badge/-TRAINING%20%26%20EFFICIENCY-6C5CE7?style=flat-square" />
 
 <br/>
 
@@ -352,10 +326,6 @@ Pre-trained a **10.7M GPT** from scratch in PyTorch on TinyShakespeare, convergi
 
 <br/>
 
----
-
-<a id="causal-ml--forecasting"></a>
-### <img src="https://img.shields.io/badge/-CAUSAL%20ML%20%26%20FORECASTING-0984E3?style=flat-square" />
 
 <br/>
 
@@ -391,11 +361,6 @@ Store–SKU forecasting on **M5** with **Seasonal Naive**, **LightGBM**, and a *
 
 <br/>
 
----
-
-<div align="center">
-<sub>Maintained by <a href="https://github.com/olivia3395">@olivia3395</a></sub>
-</div>
 
   
 
