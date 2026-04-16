@@ -32,25 +32,24 @@ In statistical learning, this is about transferring geometry or smoothness from 
   <tr>
     <td width="50%" valign="top">
       <img src="https://img.shields.io/badge/THEORY-0369A1?style=flat-square&labelColor=0369A1" alt="THEORY">&nbsp;<b>Theory that supports practice</b><br>
-      <sub>Minimax rates · oracle inequalities · regret bounds · safe-transfer criteria under covariate or structural shift.</sub>
+      Minimax rates · oracle inequalities · regret bounds · safe-transfer criteria under covariate or structural shift.
     </td>
     <td width="50%" valign="top">
       <img src="https://img.shields.io/badge/GRAPHS-7C3AED?style=flat-square&labelColor=7C3AED" alt="GRAPHS">&nbsp;<b>Graph-structured transfer</b><br>
-      <sub>Aligning and transporting information across graphs and manifolds — robust transfer when correspondence is messy or unknown.</sub>
+      Aligning and transporting information across graphs and manifolds — robust transfer when correspondence is messy or unknown.
     </td>
   </tr>
   <tr>
     <td valign="top">
       <img src="https://img.shields.io/badge/RL_%26_BANDITS-DB2777?style=flat-square&labelColor=DB2777" alt="RL & BANDITS">&nbsp;<b>RL &amp; bandits under drift</b><br>
-      <sub>Warm-started policies with uncertainty-aware adaptation for reliable sequential decision-making in changing environments.</sub>
+      Warm-started policies with uncertainty-aware adaptation for reliable sequential decision-making in changing environments.
     </td>
     <td valign="top">
       <img src="https://img.shields.io/badge/LLMs_%26_VLMs-0D9488?style=flat-square&labelColor=0D9488" alt="LLMs & VLMs">&nbsp;<b>Transfer for LLMs / VLMs</b><br>
-      <sub>Controlled adaptation · domain grounding · structure-preserving fine-tuning — so models adapt <i>without</i> getting sloppy.</sub>
+      Controlled adaptation · domain grounding · structure-preserving fine-tuning — so models adapt <i>without</i> getting sloppy.
     </td>
   </tr>
 </table>
-
 
 
 Curious about my research? View my <a href="transfer_learning.pdf"><b>slide deck</b></a> on transfer learning.
