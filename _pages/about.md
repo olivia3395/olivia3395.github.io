@@ -338,17 +338,6 @@ Beyond theory and modeling, I am drawn to building AI applications that reflect 
       <sub>🛒 <b>M5</b> · 28-day · store-SKU</sub>
     </td>
   </tr>
-  <tr>
-    <td valign="top">
-      <img src="https://img.shields.io/badge/ML-16A34A?style=flat-square&labelColor=16A34A" alt="ML"><br>
-      <b><a href="https://github.com/olivia3395/Customer-Churn-Prediction">Churn Prediction</a></b>
-      &nbsp;<a href="https://github.com/olivia3395/Customer-Churn-Prediction"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" alt="Code"></a>
-      <a href="https://github.com/olivia3395/Customer-Churn-Prediction/blob/main/%20Churn%20Prediction.pdf"><img src="https://img.shields.io/badge/Slides-DC2626?style=flat-square&logo=adobeacrobatreader&logoColor=white" alt="Slides"></a><br>
-      <sub>GradientBoosting · sklearn · <b>MLflow</b></sub><br>
-      <sub>🚀 FastAPI + Pydantic v2 · 📡 <b>Evidently drift</b></sub>
-    </td>
-    <td valign="top"></td>
-  </tr>
 </table>
 
 
