@@ -143,7 +143,7 @@ Beyond theory and modeling, I am drawn to building AI applications that reflect 
     <td valign="top">
       <img src="https://img.shields.io/badge/Under_Review-94A3B8?style=flat-square&labelColor=94A3B8" alt="Under Review">&nbsp;<b><font size="3">INCM: INConsistency-aware Multi-modal Recommendation with Cross-Modal Hard Negatives</font></b>
       <ul>
-        <li><b>Inconsistency-aware multimodal ranking:</b> studies how cross-modal discrepancies may provide complementary ranking evidence or degrade fusion quality, explicitly incorporated into the training objective.</li>
+        <li><b>Inconsistency-aware multimodal ranking:</b> studies how cross-modal discrepancies may provide complementary ranking evidence or degrade fusion quality — explicitly modeled in training.</li>
         <li><b>Cross-modal hard negatives + synergy-aware ranking loss:</b> proposes <b>CHNS</b> to mine modality-specific hard negatives across branches, and a <b>Synergy-aware BPR</b> loss to ensure the fused branch achieves stronger preference margins than unimodal branches.</li>
       </ul>
     </td>
