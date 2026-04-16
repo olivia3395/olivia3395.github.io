@@ -68,6 +68,7 @@ Beyond theory and modeling, I am drawn to building AI applications that reflect 
 
 
 
+
 # 📝 Publications
 
 <h2>Leading Author</h2>
@@ -79,7 +80,7 @@ Beyond theory and modeling, I am drawn to building AI applications that reflect 
     </td>
     <td valign="top">
       <img src="https://img.shields.io/badge/NeurIPS_2025-6366F1?style=flat-square&labelColor=6366F1" alt="NeurIPS 2025">&nbsp;<b><font size="4"><a href="https://openreview.net/pdf?id=i3sWs5614Y">Transfer Learning on Edge Connecting Probability Estimation Under Graphon Model</a></font></b><br>
-      <span style="color:#94A3B8"><i>Boston University</i></span> &nbsp;|&nbsp; <a href="https://neurips.cc/virtual/2025/poster/116597"><img src="https://img.shields.io/badge/Paper-DC2626?style=flat-square&logo=adobeacrobatreader&logoColor=white" alt="Paper"></a> <a href="https://github.com/olivia3395/GTrans/blob/main/neurips_poster.pdf"><img src="https://img.shields.io/badge/Poster-0369A1?style=flat-square" alt="Poster"></a> <a href="https://github.com/olivia3395/GTrans/blob/main/Neurips2025_final1.pptx"><img src="https://img.shields.io/badge/Slides-EA580C?style=flat-square" alt="Slides"></a> <a href="https://github.com/olivia3395/GTRANS"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" alt="Code"></a>
+      <font size="3" color="#94A3B8"><i>Boston University</i></font> &nbsp;|&nbsp; <a href="https://neurips.cc/virtual/2025/poster/116597"><img src="https://img.shields.io/badge/Paper-DC2626?style=flat-square&logo=adobeacrobatreader&logoColor=white" alt="Paper"></a> <a href="https://github.com/olivia3395/GTrans/blob/main/neurips_poster.pdf"><img src="https://img.shields.io/badge/Poster-0369A1?style=flat-square" alt="Poster"></a> <a href="https://github.com/olivia3395/GTrans/blob/main/Neurips2025_final1.pptx"><img src="https://img.shields.io/badge/Slides-EA580C?style=flat-square" alt="Slides"></a> <a href="https://github.com/olivia3395/GTRANS"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" alt="Code"></a>
       <ul>
         <li><b>Graphon transfer without node correspondence:</b> aligns source/target graphs via <b>Gromov–Wasserstein</b>, then transfers edge-probability structure in a fully nonparametric way.</li>
         <li><b>Provably stable + practically strong:</b> <b>residual smoothing</b> boosts small/sparse/heterogeneous targets, with <b>convergence & stability guarantees</b> and SOTA gains on link prediction / graph classification.</li>
@@ -95,7 +96,7 @@ Beyond theory and modeling, I am drawn to building AI applications that reflect 
     </td>
     <td valign="top">
       <img src="https://img.shields.io/badge/Under_Review_@_JASA-94A3B8?style=flat-square&labelColor=94A3B8" alt="JASA">&nbsp;<b><font size="4"><a href="https://arxiv.org/abs/2507.00889">Phase Transition in Nonparametric Minimax Rates for Covariate Shifts on Approximate Manifolds</a></font></b><br>
-      <span style="color:#94A3B8"><i>Boston University · Chicago Booth</i></span> &nbsp;|&nbsp; <a href="https://arxiv.org/abs/2507.00889"><img src="https://img.shields.io/badge/arXiv-B31B1B?style=flat-square&logo=arxiv&logoColor=white" alt="arXiv"></a> <a href="https://github.com/olivia3395/Covariate-Shifts-on-Approximate-Manifolds/blob/main/manifold_poster.pdf"><img src="https://img.shields.io/badge/Poster-0369A1?style=flat-square" alt="Poster"></a> <a href="https://github.com/olivia3395/Covariate-Shifts-on-Approximate-Manifolds/blob/main/slides_Manifold.pdf"><img src="https://img.shields.io/badge/Slides-EA580C?style=flat-square" alt="Slides"></a> <a href="https://github.com/olivia3395/Covariate-Shifts-on-Approximate-Manifolds"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" alt="Code"></a>
+      <font size="3" color="#94A3B8"><i>Boston University · Chicago Booth</i></font> &nbsp;|&nbsp; <a href="https://arxiv.org/abs/2507.00889"><img src="https://img.shields.io/badge/arXiv-B31B1B?style=flat-square&logo=arxiv&logoColor=white" alt="arXiv"></a> <a href="https://github.com/olivia3395/Covariate-Shifts-on-Approximate-Manifolds/blob/main/manifold_poster.pdf"><img src="https://img.shields.io/badge/Poster-0369A1?style=flat-square" alt="Poster"></a> <a href="https://github.com/olivia3395/Covariate-Shifts-on-Approximate-Manifolds/blob/main/slides_Manifold.pdf"><img src="https://img.shields.io/badge/Slides-EA580C?style=flat-square" alt="Slides"></a> <a href="https://github.com/olivia3395/Covariate-Shifts-on-Approximate-Manifolds"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" alt="Code"></a>
       <ul>
         <li><b>New minimax theory for "near-manifold" shift:</b> exposes a sharp <b>phase transition</b> controlled by the <b>support gap</b> between target and source neighborhoods — unifying multiple geometric-transfer regimes.</li>
         <li><b>Ratio-free, adaptive estimator:</b> achieves <b>near-optimal, dimension-adaptive rates</b> <b>without density ratios</b> and without assuming known geometry (works under approximate manifold mismatch).</li>
@@ -111,7 +112,7 @@ Beyond theory and modeling, I am drawn to building AI applications that reflect 
     </td>
     <td valign="top">
       <img src="https://img.shields.io/badge/Under_Review-94A3B8?style=flat-square&labelColor=94A3B8" alt="Under Review">&nbsp;<b><font size="4"><a href="https://arxiv.org/abs/2603.12664">From Text to Forecasts: Bridging Modality Gap with Temporal Evolution Semantic Space</a></font></b><br>
-      <span style="color:#94A3B8"><i>Boston University · Hong Kong University of Science and Technology · Shandong University</i></span> &nbsp;|&nbsp; <a href="https://arxiv.org/abs/2603.12664"><img src="https://img.shields.io/badge/arXiv-B31B1B?style=flat-square&logo=arxiv&logoColor=white" alt="arXiv"></a>
+      <font size="3" color="#94A3B8"><i>Boston University · Hong Kong University of Science and Technology · Shandong University</i></font> &nbsp;|&nbsp; <a href="https://arxiv.org/abs/2603.12664"><img src="https://img.shields.io/badge/arXiv-B31B1B?style=flat-square&logo=arxiv&logoColor=white" alt="arXiv"></a>
       <ul>
         <li><b>Bridges the text–time-series modality gap:</b> introduces a <b>Temporal Evolution Semantic Space (TESS)</b> that distills free-form text into <b>interpretable temporal primitives</b> (mean shift, volatility, shape, lag), instead of directly fusing noisy token embeddings.</li>
         <li><b>LLM-guided yet numerically grounded forecasting:</b> uses <b>structured prompting + confidence-aware gating</b> to inject reliable semantic signals as prefix tokens into a Transformer forecaster, yielding <b>robust gains under event-driven non-stationarity</b> (up to <b>29% error reduction</b>).</li>
@@ -127,7 +128,7 @@ Beyond theory and modeling, I am drawn to building AI applications that reflect 
     </td>
     <td valign="top">
       <img src="https://img.shields.io/badge/Under_Review-94A3B8?style=flat-square&labelColor=94A3B8" alt="Under Review">&nbsp;<b><font size="4"><a href="https://arxiv.org/abs/2604.07383">SCOT: Multi-Source Cross-City Transfer with Optimal-Transport Soft-Correspondence Objectives</a></font></b><br>
-      <span style="color:#94A3B8"><i>Boston University · Shandong University</i></span> &nbsp;|&nbsp; <a href="https://arxiv.org/abs/2604.07383"><img src="https://img.shields.io/badge/arXiv-B31B1B?style=flat-square&logo=arxiv&logoColor=white" alt="arXiv"></a>
+      <font size="3" color="#94A3B8"><i>Boston University · Shandong University</i></font> &nbsp;|&nbsp; <a href="https://arxiv.org/abs/2604.07383"><img src="https://img.shields.io/badge/arXiv-B31B1B?style=flat-square&logo=arxiv&logoColor=white" alt="arXiv"></a>
       <ul>
         <li><b>Explicit many-to-many correspondence (no node matching):</b> learns a <b>Sinkhorn entropic-OT coupling</b> between unequal region sets and uses it to define <b>soft aligned pairs</b> for cross-city transfer.</li>
         <li><b>OT-guided semantic sharpening + stability:</b> combines <b>OT-weighted contrastive alignment</b> with <b>cycle-style reconstruction</b>; extends to multi-source with a <b>target-aware prototype hub</b> to prevent collapse and handle strong heterogeneity.</li>
@@ -143,7 +144,7 @@ Beyond theory and modeling, I am drawn to building AI applications that reflect 
     </td>
     <td valign="top">
       <img src="https://img.shields.io/badge/Under_Review-94A3B8?style=flat-square&labelColor=94A3B8" alt="Under Review">&nbsp;<b><font size="4">INCM: INConsistency-aware Multi-modal Recommendation with Cross-Modal Hard Negatives</font></b><br>
-      <span style="color:#94A3B8"><i>Boston University · Shandong University · Tsinghua University</i></span>
+      <font size="3" color="#94A3B8"><i>Boston University · Shandong University · Tsinghua University</i></font>
       <ul>
         <li><b>Inconsistency-aware multimodal ranking:</b> studies how cross-modal discrepancies in recommendation may provide complementary ranking evidence or degrade fusion quality, and explicitly incorporates these effects into the training objective.</li>
         <li><b>Cross-modal hard negatives + synergy-aware ranking loss:</b> proposes <b>CHNS</b> to mine modality-specific hard negatives across branches, and a <b>Synergy-aware BPR</b> loss to ensure the fused branch achieves stronger preference margins than unimodal branches.</li>
@@ -161,7 +162,7 @@ Beyond theory and modeling, I am drawn to building AI applications that reflect 
     </td>
     <td valign="top">
       <img src="https://img.shields.io/badge/IEEE_TGRS_2025-0891B2?style=flat-square&labelColor=0891B2" alt="IEEE TGRS 2025">&nbsp;<b><font size="4"><a href="https://ieeexplore.ieee.org/abstract/document/11133483">Cross-Domain Hyperspectral Image Classification via Mamba-CNN and Knowledge Distillation</a></font></b><br>
-      <span style="color:#94A3B8"><i>IEEE Transactions on Geoscience and Remote Sensing, 2025</i></span> &nbsp;|&nbsp; <a href="https://ieeexplore.ieee.org/abstract/document/11133483"><img src="https://img.shields.io/badge/IEEE-00629B?style=flat-square&logo=ieee&logoColor=white" alt="IEEE"></a> <a href="https://github.com/olivia3395/Cross-Domain-Hyperspectral-Image-Classification-/blob/main/IEEE%20TRGS%202025.pptx"><img src="https://img.shields.io/badge/Slides-EA580C?style=flat-square" alt="Slides"></a>
+      <font size="3" color="#94A3B8"><i>IEEE Transactions on Geoscience and Remote Sensing, 2025</i></font> &nbsp;|&nbsp; <a href="https://ieeexplore.ieee.org/abstract/document/11133483"><img src="https://img.shields.io/badge/IEEE-00629B?style=flat-square&logo=ieee&logoColor=white" alt="IEEE"></a> <a href="https://github.com/olivia3395/Cross-Domain-Hyperspectral-Image-Classification-/blob/main/IEEE%20TRGS%202025.pptx"><img src="https://img.shields.io/badge/Slides-EA580C?style=flat-square" alt="Slides"></a>
       <ul>
         <li><b>Hybrid spectral–spatial modeling for domain shift:</b> integrates a <b>Mamba-based global spectral encoder</b> with <b>CNN local feature extraction</b>, capturing long-range dependencies while preserving fine-grained spatial structure in hyperspectral images.</li>
         <li><b>Dual-level transfer via distillation + graph alignment:</b> performs <b>teacher–student knowledge distillation</b> for distribution alignment and <b>OT-guided graph consistency</b> across domains, yielding robust cross-domain generalization under severe spectral mismatch.</li>
@@ -177,7 +178,7 @@ Beyond theory and modeling, I am drawn to building AI applications that reflect 
     </td>
     <td valign="top">
       <img src="https://img.shields.io/badge/Under_Review-94A3B8?style=flat-square&labelColor=94A3B8" alt="Under Review">&nbsp;<b><font size="4"><a href="https://arxiv.org/abs/2603.01801">Semantic Scientific Graph Pruning for Reliable Agentic Paper Reproduction</a></font></b><br>
-      <span style="color:#94A3B8"><i>Boston University · Shandong University</i></span> &nbsp;|&nbsp; <a href="https://arxiv.org/abs/2603.01801"><img src="https://img.shields.io/badge/arXiv-B31B1B?style=flat-square&logo=arxiv&logoColor=white" alt="arXiv"></a>
+      <font size="3" color="#94A3B8"><i>Boston University · Shandong University</i></font> &nbsp;|&nbsp; <a href="https://arxiv.org/abs/2603.01801"><img src="https://img.shields.io/badge/arXiv-B31B1B?style=flat-square&logo=arxiv&logoColor=white" alt="arXiv"></a>
       <ul>
         <li><b>Semantic pruning for controllable agent search:</b> proposes <b>Semantic Scientific Graph Pruning (SSGP)</b> to transform dense scientific graphs into <b>task-adaptive local subgraphs</b>, using <b>rank-based ensemble scoring</b> to retain only semantically essential neighbors.</li>
         <li><b>Enables reliable agentic reproduction:</b> couples pruned graphs with <b>reuse–patch modular execution</b> and <b>confidence-weighted aggregation</b>, dramatically reducing search space while improving <b>reproducibility, stability, and success rate</b> of LLM-based scientific agents.</li>
@@ -185,6 +186,7 @@ Beyond theory and modeling, I am drawn to building AI applications that reflect 
     </td>
   </tr>
 </table>
+
 
 
 # 🤖 LLM Engineering Projects
