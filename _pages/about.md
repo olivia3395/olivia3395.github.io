@@ -217,9 +217,6 @@ Beyond theory and modeling, I am drawn to building AI applications that reflect 
 
 # 🤖 LLM Engineering Projects
 
-> A curated portfolio of projects across **LLM agents**, **RAG systems**, **alignment & fine-tuning**, **efficient inference**, and **causal / ML engineering**.
-
----
 
 ## 🕸️ Agents & Autonomous Systems
 
@@ -247,13 +244,8 @@ Streamlit agent with **planner–analyst–verifier** workflow for autonomous CS
 <sub>⚙️ Baseline ML + XGBoost, feature importance &nbsp;·&nbsp; 📊 Sample datasets + downloadable reports</sub>
 
 </td></tr>
-</table>
 
----
 
-## 📚 Retrieval-Augmented Generation
-
-<table>
 <tr><td width="130" valign="top">
 
 ![RAG](https://img.shields.io/badge/RAG-7C3AED?style=flat-square&labelColor=7C3AED)
@@ -289,13 +281,7 @@ RAG pipeline with **BM25+FAISS**, **RRF**, and hallucination detection via **NLI
 <sub>🗂️ Wikipedia DPR + NQ + HaluEval &nbsp;·&nbsp; 🤖 Mistral-7B &nbsp;·&nbsp; 📈 Recall@5, MRR@5, EM, F1, AUROC</sub>
 
 </td></tr>
-</table>
 
----
-
-## 🎯 Alignment & Fine-Tuning
-
-<table>
 <tr><td width="130" valign="top">
 
 ![ALIGN](https://img.shields.io/badge/ALIGN-DB2777?style=flat-square&labelColor=DB2777)
@@ -331,13 +317,8 @@ PPO RLHF with composite reward and adaptive KL controller. <br>
 <sub>🧠 GPT-2 actor-critic + GAE + clipped PPO &nbsp;·&nbsp; 📊 W&B logging</sub>
 
 </td></tr>
-</table>
 
----
 
-## ⚡ Pre-Training & Efficient Inference
-
-<table>
 <tr><td width="130" valign="top">
 
 ![CORE](https://img.shields.io/badge/CORE-EA580C?style=flat-square&labelColor=EA580C)
@@ -373,13 +354,7 @@ Draft + verifier speculative decoding to cut autoregressive decoding cost. <br>
 <sub>📊 Benchmarked latency / throughput / acceptance vs vanilla decoding</sub>
 
 </td></tr>
-</table>
 
-
-
-## 📊 Causal Inference & ML Engineering
-
-<table>
 <tr><td width="130" valign="top">
 
 ![CAUSAL](https://img.shields.io/badge/CAUSAL-0369A1?style=flat-square&labelColor=0369A1)
@@ -429,8 +404,6 @@ GradientBoosting churn model on IBM Telco with **sklearn Pipeline** and **MLflow
 </td></tr>
 </table>
 
-
-<sub>📍 Tags: <kbd>AGENT</kbd> <kbd>RAG</kbd> <kbd>ALIGN</kbd> <kbd>CORE</kbd> <kbd>CAUSAL</kbd> <kbd>ML</kbd> &nbsp;·&nbsp; Built with ❤️ by <a href="https://github.com/olivia3395">@olivia3395</a></sub>
 
 
 
