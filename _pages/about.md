@@ -680,10 +680,7 @@ Come try it out [**here**](https://a-room-in-macondo.vercel.app/). See the proje
 </td>
 </tr>
 
-<tr>
 
-</td>
-<td valign="top"></td>
 <td valign="top"></td>
 </tr>
 </table>
