@@ -227,13 +227,13 @@ Beyond theory and modeling, I am drawn to building AI applications that reflect 
       <sub>Isolation Forest · GBM · rule engine · <b>LLM fingerprint scorer</b></sub><br>
       <sub>🗂️ CSIC 2010 + synthetic LLM traffic</sub>
     </td>
-    <td width="50%" valign="top">
-      <img src="https://img.shields.io/badge/AGENT-0D9488?style=flat-square&labelColor=0D9488" alt="AGENT"><br>
-      <b><a href="https://github.com/olivia3395/DataPilot_Studio-">DataPilot: AI DS Agent</a></b>
-      &nbsp;<a href="https://github.com/olivia3395/DataPilot_Studio-"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" alt="Code"></a><br>
-      <sub><b>planner–analyst–verifier</b> · Streamlit · XGBoost</sub><br>
-      <sub>📊 Autonomous CSV profiling + code gen</sub>
-    </td>
+     <td width="50%" valign="top">
+    <img src="https://img.shields.io/badge/AGENT-0D9488?style=flat-square&labelColor=0D9488" alt="AGENT"><br>
+    <b><a href="https://github.com/olivia3395/CausalLens">CausalLens: LLM-Augmented Causal Pipeline</a></b>
+    &nbsp;<a href="https://github.com/olivia3395/CausalLens"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" alt="Code"></a><br>
+    <sub>DoWhy · <b>Double ML · Causal Forest</b> · Claude API</sub><br>
+    <sub>🧪 IBM HR Attrition · Lalonde · Streamlit</sub>
+  </td>
   </tr>
   <tr>
     <td valign="top">
