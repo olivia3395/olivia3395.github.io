@@ -582,19 +582,117 @@ Come try it out [**here**](https://a-room-in-macondo.vercel.app/). See the proje
   - Developed LLM-powered image risk scoring with GPT-4o + Google Street View; integrated outputs into actuarial models  
 
 # 🗂️ Projects
-- **Dog Breed Classification (CNN + VGG16/ResNet50)** · [Code](https://github.com/olivia3395/dog_identification_app) · [Demo](https://olivia3395.github.io/dog_identification_app/) — **75.48%** accuracy (Stanford Dogs); Flask deployment.  
-- **Credit Risk Prediction (XGBoost + SMOTE)** · [Code](https://github.com/olivia3395/credit-default-risk) — **0.976 AUC**; default-class recall **91%**, F1 **0.95**.  
-- **Pedestrian Detection (Fast R-CNN style + Siamese)** · [Code](https://github.com/olivia3395) — few-shot-ready pipeline + pruning/fusion for faster inference.  
-- **Mask Detection (ResNet50 + Grad-CAM)** · [Code](https://github.com/olivia3395/MaskDetection) — **94%** test accuracy; explainable predictions via Grad-CAM.
-- **Financial Sentiment Analysis (DistilBERT)** · [Code](https://github.com/olivia3395/finanial-text-analysis) · [Demo](https://olivia3395.github.io/finanial-text-analysis/) — **85%** accuracy; **30%** faster inference.  
-- **Spam Detection (TF-IDF + Naive Bayes)** · [Code](https://github.com/olivia3395/spam_detection) — **96%** precision / **94%** recall; interpretable token analysis.  
-- **Interactive Airbnb Booking Dashboard (R Shiny)** · [Code](https://github.com/olivia3395/rshinyapp_airbnb) · [Demo](https://yuyaowang.shinyapps.io/airbnb_app/) — interactive maps + real-time filtering.  
-- **Bayesian Logistic Regression (RStan; Spike-and-Slab)** · [Code](https://github.com/olivia3395/Bayesian_Lung_Cancer_Prediction) · [Demo](https://olivia3395.github.io/Bayesian_Lung_Cancer_Prediction/) — sparse selection + full MCMC diagnostics.  
-- **A/B Testing for Ad Targeting Optimization** · [Code](https://github.com/olivia3395/AB_Test_Ad) — bootstrap CIs + power analysis; drove **+15%** conversion.  
-- **Time Series Forecasting for Financial Exposure (SARIMA/ETS/Prophet)** · [Code](https://github.com/olivia3395/GlobalRiskAnalysisUSA) · [Demo](https://olivia3395.github.io/GlobalRiskAnalysisUSA/) — robust forecasts + residual diagnostics.  
-- **Movie Recommendation** · [Code](https://github.com/olivia3395/Spring2020-Project4-group8) — ALS/SVD + kernel ridge refinement; accuracy ↑ **15%**, compute ↓ **20%**.  
-- **Customer Segmentation** · [Code](https://github.com/olivia3395/Customer_Segmentation) — elbow/silhouette-driven clustering for targeting.  
-- **R&B Lyrical Analysis(LDA + VADER)** · [Code](https://github.com/olivia3395/R-B_Lyrics) — topic discovery + sentiment trends across decades.
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+**🐶 Dog Breed Classification** <br>
+<sub>VGG16 · ResNet50 · Flask · **75.48%**</sub> <br>
+[![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/olivia3395/dog_identification_app) [![Demo](https://img.shields.io/badge/Demo-22C55E?style=flat-square&logo=rocket&logoColor=white)](https://olivia3395.github.io/dog_identification_app/)
+
+</td>
+<td width="33%" valign="top">
+
+**💳 Credit Risk** <br>
+<sub>XGBoost · SMOTE · **AUC 0.976**</sub> <br>
+[![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/olivia3395/credit-default-risk)
+
+</td>
+<td width="33%" valign="top">
+
+**🚶 Pedestrian Detection** <br>
+<sub>Fast R-CNN · Siamese · few-shot</sub> <br>
+[![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/olivia3395)
+
+</td>
+</tr>
+
+<tr>
+<td valign="top">
+
+**😷 Mask Detection** <br>
+<sub>ResNet50 · Grad-CAM · **94%**</sub> <br>
+[![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/olivia3395/MaskDetection)
+
+</td>
+<td valign="top">
+
+**📈 Financial Sentiment** <br>
+<sub>DistilBERT · **85%** · **30%↑ speed**</sub> <br>
+[![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/olivia3395/finanial-text-analysis) [![Demo](https://img.shields.io/badge/Demo-22C55E?style=flat-square&logo=rocket&logoColor=white)](https://olivia3395.github.io/finanial-text-analysis/)
+
+</td>
+<td valign="top">
+
+**✉️ Spam Detection** <br>
+<sub>TF-IDF · NB · **P 96 / R 94**</sub> <br>
+[![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/olivia3395/spam_detection)
+
+</td>
+</tr>
+
+<tr>
+<td valign="top">
+
+**🏠 Airbnb Dashboard** <br>
+<sub>R Shiny · maps · filtering</sub> <br>
+[![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/olivia3395/rshinyapp_airbnb) [![Demo](https://img.shields.io/badge/Demo-22C55E?style=flat-square&logo=rocket&logoColor=white)](https://yuyaowang.shinyapps.io/airbnb_app/)
+
+</td>
+<td valign="top">
+
+**🧬 Bayesian Logistic** <br>
+<sub>RStan · Spike-and-Slab · MCMC</sub> <br>
+[![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/olivia3395/Bayesian_Lung_Cancer_Prediction) [![Demo](https://img.shields.io/badge/Demo-22C55E?style=flat-square&logo=rocket&logoColor=white)](https://olivia3395.github.io/Bayesian_Lung_Cancer_Prediction/)
+
+</td>
+<td valign="top">
+
+**🧪 A/B Testing** <br>
+<sub>Bootstrap · power · **+15% conv.**</sub> <br>
+[![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/olivia3395/AB_Test_Ad)
+
+</td>
+</tr>
+
+<tr>
+<td valign="top">
+
+**📉 Time Series Forecast** <br>
+<sub>SARIMA · ETS · Prophet</sub> <br>
+[![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/olivia3395/GlobalRiskAnalysisUSA) [![Demo](https://img.shields.io/badge/Demo-22C55E?style=flat-square&logo=rocket&logoColor=white)](https://olivia3395.github.io/GlobalRiskAnalysisUSA/)
+
+</td>
+<td valign="top">
+
+**🎬 Movie Recommendation** <br>
+<sub>ALS · SVD · **+15% / −20%**</sub> <br>
+[![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/olivia3395/Spring2020-Project4-group8)
+
+</td>
+<td valign="top">
+
+**👥 Customer Segmentation** <br>
+<sub>K-Means · elbow · silhouette</sub> <br>
+[![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/olivia3395/Customer_Segmentation)
+
+</td>
+</tr>
+
+<tr>
+<td valign="top">
+
+**🎵 R&B Lyrical Analysis** <br>
+<sub>LDA · VADER · topics + sentiment</sub> <br>
+[![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/olivia3395/R-B_Lyrics)
+
+</td>
+<td valign="top"></td>
+<td valign="top"></td>
+</tr>
+</table>
+
 
 
 # 📃 Academic Service & Talks
