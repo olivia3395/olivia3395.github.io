@@ -17,25 +17,14 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Howdy! I'm a Ph.D. candidate in Statistics at <b>Boston University</b>, co-advised by <a href="https://debarghya-mukherjee.github.io/">Prof. Debarghya Mukherjee</a> and <a href="https://math.bu.edu/people/lecarval/">Prof. Luis Carvalho</a>, and I also collaborate with <a href="https://nabarund.github.io/">Prof. Nabarun Deb</a>. Before BU, I earned my M.A. in Statistics from <b>Columbia University</b> and my B.S. in Mathematics from <b>Shandong University</b>, including a year of joint training at the <b>Academy of Mathematics and Systems Science (AMSS), Chinese Academy of Sciences</b>.
+Howdy! I’m a Ph.D. candidate in Statistics at Boston University, co-advised by [Prof. Debarghya Mukherjee](https://debarghya-mukherjee.github.io/) and [Prof. Luis Carvalho](https://math.bu.edu/people/lecarval/), and I also collaborate with [Prof. Nabarun Deb](https://nabarund.github.io/). Before BU, I earned my M.A. in Statistics from Columbia University and my B.S. in Mathematics from Shandong University, including a year of joint training at the Academy of Mathematics and Systems Science(AMSS), Chinese Academy of Sciences. My research sits at the intersection of statistics and machine learning, where I develop theoretically grounded transfer-learning and representation-learning methods—spanning optimal transport, graph mining, multimodal learning for structured, heterogeneous data in low-sample, high-dimensional, and non-IID settings. 
 
-My research sits at the intersection of statistics and machine learning, where I develop <i>theoretically grounded</i> transfer-learning and representation-learning methods — spanning <b>optimal transport</b>, <b>graph mining</b>, and <b>multimodal learning</b> for structured, heterogeneous data in low-sample, high-dimensional, and non-IID settings.
+The question that keeps me up (in a good way):
 
-<br>
+> **How can we reuse past knowledge when the world—and the data—won’t sit still?**
 
-<table align="center">
-<tr><td align="center">
-<i>The question that keeps me up (in a good way):</i><br><br>
-<b><font size="5">How can we reuse past knowledge when the world —</font></b><br>
-<b><font size="5">and the data — won't sit still?</font></b>
-</td></tr>
-</table>
+In statistical learning, this is about transferring geometry or smoothness from a well-understood **source** distribution to a smaller, noisier **target** under shift.  In reinforcement learning, the **source** might be prior trajectories, simulators, or related tasks, while the **target** is the evolving environment, so we need principled rules for **what to keep, what to adapt, and what to forget**. And yes! **LLMs/VLMs** make this even more exciting (and tricky): they already contain a lot of cross-domain knowledge, but the real challenge is **extracting and specializing it safely** for downstream tasks without **overfitting, hallucination, or misalignment**.
 
-<br>
-
-In <b>statistical learning</b>, this is about transferring geometry or smoothness from a well-understood <b>source</b> distribution to a smaller, noisier <b>target</b> under shift. In <b>reinforcement learning</b>, the source might be prior trajectories, simulators, or related tasks, while the target is the evolving environment — so we need principled rules for <i>what to keep, what to adapt, and what to forget</i>. And <b>LLMs/VLMs</b> make this even more exciting (and tricky): they already contain a lot of cross-domain knowledge, but the real challenge is <i>extracting and specializing it safely</i> for downstream tasks — without overfitting, hallucination, or misalignment.
-
-<br>
 
 ## What I build
 
@@ -63,19 +52,13 @@ In <b>statistical learning</b>, this is about transferring geometry or smoothnes
 </table>
 
 <br>
-
 > <i>Curious about my research? I put together a friendly, no-jargon <a href="transfer_learning.pdf"><b>slide deck</b></a> on how I think about transfer learning — and why it matters.</i>
-
 <br>
 
-<br>
+Along my academic journey, I have been deeply fortunate to study and conduct research under the guidance of inspiring scholars, including [Prof. Zhanxing Zhu](https://zhanxingzhu.github.io/), whose influential work includes *Spatio-Temporal Graph Convolutional Networks (STGCN)* for traffic forecasting, and [Prof. Yongshun Gong](https://faculty.sdu.edu.cn/gongyongshun/en/). Their perspectives on deep learning, representation learning, and structured spatio-temporal systems have profoundly shaped how I think about evolving, heterogeneous data, and have guided my pursuit of principled transfer learning methods.
 
-Along my academic journey, I have been deeply fortunate to study and conduct research under the guidance of inspiring scholars, including <a href="https://zhanxingzhu.github.io/"><b>Prof. Zhanxing Zhu</b></a>, whose influential work includes <i>Spatio-Temporal Graph Convolutional Networks (STGCN)</i> for traffic forecasting, and <a href="https://faculty.sdu.edu.cn/gongyongshun/en/"><b>Prof. Yongshun Gong</b></a>. Their perspectives on deep learning, representation learning, and structured spatio-temporal systems have profoundly shaped how I think about evolving, heterogeneous data, and have guided my pursuit of principled transfer learning methods.
 
-<br>
-
-Beyond theory and modeling, I am drawn to building AI applications that reflect how I see people and the world. I have always felt that human beings are more than their outward forms — that something of the spirit, memory, and inner life exceeds the body that temporarily carries it. That is why I am especially fascinated by <i>cinema, atmosphere, and emotionally resonant digital experiences</i>. ✨
-
+Beyond theory and modeling, I am drawn to building AI applications that reflect how I see people and the world. I have always felt that human beings are more than their outward forms, that something of the spirit, memory, and inner life exceeds the body that temporarily carries it. That is why I am especially fascinated by cinema, atmosphere, and emotionally resonant digital experiences ✨
 
 
 
