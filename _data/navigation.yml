@@ -11,6 +11,12 @@ main:
 
   - title: "LLM Engineering Projects" 
     url: "/#-llm-engineering-projects"
+
+  - title: "Educations"
+    url: "/#-educations"
+
+  - title: "Internships"
+    url: "/#-internships"
     
   - title: "My Apps"
     url: "/#-my-apps"
@@ -18,12 +24,7 @@ main:
   - title: "Honors"
     url: "/#-honors"
 
-  - title: "Educations"
-    url: "/#-educations"
-
-  - title: "Internships"
-    url: "/#-internships"
-
+  
   - title: "Academic Service & Talks"
     url: "/#-academic-service--talks"
   
