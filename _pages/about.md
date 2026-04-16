@@ -553,19 +553,16 @@ Beyond theory and modeling, I am drawn to building AI applications that reflect 
 
 # 📃 Academic Service & Talks
 
-<img src="https://img.shields.io/badge/PRESENTATIONS-0369A1?style=flat-square&labelColor=0369A1" alt="PRESENTATIONS">&nbsp;<b>CIKM 2024</b>&nbsp;·&nbsp;<b>NeurIPS 2025</b>
+- **Presentations:** CIKM 2024; NeurIPS 2025  
+- **Reviewer:** CIKM 2025; ICME 2026; ICML 2026; KDD 2026
 
-<img src="https://img.shields.io/badge/REVIEWER-7C3AED?style=flat-square&labelColor=7C3AED" alt="REVIEWER">&nbsp;<b>CIKM</b> 2025&nbsp;·&nbsp;<b>ICME</b> 2026&nbsp;·&nbsp;<b>ICML</b> 2026&nbsp;·&nbsp;<b>KDD</b> 2026
-
-<br>
 
 # 📝 Teaching Experience
 
-<sub><b>Boston University</b></sub>
+- **Instructor, Boston University:** MA 582 *Mathematical Statistics*; MA 113 *Elementary Statistics*  
+- **Teaching Assistant, Boston University:** MA 575 *Generalized Linear Models*; MA 582 *Mathematical Statistics*; MA 415 *Data Science in R*; MA 214 *Applied Statistics*; MA 213 *Statistics and Probability*; MA 113 *Elementary Statistics*
 
-<img src="https://img.shields.io/badge/INSTRUCTOR-DB2777?style=flat-square&labelColor=DB2777" alt="INSTRUCTOR">&nbsp;<b>MA 582</b> <i>Mathematical Statistics</i>&nbsp;·&nbsp;<b>MA 113</b> <i>Elementary Statistics</i>
 
-<img src="https://img.shields.io/badge/TA-0D9488?style=flat-square&labelColor=0D9488" alt="TA">&nbsp;<b>MA 575</b> <i>Generalized Linear Models</i>&nbsp;·&nbsp;<b>MA 582</b> <i>Mathematical Statistics</i>&nbsp;·&nbsp;<b>MA 415</b> <i>Data Science in R</i>&nbsp;·&nbsp;<b>MA 214</b> <i>Applied Statistics</i>&nbsp;·&nbsp;<b>MA 213</b> <i>Statistics and Probability</i>&nbsp;·&nbsp;<b>MA 113</b> <i>Elementary Statistics</i>
 
   
 # 🎨 Interests
