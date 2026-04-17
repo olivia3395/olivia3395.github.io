@@ -493,7 +493,7 @@ Beyond theory and modeling, I am drawn to building AI applications that reflect 
   </tr>
 </table>
 
-<br>
+<sub><br></sub>
 
 # 📝 Service & Teaching
 
@@ -504,7 +504,7 @@ Beyond theory and modeling, I am drawn to building AI applications that reflect 
 
 
 
-<br>
+<sub><br></sub>
 
 # 🎨 Interests
 
