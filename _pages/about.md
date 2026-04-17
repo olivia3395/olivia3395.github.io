@@ -495,10 +495,14 @@ Beyond theory and modeling, I am drawn to building AI applications that reflect 
 
 # 📝 Service & Teaching
 
-<b>Presentations</b> &nbsp;·&nbsp; CIKM 2024, NeurIPS 2025<br>
-<b>Reviewer</b> &nbsp;·&nbsp; CIKM 2025, ICME 2026, ICML 2026, KDD 2026<br>
-<b>Instructor</b> @ Boston University &nbsp;·&nbsp; MA 582 <i>Mathematical Statistics</i>, MA 113 <i>Elementary Statistics</i><br>
-<b>TA</b> @ Boston University &nbsp;·&nbsp; MA 575 <i>GLM</i>, MA 582, MA 415 <i>Data Science in R</i>, MA 214 <i>Applied Stats</i>, MA 213 <i>Stats & Probability</i>, MA 113
+<b>Presentations</b> &nbsp; <img src="https://img.shields.io/badge/CIKM-2024-0891B2?style=flat-square" alt="CIKM 2024"> <img src="https://img.shields.io/badge/NeurIPS-2025-6366F1?style=flat-square" alt="NeurIPS 2025">
+
+<b>Reviewer</b> &nbsp; <img src="https://img.shields.io/badge/CIKM-2025-94A3B8?style=flat-square" alt="CIKM"> <img src="https://img.shields.io/badge/ICME-2026-94A3B8?style=flat-square" alt="ICME"> <img src="https://img.shields.io/badge/ICML-2026-94A3B8?style=flat-square" alt="ICML"> <img src="https://img.shields.io/badge/KDD-2026-94A3B8?style=flat-square" alt="KDD">
+
+<b>Instructor</b> @ Boston University &nbsp;·&nbsp; MA 582 <i>Mathematical Statistics</i>, MA 113 <i>Elementary Statistics</i>
+
+<b>Teaching Assistant</b> @ Boston University &nbsp;·&nbsp; MA 575 <i>GLM</i> · MA 582 · MA 415 <i>Data Science in R</i> · MA 214 <i>Applied Stats</i> · MA 213 <i>Stats & Probability</i> · MA 113
+
 
   
 # 🎨 Interests
