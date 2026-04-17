@@ -24,12 +24,12 @@ main:
   - title: "Honors"
     url: "/#-honors"
 
-  
-  - title: "Academic Service & Talks"
-    url: "/#-academic-service--talks"
-  
-  - title: "Teaching Experience"
-    url: "/#-teaching-experience"
+  - title: "Projects"
+    url: "/#-projects"
+    
+  - title: "Service & Teaching"
+    url: "/#-service--teaching"
+    
   
   - title: "Interests"
     url: "/#-interests"
