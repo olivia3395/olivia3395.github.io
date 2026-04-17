@@ -262,6 +262,7 @@ Beyond theory and modeling, I am drawn to building AI applications that reflect 
 
 
 
+<br><br><br>
 
 
 # 📖 Educations
@@ -274,6 +275,8 @@ Beyond theory and modeling, I am drawn to building AI applications that reflect 
   
 - *2015.09 – 2019.06*: B.S. in Mathematics, Shandong University
 
+
+<br><br><br>
 
 # 💻 Internships
 
@@ -415,7 +418,7 @@ Beyond theory and modeling, I am drawn to building AI applications that reflect 
 
 
 
-
+<br><br><br>
 
 # 🎖 Honors 
 - *2025*: Student Travel Grant, Boston University  
@@ -429,6 +432,8 @@ Beyond theory and modeling, I am drawn to building AI applications that reflect 
 - *2018*: First-Class Scholarship, Shandong University  
 - *2018*: Outstanding Student Leader, Shandong University  
 
+
+<br><br><br>
 
 # 📂 DS Projects
 
@@ -491,7 +496,7 @@ Beyond theory and modeling, I am drawn to building AI applications that reflect 
   </tr>
 </table>
 
-
+<br><br><br>
 
 # 📝 Service & Teaching
 
@@ -501,7 +506,9 @@ Beyond theory and modeling, I am drawn to building AI applications that reflect 
 <b>TA</b> @ Boston University &nbsp;·&nbsp; MA 575 <i>Generalized Linear Models</i>, MA 582, MA 415 <i>Data Science in R</i>, MA 214 <i>Applied Stats</i>
 
 
-  
+
+<br><br><br>
+
 # 🎨 Interests
 
 🎵 Mandarin R&B loyalist — Leehom Wang, David Tao, Khalil Fong🦋, Dean Ting
