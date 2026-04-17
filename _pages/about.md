@@ -430,7 +430,7 @@ Beyond theory and modeling, I am drawn to building AI applications that reflect 
 - *2018*: Outstanding Student Leader, Shandong University  
 
 
-# 🗂️ Projects
+# 🗂️ DS Projects
 
 <table>
   <tr>
@@ -498,7 +498,7 @@ Beyond theory and modeling, I am drawn to building AI applications that reflect 
 <b>Presentations</b> &nbsp;·&nbsp; CIKM 2024, NeurIPS 2025<br>
 <b>Reviewer</b> &nbsp;·&nbsp; CIKM 2025, ICME 2026, ICML 2026, KDD 2026<br>
 <b>Instructor</b> @ Boston University &nbsp;·&nbsp; MA 582 <i>Mathematical Statistics</i>, MA 113 <i>Elementary Statistics</i><br>
-<b>TA</b> @ Boston University &nbsp;·&nbsp; MA 575 <i>GLM</i>, MA 582, MA 415 <i>Data Science in R</i>, MA 214 <i>Applied Stats</i>
+<b>TA</b> @ Boston University &nbsp;·&nbsp; MA 575 <i>Generalized Linear Models</i>, MA 582, MA 415 <i>Data Science in R</i>, MA 214 <i>Applied Stats</i>
 
 
   
