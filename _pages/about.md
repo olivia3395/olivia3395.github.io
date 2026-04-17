@@ -182,7 +182,7 @@ Beyond theory and modeling, I am drawn to building AI applications that reflect 
   </tr>
 </table>
 
-
+<br><br>
 
 # 🤖 LLM Engineering Projects
 
@@ -262,7 +262,7 @@ Beyond theory and modeling, I am drawn to building AI applications that reflect 
 
 
 
-<br><br><br>
+<br><br>
 
 
 # 📖 Educations
@@ -276,7 +276,7 @@ Beyond theory and modeling, I am drawn to building AI applications that reflect 
 - *2015.09 – 2019.06*: B.S. in Mathematics, Shandong University
 
 
-<br><br><br>
+<br><br>
 
 # 💻 Internships
 
@@ -418,7 +418,7 @@ Beyond theory and modeling, I am drawn to building AI applications that reflect 
 
 
 
-<br><br><br>
+<br><br>
 
 # 🎖 Honors 
 - *2025*: Student Travel Grant, Boston University  
@@ -433,7 +433,7 @@ Beyond theory and modeling, I am drawn to building AI applications that reflect 
 - *2018*: Outstanding Student Leader, Shandong University  
 
 
-<br><br><br>
+<br><br>
 
 # 📂 DS Projects
 
@@ -496,7 +496,7 @@ Beyond theory and modeling, I am drawn to building AI applications that reflect 
   </tr>
 </table>
 
-<br><br><br>
+<br><br>
 
 # 📝 Service & Teaching
 
@@ -507,7 +507,7 @@ Beyond theory and modeling, I am drawn to building AI applications that reflect 
 
 
 
-<br><br><br>
+<br><br>
 
 # 🎨 Interests
 
