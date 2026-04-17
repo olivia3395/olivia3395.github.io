@@ -287,8 +287,7 @@ Beyond theory and modeling, I am drawn to building AI applications that reflect 
 
 <br clear="left">
 
-
-
+<div style="margin-top: -10px;"></div>
 
 # ✨ My Apps
 
