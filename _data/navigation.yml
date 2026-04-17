@@ -24,8 +24,8 @@ main:
   - title: "Honors"
     url: "/#-honors"
 
-  - title: "Projects"
-    url: "/#-projects"
+  - title: "DS Projects"
+    url: "/#-data-science-projects"
     
   - title: "Service & Teaching"
     url: "/#-service--teaching"
