@@ -430,7 +430,7 @@ Beyond theory and modeling, I am drawn to building AI applications that reflect 
 - *2018*: Outstanding Student Leader, Shandong University  
 
 
-# 🗂️ DS Projects
+# 📂 DS Projects
 
 <table>
   <tr>
