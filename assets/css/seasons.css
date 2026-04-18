@@ -1,0 +1,214 @@
+/* ==========================================================================
+   Four Seasons Theme (+ Normal) for academicpages (Jekyll)
+   Drop this in: assets/css/seasons.css
+   Include via <link> in _includes/head/custom.html (or head.html)
+   ========================================================================== */
+
+/* ---------- 1. Season color variables ---------- */
+/* Normal mode: no data-season OR data-season="normal" — do nothing.
+   Theme only kicks in when body has data-season = spring/summer/autumn/winter */
+
+body[data-season="spring"] {
+  --season-bg: linear-gradient(160deg, #ffe0ec 0%, #fff5f8 55%, #ffeef4 100%);
+  --season-accent: #d4537e;
+  --season-accent-soft: #fbc8da;
+  --season-text-on-accent: #7a1f3e;
+}
+
+body[data-season="summer"] {
+  --season-bg: linear-gradient(160deg, #d4f0dd 0%, #f0fbef 55%, #e5f5d9 100%);
+  --season-accent: #2d9a4f;
+  --season-accent-soft: #b6e1a3;
+  --season-text-on-accent: #2b5418;
+}
+
+body[data-season="autumn"] {
+  --season-bg: linear-gradient(160deg, #fbe4b5 0%, #fdf3d8 55%, #f9dfc0 100%);
+  --season-accent: #c2410c;
+  --season-accent-soft: #f5c77a;
+  --season-text-on-accent: #6b3d08;
+}
+
+body[data-season="winter"] {
+  --season-bg: linear-gradient(160deg, #dce8f2 0%, #f2f8fd 55%, #e8f0f7 100%);
+  --season-accent: #2563eb;
+  --season-accent-soft: #c4dcea;
+  --season-text-on-accent: #1d4160;
+}
+
+/* ---------- 2. Apply background ONLY when a season is active ---------- */
+/* All rules scoped to body[data-season="spring|summer|autumn|winter"]
+   so Normal mode leaves the site completely untouched. */
+
+body[data-season="spring"],
+body[data-season="summer"],
+body[data-season="autumn"],
+body[data-season="winter"] {
+  background: var(--season-bg) !important;
+  background-attachment: fixed !important;
+  transition: background 0.8s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+body[data-season="spring"] .page,
+body[data-season="spring"] .page__content,
+body[data-season="spring"] .archive,
+body[data-season="spring"] .masthead__inner-wrap,
+body[data-season="spring"] .sidebar,
+body[data-season="spring"] .author__avatar,
+body[data-season="spring"] .author__content,
+body[data-season="spring"] .author__urls-wrapper,
+body[data-season="summer"] .page,
+body[data-season="summer"] .page__content,
+body[data-season="summer"] .archive,
+body[data-season="summer"] .masthead__inner-wrap,
+body[data-season="summer"] .sidebar,
+body[data-season="summer"] .author__avatar,
+body[data-season="summer"] .author__content,
+body[data-season="summer"] .author__urls-wrapper,
+body[data-season="autumn"] .page,
+body[data-season="autumn"] .page__content,
+body[data-season="autumn"] .archive,
+body[data-season="autumn"] .masthead__inner-wrap,
+body[data-season="autumn"] .sidebar,
+body[data-season="autumn"] .author__avatar,
+body[data-season="autumn"] .author__content,
+body[data-season="autumn"] .author__urls-wrapper,
+body[data-season="winter"] .page,
+body[data-season="winter"] .page__content,
+body[data-season="winter"] .archive,
+body[data-season="winter"] .masthead__inner-wrap,
+body[data-season="winter"] .sidebar,
+body[data-season="winter"] .author__avatar,
+body[data-season="winter"] .author__content,
+body[data-season="winter"] .author__urls-wrapper {
+  background-color: transparent !important;
+}
+
+body[data-season="spring"] .page__content,
+body[data-season="summer"] .page__content,
+body[data-season="autumn"] .page__content,
+body[data-season="winter"] .page__content {
+  position: relative;
+  z-index: 2;
+}
+
+/* Optional: soften code blocks against the tinted background */
+body[data-season="spring"] .page__content pre,
+body[data-season="spring"] .page__content code,
+body[data-season="summer"] .page__content pre,
+body[data-season="summer"] .page__content code,
+body[data-season="autumn"] .page__content pre,
+body[data-season="autumn"] .page__content code,
+body[data-season="winter"] .page__content pre,
+body[data-season="winter"] .page__content code {
+  background-color: rgba(255, 255, 255, 0.75) !important;
+}
+
+/* ---------- 3. Season picker (always visible, floating top-right) ---------- */
+#season-picker {
+  position: fixed;
+  top: 84px;
+  right: 18px;
+  z-index: 9999;
+  display: flex;
+  align-items: center;
+  gap: 2px;
+  padding: 6px;
+  background: rgba(255, 255, 255, 0.82);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  border: 0.5px solid rgba(0, 0, 0, 0.08);
+  border-radius: 24px;
+  box-shadow: 0 2px 12px rgba(0, 0, 0, 0.06);
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+}
+
+.season-btn {
+  height: 34px;
+  border-radius: 20px;
+  border: none;
+  background: transparent;
+  cursor: pointer;
+  line-height: 1;
+  transition: all 0.25s ease;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  color: rgba(0, 0, 0, 0.6);
+}
+
+/* "Normal" uses a text label; seasons are emoji-only circles */
+.season-btn[data-season="normal"] {
+  font-size: 12px;
+  font-weight: 500;
+  padding: 0 12px;
+}
+
+.season-btn:not([data-season="normal"]) {
+  width: 34px;
+  padding: 0;
+  border-radius: 50%;
+  font-size: 16px;
+}
+
+.season-btn:hover {
+  transform: scale(1.08);
+  background: rgba(0, 0, 0, 0.05);
+}
+
+.season-btn.active {
+  background: rgba(0, 0, 0, 0.12);
+  color: rgba(0, 0, 0, 0.9);
+  transform: scale(1.05);
+}
+
+/* Small vertical separator between Normal and the four seasons */
+.season-divider {
+  width: 0.5px;
+  height: 20px;
+  background: rgba(0, 0, 0, 0.12);
+  margin: 0 4px;
+}
+
+/* Collapse to the bottom-right on narrow screens */
+@media (max-width: 640px) {
+  #season-picker {
+    top: auto;
+    bottom: 16px;
+    right: 16px;
+  }
+}
+
+/* ---------- 4. Particle layer ---------- */
+#season-particles {
+  position: fixed;
+  inset: 0;
+  pointer-events: none;
+  z-index: 1;
+  overflow: hidden;
+}
+
+.season-particle {
+  position: absolute;
+  top: -40px;
+  will-change: transform, opacity;
+  animation: season-drift linear infinite;
+}
+
+@keyframes season-drift {
+  0%   { transform: translate(0, -40px) rotate(0deg);             opacity: 0; }
+  10%  { opacity: 0.85; }
+  90%  { opacity: 0.85; }
+  100% { transform: translate(var(--drift, 0), 105vh) rotate(var(--spin, 360deg)); opacity: 0; }
+}
+
+@keyframes season-twinkle {
+  0%, 100% { opacity: 0.3; }
+  50%      { opacity: 0.95; }
+}
+
+/* Respect users who prefer reduced motion — skip the particles */
+@media (prefers-reduced-motion: reduce) {
+  #season-particles { display: none; }
+  body { transition: none !important; }
+}
