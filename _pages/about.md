@@ -184,15 +184,27 @@ Beyond theory and modeling, I am drawn to building AI applications that reflect 
 
 
 
+
+
 # 🤖 LLM Engineering Projects
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <img src="https://img.shields.io/badge/AGENT-0D9488?style=flat-square&labelColor=0D9488" alt="AGENT"> <b><a href="https://github.com/olivia3395/traffic_bot_detection">Traffic Bot Detection</a></b> <a href="https://github.com/olivia3395/traffic_bot_detection"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" alt="Code"></a><br>
-      <sub>Isolation Forest · GBM · <b>LLM fingerprint scorer</b> · CSIC 2010</sub>
+      <img src="https://img.shields.io/badge/ALIGN-DB2777?style=flat-square&labelColor=DB2777" alt="ALIGN"> <b><a href="https://github.com/olivia3395/AlignDPO-Preference-Optimization-from-Scratch">AlignDPO</a></b> <a href="https://github.com/olivia3395/AlignDPO-Preference-Optimization-from-Scratch"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" alt="Code"></a> <a href="https://github.com/olivia3395/AlignDPO-Preference-Optimization-from-Scratch/blob/main/DPO%20%26%20PPO.pdf"><img src="https://img.shields.io/badge/PDF-DC2626?style=flat-square&logo=adobeacrobatreader&logoColor=white" alt="PDF"></a><br>
+      <sub><b>DPO · IPO · KTO</b> · QLoRA · Mistral-7B · HH-RLHF</sub>
     </td>
     <td width="50%" valign="top">
+      <img src="https://img.shields.io/badge/RAG-7C3AED?style=flat-square&labelColor=7C3AED" alt="RAG"> <b><a href="https://github.com/olivia3395/RAGAudit">RAGAudit: Hallucination Detection</a></b> <a href="https://github.com/olivia3395/RAGAudit"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" alt="Code"></a> <a href="https://github.com/olivia3395/RAGAudit/blob/main/RAG%20%26%20Hallucination%20Detection.pdf"><img src="https://img.shields.io/badge/PDF-DC2626?style=flat-square&logo=adobeacrobatreader&logoColor=white" alt="PDF"></a><br>
+      <sub>BM25+FAISS · <b>NLI · SelfCheckGPT · sem. entropy</b> · Mistral-7B</sub>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <img src="https://img.shields.io/badge/CAUSAL-0369A1?style=flat-square&labelColor=0369A1" alt="CAUSAL"> <b><a href="https://github.com/olivia3395/Pricing-Impact-Analyzer">Congestion Pricing Analyzer</a></b> <a href="https://github.com/olivia3395/Pricing-Impact-Analyzer"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" alt="Code"></a> <a href="https://github.com/olivia3395/Pricing-Impact-Analyzer/blob/main/Congestion%20Pricing%20Impact%20Analyzer.pdf"><img src="https://img.shields.io/badge/PDF-DC2626?style=flat-square&logo=adobeacrobatreader&logoColor=white" alt="PDF"></a><br>
+      <sub><b>TWFE · CS-DiD · Synth DiD · Double ML</b> · <b>12M+ NYC TLC</b></sub>
+    </td>
+    <td valign="top">
       <img src="https://img.shields.io/badge/AGENT-0D9488?style=flat-square&labelColor=0D9488" alt="AGENT"> <b><a href="https://github.com/olivia3395/CausalLens">CausalLens: LLM-Augmented Causal Pipeline</a></b> <a href="https://github.com/olivia3395/CausalLens"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" alt="Code"></a><br>
       <sub>DoWhy · <b>Double ML · Causal Forest</b> · Claude API · Streamlit</sub>
     </td>
@@ -209,28 +221,8 @@ Beyond theory and modeling, I am drawn to building AI applications that reflect 
   </tr>
   <tr>
     <td valign="top">
-      <img src="https://img.shields.io/badge/RAG-7C3AED?style=flat-square&labelColor=7C3AED" alt="RAG"> <b><a href="https://github.com/olivia3395/RAGAudit">RAGAudit: Hallucination Detection</a></b> <a href="https://github.com/olivia3395/RAGAudit"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" alt="Code"></a> <a href="https://github.com/olivia3395/RAGAudit/blob/main/RAG%20%26%20Hallucination%20Detection.pdf"><img src="https://img.shields.io/badge/PDF-DC2626?style=flat-square&logo=adobeacrobatreader&logoColor=white" alt="PDF"></a><br>
-      <sub>BM25+FAISS · <b>NLI · SelfCheckGPT · sem. entropy</b> · Mistral-7B</sub>
-    </td>
-    <td valign="top">
-      <img src="https://img.shields.io/badge/ALIGN-DB2777?style=flat-square&labelColor=DB2777" alt="ALIGN"> <b><a href="https://github.com/olivia3395/TuneShift">TuneShift: Fine-Tuning</a></b> <a href="https://github.com/olivia3395/TuneShift"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" alt="Code"></a><br>
-      <sub>instruction · dialogue · <b>LoRA / QLoRA</b> · domain transfer</sub>
-    </td>
-  </tr>
-  <tr>
-    <td valign="top">
-      <img src="https://img.shields.io/badge/ALIGN-DB2777?style=flat-square&labelColor=DB2777" alt="ALIGN"> <b><a href="https://github.com/olivia3395/AlignDPO-Preference-Optimization-from-Scratch">AlignDPO</a></b> <a href="https://github.com/olivia3395/AlignDPO-Preference-Optimization-from-Scratch"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" alt="Code"></a> <a href="https://github.com/olivia3395/AlignDPO-Preference-Optimization-from-Scratch/blob/main/DPO%20%26%20PPO.pdf"><img src="https://img.shields.io/badge/PDF-DC2626?style=flat-square&logo=adobeacrobatreader&logoColor=white" alt="PDF"></a><br>
-      <sub><b>DPO · IPO · KTO</b> · QLoRA · Mistral-7B · HH-RLHF</sub>
-    </td>
-    <td valign="top">
-      <img src="https://img.shields.io/badge/ALIGN-DB2777?style=flat-square&labelColor=DB2777" alt="ALIGN"> <b><a href="https://github.com/olivia3395/rlhf_finetuning">RLHF with PPO</a></b> <a href="https://github.com/olivia3395/rlhf_finetuning"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" alt="Code"></a> <a href="https://github.com/olivia3395/PPO-based-RLHF/blob/main/RAG%20System.pdf"><img src="https://img.shields.io/badge/PDF-DC2626?style=flat-square&logo=adobeacrobatreader&logoColor=white" alt="PDF"></a><br>
-      <sub>GPT-2 · GAE · <b>clipped PPO · adaptive KL</b> · W&amp;B</sub>
-    </td>
-  </tr>
-  <tr>
-    <td valign="top">
-      <img src="https://img.shields.io/badge/CORE-EA580C?style=flat-square&labelColor=EA580C" alt="CORE"> <b><a href="https://github.com/olivia3395/mini_pretrain">Mini LLM Pre-Training</a></b> <a href="https://github.com/olivia3395/mini_pretrain"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" alt="Code"></a> <a href="https://github.com/olivia3395/Mini-GPT-Pre-Training/blob/main/LLM.pdf"><img src="https://img.shields.io/badge/PDF-DC2626?style=flat-square&logo=adobeacrobatreader&logoColor=white" alt="PDF"></a><br>
-      <sub><b>10.7M GPT</b> · PyTorch · <b>PPL 65 → 4.7</b> @ 5k iters</sub>
+      <img src="https://img.shields.io/badge/CORE-EA580C?style=flat-square&labelColor=EA580C" alt="CORE"> <b><a href="https://github.com/olivia3395/DraftVerify">DraftVerify: Speculative Decoding</a></b> <a href="https://github.com/olivia3395/DraftVerify"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" alt="Code"></a><br>
+      <sub><b>draft + verifier</b> · latency · throughput · acceptance</sub>
     </td>
     <td valign="top">
       <img src="https://img.shields.io/badge/CORE-EA580C?style=flat-square&labelColor=EA580C" alt="CORE"> <b><a href="https://github.com/olivia3395/HQQ_1-bit_Quantization">HQQ: 1-bit Quantization</a></b> <a href="https://github.com/olivia3395/HQQ_1-bit_Quantization"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" alt="Code"></a><br>
@@ -239,18 +231,8 @@ Beyond theory and modeling, I am drawn to building AI applications that reflect 
   </tr>
   <tr>
     <td valign="top">
-      <img src="https://img.shields.io/badge/CORE-EA580C?style=flat-square&labelColor=EA580C" alt="CORE"> <b><a href="https://github.com/olivia3395/DraftVerify">DraftVerify: Speculative Decoding</a></b> <a href="https://github.com/olivia3395/DraftVerify"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" alt="Code"></a><br>
-      <sub><b>draft + verifier</b> · latency · throughput · acceptance</sub>
-    </td>
-    <td valign="top">
       <img src="https://img.shields.io/badge/CAUSAL-0369A1?style=flat-square&labelColor=0369A1" alt="CAUSAL"> <b><a href="https://github.com/olivia3395/Causal-Promotion-Optimization">Causal Promotion Optimization</a></b> <a href="https://github.com/olivia3395/Causal-Promotion-Optimization"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" alt="Code"></a> <a href="https://github.com/olivia3395/Causal-Promotion-Optimization/blob/main/Causal_Promotion.pdf"><img src="https://img.shields.io/badge/PDF-DC2626?style=flat-square&logo=adobeacrobatreader&logoColor=white" alt="PDF"></a><br>
       <sub><b>AIPW</b> · LightGBM · <b>DRLearner CATE</b> · OR-Tools · FastAPI</sub>
-    </td>
-  </tr>
-  <tr>
-    <td valign="top">
-      <img src="https://img.shields.io/badge/CAUSAL-0369A1?style=flat-square&labelColor=0369A1" alt="CAUSAL"> <b><a href="https://github.com/olivia3395/Pricing-Impact-Analyzer">Congestion Pricing Analyzer</a></b> <a href="https://github.com/olivia3395/Pricing-Impact-Analyzer"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" alt="Code"></a> <a href="https://github.com/olivia3395/Pricing-Impact-Analyzer/blob/main/Congestion%20Pricing%20Impact%20Analyzer.pdf"><img src="https://img.shields.io/badge/PDF-DC2626?style=flat-square&logo=adobeacrobatreader&logoColor=white" alt="PDF"></a><br>
-      <sub><b>TWFE · CS-DiD · Synth DiD · Double ML</b> · <b>12M+ NYC TLC</b></sub>
     </td>
     <td valign="top">
       <img src="https://img.shields.io/badge/ML-16A34A?style=flat-square&labelColor=16A34A" alt="ML"> <b><a href="https://github.com/olivia3395/Retail-Demand-Forecasting">Demand Forecasting</a></b> <a href="https://github.com/olivia3395/Retail-Demand-Forecasting"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" alt="Code"></a> <a href="https://github.com/olivia3395/Retail-Demand-Forecasting/blob/main/Retail_Demand.pdf"><img src="https://img.shields.io/badge/PDF-DC2626?style=flat-square&logo=adobeacrobatreader&logoColor=white" alt="PDF"></a><br>
