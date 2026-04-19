@@ -52,7 +52,7 @@ In statistical learning, this is about transferring geometry or smoothness from 
 </table>
 
 
-Curious about my research? View my <a href="transfer_learning.pdf"><b>slide deck</b></a> on transfer learning.
+Curious about my research? View my **[slide deck](transfer_learning.pdf)** on transfer learning.
 
 Along my academic journey, I have been deeply fortunate to study and conduct research under the guidance of inspiring scholars, including [Prof. Zhanxing Zhu](https://zhanxingzhu.github.io/), whose influential work includes *Spatio-Temporal Graph Convolutional Networks (STGCN)* for traffic forecasting, and [Prof. Yongshun Gong](https://faculty.sdu.edu.cn/gongyongshun/en/). Their perspectives on deep learning, representation learning, and structured spatio-temporal systems have profoundly shaped how I think about evolving, heterogeneous data, and have guided my pursuit of principled transfer learning methods.
 
