@@ -52,7 +52,7 @@ In statistical learning, this is about transferring geometry or smoothness from 
 </table>
 
 
-Curious about my research? View my **[slide deck](transfer_learning.pdf)** on transfer learning.
+Curious about my research? I've put together beginner-friendly slide decks on my main research directions: **[transfer learning](transfer_learning.pdf)**, **[graph learning](graph_learning.pdf)**, **[optimal transport](optimal_transport.pdf)**, and **[LLMs for time series](llm_time_series.pdf)**.
 
 Along my academic journey, I have been deeply fortunate to study and conduct research under the guidance of inspiring scholars, including [Prof. Zhanxing Zhu](https://zhanxingzhu.github.io/), whose influential work includes *Spatio-Temporal Graph Convolutional Networks (STGCN)* for traffic forecasting, and [Prof. Yongshun Gong](https://faculty.sdu.edu.cn/gongyongshun/en/). Their perspectives on deep learning, representation learning, and structured spatio-temporal systems have profoundly shaped how I think about evolving, heterogeneous data, and have guided my pursuit of principled transfer learning methods.
 
@@ -267,6 +267,7 @@ Beyond theory and modeling, I am drawn to building AI applications that reflect 
   
 - Pioneered an <b>LLM-powered visual risk scoring</b> system combining <b>GPT-4o multimodal reasoning</b> with <b>Google Street View</b> imagery to capture previously unobservable property features (roof condition, surroundings, hazards); integrated outputs into downstream <b>actuarial pricing models</b> as a novel signal layer.
 
+- 📎 For a high-level overview of this work (non-confidential), see my <b>[Home Insurance slides](Home%20Insurance.pdf)</b>.
 <br clear="left">
 
 
