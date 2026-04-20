@@ -267,7 +267,7 @@ Beyond theory and modeling, I am drawn to building AI applications that reflect 
   
 - Pioneered an <b>LLM-powered visual risk scoring</b> system combining <b>GPT-4o multimodal reasoning</b> with <b>Google Street View</b> imagery to capture previously unobservable property features (roof condition, surroundings, hazards); integrated outputs into downstream <b>actuarial pricing models</b> as a novel signal layer.
 
-- 📎 For a high-level, non-confidential summary of this work, see the <b>[Home Insurance slides](Home%20Insurance.pdf)</b>.
+- 📎 For a high-level, non-confidential summary of this work, see the <b>[Home Insurance slides](HomeInsurance.pdf)</b>.
 <br clear="left">
 
 
