@@ -126,7 +126,7 @@ Beyond theory and modeling, I am drawn to building AI applications that reflect 
       <img src="images/scot_main.png" alt="SCOT" width="100%">
     </td>
     <td valign="top">
-      <img src="https://img.shields.io/badge/Under_Review-94A3B8?style=flat-square&labelColor=94A3B8" alt="Under Review">&nbsp;<b><font size="3"><a href="https://arxiv.org/abs/2604.07383">SCOT: Multi-Source Cross-City Transfer with Optimal-Transport Soft-Correspondence Objectives</a></font></b>&nbsp;&nbsp;<a href="https://arxiv.org/abs/2604.07383"><img src="https://img.shields.io/badge/arXiv-B31B1B?style=flat-square&logo=arxiv&logoColor=white" alt="arXiv"></a>
+      <img src="https://img.shields.io/badge/Under_Review-94A3B8?style=flat-square&labelColor=94A3B8" alt="Under Review">&nbsp;<b><font size="3"><a href="https://arxiv.org/abs/2604.07383">SCOT: Multi-Source Cross-City Transfer with Optimal-Transport Soft-Correspondence Objectives</a></font></b>&nbsp;&nbsp;<a href="https://arxiv.org/abs/2604.07383"><img src="https://img.shields.io/badge/arXiv-B31B1B?style=flat-square&logo=arxiv&logoColor=white" alt="arXiv"></a> <a href="https://github.com/olivia3395/olivia3395.github.io/blob/main/_pages/SCOT.pdf"><img src="https://img.shields.io/badge/Slides-EA580C?style=flat-square" alt="Slides"></a>
       <ul>
         <li><b>Sinkhorn entropic-OT coupling</b> enables many-to-many region alignment across cities — no node matching required.</li>
         <li><b>OT-weighted contrastive loss + target-aware prototype hub</b> prevents collapse and scales cleanly to multi-source heterogeneity.</li>
