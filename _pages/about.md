@@ -391,7 +391,22 @@ Beyond theory and modeling, I am drawn to building AI applications that reflect 
   </tr>
 </table>
 
+<br>
 
+<table>
+  <tr>
+    <td width="40%" valign="top">
+      <img src="images/say_it_like_a_classic.png" alt="Say It Like a Classic" width="100%">
+    </td>
+    <td valign="top">
+      <img src="images/sentence.png" alt="VOICE">&nbsp;<b><font size="4">Say It Like a Classic</font></b><br>
+      <i>What if your thoughts belonged to another literary mind?</i>
+      <p>A playful literary voice app that lets users type an ordinary sentence and watch it return as though it had passed through the mind of Kafka, Austen, Woolf, Borges, Lu Xun, Eileen Chang, and other unmistakable writers. More than a rewriting tool, it is a small experiment in tone, temperament, and literary transformation — where the same feeling can come back colder, funnier, sharper, softer, or beautifully devastating.</p>
+      <a href="https://borrow-a-better-sentence.vercel.app/"><img src="https://img.shields.io/badge/Try_it-22C55E?style=flat-square&logo=rocket&logoColor=white" alt="Try it"></a>
+      <a href="https://github.com/olivia3395/Borrow-a-Better-Sentence"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" alt="Code"></a>
+    </td>
+  </tr>
+</table>
 
 
 
