@@ -278,14 +278,14 @@ Beyond theory and modeling, I am drawn to building AI applications that reflect 
 <table>
   <tr>
     <td width="40%" valign="top">
-      <img src="images/NationalPark.png" alt="Wilderness: National Park Explorer" width="100%">
+      <img src="images/app.png" alt="Wilderness: National Park Explorer" width="100%">
     </td>
     <td valign="top">
       <img src="https://img.shields.io/badge/%F0%9F%8C%B2_WILDERNESS-6B705C?style=flat-square&labelColor=6B705C" alt="WILDERNESS">&nbsp;<b><font size="4">Wilderness: National Park Explorer</font></b><br>
       <i>A refined digital companion for discovering America’s national parks.</i>
       <p>A calm web app for exploring the U.S. National Parks through park discovery, trail maps, ranger tips, preservation resources, and a digital passport-inspired experience. Designed with soft earth tones, spacious layouts, and an immersive nature soundscape, it turns trip planning into something quieter, warmer, and more reflective — part field guide, part archive, part invitation to wander.</p>
-      <a href="YOUR_LIVE_DEMO_URL"><img src="https://img.shields.io/badge/Try_it-22C55E?style=flat-square&logo=rocket&logoColor=white" alt="Try it"></a>
-      <a href="YOUR_GITHUB_URL"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" alt="Code"></a>
+      <a href="https://us-national-parks-explorer-three.vercel.app/"><img src="https://img.shields.io/badge/Try_it-22C55E?style=flat-square&logo=rocket&logoColor=white" alt="Try it"></a>
+      <a href="https://github.com/olivia3395/US-National-Parks-Explorer"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" alt="Code"></a>
     </td>
   </tr>
 </table>
