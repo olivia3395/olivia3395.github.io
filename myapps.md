@@ -1,205 +1,379 @@
 ---
+layout: single
 permalink: /myapps/
-title: "My Apps"
-author_profile: true
-redirect_from:
-  - /apps/
-  - /apps.html
+title: " "
+author_profile: false
+header:
+  show_overlay_excerpt: false
+  teaser: ""
+  image: ""
+breadcrumbs: false
+toc: false
+classes: wide
 ---
 
-<span class='anchor' id='my-apps'></span>
 
-A quiet collection of cinematic, atmospheric, and emotionally resonant digital experiences — part side projects, part memory-keepers, part invitations to wander.
+# ✨ My Apps (Yuyao's Atelier)
 
-[← back to home](/)
 
----
+<p style="margin:6px 0 12px 0;">
+  <a href="/" style="display:inline-block;padding:6px 10px;border:1px solid rgba(0,0,0,0.12);border-radius:999px;text-decoration:none;">
+    ← Back to Home
+  </a>
+</p>
 
-<span class='anchor' id='wilderness'></span>
+🎬 Cinema dweller · 📖 Literature wanderer · 🦋 Small-world builder
 
-<table>
-  <tr>
-    <td width="40%" valign="top">
-      <img src="/images/NationalPark.png" alt="Wilderness: National Park Explorer" width="100%">
-    </td>
-    <td valign="top">
-      <img src="https://img.shields.io/badge/%F0%9F%8C%B2_WILDERNESS-6B705C?style=flat-square&labelColor=6B705C" alt="WILDERNESS">&nbsp;<b><font size="4">Wilderness: National Park Explorer</font></b><br>
-      <i>A refined digital companion for discovering America's national parks.</i>
-      <p>A calm web app for exploring the U.S. National Parks through park discovery, trail maps, ranger tips, preservation resources, and a digital passport-inspired experience. Designed with soft earth tones, spacious layouts, and an immersive nature soundscape, it turns trip planning into something quieter, warmer, and more reflective — part field guide, part archive, part invitation to wander.</p>
-      <a href="https://us-national-parks-explorer-three.vercel.app/"><img src="https://img.shields.io/badge/Try_it-22C55E?style=flat-square&logo=rocket&logoColor=white" alt="Try it"></a>
-      <a href="https://github.com/olivia3395/US-National-Parks-Explorer"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" alt="Code"></a>
-    </td>
-  </tr>
-</table>
+✨ A quiet atelier of cinematic, atmospheric, and emotionally resonant little worlds — part side projects, part memory-keepers, part invitations to wander.
 
-<br>
+🌙 Some of these apps don't really *solve* anything. They just offer somewhere softer to be, for a little while.
 
-<span class='anchor' id='mbti-vibe'></span>
 
-<table>
-  <tr>
-    <td width="40%" valign="top">
-      <img src="/images/mbti_vibe.png" alt="MBTI Vibe" width="100%">
-    </td>
-    <td valign="top">
-      <img src="https://img.shields.io/badge/%E2%9C%A8_PERSONA-8B5CF6?style=flat-square&labelColor=8B5CF6" alt="PERSONA">&nbsp;<b><font size="4">MBTI Vibe</font></b><br>
-      <i>What kind of personality atmosphere does this content radiate?</i>
-      <p>A multimodal AI app that reads text and images — captions, poems, screenshots, moodboards, all those tiny digital traces of self-expression — and whispers back the MBTI vibe it gives off. It doesn't claim to tell you who someone <i>really</i> is. It asks a softer, kinder question instead.</p>
-      <a href="https://mbti-vibe-ten.vercel.app/"><img src="https://img.shields.io/badge/Try_it-22C55E?style=flat-square&logo=rocket&logoColor=white" alt="Try it"></a>
-      <a href="https://github.com/olivia3395/MBTI-Vibe"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" alt="Code"></a>
-    </td>
-  </tr>
-</table>
+<style>
+/* ---------- layout ---------- */
+.apps-wrap{
+  margin-top: 14px;
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 22px;
+}
 
-<br>
+/* ---------- app card ---------- */
+.app-card{
+  border: 1px solid rgba(0,0,0,0.08);
+  border-radius: 18px;
+  background: rgba(255,255,255,0.92);
+  box-shadow: 0 10px 24px rgba(0,0,0,0.06);
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  transition: transform 220ms ease, box-shadow 220ms ease;
+}
 
-<span class='anchor' id='what-if-cinema'></span>
+.app-card:hover{
+  transform: translateY(-3px);
+  box-shadow: 0 18px 36px rgba(0,0,0,0.09);
+}
 
-<table>
-  <tr>
-    <td width="40%" valign="top">
-      <img src="/images/what_if_cinema.png" alt="What If Cinema" width="100%">
-    </td>
-    <td valign="top">
-      <img src="https://img.shields.io/badge/%F0%9F%8E%AC_CINEMA-DC2626?style=flat-square&labelColor=DC2626" alt="CINEMA">&nbsp;<b><font size="4">What If Cinema</font></b><br>
-      <i>Rewrite a film's final heartbeat.</i>
-      <p>For anyone who has ever left a movie wondering — <i>what if it ended differently?</i> Insert a new scene, change one choice, shift a single moment. It stays close to the emotional soul of the original — preserving its tone, longing, and ache — while imagining endings that feel tender, devastating, hopeful, or quietly healing. Not every ending needs to be undone. But some deserve to be imagined differently.</p>
-      <a href="https://what-if-cinema.vercel.app/"><img src="https://img.shields.io/badge/Try_it-22C55E?style=flat-square&logo=rocket&logoColor=white" alt="Try it"></a>
-      <a href="https://github.com/olivia3395/What_If_Cinema"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" alt="Code"></a>
-    </td>
-  </tr>
-</table>
+/* ---------- hero ---------- */
+.app-hero{
+  position: relative;
+  background: #f3f4f6;
+  overflow: hidden;
+  aspect-ratio: 16 / 10;
+}
 
-<br>
+.app-hero img{
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+  transition: transform 320ms ease, filter 320ms ease;
+}
 
-<span class='anchor' id='letters-from-the-screen'></span>
+.app-card:hover .app-hero img{
+  transform: scale(1.03);
+  filter: saturate(1.05);
+}
 
-<table>
-  <tr>
-    <td width="40%" valign="top">
-      <img src="/images/letter_from_sceen.png" alt="Letters from the Screen" width="100%">
-    </td>
-    <td valign="top">
-      <img src="https://img.shields.io/badge/%E2%9C%89%EF%B8%8F_LETTER-DB2777?style=flat-square&labelColor=DB2777" alt="LETTER">&nbsp;<b><font size="4">Letters from the Screen</font></b><br>
-      <i>A healing letter from the character you need most.</i>
-      <p>Share what is on your heart, and receive a letter from the movie or TV character who would understand. More love letter than chatbot — intimate, tender, just a little magical. The comfort lies in its emotional closeness: it offers not advice, but presence. The rare feeling that a voice from another story has stepped out of the screen to sit beside you for a while.</p>
-      <a href="https://letters-from-the-screen.vercel.app/"><img src="https://img.shields.io/badge/Try_it-22C55E?style=flat-square&logo=rocket&logoColor=white" alt="Try it"></a>
-      <a href="https://github.com/olivia3395/Letters_from_the_Screen"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" alt="Code"></a>
-    </td>
-  </tr>
-</table>
+.app-category{
+  position: absolute;
+  top: 12px;
+  left: 12px;
+  font-size: 0.72rem;
+  font-weight: 700;
+  letter-spacing: 0.6px;
+  padding: 5px 11px;
+  border-radius: 999px;
+  color: #fff;
+  backdrop-filter: blur(6px);
+  -webkit-backdrop-filter: blur(6px);
+  box-shadow: 0 2px 6px rgba(0,0,0,0.12);
+}
 
-<br>
+/* category colors — echoing your original shield palette */
+.cat-wilderness { background: rgba(107, 112, 92, 0.92); }
+.cat-persona    { background: rgba(139, 92, 246, 0.92); }
+.cat-cinema     { background: rgba(220, 38, 38, 0.92); }
+.cat-letter     { background: rgba(219, 39, 119, 0.92); }
+.cat-escape     { background: rgba(14, 165, 233, 0.92); }
+.cat-keepsake   { background: rgba(194, 65, 12, 0.92); }
+.cat-atlas      { background: rgba(3, 105, 161, 0.92); }
+.cat-literary   { background: rgba(146, 64, 14, 0.92); }
+.cat-voice      { background: rgba(75, 85, 99, 0.92); }
+.cat-archive    { background: rgba(185, 28, 28, 0.92); }
 
-<span class='anchor' id='if-you-disappeared'></span>
+/* ---------- body ---------- */
+.app-body{
+  padding: 18px 20px 20px 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  flex: 1;
+}
 
-<table>
-  <tr>
-    <td width="40%" valign="top">
-      <img src="/images/if_you_disappeared.png" alt="If You Disappeared on a Trip" width="100%">
-    </td>
-    <td valign="top">
-      <img src="https://img.shields.io/badge/%E2%9C%88%EF%B8%8F_ESCAPE-0EA5E9?style=flat-square&labelColor=0EA5E9" alt="ESCAPE">&nbsp;<b><font size="4">If You Disappeared on a Trip</font></b><br>
-      <i>A small borrowed life in another city.</i>
-      <p>For anyone who has ever wanted to slip away for a day or two. Instead of a typical itinerary, it builds a small borrowed life in another city based on your mood — cinematic, soothing, touched with a bit of humor. Not because it solves anything, but because it gives you a brief imaginative place to rest, wander, and feel held by another version of life. Scenes, snacks, photographs, and the kind of inner weather that only changes when you leave home.</p>
-      <a href="https://if-you-disappeared.vercel.app/"><img src="https://img.shields.io/badge/Try_it-22C55E?style=flat-square&logo=rocket&logoColor=white" alt="Try it"></a>
-      <a href="https://github.com/olivia3395/if-you-disappeared"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" alt="Code"></a>
-    </td>
-  </tr>
-</table>
+.app-sub{
+  margin: 0;
+  color: #9ca3af;
+  font-size: 0.78rem;
+  font-weight: 600;
+  letter-spacing: 0.3px;
+  text-transform: uppercase;
+}
 
-<br>
+.app-title{
+  margin: 2px 0 0 0;
+  font-weight: 800;
+  font-size: 1.18rem;
+  letter-spacing: -0.3px;
+  color: #111827;
+  line-height: 1.25;
+}
 
-<span class='anchor' id='souvenirs'></span>
+.app-tagline{
+  margin: 6px 0 0 0;
+  font-style: italic;
+  color: #6b7280;
+  font-size: 0.95rem;
+  line-height: 1.45;
+}
 
-<table>
-  <tr>
-    <td width="40%" valign="top">
-      <img src="/images/souvenir_of_a_life.png" alt="Souvenirs of a Life Not Yet Lived" width="100%">
-    </td>
-    <td valign="top">
-      <img src="https://img.shields.io/badge/%F0%9F%8E%9F%EF%B8%8F_KEEPSAKE-C2410C?style=flat-square&labelColor=C2410C" alt="KEEPSAKE">&nbsp;<b><font size="4">Souvenirs of a Life Not Yet Lived</font></b><br>
-      <i>A private museum of the lives you almost lived.</i>
-      <p>Step into a curated archive of parallel selves. Instead of planning a trip, it generates a small, emotionally resonant keepsake — a ticket, a postcard, a receipt, a note — from a life you've been quietly standing outside of. Cinematic, intimate, collectible. An invitation to imagine not just another city, but another self you might still be growing toward.</p>
-      <a href="https://souvenir-of-a-life.vercel.app/"><img src="https://img.shields.io/badge/Try_it-22C55E?style=flat-square&logo=rocket&logoColor=white" alt="Try it"></a>
-      <a href="https://github.com/olivia3395/Souvenir_of_a_life"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" alt="Code"></a>
-    </td>
-  </tr>
-</table>
+.app-desc{
+  margin: 4px 0 0 0;
+  color: #374151;
+  font-size: 0.9rem;
+  line-height: 1.6;
+}
 
-<br>
+/* ---------- actions ---------- */
+.app-actions{
+  margin-top: auto;
+  padding-top: 14px;
+  display: flex;
+  gap: 8px;
+  flex-wrap: wrap;
+}
 
-<span class='anchor' id='map-of-me'></span>
+.app-btn{
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  padding: 7px 14px;
+  border-radius: 999px;
+  text-decoration: none !important;
+  font-size: 0.85rem;
+  font-weight: 600;
+  border: 1px solid transparent;
+  transition: all 180ms ease;
+  white-space: nowrap;
+}
 
-<table>
-  <tr>
-    <td width="40%" valign="top">
-      <img src="/images/the_map_of_me.png" alt="The Map of Me" width="100%">
-    </td>
-    <td valign="top">
-      <img src="https://img.shields.io/badge/%F0%9F%97%BA%EF%B8%8F_ATLAS-0369A1?style=flat-square&labelColor=0369A1" alt="ATLAS">&nbsp;<b><font size="4">The Map of Me</font></b><br>
-      <i>Part atlas, part city shelf, part personal collection.</i>
-      <p>A map-based cultural discovery app for collecting meaningful places and exploring what lives around them beyond geography alone. After adding a city, you move from the global atlas into a curated layer of screen references, books, and local landmarks — so a place becomes not just somewhere on the map, but a small world of its own. Editorial, archive-inspired, cultural browsing as cartography.</p>
-      <a href="https://the-map-of-me.vercel.app/"><img src="https://img.shields.io/badge/Try_it-22C55E?style=flat-square&logo=rocket&logoColor=white" alt="Try it"></a>
-      <a href="https://github.com/olivia3395/the-map-of-me"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" alt="Code"></a>
-    </td>
-  </tr>
-</table>
+.app-btn-try{
+  background: #16a34a;
+  color: #fff !important;
+  box-shadow: 0 2px 6px rgba(22, 163, 74, 0.25);
+}
+.app-btn-try:hover{
+  background: #15803d;
+  transform: translateY(-1px);
+}
 
-<br>
+.app-btn-code{
+  background: rgba(17, 24, 39, 0.04);
+  color: #111827 !important;
+  border: 1px solid rgba(17, 24, 39, 0.1);
+}
+.app-btn-code:hover{
+  background: rgba(17, 24, 39, 0.08);
+}
 
-<span class='anchor' id='macondo'></span>
+/* ---------- responsive ---------- */
+@media (max-width: 900px){
+  .apps-wrap{ grid-template-columns: 1fr; gap: 18px; }
+}
+</style>
 
-<table>
-  <tr>
-    <td width="40%" valign="top">
-      <img src="/images/macondo.png" alt="A Room in Macondo" width="100%">
-    </td>
-    <td valign="top">
-      <img src="https://img.shields.io/badge/%F0%9F%A6%8B_LITERARY-92400E?style=flat-square&labelColor=92400E" alt="LITERARY">&nbsp;<b><font size="4">A Room in Macondo</font></b><br>
-      <i>Step inside the weather of One Hundred Years of Solitude.</i>
-      <p>An atmospheric AI literary experience inspired by García Márquez's rain-soaked world of memory, fire, butterflies, and magical realism. Rather than retelling the novel, it invites you into a room, a ritual, and a fate of your own. A small sequence of questions transforms mood into a story fragment that feels less like generated text and more like something recovered from an old archive in Macondo itself. Dark-gold palette, burning-paper visuals, haunted editorial layout.</p>
-      <a href="https://a-room-in-macondo.vercel.app/"><img src="https://img.shields.io/badge/Try_it-22C55E?style=flat-square&logo=rocket&logoColor=white" alt="Try it"></a>
-      <a href="https://github.com/olivia3395/a-room-in-macondo"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" alt="Code"></a>
-    </td>
-  </tr>
-</table>
 
-<br>
+<div class="apps-wrap">
 
-<span class='anchor' id='say-it-like-a-classic'></span>
+  <!-- Wilderness -->
+  <div class="app-card" id="wilderness">
+    <div class="app-hero">
+      <img src="/images/NationalPark.png" alt="Wilderness">
+      <span class="app-category cat-wilderness">🌲 WILDERNESS</span>
+    </div>
+    <div class="app-body">
+      <p class="app-sub">National Park Explorer</p>
+      <p class="app-title">Wilderness</p>
+      <p class="app-tagline">A refined digital companion for discovering America's national parks.</p>
+      <p class="app-desc">A calm web app for exploring the U.S. National Parks through park discovery, trail maps, ranger tips, preservation resources, and a digital passport-inspired experience. Part field guide, part archive, part invitation to wander — spacious, earth-toned, and gently immersive.</p>
+      <div class="app-actions">
+        <a class="app-btn app-btn-try" href="https://us-national-parks-explorer-three.vercel.app/">↗ Try it</a>
+        <a class="app-btn app-btn-code" href="https://github.com/olivia3395/US-National-Parks-Explorer">&lt;/&gt; Code</a>
+      </div>
+    </div>
+  </div>
 
-<table>
-  <tr>
-    <td width="40%" valign="top">
-      <img src="/images/say_it_like_a_classic.png" alt="Say It Like a Classic" width="100%">
-    </td>
-    <td valign="top">
-      <img src="https://img.shields.io/badge/%E2%9C%92%EF%B8%8F_VOICE-6B7280?style=flat-square&labelColor=6B7280" alt="VOICE">&nbsp;<b><font size="4">Say It Like a Classic</font></b><br>
-      <i>What if your thoughts belonged to another literary mind?</i>
-      <p>A playful app that lets users type an ordinary sentence and watch it return as though it had passed through the mind of Kafka, Austen, Woolf, Borges, Lu Xun, Eileen Chang, and other unmistakable writers. More than a rewriting tool, it is a small experiment in tone, temperament, and literary transformation — where the same feeling can come back colder, funnier, sharper, softer, or beautifully devastating.</p>
-      <a href="https://borrow-a-better-sentence.vercel.app/"><img src="https://img.shields.io/badge/Try_it-22C55E?style=flat-square&logo=rocket&logoColor=white" alt="Try it"></a>
-      <a href="https://github.com/olivia3395/Borrow-a-Better-Sentence"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" alt="Code"></a>
-    </td>
-  </tr>
-</table>
+  <!-- MBTI Vibe -->
+  <div class="app-card" id="mbti-vibe">
+    <div class="app-hero">
+      <img src="/images/mbti_vibe.png" alt="MBTI Vibe">
+      <span class="app-category cat-persona">✨ PERSONA</span>
+    </div>
+    <div class="app-body">
+      <p class="app-sub">Multimodal Vibe Reader</p>
+      <p class="app-title">MBTI Vibe</p>
+      <p class="app-tagline">What kind of personality atmosphere does this content radiate?</p>
+      <p class="app-desc">A multimodal AI app that reads text and images — captions, poems, screenshots, moodboards, all those tiny digital traces of self-expression — and whispers back the MBTI vibe it gives off. It doesn't claim to tell you who someone <i>really</i> is. It asks a softer, kinder question instead.</p>
+      <div class="app-actions">
+        <a class="app-btn app-btn-try" href="https://mbti-vibe-ten.vercel.app/">↗ Try it</a>
+        <a class="app-btn app-btn-code" href="https://github.com/olivia3395/MBTI-Vibe">&lt;/&gt; Code</a>
+      </div>
+    </div>
+  </div>
 
-<br>
+  <!-- What If Cinema -->
+  <div class="app-card" id="what-if-cinema">
+    <div class="app-hero">
+      <img src="/images/what_if_cinema.png" alt="What If Cinema">
+      <span class="app-category cat-cinema">🎬 CINEMA</span>
+    </div>
+    <div class="app-body">
+      <p class="app-sub">Rewrite a Film's Ending</p>
+      <p class="app-title">What If Cinema</p>
+      <p class="app-tagline">Rewrite a film's final heartbeat.</p>
+      <p class="app-desc">For anyone who has ever left a movie wondering — <i>what if it ended differently?</i> Insert a new scene, change one choice, shift a single moment. It stays close to the emotional soul of the original — preserving its tone, longing, and ache — while imagining endings that feel tender, devastating, hopeful, or quietly healing.</p>
+      <div class="app-actions">
+        <a class="app-btn app-btn-try" href="https://what-if-cinema.vercel.app/">↗ Try it</a>
+        <a class="app-btn app-btn-code" href="https://github.com/olivia3395/What_If_Cinema">&lt;/&gt; Code</a>
+      </div>
+    </div>
+  </div>
 
-<span class='anchor' id='boston-archive'></span>
+  <!-- Letters from the Screen -->
+  <div class="app-card" id="letters-from-the-screen">
+    <div class="app-hero">
+      <img src="/images/letter_from_sceen.png" alt="Letters from the Screen">
+      <span class="app-category cat-letter">✉️ LETTER</span>
+    </div>
+    <div class="app-body">
+      <p class="app-sub">A Letter from a Character</p>
+      <p class="app-title">Letters from the Screen</p>
+      <p class="app-tagline">A healing letter from the character you need most.</p>
+      <p class="app-desc">Share what is on your heart, and receive a letter from the movie or TV character who would understand. More love letter than chatbot — intimate, tender, just a little magical. The rare feeling that a voice from another story has stepped out of the screen to sit beside you for a while.</p>
+      <div class="app-actions">
+        <a class="app-btn app-btn-try" href="https://letters-from-the-screen.vercel.app/">↗ Try it</a>
+        <a class="app-btn app-btn-code" href="https://github.com/olivia3395/Letters_from_the_Screen">&lt;/&gt; Code</a>
+      </div>
+    </div>
+  </div>
 
-<table>
-  <tr>
-    <td width="40%" valign="top">
-      <img src="/images/boston_archive.png" alt="The Boston Archive" width="100%">
-    </td>
-    <td valign="top">
-      <img src="https://img.shields.io/badge/%F0%9F%8F%9B%EF%B8%8F_ARCHIVE-B91C1C?style=flat-square&labelColor=B91C1C" alt="ARCHIVE">&nbsp;<b><font size="4">The Boston Archive</font></b><br>
-      <i>A cinematic, atmospheric archive of Boston as memory, weather, and myth.</i>
-      <p>An immersive editorial city experience that reimagines Boston through mood, sound, and visual storytelling. Part memory object, part city journal, part sensory installation, it invites users to feel Boston not just as a place, but as an atmosphere.</p>
-      <p>Written before leaving Boston, this project is a small love letter to the city, and to the chapter of life it quietly held.</p>
-      <a href="https://boston-kappa.vercel.app/"><img src="https://img.shields.io/badge/Try_it-22C55E?style=flat-square&logo=rocket&logoColor=white" alt="Try it"></a>
-      <a href="https://github.com/olivia3395/boston"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" alt="Code"></a>
-    </td>
-  </tr>
-</table>
+  <!-- If You Disappeared on a Trip -->
+  <div class="app-card" id="if-you-disappeared">
+    <div class="app-hero">
+      <img src="/images/if_you_disappeared.png" alt="If You Disappeared on a Trip">
+      <span class="app-category cat-escape">✈️ ESCAPE</span>
+    </div>
+    <div class="app-body">
+      <p class="app-sub">A Borrowed Life</p>
+      <p class="app-title">If You Disappeared on a Trip</p>
+      <p class="app-tagline">A small borrowed life in another city.</p>
+      <p class="app-desc">For anyone who has ever wanted to slip away for a day or two. Instead of a typical itinerary, it builds a small borrowed life in another city based on your mood — cinematic, soothing, touched with humor. A brief imaginative place to rest, wander, and feel held by another version of life.</p>
+      <div class="app-actions">
+        <a class="app-btn app-btn-try" href="https://if-you-disappeared.vercel.app/">↗ Try it</a>
+        <a class="app-btn app-btn-code" href="https://github.com/olivia3395/if-you-disappeared">&lt;/&gt; Code</a>
+      </div>
+    </div>
+  </div>
+
+  <!-- Souvenirs of a Life Not Yet Lived -->
+  <div class="app-card" id="souvenirs">
+    <div class="app-hero">
+      <img src="/images/souvenir_of_a_life.png" alt="Souvenirs of a Life Not Yet Lived">
+      <span class="app-category cat-keepsake">🎟️ KEEPSAKE</span>
+    </div>
+    <div class="app-body">
+      <p class="app-sub">Parallel Self Archive</p>
+      <p class="app-title">Souvenirs of a Life Not Yet Lived</p>
+      <p class="app-tagline">A private museum of the lives you almost lived.</p>
+      <p class="app-desc">Step into a curated archive of parallel selves. Instead of planning a trip, it generates a small, emotionally resonant keepsake — a ticket, a postcard, a receipt, a note — from a life you've been quietly standing outside of. An invitation to imagine not just another city, but another self you might still be growing toward.</p>
+      <div class="app-actions">
+        <a class="app-btn app-btn-try" href="https://souvenir-of-a-life.vercel.app/">↗ Try it</a>
+        <a class="app-btn app-btn-code" href="https://github.com/olivia3395/Souvenir_of_a_life">&lt;/&gt; Code</a>
+      </div>
+    </div>
+  </div>
+
+  <!-- The Map of Me -->
+  <div class="app-card" id="map-of-me">
+    <div class="app-hero">
+      <img src="/images/the_map_of_me.png" alt="The Map of Me">
+      <span class="app-category cat-atlas">🗺️ ATLAS</span>
+    </div>
+    <div class="app-body">
+      <p class="app-sub">Cultural Cartography</p>
+      <p class="app-title">The Map of Me</p>
+      <p class="app-tagline">Part atlas, part city shelf, part personal collection.</p>
+      <p class="app-desc">A map-based cultural discovery app for collecting meaningful places and exploring what lives around them beyond geography alone. After adding a city, you move from the global atlas into a curated layer of screen references, books, and local landmarks — a place becomes a small world of its own.</p>
+      <div class="app-actions">
+        <a class="app-btn app-btn-try" href="https://the-map-of-me.vercel.app/">↗ Try it</a>
+        <a class="app-btn app-btn-code" href="https://github.com/olivia3395/the-map-of-me">&lt;/&gt; Code</a>
+      </div>
+    </div>
+  </div>
+
+  <!-- A Room in Macondo -->
+  <div class="app-card" id="macondo">
+    <div class="app-hero">
+      <img src="/images/macondo.png" alt="A Room in Macondo">
+      <span class="app-category cat-literary">🦋 LITERARY</span>
+    </div>
+    <div class="app-body">
+      <p class="app-sub">A García Márquez World</p>
+      <p class="app-title">A Room in Macondo</p>
+      <p class="app-tagline">Step inside the weather of One Hundred Years of Solitude.</p>
+      <p class="app-desc">An atmospheric AI literary experience inspired by García Márquez's rain-soaked world of memory, fire, butterflies, and magical realism. Rather than retelling the novel, it invites you into a room, a ritual, and a fate of your own — a story fragment that feels less like generated text and more like something recovered from an old archive in Macondo itself.</p>
+      <div class="app-actions">
+        <a class="app-btn app-btn-try" href="https://a-room-in-macondo.vercel.app/">↗ Try it</a>
+        <a class="app-btn app-btn-code" href="https://github.com/olivia3395/a-room-in-macondo">&lt;/&gt; Code</a>
+      </div>
+    </div>
+  </div>
+
+  <!-- Say It Like a Classic -->
+  <div class="app-card" id="say-it-like-a-classic">
+    <div class="app-hero">
+      <img src="/images/say_it_like_a_classic.png" alt="Say It Like a Classic">
+      <span class="app-category cat-voice">✒️ VOICE</span>
+    </div>
+    <div class="app-body">
+      <p class="app-sub">Borrowed Literary Voices</p>
+      <p class="app-title">Say It Like a Classic</p>
+      <p class="app-tagline">What if your thoughts belonged to another literary mind?</p>
+      <p class="app-desc">A playful app that lets you type an ordinary sentence and watch it return as though it had passed through the mind of Kafka, Austen, Woolf, Borges, Lu Xun, Eileen Chang, and other unmistakable writers. A small experiment in tone, temperament, and literary transformation — where the same feeling can come back colder, funnier, sharper, softer, or beautifully devastating.</p>
+      <div class="app-actions">
+        <a class="app-btn app-btn-try" href="https://borrow-a-better-sentence.vercel.app/">↗ Try it</a>
+        <a class="app-btn app-btn-code" href="https://github.com/olivia3395/Borrow-a-Better-Sentence">&lt;/&gt; Code</a>
+      </div>
+    </div>
+  </div>
+
+  <!-- The Boston Archive -->
+  <div class="app-card" id="boston-archive">
+    <div class="app-hero">
+      <img src="/images/boston_archive.png" alt="The Boston Archive">
+      <span class="app-category cat-archive">🏛️ ARCHIVE</span>
+    </div>
+    <div class="app-body">
+      <p class="app-sub">A City as Memory</p>
+      <p class="app-title">The Boston Archive</p>
+      <p class="app-tagline">A cinematic, atmospheric archive of Boston as memory, weather, and myth.</p>
+      <p class="app-desc">An immersive editorial city experience that reimagines Boston through mood, sound, and visual storytelling. Part memory object, part city journal, part sensory installation. Written before leaving Boston — a small love letter to the city, and to the chapter of life it quietly held.</p>
+      <div class="app-actions">
+        <a class="app-btn app-btn-try" href="https://boston-kappa.vercel.app/">↗ Try it</a>
+        <a class="app-btn app-btn-code" href="https://github.com/olivia3395/boston">&lt;/&gt; Code</a>
+      </div>
+    </div>
+  </div>
+
+</div>
