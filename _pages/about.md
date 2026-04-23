@@ -420,12 +420,13 @@ Beyond theory and modeling, I am drawn to building AI applications that reflect 
       <img src="https://img.shields.io/badge/%F0%9F%8F%9B%EF%B8%8F_ARCHIVE-B91C1C?style=flat-square&labelColor=B91C1C" alt="ARCHIVE">&nbsp;<b><font size="4">The Boston Archive</font></b><br>
       <i>A cinematic, atmospheric archive of Boston as memory, weather, and myth.</i>
       <p><b>The Boston Archive</b> is an immersive editorial city experience that reimagines Boston through mood, sound, and visual storytelling. More than a digital archive, it treats the browser as a living canvas — blending noir mode, film grain, real-time ambient sound mixing, a 3D postcard creator, fluid interactive motion, and archival design into a richly layered portrait of the city. Part memory object, part city journal, part sensory installation, it invites users to feel Boston not just as a place, but as an atmosphere.</p>
-      <p>Written <i>𝘪𝘯 𝘵𝘩𝘦 𝘮𝘰𝘯𝘵𝘩 𝘣𝘦𝘧𝘰𝘳𝘦 𝘭𝘦𝘢𝘷𝘪𝘯𝘨 𝘉𝘰𝘴𝘵𝘰𝘯</i>, this project is also a farewell gesture — a small archival love letter to the seasons, light, river, streets, and quiet tenderness that shaped a chapter of life here. A dedication to my time in this city, and to Boston itself: warm, watchful, and impossible not to carry away.</p>
+      <p>Written before leaving Boston, this project is a small love letter to the city, and to the chapter of life it quietly held.</p>
       <a href="https://boston-kappa.vercel.app/"><img src="https://img.shields.io/badge/Try_it-22C55E?style=flat-square&logo=rocket&logoColor=white" alt="Try it"></a>
       <a href="https://github.com/olivia3395/boston"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" alt="Code"></a>
     </td>
   </tr>
 </table>
+
 
 
 
