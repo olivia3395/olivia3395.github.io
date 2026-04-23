@@ -278,7 +278,7 @@ Beyond theory and modeling, I am drawn to building AI applications that reflect 
 <table>
   <tr>
     <td width="40%" valign="top">
-      <img src="images/app.png" alt="Wilderness: National Park Explorer" width="100%">
+      <img src="images/NationalPark.png" alt="Wilderness: National Park Explorer" width="100%">
     </td>
     <td valign="top">
       <img src="https://img.shields.io/badge/%F0%9F%8C%B2_WILDERNESS-6B705C?style=flat-square&labelColor=6B705C" alt="WILDERNESS">&nbsp;<b><font size="4">Wilderness: National Park Explorer</font></b><br>
