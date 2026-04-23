@@ -16,8 +16,8 @@ classes: wide
 # ✨ My Apps (Yuyao's Atelier)
 
 
-<p style="margin:6px 0 12px 0;">
-  <a href="/" style="display:inline-block;padding:6px 10px;border:1px solid rgba(0,0,0,0.12);border-radius:999px;text-decoration:none;">
+<p style="margin:8px 0 18px 0;">
+  <a href="/" style="display:inline-block;padding:7px 14px;border:1px solid rgba(0,0,0,0.12);border-radius:999px;text-decoration:none;">
     ← Back to Home
   </a>
 </p>
@@ -32,125 +32,135 @@ classes: wide
 <style>
 /* ---------- layout ---------- */
 .apps-wrap{
-  margin-top: 14px;
+  margin-top: 28px;
+  margin-bottom: 40px;
   display: grid;
   grid-template-columns: repeat(2, minmax(0, 1fr));
-  gap: 22px;
+  gap: 32px;
 }
 
 /* ---------- app card ---------- */
 .app-card{
   border: 1px solid rgba(0,0,0,0.08);
-  border-radius: 18px;
-  background: rgba(255,255,255,0.92);
-  box-shadow: 0 10px 24px rgba(0,0,0,0.06);
+  border-radius: 20px;
+  background: rgba(255,255,255,0.94);
+  box-shadow: 0 10px 28px rgba(0,0,0,0.06);
   overflow: hidden;
   display: flex;
   flex-direction: column;
-  transition: transform 220ms ease, box-shadow 220ms ease;
+  transition: transform 260ms ease, box-shadow 260ms ease;
 }
 
 .app-card:hover{
-  transform: translateY(-3px);
-  box-shadow: 0 18px 36px rgba(0,0,0,0.09);
+  transform: translateY(-4px);
+  box-shadow: 0 20px 40px rgba(0,0,0,0.09);
 }
 
-/* ---------- hero ---------- */
+/* ---------- hero (fully visible, no cropping) ---------- */
 .app-hero{
   position: relative;
-  background: #f3f4f6;
+  background: linear-gradient(180deg, #fafaf7 0%, #f4f2ec 100%);
   overflow: hidden;
   aspect-ratio: 16 / 10;
+  padding: 22px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-bottom: 1px solid rgba(0,0,0,0.05);
 }
 
 .app-hero img{
-  width: 100%;
-  height: 100%;
-  object-fit: cover;
+  max-width: 100%;
+  max-height: 100%;
+  width: auto;
+  height: auto;
+  object-fit: contain;
   display: block;
-  transition: transform 320ms ease, filter 320ms ease;
+  border-radius: 6px;
+  box-shadow: 0 6px 18px rgba(0,0,0,0.08);
+  transition: transform 340ms ease;
 }
 
 .app-card:hover .app-hero img{
-  transform: scale(1.03);
-  filter: saturate(1.05);
+  transform: scale(1.02);
 }
 
 .app-category{
   position: absolute;
-  top: 12px;
-  left: 12px;
+  top: 16px;
+  left: 16px;
   font-size: 0.72rem;
   font-weight: 700;
   letter-spacing: 0.6px;
-  padding: 5px 11px;
+  padding: 6px 12px;
   border-radius: 999px;
   color: #fff;
   backdrop-filter: blur(6px);
   -webkit-backdrop-filter: blur(6px);
-  box-shadow: 0 2px 6px rgba(0,0,0,0.12);
+  box-shadow: 0 2px 8px rgba(0,0,0,0.15);
+  z-index: 2;
 }
 
 /* category colors — echoing your original shield palette */
-.cat-wilderness { background: rgba(107, 112, 92, 0.92); }
-.cat-persona    { background: rgba(139, 92, 246, 0.92); }
-.cat-cinema     { background: rgba(220, 38, 38, 0.92); }
-.cat-letter     { background: rgba(219, 39, 119, 0.92); }
-.cat-escape     { background: rgba(14, 165, 233, 0.92); }
-.cat-keepsake   { background: rgba(194, 65, 12, 0.92); }
-.cat-atlas      { background: rgba(3, 105, 161, 0.92); }
-.cat-literary   { background: rgba(146, 64, 14, 0.92); }
-.cat-voice      { background: rgba(75, 85, 99, 0.92); }
-.cat-archive    { background: rgba(185, 28, 28, 0.92); }
+.cat-wilderness { background: rgba(107, 112, 92, 0.95); }
+.cat-persona    { background: rgba(139, 92, 246, 0.95); }
+.cat-cinema     { background: rgba(220, 38, 38, 0.95); }
+.cat-letter     { background: rgba(219, 39, 119, 0.95); }
+.cat-escape     { background: rgba(14, 165, 233, 0.95); }
+.cat-keepsake   { background: rgba(194, 65, 12, 0.95); }
+.cat-atlas      { background: rgba(3, 105, 161, 0.95); }
+.cat-literary   { background: rgba(146, 64, 14, 0.95); }
+.cat-voice      { background: rgba(75, 85, 99, 0.95); }
+.cat-archive    { background: rgba(185, 28, 28, 0.95); }
 
 /* ---------- body ---------- */
 .app-body{
-  padding: 18px 20px 20px 20px;
+  padding: 26px 28px 28px 28px;
   display: flex;
   flex-direction: column;
-  gap: 8px;
+  gap: 10px;
   flex: 1;
 }
 
 .app-sub{
-  margin: 0;
+  margin: 0 0 2px 0;
   color: #9ca3af;
   font-size: 0.78rem;
   font-weight: 600;
-  letter-spacing: 0.3px;
+  letter-spacing: 0.6px;
   text-transform: uppercase;
 }
 
 .app-title{
-  margin: 2px 0 0 0;
+  margin: 2px 0 4px 0;
   font-weight: 800;
-  font-size: 1.18rem;
+  font-size: 1.25rem;
   letter-spacing: -0.3px;
   color: #111827;
-  line-height: 1.25;
+  line-height: 1.3;
 }
 
 .app-tagline{
-  margin: 6px 0 0 0;
+  margin: 8px 0 0 0;
   font-style: italic;
   color: #6b7280;
-  font-size: 0.95rem;
-  line-height: 1.45;
+  font-size: 0.98rem;
+  line-height: 1.5;
 }
 
 .app-desc{
-  margin: 4px 0 0 0;
+  margin: 10px 0 0 0;
   color: #374151;
-  font-size: 0.9rem;
-  line-height: 1.6;
+  font-size: 0.92rem;
+  line-height: 1.7;
 }
 
 /* ---------- actions ---------- */
 .app-actions{
   margin-top: auto;
-  padding-top: 14px;
+  padding-top: 22px;
   display: flex;
-  gap: 8px;
+  gap: 10px;
   flex-wrap: wrap;
 }
 
@@ -158,10 +168,10 @@ classes: wide
   display: inline-flex;
   align-items: center;
   gap: 6px;
-  padding: 7px 14px;
+  padding: 9px 18px;
   border-radius: 999px;
   text-decoration: none !important;
-  font-size: 0.85rem;
+  font-size: 0.88rem;
   font-weight: 600;
   border: 1px solid transparent;
   transition: all 180ms ease;
@@ -171,11 +181,12 @@ classes: wide
 .app-btn-try{
   background: #16a34a;
   color: #fff !important;
-  box-shadow: 0 2px 6px rgba(22, 163, 74, 0.25);
+  box-shadow: 0 3px 8px rgba(22, 163, 74, 0.28);
 }
 .app-btn-try:hover{
   background: #15803d;
   transform: translateY(-1px);
+  box-shadow: 0 4px 12px rgba(22, 163, 74, 0.35);
 }
 
 .app-btn-code{
@@ -189,7 +200,9 @@ classes: wide
 
 /* ---------- responsive ---------- */
 @media (max-width: 900px){
-  .apps-wrap{ grid-template-columns: 1fr; gap: 18px; }
+  .apps-wrap{ grid-template-columns: 1fr; gap: 24px; }
+  .app-body{ padding: 22px 22px 24px 22px; }
+  .app-hero{ padding: 18px; }
 }
 </style>
 
@@ -199,8 +212,8 @@ classes: wide
   <!-- Wilderness -->
   <div class="app-card" id="wilderness">
     <div class="app-hero">
-      <img src="/images/NationalPark.png" alt="Wilderness">
       <span class="app-category cat-wilderness">🌲 WILDERNESS</span>
+      <img src="/images/NationalPark.png" alt="Wilderness">
     </div>
     <div class="app-body">
       <p class="app-sub">National Park Explorer</p>
@@ -217,8 +230,8 @@ classes: wide
   <!-- MBTI Vibe -->
   <div class="app-card" id="mbti-vibe">
     <div class="app-hero">
-      <img src="/images/mbti_vibe.png" alt="MBTI Vibe">
       <span class="app-category cat-persona">✨ PERSONA</span>
+      <img src="/images/mbti_vibe.png" alt="MBTI Vibe">
     </div>
     <div class="app-body">
       <p class="app-sub">Multimodal Vibe Reader</p>
@@ -235,8 +248,8 @@ classes: wide
   <!-- What If Cinema -->
   <div class="app-card" id="what-if-cinema">
     <div class="app-hero">
-      <img src="/images/what_if_cinema.png" alt="What If Cinema">
       <span class="app-category cat-cinema">🎬 CINEMA</span>
+      <img src="/images/what_if_cinema.png" alt="What If Cinema">
     </div>
     <div class="app-body">
       <p class="app-sub">Rewrite a Film's Ending</p>
@@ -253,8 +266,8 @@ classes: wide
   <!-- Letters from the Screen -->
   <div class="app-card" id="letters-from-the-screen">
     <div class="app-hero">
-      <img src="/images/letter_from_sceen.png" alt="Letters from the Screen">
       <span class="app-category cat-letter">✉️ LETTER</span>
+      <img src="/images/letter_from_sceen.png" alt="Letters from the Screen">
     </div>
     <div class="app-body">
       <p class="app-sub">A Letter from a Character</p>
@@ -271,8 +284,8 @@ classes: wide
   <!-- If You Disappeared on a Trip -->
   <div class="app-card" id="if-you-disappeared">
     <div class="app-hero">
-      <img src="/images/if_you_disappeared.png" alt="If You Disappeared on a Trip">
       <span class="app-category cat-escape">✈️ ESCAPE</span>
+      <img src="/images/if_you_disappeared.png" alt="If You Disappeared on a Trip">
     </div>
     <div class="app-body">
       <p class="app-sub">A Borrowed Life</p>
@@ -289,8 +302,8 @@ classes: wide
   <!-- Souvenirs of a Life Not Yet Lived -->
   <div class="app-card" id="souvenirs">
     <div class="app-hero">
-      <img src="/images/souvenir_of_a_life.png" alt="Souvenirs of a Life Not Yet Lived">
       <span class="app-category cat-keepsake">🎟️ KEEPSAKE</span>
+      <img src="/images/souvenir_of_a_life.png" alt="Souvenirs of a Life Not Yet Lived">
     </div>
     <div class="app-body">
       <p class="app-sub">Parallel Self Archive</p>
@@ -307,8 +320,8 @@ classes: wide
   <!-- The Map of Me -->
   <div class="app-card" id="map-of-me">
     <div class="app-hero">
-      <img src="/images/the_map_of_me.png" alt="The Map of Me">
       <span class="app-category cat-atlas">🗺️ ATLAS</span>
+      <img src="/images/the_map_of_me.png" alt="The Map of Me">
     </div>
     <div class="app-body">
       <p class="app-sub">Cultural Cartography</p>
@@ -325,8 +338,8 @@ classes: wide
   <!-- A Room in Macondo -->
   <div class="app-card" id="macondo">
     <div class="app-hero">
-      <img src="/images/macondo.png" alt="A Room in Macondo">
       <span class="app-category cat-literary">🦋 LITERARY</span>
+      <img src="/images/macondo.png" alt="A Room in Macondo">
     </div>
     <div class="app-body">
       <p class="app-sub">A García Márquez World</p>
@@ -343,8 +356,8 @@ classes: wide
   <!-- Say It Like a Classic -->
   <div class="app-card" id="say-it-like-a-classic">
     <div class="app-hero">
-      <img src="/images/say_it_like_a_classic.png" alt="Say It Like a Classic">
       <span class="app-category cat-voice">✒️ VOICE</span>
+      <img src="/images/say_it_like_a_classic.png" alt="Say It Like a Classic">
     </div>
     <div class="app-body">
       <p class="app-sub">Borrowed Literary Voices</p>
@@ -361,8 +374,8 @@ classes: wide
   <!-- The Boston Archive -->
   <div class="app-card" id="boston-archive">
     <div class="app-hero">
-      <img src="/images/boston_archive.png" alt="The Boston Archive">
       <span class="app-category cat-archive">🏛️ ARCHIVE</span>
+      <img src="/images/boston_archive.png" alt="The Boston Archive">
     </div>
     <div class="app-body">
       <p class="app-sub">A City as Memory</p>
