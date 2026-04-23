@@ -16,7 +16,7 @@ classes: wide
 # ✨ My Apps (Yuyao's Atelier)
 
 
-<p style="margin:8px 0 18px 0;">
+<p style="margin:8px 0 22px 0;">
   <a href="/" style="display:inline-block;padding:7px 14px;border:1px solid rgba(0,0,0,0.12);border-radius:999px;text-decoration:none;">
     ← Back to Home
   </a>
@@ -32,41 +32,47 @@ classes: wide
 <style>
 /* ---------- layout ---------- */
 .apps-wrap{
-  margin-top: 28px;
-  margin-bottom: 40px;
-  display: grid;
-  grid-template-columns: repeat(2, minmax(0, 1fr));
-  gap: 32px;
-}
-
-/* ---------- app card ---------- */
-.app-card{
-  border: 1px solid rgba(0,0,0,0.08);
-  border-radius: 20px;
-  background: rgba(255,255,255,0.94);
-  box-shadow: 0 10px 28px rgba(0,0,0,0.06);
-  overflow: hidden;
+  margin-top: 40px;
+  margin-bottom: 72px;
   display: flex;
   flex-direction: column;
-  transition: transform 260ms ease, box-shadow 260ms ease;
+}
+
+/* ---------- app card (horizontal, editorial) ---------- */
+.app-card{
+  display: grid;
+  grid-template-columns: 1.08fr 1fr;
+  background: rgba(255, 255, 255, 0.94);
+  border-radius: 24px;
+  border: 1px solid rgba(0, 0, 0, 0.08);
+  box-shadow: 0 14px 36px rgba(0, 0, 0, 0.06);
+  overflow: hidden;
+  transition: transform 300ms ease, box-shadow 300ms ease;
+  position: relative;
 }
 
 .app-card:hover{
   transform: translateY(-4px);
-  box-shadow: 0 20px 40px rgba(0,0,0,0.09);
+  box-shadow: 0 24px 50px rgba(0, 0, 0, 0.1);
 }
 
-/* ---------- hero (fully visible, no cropping) ---------- */
+/* alternating zigzag — even cards flip image to the right */
+.app-card.reverse .app-hero{ order: 2; }
+.app-card.reverse .app-body{ order: 1; }
+
+/* on reversed cards, mirror the badge/number positions too */
+.app-card.reverse .app-number{ left: auto; right: 26px; }
+.app-card.reverse .app-category{ right: auto; left: 22px; }
+
+/* ---------- hero ---------- */
 .app-hero{
-  position: relative;
-  background: linear-gradient(180deg, #fafaf7 0%, #f4f2ec 100%);
-  overflow: hidden;
-  aspect-ratio: 16 / 10;
-  padding: 22px;
+  background: linear-gradient(180deg, #fbfaf6 0%, #f2efe7 100%);
+  padding: 48px 52px;
   display: flex;
   align-items: center;
   justify-content: center;
-  border-bottom: 1px solid rgba(0,0,0,0.05);
+  position: relative;
+  min-height: 380px;
 }
 
 .app-hero img{
@@ -75,33 +81,46 @@ classes: wide
   width: auto;
   height: auto;
   object-fit: contain;
-  display: block;
-  border-radius: 6px;
-  box-shadow: 0 6px 18px rgba(0,0,0,0.08);
-  transition: transform 340ms ease;
+  border-radius: 8px;
+  box-shadow: 0 14px 36px rgba(0, 0, 0, 0.1);
+  transition: transform 400ms ease, filter 400ms ease;
 }
 
 .app-card:hover .app-hero img{
-  transform: scale(1.02);
+  transform: scale(1.025);
+  filter: saturate(1.04);
 }
 
+/* ---------- catalog number (whitespace touch №1) ---------- */
+.app-number{
+  position: absolute;
+  top: 26px;
+  left: 26px;
+  font-family: 'Georgia', 'Cochin', 'Playfair Display', serif;
+  font-size: 0.8rem;
+  font-weight: 700;
+  letter-spacing: 3px;
+  color: rgba(75, 85, 99, 0.38);
+  user-select: none;
+}
+
+/* ---------- category badge ---------- */
 .app-category{
   position: absolute;
-  top: 16px;
-  left: 16px;
+  top: 22px;
+  right: 22px;
   font-size: 0.72rem;
   font-weight: 700;
   letter-spacing: 0.6px;
-  padding: 6px 12px;
+  padding: 6px 13px;
   border-radius: 999px;
   color: #fff;
   backdrop-filter: blur(6px);
   -webkit-backdrop-filter: blur(6px);
-  box-shadow: 0 2px 8px rgba(0,0,0,0.15);
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);
   z-index: 2;
 }
 
-/* category colors — echoing your original shield palette */
 .cat-wilderness { background: rgba(107, 112, 92, 0.95); }
 .cat-persona    { background: rgba(139, 92, 246, 0.95); }
 .cat-cinema     { background: rgba(220, 38, 38, 0.95); }
@@ -115,50 +134,49 @@ classes: wide
 
 /* ---------- body ---------- */
 .app-body{
-  padding: 26px 28px 28px 28px;
+  padding: 56px 56px 52px 56px;
   display: flex;
   flex-direction: column;
-  gap: 10px;
-  flex: 1;
+  justify-content: center;
+  gap: 4px;
 }
 
 .app-sub{
-  margin: 0 0 2px 0;
+  margin: 0 0 4px 0;
   color: #9ca3af;
-  font-size: 0.78rem;
+  font-size: 0.76rem;
   font-weight: 600;
-  letter-spacing: 0.6px;
+  letter-spacing: 0.8px;
   text-transform: uppercase;
 }
 
 .app-title{
-  margin: 2px 0 4px 0;
+  margin: 0 0 2px 0;
   font-weight: 800;
-  font-size: 1.25rem;
-  letter-spacing: -0.3px;
+  font-size: 1.55rem;
+  letter-spacing: -0.4px;
   color: #111827;
-  line-height: 1.3;
+  line-height: 1.25;
 }
 
 .app-tagline{
-  margin: 8px 0 0 0;
+  margin: 14px 0 0 0;
   font-style: italic;
   color: #6b7280;
-  font-size: 0.98rem;
-  line-height: 1.5;
+  font-size: 1.02rem;
+  line-height: 1.55;
 }
 
 .app-desc{
-  margin: 10px 0 0 0;
+  margin: 16px 0 0 0;
   color: #374151;
-  font-size: 0.92rem;
-  line-height: 1.7;
+  font-size: 0.95rem;
+  line-height: 1.78;
 }
 
 /* ---------- actions ---------- */
 .app-actions{
-  margin-top: auto;
-  padding-top: 22px;
+  margin-top: 28px;
   display: flex;
   gap: 10px;
   flex-wrap: wrap;
@@ -186,7 +204,7 @@ classes: wide
 .app-btn-try:hover{
   background: #15803d;
   transform: translateY(-1px);
-  box-shadow: 0 4px 12px rgba(22, 163, 74, 0.35);
+  box-shadow: 0 5px 14px rgba(22, 163, 74, 0.38);
 }
 
 .app-btn-code{
@@ -198,20 +216,64 @@ classes: wide
   background: rgba(17, 24, 39, 0.08);
 }
 
+/* ---------- whitespace touch №2: aldus leaf divider ---------- */
+.card-divider{
+  text-align: center;
+  margin: 0;
+  padding: 54px 0;
+  color: rgba(75, 85, 99, 0.28);
+  font-size: 1.05rem;
+  font-family: 'Georgia', 'Cochin', serif;
+  letter-spacing: 14px;
+  user-select: none;
+}
+
+/* ---------- whitespace touch №3: closing colophon ---------- */
+.atelier-close{
+  text-align: center;
+  margin-top: 72px;
+  color: rgba(75, 85, 99, 0.5);
+  font-family: 'Georgia', 'Cochin', serif;
+  font-size: 0.88rem;
+  font-style: italic;
+  letter-spacing: 0.5px;
+  line-height: 1.9;
+}
+
+.atelier-close .flourish{
+  display: block;
+  font-size: 1.1rem;
+  letter-spacing: 18px;
+  color: rgba(75, 85, 99, 0.35);
+  margin-bottom: 12px;
+}
+
 /* ---------- responsive ---------- */
 @media (max-width: 900px){
-  .apps-wrap{ grid-template-columns: 1fr; gap: 24px; }
-  .app-body{ padding: 22px 22px 24px 22px; }
-  .app-hero{ padding: 18px; }
+  .app-card,
+  .app-card.reverse{
+    grid-template-columns: 1fr;
+  }
+  .app-card.reverse .app-hero{ order: 0; }
+  .app-card.reverse .app-body{ order: 0; }
+  .app-card.reverse .app-number{ left: 22px; right: auto; }
+  .app-card.reverse .app-category{ right: 18px; left: auto; }
+
+  .app-hero{ min-height: 260px; padding: 32px 28px; }
+  .app-body{ padding: 36px 30px 34px 30px; }
+  .app-title{ font-size: 1.35rem; }
+
+  .card-divider{ padding: 38px 0; letter-spacing: 12px; }
 }
 </style>
 
 
 <div class="apps-wrap">
 
-  <!-- Wilderness -->
+  <!-- 01 Wilderness -->
   <div class="app-card" id="wilderness">
     <div class="app-hero">
+      <span class="app-number">№ 01</span>
       <span class="app-category cat-wilderness">🌲 WILDERNESS</span>
       <img src="/images/NationalPark.png" alt="Wilderness">
     </div>
@@ -227,9 +289,12 @@ classes: wide
     </div>
   </div>
 
-  <!-- MBTI Vibe -->
-  <div class="app-card" id="mbti-vibe">
+  <div class="card-divider">❦</div>
+
+  <!-- 02 MBTI Vibe -->
+  <div class="app-card reverse" id="mbti-vibe">
     <div class="app-hero">
+      <span class="app-number">№ 02</span>
       <span class="app-category cat-persona">✨ PERSONA</span>
       <img src="/images/mbti_vibe.png" alt="MBTI Vibe">
     </div>
@@ -245,9 +310,12 @@ classes: wide
     </div>
   </div>
 
-  <!-- What If Cinema -->
+  <div class="card-divider">❦</div>
+
+  <!-- 03 What If Cinema -->
   <div class="app-card" id="what-if-cinema">
     <div class="app-hero">
+      <span class="app-number">№ 03</span>
       <span class="app-category cat-cinema">🎬 CINEMA</span>
       <img src="/images/what_if_cinema.png" alt="What If Cinema">
     </div>
@@ -263,9 +331,12 @@ classes: wide
     </div>
   </div>
 
-  <!-- Letters from the Screen -->
-  <div class="app-card" id="letters-from-the-screen">
+  <div class="card-divider">❦</div>
+
+  <!-- 04 Letters from the Screen -->
+  <div class="app-card reverse" id="letters-from-the-screen">
     <div class="app-hero">
+      <span class="app-number">№ 04</span>
       <span class="app-category cat-letter">✉️ LETTER</span>
       <img src="/images/letter_from_sceen.png" alt="Letters from the Screen">
     </div>
@@ -281,9 +352,12 @@ classes: wide
     </div>
   </div>
 
-  <!-- If You Disappeared on a Trip -->
+  <div class="card-divider">❦</div>
+
+  <!-- 05 If You Disappeared -->
   <div class="app-card" id="if-you-disappeared">
     <div class="app-hero">
+      <span class="app-number">№ 05</span>
       <span class="app-category cat-escape">✈️ ESCAPE</span>
       <img src="/images/if_you_disappeared.png" alt="If You Disappeared on a Trip">
     </div>
@@ -299,9 +373,12 @@ classes: wide
     </div>
   </div>
 
-  <!-- Souvenirs of a Life Not Yet Lived -->
-  <div class="app-card" id="souvenirs">
+  <div class="card-divider">❦</div>
+
+  <!-- 06 Souvenirs -->
+  <div class="app-card reverse" id="souvenirs">
     <div class="app-hero">
+      <span class="app-number">№ 06</span>
       <span class="app-category cat-keepsake">🎟️ KEEPSAKE</span>
       <img src="/images/souvenir_of_a_life.png" alt="Souvenirs of a Life Not Yet Lived">
     </div>
@@ -317,9 +394,12 @@ classes: wide
     </div>
   </div>
 
-  <!-- The Map of Me -->
+  <div class="card-divider">❦</div>
+
+  <!-- 07 Map of Me -->
   <div class="app-card" id="map-of-me">
     <div class="app-hero">
+      <span class="app-number">№ 07</span>
       <span class="app-category cat-atlas">🗺️ ATLAS</span>
       <img src="/images/the_map_of_me.png" alt="The Map of Me">
     </div>
@@ -335,9 +415,12 @@ classes: wide
     </div>
   </div>
 
-  <!-- A Room in Macondo -->
-  <div class="app-card" id="macondo">
+  <div class="card-divider">❦</div>
+
+  <!-- 08 A Room in Macondo -->
+  <div class="app-card reverse" id="macondo">
     <div class="app-hero">
+      <span class="app-number">№ 08</span>
       <span class="app-category cat-literary">🦋 LITERARY</span>
       <img src="/images/macondo.png" alt="A Room in Macondo">
     </div>
@@ -353,9 +436,12 @@ classes: wide
     </div>
   </div>
 
-  <!-- Say It Like a Classic -->
+  <div class="card-divider">❦</div>
+
+  <!-- 09 Say It Like a Classic -->
   <div class="app-card" id="say-it-like-a-classic">
     <div class="app-hero">
+      <span class="app-number">№ 09</span>
       <span class="app-category cat-voice">✒️ VOICE</span>
       <img src="/images/say_it_like_a_classic.png" alt="Say It Like a Classic">
     </div>
@@ -371,9 +457,12 @@ classes: wide
     </div>
   </div>
 
-  <!-- The Boston Archive -->
-  <div class="app-card" id="boston-archive">
+  <div class="card-divider">❦</div>
+
+  <!-- 10 Boston Archive -->
+  <div class="app-card reverse" id="boston-archive">
     <div class="app-hero">
+      <span class="app-number">№ 10</span>
       <span class="app-category cat-archive">🏛️ ARCHIVE</span>
       <img src="/images/boston_archive.png" alt="The Boston Archive">
     </div>
@@ -387,6 +476,13 @@ classes: wide
         <a class="app-btn app-btn-code" href="https://github.com/olivia3395/boston">&lt;/&gt; Code</a>
       </div>
     </div>
+  </div>
+
+  <!-- closing colophon -->
+  <div class="atelier-close">
+    <span class="flourish">❦ · ❦ · ❦</span>
+    end of the atelier — for now.<br>
+    new rooms open quietly, when the weather changes.
   </div>
 
 </div>
