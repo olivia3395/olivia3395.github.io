@@ -1039,6 +1039,30 @@ classes: wide
 
 <div class="album-card">
   <div class="album-head">
+    <p class="album-title">🌷 Spring in Long Island <span style="font-weight:600;color:#6b7280;">(NY)</span></p>
+    <div class="album-badges">
+      <span class="badge">Spring Light</span>
+      <span class="badge">Coastal Air</span>
+      <span class="badge">Quiet Bloom</span>
+    </div>
+  </div>
+  <p class="album-meta">Spring on Long Island — soft light, sea air, and the season beginning again in quiet colors.</p>
+
+  <div class="photo-grid">
+    <div class="photo"><img src="/images/gallery/longisland/longisland1.jpg" alt="Spring in Long Island 1"></div>
+    <div class="photo"><img src="/images/gallery/longisland/longisland2.jpg" alt="Spring in Long Island 2"></div>
+    <div class="photo"><img src="/images/gallery/longisland/longisland3.jpg" alt="Spring in Long Island 3"></div>
+    <div class="photo"><img src="/images/gallery/longisland/longisland4.jpg" alt="Spring in Long Island 4"></div>
+    <div class="photo"><img src="/images/gallery/longisland/longisland5.jpg" alt="Spring in Long Island 5"></div>
+    <div class="photo"><img src="/images/gallery/longisland/longisland6.jpg" alt="Spring in Long Island 6"></div>
+    <div class="photo"><img src="/images/gallery/longisland/longisland7.jpg" alt="Spring in Long Island 7"></div>
+    <div class="photo"><img src="/images/gallery/longisland/longisland8.jpg" alt="Spring in Long Island 8"></div>
+  </div>
+</div>
+
+
+<div class="album-card">
+  <div class="album-head">
     <p class="album-title">🏛️ The Getty <span style="font-weight:600;color:#6b7280;">(CA)</span></p>
     <div class="album-badges">
       <span class="badge">Van Gogh: Irises</span>
