@@ -1015,6 +1015,30 @@ classes: wide
 
 <div class="album-card">
   <div class="album-head">
+    <p class="album-title">🏅 Boston Marathon 2026 <span style="font-weight:600;color:#6b7280;">(Boston, MA)</span></p>
+    <div class="album-badges">
+      <span class="badge">Race Day</span>
+      <span class="badge">Boylston St.</span>
+      <span class="badge">Finish Line</span>
+    </div>
+  </div>
+  <p class="album-meta">Boston Marathon 2026 — the city cheering, the miles adding up, and Boylston at the end of it all.</p>
+
+  <div class="photo-grid">
+    <div class="photo"><img src="/images/gallery/boston_marathon_2026/marathon1.jpg" alt="Boston Marathon 2026 - 1"></div>
+    <div class="photo"><img src="/images/gallery/boston_marathon_2026/marathon2.jpg" alt="Boston Marathon 2026 - 2"></div>
+    <div class="photo"><img src="/images/gallery/boston_marathon_2026/marathon3.jpg" alt="Boston Marathon 2026 - 3"></div>
+    <div class="photo"><img src="/images/gallery/boston_marathon_2026/marathon4.jpg" alt="Boston Marathon 2026 - 4"></div>
+    <div class="photo"><img src="/images/gallery/boston_marathon_2026/marathon5.jpg" alt="Boston Marathon 2026 - 5"></div>
+    <div class="photo"><img src="/images/gallery/boston_marathon_2026/marathon6.jpg" alt="Boston Marathon 2026 - 6"></div>
+    <div class="photo"><img src="/images/gallery/boston_marathon_2026/marathon7.jpg" alt="Boston Marathon 2026 - 7"></div>
+    <div class="photo"><img src="/images/gallery/boston_marathon_2026/marathon8.jpg" alt="Boston Marathon 2026 - 8"></div>
+  </div>
+</div>
+
+
+<div class="album-card">
+  <div class="album-head">
     <p class="album-title">🏛️ The Getty <span style="font-weight:600;color:#6b7280;">(CA)</span></p>
     <div class="album-badges">
       <span class="badge">Van Gogh: Irises</span>
