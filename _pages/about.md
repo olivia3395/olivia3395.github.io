@@ -62,6 +62,8 @@ Beyond theory and modeling, I am drawn to building AI applications that reflect 
 
 
 # 🔥 News
+- *2026.05*: 🚀 I’ll be joining **Amazon** as an **Applied Scientist** this summer, based in the **Bay Area, California**!
+- *2026.04*: 🎉 I am honored to receive the **Dean’s Dissertation Fellowship** from the **Graduate School of Arts and Sciences**!
 - *2025.09*: 🎉 My first-author paper **"Transfer Learning on Edge Connecting Probability Estimation Under Graphon Model"** is accepted by ([NeurIPS 2025](https://neurips.cc/))!
 - *2025.08*: 🎉 My co-authored paper **"Cross-Domain Hyperspectral Image Classification via Mamba-CNN and Knowledge Distillation"** is accepted by ([IEEE TGRS 2025](https://ieeexplore.ieee.org/))!
 
