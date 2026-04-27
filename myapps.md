@@ -481,32 +481,32 @@ classes: wide
 
 <div class="card-divider">❦</div>
 
-<!-- Vincent's Archive -->
-<div class="app-card" id="vincent">
-  <div class="app-hero">
-    <span class="app-number">№ 11</span>
-    <span class="app-category cat-art">🌻 ART</span>
-    <img src="/images/vincent.png" alt="Vincent's Archive">
-  </div>
-
-  <div class="app-body">
-    <p class="app-sub">A Van Gogh Digital Sanctuary</p>
-    <p class="app-title">Vincent's Archive</p>
-    <p class="app-tagline">A quiet room of sunflowers, letters, blue nights, and painted longing.</p>
-
-    <p class="app-desc">
-      An immersive digital archive dedicated to Vincent van Gogh — part art gallery, part literary room,
-      part atmospheric sanctuary. Through curated masterpieces, biography, timeline, letters, quotes,
-      ambient sound, and cinematic motion, it invites visitors into the emotional weather of Van Gogh's world:
-      the gold of sunflowers, the ache of blue nights, and the fragile tenderness of a life spent searching for light.
-    </p>
-
-    <div class="app-actions">
-      <a class="app-btn app-btn-try" href="https://vincent-cyan.vercel.app/">↗ Try it</a>
-      <a class="app-btn app-btn-code" href="https://github.com/olivia3395/Vincent">&lt;/&gt; Code</a>
+  <!-- Vincent's Archive -->
+  <div class="app-card" id="vincent">
+    <div class="app-hero">
+      <span class="app-number">№ 11</span>
+      <span class="app-category cat-art">🌻 ART</span>
+      <img src="/images/vincent.png" alt="Vincent's Archive">
+    </div>
+  
+    <div class="app-body">
+      <p class="app-sub">A Van Gogh Digital Sanctuary</p>
+      <p class="app-title">Vincent's Archive</p>
+      <p class="app-tagline">A quiet room of sunflowers, letters, blue nights, and painted longing.</p>
+  
+      <p class="app-desc">
+        An immersive digital archive dedicated to Vincent van Gogh — part art gallery, part literary room,
+        part atmospheric sanctuary. Through curated masterpieces, biography, timeline, letters, quotes,
+        ambient sound, and cinematic motion, it invites visitors into the emotional weather of Van Gogh's world:
+        the gold of sunflowers, the ache of blue nights, and the fragile tenderness of a life spent searching for light.
+      </p>
+  
+      <div class="app-actions">
+        <a class="app-btn app-btn-try" href="https://vincent-cyan.vercel.app/">↗ Try it</a>
+        <a class="app-btn app-btn-code" href="https://github.com/olivia3395/Vincent">&lt;/&gt; Code</a>
+      </div>
     </div>
   </div>
-</div>
 
 <div class="card-divider">❦</div>
 
