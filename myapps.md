@@ -502,34 +502,26 @@ classes: wide
 
 <div class="card-divider">❦</div>
 
-
 <!-- Hello Sanmao -->
 <div class="app-card reverse" id="hello-sanmao">
   <div class="app-hero">
     <span class="app-number">№ 12</span>
     <span class="app-category cat-desert">🌵 DESERT</span>
-    <img src="/images/sanmao.png" alt="Hello Sanmao">
+    <img src="/images/sanmao_app.png" alt="Hello Sanmao">
   </div>
-
   <div class="app-body">
     <p class="app-sub">A Literary Sahara Journey</p>
-    <p class="app-title">你好三毛</p>
+    <p class="app-title">Hello Sanmao</p>
     <p class="app-tagline">A sunlit tribute to wandering, freedom, tenderness, and the Sahara.</p>
-
-    <p class="app-desc">
-      An immersive literary web experience dedicated to Sanmao — the beloved writer, traveler,
-      and dreamer whose words carried generations toward deserts, distant roads, and a braver
-      way of living. Part digital archive, part emotional postcard, part quiet love letter, it
-      invites visitors into the golden weather of the Sahara and the enduring tenderness of
-      Sanmao's world.
-    </p>
-
+    <p class="app-desc">An immersive literary web experience dedicated to Sanmao — the beloved writer, traveler, and dreamer whose words carried generations toward deserts, distant roads, and a braver way of living. Part digital archive, part emotional postcard, part quiet love letter, it invites visitors into the golden weather of the Sahara and the enduring tenderness of Sanmao's world.</p>
     <div class="app-actions">
       <a class="app-btn app-btn-try" href="https://sanmao.vercel.app/">↗ Try it</a>
       <a class="app-btn app-btn-code" href="https://github.com/olivia3395/sanmao">&lt;/&gt; Code</a>
     </div>
   </div>
 </div>
+
+
 
 <div class="card-divider">❦</div>
 
@@ -539,22 +531,13 @@ classes: wide
   <div class="app-hero">
     <span class="app-number">№ 13</span>
     <span class="app-category cat-impression">🌊 IMPRESSION</span>
-    <img src="/images/monet_app.jpg" alt="Claude Monet Digital Museum">
+    <img src="/images/monet_app.png" alt="Claude Monet Digital Museum">
   </div>
-
   <div class="app-body">
     <p class="app-sub">An Impressionist Digital Museum</p>
     <p class="app-title">Claude Monet Digital Museum</p>
     <p class="app-tagline">A soft garden of light, water, color, and remembered afternoons.</p>
-
-    <p class="app-desc">
-      An immersive digital museum celebrating Claude Monet and the luminous world of French
-      Impressionism. Through a curated gallery, searchable masterpieces, fullscreen lightbox,
-      thematic exhibitions, Giverny stories, technique notes, and a personal favorites collection,
-      it turns the browser into a quiet museum of water lilies, shifting skies, Japanese bridges,
-      and the tender art of simply looking.
-    </p>
-
+    <p class="app-desc">An immersive digital museum celebrating Claude Monet and the luminous world of French Impressionism. Through a curated gallery, searchable masterpieces, fullscreen lightbox, thematic exhibitions, Giverny stories, technique notes, and a personal favorites collection, it turns the browser into a quiet museum of water lilies, shifting skies, Japanese bridges, and the tender art of simply looking.</p>
     <div class="app-actions">
       <a class="app-btn app-btn-try" href="https://claude-monet-eight.vercel.app/">↗ Try it</a>
       <a class="app-btn app-btn-code" href="https://github.com/olivia3395/Claude_Monet">&lt;/&gt; Code</a>
