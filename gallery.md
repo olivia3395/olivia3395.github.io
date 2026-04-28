@@ -1060,6 +1060,34 @@ classes: wide
   </div>
 </div>
 
+<div class="album-card">
+  <div class="album-head">
+    <p class="album-title">🌸 Spring on BU Campus <span style="font-weight:600;color:#6b7280;">(Boston, MA)</span></p>
+    <div class="album-badges">
+      <span class="badge">BU Campus</span>
+      <span class="badge">Spring Light</span>
+      <span class="badge">Shot on Ricoh GR4</span>
+    </div>
+  </div>
+  <p class="album-meta">Spring unfolding across Boston University, all shot on a Ricoh GR4.</p>
+
+  <div class="photo-grid">
+    <div class="photo"><img src="/images/gallery/bu_spring/bu_spring1.jpg" alt="Spring on BU Campus 1"></div>
+    <div class="photo"><img src="/images/gallery/bu_spring/bu_spring2.jpg" alt="Spring on BU Campus 2"></div>
+    <div class="photo"><img src="/images/gallery/bu_spring/bu_spring3.jpg" alt="Spring on BU Campus 3"></div>
+    <div class="photo"><img src="/images/gallery/bu_spring/bu_spring4.jpg" alt="Spring on BU Campus 4"></div>
+    <div class="photo"><img src="/images/gallery/bu_spring/bu_spring5.jpg" alt="Spring on BU Campus 5"></div>
+    <div class="photo"><img src="/images/gallery/bu_spring/bu_spring6.jpg" alt="Spring on BU Campus 6"></div>
+    <div class="photo"><img src="/images/gallery/bu_spring/bu_spring7.jpg" alt="Spring on BU Campus 7"></div>
+    <div class="photo"><img src="/images/gallery/bu_spring/bu_spring8.jpg" alt="Spring on BU Campus 8"></div>
+    <div class="photo"><img src="/images/gallery/bu_spring/bu_spring9.jpg" alt="Spring on BU Campus 9"></div>
+    <div class="photo"><img src="/images/gallery/bu_spring/bu_spring10.jpg" alt="Spring on BU Campus 10"></div>
+    <div class="photo"><img src="/images/gallery/bu_spring/bu_spring11.jpg" alt="Spring on BU Campus 11"></div>
+    <div class="photo"><img src="/images/gallery/bu_spring/bu_spring12.jpg" alt="Spring on BU Campus 12"></div>
+  </div>
+</div>
+
+
 
 <div class="album-card">
   <div class="album-head">
