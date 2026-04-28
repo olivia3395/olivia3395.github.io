@@ -927,6 +927,39 @@ classes: wide
 
 <div class="album-card">
   <div class="album-head">
+    <p class="album-title">🌷 Spring in Boston Common <span style="font-weight:600;color:#6b7280;">(Boston, MA · 2026)</span></p>
+    <div class="album-badges">
+      <span class="badge">Boston Common</span>
+      <span class="badge">Spring Bloom</span>
+      <span class="badge">2026</span>
+    </div>
+  </div>
+  <p class="album-meta">Spring in Boston Common, 2026 — soft blossoms, winding paths, and the city easing into warmer light.</p>
+
+  <div class="photo-grid">
+    <div class="photo"><img src="/images/gallery/boston_common/boston_common1.jpg" alt="Spring in Boston Common 1"></div>
+    <div class="photo"><img src="/images/gallery/boston_common/boston_common2.jpg" alt="Spring in Boston Common 2"></div>
+    <div class="photo"><img src="/images/gallery/boston_common/boston_common3.jpg" alt="Spring in Boston Common 3"></div>
+    <div class="photo"><img src="/images/gallery/boston_common/boston_common4.jpg" alt="Spring in Boston Common 4"></div>
+    <div class="photo"><img src="/images/gallery/boston_common/boston_common5.jpg" alt="Spring in Boston Common 5"></div>
+    <div class="photo"><img src="/images/gallery/boston_common/boston_common6.jpg" alt="Spring in Boston Common 6"></div>
+    <div class="photo"><img src="/images/gallery/boston_common/boston_common7.jpg" alt="Spring in Boston Common 7"></div>
+    <div class="photo"><img src="/images/gallery/boston_common/boston_common8.jpg" alt="Spring in Boston Common 8"></div>
+    <div class="photo"><img src="/images/gallery/boston_common/boston_common9.jpg" alt="Spring in Boston Common 9"></div>
+    <div class="photo"><img src="/images/gallery/boston_common/boston_common10.jpg" alt="Spring in Boston Common 10"></div>
+    <div class="photo"><img src="/images/gallery/boston_common/boston_common11.jpg" alt="Spring in Boston Common 11"></div>
+    <div class="photo"><img src="/images/gallery/boston_common/boston_common12.jpg" alt="Spring in Boston Common 12"></div>
+    <div class="photo"><img src="/images/gallery/boston_common/boston_common13.jpg" alt="Spring in Boston Common 13"></div>
+    <div class="photo"><img src="/images/gallery/boston_common/boston_common14.jpg" alt="Spring in Boston Common 14"></div>
+    <div class="photo"><img src="/images/gallery/boston_common/boston_common15.jpg" alt="Spring in Boston Common 15"></div>
+    <div class="photo"><img src="/images/gallery/boston_common/boston_common16.jpg" alt="Spring in Boston Common 16"></div>
+  </div>
+</div>
+
+
+
+<div class="album-card">
+  <div class="album-head">
     <p class="album-title">☀️ Summer in Boston <span style="font-weight:600;color:#6b7280;">(MA)</span></p>
     <div class="album-badges">
       <span class="badge">Charles River</span>
