@@ -960,6 +960,32 @@ classes: wide
 
 <div class="album-card">
   <div class="album-head">
+    <p class="album-title">🌸 Spring in Boston Common <span style="font-weight:600;color:#6b7280;">(Ricoh GR4)</span></p>
+    <div class="album-badges">
+      <span class="badge">Same Scene</span>
+      <span class="badge">Ricoh GR4</span>
+      <span class="badge">Spring Light</span>
+    </div>
+  </div>
+  <p class="album-meta">The same familiar scene — this time shot on a Ricoh GR4.</p>
+
+  <div class="photo-grid">
+    <div class="photo"><img src="/images/gallery/boston_common_gr4/boston_common_gr4_1.jpg" alt="Boston Common (GR4) 1"></div>
+    <div class="photo"><img src="/images/gallery/boston_common_gr4/boston_common_gr4_2.jpg" alt="Boston Common (GR4) 2"></div>
+    <div class="photo"><img src="/images/gallery/boston_common_gr4/boston_common_gr4_3.jpg" alt="Boston Common (GR4) 3"></div>
+    <div class="photo"><img src="/images/gallery/boston_common_gr4/boston_common_gr4_4.jpg" alt="Boston Common (GR4) 4"></div>
+    <div class="photo"><img src="/images/gallery/boston_common_gr4/boston_common_gr4_5.jpg" alt="Boston Common (GR4) 5"></div>
+    <div class="photo"><img src="/images/gallery/boston_common_gr4/boston_common_gr4_6.jpg" alt="Boston Common (GR4) 6"></div>
+    <div class="photo"><img src="/images/gallery/boston_common_gr4/boston_common_gr4_7.jpg" alt="Boston Common (GR4) 7"></div>
+    <div class="photo"><img src="/images/gallery/boston_common_gr4/boston_common_gr4_8.jpg" alt="Boston Common (GR4) 8"></div>
+  </div>
+</div>
+
+
+
+
+<div class="album-card">
+  <div class="album-head">
     <p class="album-title">☀️ Summer in Boston <span style="font-weight:600;color:#6b7280;">(MA)</span></p>
     <div class="album-badges">
       <span class="badge">Charles River</span>
