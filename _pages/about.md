@@ -62,6 +62,7 @@ Beyond theory and modeling, I am drawn to building AI applications that reflect 
 
 
 # 🔥 News
+- *2025.05*: 🎉 My co-first-author paper **"From Text to Forecasts: Bridging Modality Gap with Temporal Evolution Semantic Space"** is accepted by ([ICML 2025](https://icml.cc/)) and selected as a **Spotlight** !
 - *2026.04*: 🚀 I’ll be joining **Amazon** as an **Applied Scientist** this summer, based in the **Bay Area, California**!
 - *2026.04*: 🎉 I am honored to receive the **Dean’s Dissertation Fellowship** from the **Graduate School of Arts and Sciences**!
 - *2025.09*: 🎉 My first-author paper **"Transfer Learning on Edge Connecting Probability Estimation Under Graphon Model"** is accepted by ([NeurIPS 2025](https://neurips.cc/))!
