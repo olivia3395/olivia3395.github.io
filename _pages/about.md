@@ -108,13 +108,15 @@ Beyond theory and modeling, I am drawn to building AI applications that reflect 
   </tr>
 </table>
 
+
+
 <table>
   <tr>
     <td width="40%" valign="top">
       <img src="images/tess_workflow.png" alt="TESS" width="100%">
     </td>
     <td valign="top">
-      <img src="https://img.shields.io/badge/Under_Review-94A3B8?style=flat-square&labelColor=94A3B8" alt="Under Review">&nbsp;<b><font size="3"><a href="https://arxiv.org/abs/2603.12664">From Text to Forecasts: Bridging Modality Gap with Temporal Evolution Semantic Space</a></font></b>&nbsp;&nbsp;<a href="https://arxiv.org/abs/2603.12664"><img src="https://img.shields.io/badge/arXiv-B31B1B?style=flat-square&logo=arxiv&logoColor=white" alt="arXiv"></a> <a href="https://github.com/olivia3395/olivia3395.github.io/blob/main/_pages/TESS.pdf"><img src="https://img.shields.io/badge/Slides-EA580C?style=flat-square" alt="Slides"></a>
+      <img src="https://img.shields.io/badge/ICML_2025-Spotlight-F59E0B?style=flat-square&labelColor=1E40AF" alt="ICML 2025 Spotlight">&nbsp;<b><font size="3"><a href="https://arxiv.org/abs/2603.12664">From Text to Forecasts: Bridging Modality Gap with Temporal Evolution Semantic Space</a></font></b>&nbsp;&nbsp;<a href="https://arxiv.org/abs/2603.12664"><img src="https://img.shields.io/badge/arXiv-B31B1B?style=flat-square&logo=arxiv&logoColor=white" alt="arXiv"></a> <a href="https://github.com/olivia3395/olivia3395.github.io/blob/main/_pages/TESS.pdf"><img src="https://img.shields.io/badge/Slides-EA580C?style=flat-square" alt="Slides"></a>
       <ul>
         <li><b>Bridges the text–time-series modality gap:</b> introduces a <b>Temporal Evolution Semantic Space (TESS)</b> that distills free-form text into <b>interpretable temporal primitives</b> (mean shift, volatility, shape, lag), instead of directly fusing noisy token embeddings.</li>
         <li><b>LLM-guided yet numerically grounded forecasting:</b> uses <b>structured prompting + confidence-aware gating</b> to inject reliable semantic signals as prefix tokens into a Transformer forecaster, yielding <b>robust gains under event-driven non-stationarity</b> (up to <b>29% error reduction</b>).</li>
@@ -122,6 +124,7 @@ Beyond theory and modeling, I am drawn to building AI applications that reflect 
     </td>
   </tr>
 </table>
+
 
 <table>
   <tr>
