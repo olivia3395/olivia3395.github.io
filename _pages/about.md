@@ -93,21 +93,6 @@ Beyond theory and modeling, I am drawn to building AI applications that reflect 
   </tr>
 </table>
 
-<table>
-  <tr>
-    <td width="40%" valign="top">
-      <img src="images/phaseshift.png" alt="Phase Transition" width="100%">
-    </td>
-    <td valign="top">
-      <img src="https://img.shields.io/badge/Under_Review-94A3B8?style=flat-square&labelColor=94A3B8" alt="Under Review">&nbsp;<b><font size="3"><a href="https://arxiv.org/abs/2507.00889">Phase Transition in Nonparametric Minimax Rates for Covariate Shifts on Approximate Manifolds</a></font></b>&nbsp;&nbsp;<a href="https://arxiv.org/abs/2507.00889"><img src="https://img.shields.io/badge/arXiv-B31B1B?style=flat-square&logo=arxiv&logoColor=white" alt="arXiv"></a> <a href="https://github.com/olivia3395/Covariate-Shifts-on-Approximate-Manifolds/blob/main/manifold_poster.pdf"><img src="https://img.shields.io/badge/Poster-0369A1?style=flat-square" alt="Poster"></a> <a href="https://github.com/olivia3395/Covariate-Shifts-on-Approximate-Manifolds/blob/main/slides_Manifold.pdf"><img src="https://img.shields.io/badge/Slides-EA580C?style=flat-square" alt="Slides"></a> <a href="https://github.com/olivia3395/Covariate-Shifts-on-Approximate-Manifolds"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" alt="Code"></a>
-      <ul>
-        <li><b>New minimax theory for "near-manifold" shift:</b> exposes a sharp <b>phase transition</b> controlled by the <b>support gap</b> between target and source neighborhoods — unifying multiple geometric-transfer regimes.</li>
-        <li><b>Ratio-free, adaptive estimator:</b> achieves <b>near-optimal, dimension-adaptive rates</b> <b>without density ratios</b> and without assuming known geometry (works under approximate manifold mismatch).</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
 
 
 <table>
@@ -124,6 +109,22 @@ Beyond theory and modeling, I am drawn to building AI applications that reflect 
     </td>
   </tr>
 </table>
+
+<table>
+  <tr>
+    <td width="40%" valign="top">
+      <img src="images/phaseshift.png" alt="Phase Transition" width="100%">
+    </td>
+    <td valign="top">
+      <img src="https://img.shields.io/badge/Under_Review-94A3B8?style=flat-square&labelColor=94A3B8" alt="Under Review">&nbsp;<b><font size="3"><a href="https://arxiv.org/abs/2507.00889">Phase Transition in Nonparametric Minimax Rates for Covariate Shifts on Approximate Manifolds</a></font></b>&nbsp;&nbsp;<a href="https://arxiv.org/abs/2507.00889"><img src="https://img.shields.io/badge/arXiv-B31B1B?style=flat-square&logo=arxiv&logoColor=white" alt="arXiv"></a> <a href="https://github.com/olivia3395/Covariate-Shifts-on-Approximate-Manifolds/blob/main/manifold_poster.pdf"><img src="https://img.shields.io/badge/Poster-0369A1?style=flat-square" alt="Poster"></a> <a href="https://github.com/olivia3395/Covariate-Shifts-on-Approximate-Manifolds/blob/main/slides_Manifold.pdf"><img src="https://img.shields.io/badge/Slides-EA580C?style=flat-square" alt="Slides"></a> <a href="https://github.com/olivia3395/Covariate-Shifts-on-Approximate-Manifolds"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" alt="Code"></a>
+      <ul>
+        <li><b>New minimax theory for "near-manifold" shift:</b> exposes a sharp <b>phase transition</b> controlled by the <b>support gap</b> between target and source neighborhoods — unifying multiple geometric-transfer regimes.</li>
+        <li><b>Ratio-free, adaptive estimator:</b> achieves <b>near-optimal, dimension-adaptive rates</b> <b>without density ratios</b> and without assuming known geometry (works under approximate manifold mismatch).</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
 
 
 <table>
