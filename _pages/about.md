@@ -142,7 +142,7 @@ Beyond theory and modeling, I am drawn to building AI applications that reflect 
   </tr>
 </table>
 
-<table>
+<!-- <table>
   <tr>
     <td width="40%" valign="top">
       <img src="images/synergy_bpr_workflow.png" alt="INCM" width="100%">
@@ -155,7 +155,7 @@ Beyond theory and modeling, I am drawn to building AI applications that reflect 
       </ul>
     </td>
   </tr>
-</table>
+</table> -->
 
 <h2>Co-author</h2>
 
