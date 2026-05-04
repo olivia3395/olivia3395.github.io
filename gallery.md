@@ -1150,6 +1150,37 @@ classes: wide
 
 <div class="album-card">
   <div class="album-head">
+    <p class="album-title">💐 MFA Art in Bloom <span style="font-weight:600;color:#6b7280;">50th Anniversary</span></p>
+    <div class="album-badges">
+      <span class="badge">MFA Boston</span>
+      <span class="badge">Floral Installations</span>
+      <span class="badge">50th</span>
+    </div>
+  </div>
+  <p class="album-meta">Art in Bloom — where paintings briefly learn the language of flowers.</p>
+
+  <div class="photo-grid">
+    <div class="photo"><img src="/images/gallery/art_in_bloom/bloom1.jpg"  alt="MFA Art in Bloom 1"></div>
+    <div class="photo"><img src="/images/gallery/art_in_bloom/bloom2.jpg"  alt="MFA Art in Bloom 2"></div>
+    <div class="photo"><img src="/images/gallery/art_in_bloom/bloom3.jpg"  alt="MFA Art in Bloom 3"></div>
+    <div class="photo"><img src="/images/gallery/art_in_bloom/bloom4.jpg"  alt="MFA Art in Bloom 4"></div>
+    <div class="photo"><img src="/images/gallery/art_in_bloom/bloom5.jpg"  alt="MFA Art in Bloom 5"></div>
+    <div class="photo"><img src="/images/gallery/art_in_bloom/bloom6.jpg"  alt="MFA Art in Bloom 6"></div>
+    <div class="photo"><img src="/images/gallery/art_in_bloom/bloom7.jpg"  alt="MFA Art in Bloom 7"></div>
+    <div class="photo"><img src="/images/gallery/art_in_bloom/bloom8.jpg"  alt="MFA Art in Bloom 8"></div>
+    <div class="photo"><img src="/images/gallery/art_in_bloom/bloom9.jpg"  alt="MFA Art in Bloom 9"></div>
+    <div class="photo"><img src="/images/gallery/art_in_bloom/bloom10.jpg" alt="MFA Art in Bloom 10"></div>
+    <div class="photo"><img src="/images/gallery/art_in_bloom/bloom11.jpg" alt="MFA Art in Bloom 11"></div>
+    <div class="photo"><img src="/images/gallery/art_in_bloom/bloom12.jpg" alt="MFA Art in Bloom 12"></div>
+    <div class="photo"><img src="/images/gallery/art_in_bloom/bloom13.jpg" alt="MFA Art in Bloom 13"></div>
+    <div class="photo"><img src="/images/gallery/art_in_bloom/bloom14.jpg" alt="MFA Art in Bloom 14"></div>
+    <div class="photo"><img src="/images/gallery/art_in_bloom/bloom15.jpg" alt="MFA Art in Bloom 15"></div>
+    <div class="photo"><img src="/images/gallery/art_in_bloom/bloom16.jpg" alt="MFA Art in Bloom 16"></div>
+  </div>
+</div>
+
+<div class="album-card">
+  <div class="album-head">
     <p class="album-title">🏛️ The Getty <span style="font-weight:600;color:#6b7280;">(CA)</span></p>
     <div class="album-badges">
       <span class="badge">Van Gogh: Irises</span>
