@@ -1207,6 +1207,29 @@ classes: wide
 </div>
 
 
+<div class="album-card">
+  <div class="album-head">
+    <p class="album-title">🌹 James P. Kelleher Rose Garden <span style="font-weight:600;color:#6b7280;">(Boston, MA)</span></p>
+    <div class="album-badges">
+      <span class="badge">Rose Garden</span>
+      <span class="badge">In Bloom</span>
+      <span class="badge">Golden Hour</span>
+    </div>
+  </div>
+  <p class="album-meta">Roses in full bloom — petals, light, and a little quiet in the middle of the city.</p>
+
+  <div class="photo-grid">
+    <div class="photo"><img src="/images/gallery/rose_garden/rose1.jpg" alt="Rose Garden 1"></div>
+    <div class="photo"><img src="/images/gallery/rose_garden/rose2.jpg" alt="Rose Garden 2"></div>
+    <div class="photo"><img src="/images/gallery/rose_garden/rose3.jpg" alt="Rose Garden 3"></div>
+    <div class="photo"><img src="/images/gallery/rose_garden/rose4.jpg" alt="Rose Garden 4"></div>
+    <div class="photo"><img src="/images/gallery/rose_garden/rose5.jpg" alt="Rose Garden 5"></div>
+    <div class="photo"><img src="/images/gallery/rose_garden/rose6.jpg" alt="Rose Garden 6"></div>
+    <div class="photo"><img src="/images/gallery/rose_garden/rose7.jpg" alt="Rose Garden 7"></div>
+    <div class="photo"><img src="/images/gallery/rose_garden/rose8.jpg" alt="Rose Garden 8"></div>
+  </div>
+</div>
+
 
 <div class="album-card">
   <div class="album-head">
