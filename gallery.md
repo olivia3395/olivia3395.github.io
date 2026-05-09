@@ -1179,6 +1179,35 @@ classes: wide
   </div>
 </div>
 
+
+<div class="album-card">
+  <div class="album-head">
+    <p class="album-title">🏛️ Isabella Stewart Gardner Museum <span style="font-weight:600;color:#6b7280;">(Boston, MA)</span></p>
+    <div class="album-badges">
+      <span class="badge">Courtyard</span>
+      <span class="badge">Old World</span>
+    </div>
+  </div>
+  <p class="album-meta">Ms. Isabella Stewart Gardner was brilliant — she turned collecting into choreography: ivy, stone, and paintings placed as if the building itself were a poem.</p>
+
+  <div class="photo-grid">
+    <div class="photo"><img src="/images/gallery/isabella/isabella1.jpg"  alt="Isabella Stewart Gardner Museum 1"></div>
+    <div class="photo"><img src="/images/gallery/isabella/isabella2.jpg"  alt="Isabella Stewart Gardner Museum 2"></div>
+    <div class="photo"><img src="/images/gallery/isabella/isabella3.jpg"  alt="Isabella Stewart Gardner Museum 3"></div>
+    <div class="photo"><img src="/images/gallery/isabella/isabella4.jpg"  alt="Isabella Stewart Gardner Museum 4"></div>
+    <div class="photo"><img src="/images/gallery/isabella/isabella5.jpg"  alt="Isabella Stewart Gardner Museum 5"></div>
+    <div class="photo"><img src="/images/gallery/isabella/isabella6.jpg"  alt="Isabella Stewart Gardner Museum 6"></div>
+    <div class="photo"><img src="/images/gallery/isabella/isabella7.jpg"  alt="Isabella Stewart Gardner Museum 7"></div>
+    <div class="photo"><img src="/images/gallery/isabella/isabella8.jpg"  alt="Isabella Stewart Gardner Museum 8"></div>
+    <div class="photo"><img src="/images/gallery/isabella/isabella9.jpg"  alt="Isabella Stewart Gardner Museum 9"></div>
+    <div class="photo"><img src="/images/gallery/isabella/isabella10.jpg" alt="Isabella Stewart Gardner Museum 10"></div>
+    <div class="photo"><img src="/images/gallery/isabella/isabella11.jpg" alt="Isabella Stewart Gardner Museum 11"></div>
+    <div class="photo"><img src="/images/gallery/isabella/isabella12.jpg" alt="Isabella Stewart Gardner Museum 12"></div>
+  </div>
+</div>
+
+
+
 <div class="album-card">
   <div class="album-head">
     <p class="album-title">🏛️ The Getty <span style="font-weight:600;color:#6b7280;">(CA)</span></p>
