@@ -1216,7 +1216,7 @@ classes: wide
       <span class="badge">Golden Hour</span>
     </div>
   </div>
-  <p class="album-meta">Roses in full bloom — petals, light, and a little quiet in the middle of the city.</p>
+  <p class="album-meta">Clouded late spring — roses, muted light, and the city packing itself into memory during my last week in Boston.</p>
 
   <div class="photo-grid">
     <div class="photo"><img src="/images/gallery/rose_garden/rose1.jpg" alt="Rose Garden 1"></div>
