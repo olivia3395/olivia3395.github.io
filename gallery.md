@@ -1527,28 +1527,6 @@ classes: wide
 
 
 
-<div class="album-card">
-  <div class="album-head">
-    <p class="album-title">🌿 Bay Area Life <span style="font-weight:600;color:#6b7280;">(Sunnyvale · Amazon)</span></p>
-    <div class="album-badges">
-      <span class="badge">Sunnyvale</span>
-      <span class="badge">Workdays</span>
-      <span class="badge">New Chapter</span>
-    </div>
-  </div>
-  <p class="album-meta">Sunnyvale days and a new rhythm — small routines and my Amazon work corner.<em>To be continued…</em></p>
-
-  <div class="photo-grid">
-    <div class="photo"><img src="/images/gallery/bay_area/bay1.jpg" alt="Bay Area Life 1"></div>
-    <div class="photo"><img src="/images/gallery/bay_area/bay2.jpg" alt="Bay Area Life 2"></div>
-    <div class="photo"><img src="/images/gallery/bay_area/bay3.jpg" alt="Bay Area Life 3"></div>
-    <div class="photo"><img src="/images/gallery/bay_area/bay4.jpg" alt="Bay Area Life 4"></div>
-    <div class="photo"><img src="/images/gallery/bay_area/bay5.jpg" alt="Bay Area Life 5"></div>
-    <div class="photo"><img src="/images/gallery/bay_area/bay6.jpg" alt="Bay Area Life 6"></div>
-    <div class="photo"><img src="/images/gallery/bay_area/bay7.jpg" alt="Bay Area Life 7"></div>
-    <div class="photo"><img src="/images/gallery/bay_area/bay8.jpg" alt="Bay Area Life 8"></div>
-  </div>
-</div>
 
 
 
