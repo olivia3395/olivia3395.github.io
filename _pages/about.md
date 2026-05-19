@@ -169,11 +169,9 @@ Beyond theory and modeling, I am drawn to building AI applications that reflect 
     </td>
     <td valign="top">
       <img src="https://img.shields.io/badge/SLADS_2026-7C3AED?style=flat-square&labelColor=7C3AED" alt="SLADS 2026">&nbsp;<b><font size="3">Network Perturbation Aggregation for Graphon Estimation</font></b>&nbsp;&nbsp;
-      <img src="https://img.shields.io/badge/Graphon_Estimation-2563EB?style=flat-square" alt="Graphon Estimation">
-      <img src="https://img.shields.io/badge/Variance_Reduction-DC2626?style=flat-square" alt="Variance Reduction">
       <ul>
-        <li><b>From single-network uncertainty to pseudo-replication:</b> introduces <b>Net-Paging</b>, a bagging-like framework for graphon estimation that perturbs observed networks to create multiple graphon-preserving pseudo-samples, reducing instability caused by stochastic edge realization and deterministic neighborhood decisions.</li>
-        <li><b>Theory-backed debiasing and aggregation:</b> proves that the debiased estimator on perturbed networks preserves the base estimator’s convergence rate, and shows that the MSE decreases linearly with <b>1/B</b> as the number of perturbation replications increases.</li>
+        <li><b>Network bagging for graphon estimation:</b> develops <b>Net-Paging</b>, a perturbation-aggregation framework that creates multiple graphon-preserving perturbed networks from one observed graph to reduce estimator variance.</li>
+        <li><b>Debiased and theoretically grounded:</b> provides a <b>closed-form bias correction</b> and proves that aggregation lowers MSE with increasing perturbation replications while maintaining the convergence behavior of the base estimator.</li>
       </ul>
     </td>
   </tr>
