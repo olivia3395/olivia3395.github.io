@@ -62,6 +62,7 @@ Beyond theory and modeling, I am drawn to building AI applications that reflect 
 
 
 # 🔥 News
+- *2026.05*: 🎉 My co-authored paper **"Network Perturbation Aggregation for Graphon Estimation"** has been accepted by [SLADS](https://slads.scichina.com/)!
 - *2026.04*: 🎉 My co-first-author paper **"From Text to Forecasts: Bridging Modality Gap with Temporal Evolution Semantic Space"** is accepted by ([ICML 2026](https://icml.cc/)) and selected as a **Spotlight**!
 - *2026.04*: 🚀 I’ll be joining **Amazon** as an **Applied Scientist** this summer, based in the **Bay Area, California**!
 - *2026.04*: 🎉 I am honored to receive the **Dean’s Dissertation Fellowship** from the **Graduate School of Arts and Sciences**!
