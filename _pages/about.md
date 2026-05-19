@@ -162,6 +162,21 @@ Beyond theory and modeling, I am drawn to building AI applications that reflect 
 <table>
   <tr>
     <td width="40%" valign="top">
+      <img src="images/netpaging.png" alt="Net-Paging" width="100%">
+    </td>
+    <td valign="top">
+      <img src="https://img.shields.io/badge/SLADS_2026-7C3AED?style=flat-square&labelColor=7C3AED" alt="SLADS 2026">&nbsp;<b><font size="3">Network Perturbation Aggregation for Graphon Estimation</font></b>
+      <ul>
+        <li><b>Bagging-inspired variance reduction for graphon estimation:</b> proposes <b>Net-Paging</b>, a network perturbation aggregation framework that generates multiple structure-preserving perturbed networks from a single observed graph, mimicking repeated network samples to stabilize high-variance graphon estimators.</li>
+        <li><b>Debiased perturbation + plug-and-play aggregation:</b> derives a <b>closed-form bias correction</b> for perturbed edge probabilities and averages debiased estimates from existing graphon estimators such as <b>NS</b> and <b>ICE</b>, achieving lower MSE while preserving the original convergence rate.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td width="40%" valign="top">
       <img src="images/mkdnet.png" alt="MKDNet" width="100%">
     </td>
     <td valign="top">
