@@ -159,20 +159,26 @@ Beyond theory and modeling, I am drawn to building AI applications that reflect 
 
 <h2>Co-author</h2>
 
+
+
 <table>
   <tr>
     <td width="40%" valign="top">
       <img src="images/netpaging.png" alt="Net-Paging" width="100%">
     </td>
     <td valign="top">
-      <img src="https://img.shields.io/badge/SLADS_2026-7C3AED?style=flat-square&labelColor=7C3AED" alt="SLADS 2026">&nbsp;<b><font size="3">Network Perturbation Aggregation for Graphon Estimation</font></b>
+      <img src="https://img.shields.io/badge/SLADS_2026-7C3AED?style=flat-square&labelColor=7C3AED" alt="SLADS 2026">&nbsp;<b><font size="3">Network Perturbation Aggregation for Graphon Estimation</font></b>&nbsp;&nbsp;
+      <img src="https://img.shields.io/badge/Graphon_Estimation-2563EB?style=flat-square" alt="Graphon Estimation">
+      <img src="https://img.shields.io/badge/Variance_Reduction-DC2626?style=flat-square" alt="Variance Reduction">
       <ul>
-        <li><b>Bagging-inspired variance reduction for graphon estimation:</b> proposes <b>Net-Paging</b>, a network perturbation aggregation framework that generates multiple structure-preserving perturbed networks from a single observed graph, mimicking repeated network samples to stabilize high-variance graphon estimators.</li>
-        <li><b>Debiased perturbation + plug-and-play aggregation:</b> derives a <b>closed-form bias correction</b> for perturbed edge probabilities and averages debiased estimates from existing graphon estimators such as <b>NS</b> and <b>ICE</b>, achieving lower MSE while preserving the original convergence rate.</li>
+        <li><b>From single-network uncertainty to pseudo-replication:</b> introduces <b>Net-Paging</b>, a bagging-like framework for graphon estimation that perturbs observed networks to create multiple graphon-preserving pseudo-samples, reducing instability caused by stochastic edge realization and deterministic neighborhood decisions.</li>
+        <li><b>Theory-backed debiasing and aggregation:</b> proves that the debiased estimator on perturbed networks preserves the base estimator’s convergence rate, and shows that the MSE decreases linearly with <b>1/B</b> as the number of perturbation replications increases.</li>
       </ul>
     </td>
   </tr>
 </table>
+
+
 
 <table>
   <tr>
