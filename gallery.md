@@ -1527,6 +1527,38 @@ classes: wide
 
 
 
+<div class="album-card">
+  <div class="album-head">
+    <p class="album-title">🌊 Lands End Trail <span style="font-weight:600;color:#6b7280;">(San Francisco, CA)</span></p>
+    <div class="album-badges">
+      <span class="badge">Golden Gate</span>
+      <span class="badge">Pacific Ocean</span>
+      <span class="badge">Coastal Trail</span>
+    </div>
+  </div>
+  <p class="album-meta">Where the city ends and the Pacific begins — cypress trees, ocean winds, and the Golden Gate emerging from the fog.</p>
+
+  <div class="photo-grid">
+    <div class="photo"><img src="/images/gallery/landsend/landsend1.jpg" alt="Lands End Trail 1"></div>
+    <div class="photo"><img src="/images/gallery/landsend/landsend2.jpg" alt="Lands End Trail 2"></div>
+    <div class="photo"><img src="/images/gallery/landsend/landsend3.jpg" alt="Lands End Trail 3"></div>
+    <div class="photo"><img src="/images/gallery/landsend/landsend4.jpg" alt="Lands End Trail 4"></div>
+    <div class="photo"><img src="/images/gallery/landsend/landsend5.jpg" alt="Lands End Trail 5"></div>
+    <div class="photo"><img src="/images/gallery/landsend/landsend6.jpg" alt="Lands End Trail 6"></div>
+    <div class="photo"><img src="/images/gallery/landsend/landsend7.jpg" alt="Lands End Trail 7"></div>
+    <div class="photo"><img src="/images/gallery/landsend/landsend8.jpg" alt="Lands End Trail 8"></div>
+    <div class="photo"><img src="/images/gallery/landsend/landsend9.jpg" alt="Lands End Trail 9"></div>
+    <div class="photo"><img src="/images/gallery/landsend/landsend10.jpg" alt="Lands End Trail 10"></div>
+    <div class="photo"><img src="/images/gallery/landsend/landsend11.jpg" alt="Lands End Trail 11"></div>
+    <div class="photo"><img src="/images/gallery/landsend/landsend12.jpg" alt="Lands End Trail 12"></div>
+    <div class="photo"><img src="/images/gallery/landsend/landsend13.jpg" alt="Lands End Trail 13"></div>
+    <div class="photo"><img src="/images/gallery/landsend/landsend14.jpg" alt="Lands End Trail 14"></div>
+    <div class="photo"><img src="/images/gallery/landsend/landsend15.jpg" alt="Lands End Trail 15"></div>
+    <div class="photo"><img src="/images/gallery/landsend/landsend16.jpg" alt="Lands End Trail 16"></div>
+  </div>
+</div>
+
+
 
 
 
