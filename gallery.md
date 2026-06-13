@@ -1561,6 +1561,30 @@ classes: wide
 
 
 
+<div class="album-card">
+  <div class="album-head">
+    <p class="album-title">🦭 Pier 39 <span style="font-weight:600;color:#6b7280;">(San Francisco, CA)</span></p>
+    <div class="album-badges">
+      <span class="badge">Sea Lions</span>
+      <span class="badge">Bay Views</span>
+      <span class="badge">SF Weekend</span>
+    </div>
+  </div>
+  <p class="album-meta">Pier 39 afternoons — sea lions, bay breeze, and San Francisco doing its cheerful little magic.</p>
+
+  <div class="photo-grid">
+    <div class="photo"><img src="/images/gallery/pier39sf/pier39sf1.jpg" alt="Pier 39 San Francisco 1"></div>
+    <div class="photo"><img src="/images/gallery/pier39sf/pier39sf2.jpg" alt="Pier 39 San Francisco 2"></div>
+    <div class="photo"><img src="/images/gallery/pier39sf/pier39sf3.jpg" alt="Pier 39 San Francisco 3"></div>
+    <div class="photo"><img src="/images/gallery/pier39sf/pier39sf4.jpg" alt="Pier 39 San Francisco 4"></div>
+    <div class="photo"><img src="/images/gallery/pier39sf/pier39sf5.jpg" alt="Pier 39 San Francisco 5"></div>
+    <div class="photo"><img src="/images/gallery/pier39sf/pier39sf6.jpg" alt="Pier 39 San Francisco 6"></div>
+    <div class="photo"><img src="/images/gallery/pier39sf/pier39sf7.jpg" alt="Pier 39 San Francisco 7"></div>
+    <div class="photo"><img src="/images/gallery/pier39sf/pier39sf8.jpg" alt="Pier 39 San Francisco 8"></div>
+  </div>
+</div>
+
+
 
 <div class="album-card">
   <div class="album-head">
