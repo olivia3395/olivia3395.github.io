@@ -169,15 +169,14 @@ Beyond theory and modeling, I am drawn to building AI applications that reflect 
       <img src="images/netpaging.png" alt="Net-Paging" width="100%">
     </td>
     <td valign="top">
-      <img src="https://img.shields.io/badge/SLADS_2026-7C3AED?style=flat-square&labelColor=7C3AED" alt="SLADS 2026">&nbsp;<b><font size="3">Network Perturbation Aggregation for Graphon Estimation</font></b>&nbsp;&nbsp;
+      <img src="https://img.shields.io/badge/SLADS_2026-7C3AED?style=flat-square&labelColor=7C3AED" alt="SLADS 2026">&nbsp;<b><font size="3"><a href="https://www.sciencedirect.com/science/article/pii/S305139012600005X">Network Perturbation Aggregation for Graphon Estimation</a></font></b>&nbsp;&nbsp;<a href="https://www.sciencedirect.com/science/article/pii/S305139012600005X"><img src="https://img.shields.io/badge/Paper-DC2626?style=flat-square&logo=adobeacrobatreader&logoColor=white" alt="Paper"></a> <a href="https://github.com/wd5457/gmixup"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" alt="Code"></a>
       <ul>
-        <li><b>Network bagging for graphon estimation:</b> develops <b>Net-Paging</b>, a perturbation-aggregation framework that creates multiple graphon-preserving perturbed networks from one observed graph to reduce estimator variance.</li>
-        <li><b>Debiased and theoretically grounded:</b> provides a <b>closed-form bias correction</b> and proves that aggregation lowers MSE with increasing perturbation replications while maintaining the convergence behavior of the base estimator.</li>
+        <li>Introduces <b>Net-Paging</b>, a perturbation–aggregation framework that generates multiple <b>graphon-preserving networks</b> from a single observed graph to reduce estimation variance.</li>
+        <li>Provides a <b>closed-form bias correction</b> and theoretical guarantees showing that aggregation improves MSE while preserving the convergence behavior of the base estimator.</li>
       </ul>
     </td>
   </tr>
 </table>
-
 
 
 <table>
