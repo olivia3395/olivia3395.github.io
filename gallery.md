@@ -240,6 +240,54 @@ classes: wide
 
 
 
+<div class="album-card">
+  <div class="album-head">
+    <p class="album-title">🌋 Lassen Volcanic National Park <span style="font-weight:600;color:#6b7280;">(CA)</span></p>
+    <div class="album-badges">
+      <span class="badge">Volcanic Trails</span>
+      <span class="badge">Alpine Lakes</span>
+      <span class="badge">Steam Vents</span>
+    </div>
+  </div>
+  <p class="album-meta">Lassen in summer light — volcanic earth, quiet alpine lakes, and steam rising from another world.</p>
+
+  <div class="photo-grid">
+    <div class="photo"><img src="/images/gallery/lassen/lassen1.jpg" alt="Lassen Volcanic National Park 1"></div>
+    <div class="photo"><img src="/images/gallery/lassen/lassen2.jpg" alt="Lassen Volcanic National Park 2"></div>
+    <div class="photo"><img src="/images/gallery/lassen/lassen3.jpg" alt="Lassen Volcanic National Park 3"></div>
+    <div class="photo"><img src="/images/gallery/lassen/lassen4.jpg" alt="Lassen Volcanic National Park 4"></div>
+    <div class="photo"><img src="/images/gallery/lassen/lassen5.jpg" alt="Lassen Volcanic National Park 5"></div>
+    <div class="photo"><img src="/images/gallery/lassen/lassen6.jpg" alt="Lassen Volcanic National Park 6"></div>
+    <div class="photo"><img src="/images/gallery/lassen/lassen7.jpg" alt="Lassen Volcanic National Park 7"></div>
+    <div class="photo"><img src="/images/gallery/lassen/lassen8.jpg" alt="Lassen Volcanic National Park 8"></div>
+    <div class="photo"><img src="/images/gallery/lassen/lassen9.jpg" alt="Lassen Volcanic National Park 9"></div>
+    <div class="photo"><img src="/images/gallery/lassen/lassen10.jpg" alt="Lassen Volcanic National Park 10"></div>
+    <div class="photo"><img src="/images/gallery/lassen/lassen11.jpg" alt="Lassen Volcanic National Park 11"></div>
+    <div class="photo"><img src="/images/gallery/lassen/lassen12.jpg" alt="Lassen Volcanic National Park 12"></div>
+    <div class="photo"><img src="/images/gallery/lassen/lassen13.jpg" alt="Lassen Volcanic National Park 13"></div>
+    <div class="photo"><img src="/images/gallery/lassen/lassen14.jpg" alt="Lassen Volcanic National Park 14"></div>
+    <div class="photo"><img src="/images/gallery/lassen/lassen15.jpg" alt="Lassen Volcanic National Park 15"></div>
+    <div class="photo"><img src="/images/gallery/lassen/lassen16.jpg" alt="Lassen Volcanic National Park 16"></div>
+    <div class="photo"><img src="/images/gallery/lassen/lassen17.jpg" alt="Lassen Volcanic National Park 17"></div>
+    <div class="photo"><img src="/images/gallery/lassen/lassen18.jpg" alt="Lassen Volcanic National Park 18"></div>
+    <div class="photo"><img src="/images/gallery/lassen/lassen19.jpg" alt="Lassen Volcanic National Park 19"></div>
+    <div class="photo"><img src="/images/gallery/lassen/lassen20.jpg" alt="Lassen Volcanic National Park 20"></div>
+    <div class="photo"><img src="/images/gallery/lassen/lassen21.jpg" alt="Lassen Volcanic National Park 21"></div>
+    <div class="photo"><img src="/images/gallery/lassen/lassen22.jpg" alt="Lassen Volcanic National Park 22"></div>
+    <div class="photo"><img src="/images/gallery/lassen/lassen23.jpg" alt="Lassen Volcanic National Park 23"></div>
+    <div class="photo"><img src="/images/gallery/lassen/lassen24.jpg" alt="Lassen Volcanic National Park 24"></div>
+    <div class="photo"><img src="/images/gallery/lassen/lassen25.jpg" alt="Lassen Volcanic National Park 25"></div>
+    <div class="photo"><img src="/images/gallery/lassen/lassen26.jpg" alt="Lassen Volcanic National Park 26"></div>
+    <div class="photo"><img src="/images/gallery/lassen/lassen27.jpg" alt="Lassen Volcanic National Park 27"></div>
+    <div class="photo"><img src="/images/gallery/lassen/lassen28.jpg" alt="Lassen Volcanic National Park 28"></div>
+    <div class="photo"><img src="/images/gallery/lassen/lassen29.jpg" alt="Lassen Volcanic National Park 29"></div>
+    <div class="photo"><img src="/images/gallery/lassen/lassen30.jpg" alt="Lassen Volcanic National Park 30"></div>
+    <div class="photo"><img src="/images/gallery/lassen/lassen31.jpg" alt="Lassen Volcanic National Park 31"></div>
+    <div class="photo"><img src="/images/gallery/lassen/lassen32.jpg" alt="Lassen Volcanic National Park 32"></div>
+  </div>
+</div>
+
+
 
 <div class="album-card">
   <div class="album-head">
