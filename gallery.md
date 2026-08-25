@@ -375,6 +375,35 @@ classes: wide
 
 
 
+<div class="album-card">
+  <div class="album-head">
+    <p class="album-title">🌊 Thor’s Well &amp; Spouting Horn <span style="font-weight:600;color:#6b7280;">(OR Coast)</span></p>
+    <div class="album-badges">
+      <span class="badge">Thor’s Well</span>
+      <span class="badge">Spouting Horn</span>
+      <span class="badge">Ocean Drama</span>
+    </div>
+  </div>
+  <p class="album-meta">Thor’s Well and Spouting Horn — waves rising and vanishing like a spell.</p>
+
+  <div class="photo-grid">
+    <div class="photo"><img src="/images/gallery/thorswell/thorswell1.jpg" alt="Thor’s Well and Spouting Horn 1"></div>
+    <div class="photo"><img src="/images/gallery/thorswell/thorswell2.jpg" alt="Thor’s Well and Spouting Horn 2"></div>
+    <div class="photo"><img src="/images/gallery/thorswell/thorswell3.jpg" alt="Thor’s Well and Spouting Horn 3"></div>
+    <div class="photo"><img src="/images/gallery/thorswell/thorswell4.jpg" alt="Thor’s Well and Spouting Horn 4"></div>
+    <div class="photo"><img src="/images/gallery/thorswell/thorswell5.jpg" alt="Thor’s Well and Spouting Horn 5"></div>
+    <div class="photo"><img src="/images/gallery/thorswell/thorswell6.jpg" alt="Thor’s Well and Spouting Horn 6"></div>
+
+    <div class="photo">
+      <video autoplay muted loop playsinline style="width:100%;height:175px;object-fit:cover;display:block;">
+        <source src="/images/gallery/thorswell/thorswell7.mp4" type="video/mp4">
+      </video>
+    </div>
+
+    <div class="photo"><img src="/images/gallery/thorswell/thorswell8.jpg" alt="Thor’s Well and Spouting Horn 8"></div>
+  </div>
+</div>
+
 
 <div class="album-card">
   <div class="album-head">
