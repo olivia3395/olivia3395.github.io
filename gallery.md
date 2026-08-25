@@ -348,6 +348,36 @@ classes: wide
 
 <div class="album-card">
   <div class="album-head">
+    <p class="album-title">🌊 Highway 101 Coastal Road <span style="font-weight:600;color:#6b7280;">(CA/OR Coast)</span></p>
+    <div class="album-badges">
+      <span class="badge">Pacific Coast</span>
+      <span class="badge">Road Trip</span>
+      <span class="badge">Ocean Views</span>
+    </div>
+  </div>
+  <p class="album-meta">Along Highway 101 — the road bends with the coastline, and the Pacific keeps unfolding beside the window.</p>
+
+  <div class="photo-grid">
+    <div class="photo"><img src="/images/gallery/101road/101road1.jpg" alt="Highway 101 Coastal Road 1"></div>
+    <div class="photo"><img src="/images/gallery/101road/101road2.jpg" alt="Highway 101 Coastal Road 2"></div>
+    <div class="photo"><img src="/images/gallery/101road/101road3.jpg" alt="Highway 101 Coastal Road 3"></div>
+    <div class="photo"><img src="/images/gallery/101road/101road4.jpg" alt="Highway 101 Coastal Road 4"></div>
+    <div class="photo"><img src="/images/gallery/101road/101road5.jpg" alt="Highway 101 Coastal Road 5"></div>
+    <div class="photo"><img src="/images/gallery/101road/101road6.jpg" alt="Highway 101 Coastal Road 6"></div>
+    <div class="photo"><img src="/images/gallery/101road/101road7.jpg" alt="Highway 101 Coastal Road 7"></div>
+    <div class="photo"><img src="/images/gallery/101road/101road8.jpg" alt="Highway 101 Coastal Road 8"></div>
+    <div class="photo"><img src="/images/gallery/101road/101road9.jpg" alt="Highway 101 Coastal Road 9"></div>
+    <div class="photo"><img src="/images/gallery/101road/101road10.jpg" alt="Highway 101 Coastal Road 10"></div>
+    <div class="photo"><img src="/images/gallery/101road/101road11.jpg" alt="Highway 101 Coastal Road 11"></div>
+    <div class="photo"><img src="/images/gallery/101road/101road12.jpg" alt="Highway 101 Coastal Road 12"></div>
+  </div>
+</div>
+
+
+
+
+<div class="album-card">
+  <div class="album-head">
     <p class="album-title">🏜️ Grand Canyon <span style="font-weight:600;color:#6b7280;">(AZ/UT)</span></p>
     <div class="album-badges">
       <span class="badge">Grand Canyon</span>
