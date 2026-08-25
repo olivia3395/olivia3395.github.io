@@ -318,92 +318,6 @@ classes: wide
 </div>
 
 
-<div class="album-card">
-  <div class="album-head">
-    <p class="album-title">🌊 Cannon Beach <span style="font-weight:600;color:#6b7280;">(OR)</span></p>
-    <div class="album-badges">
-      <span class="badge">Haystack Rock</span>
-      <span class="badge">Oregon Coast</span>
-      <span class="badge">Pacific Mist</span>
-    </div>
-  </div>
-  <p class="album-meta">Cannon Beach — Haystack Rock, soft coastal mist, like a prose poem.</p>
-
-  <div class="photo-grid">
-    <div class="photo"><img src="/images/gallery/cannonbeach/cannonbeach1.jpg" alt="Cannon Beach 1"></div>
-    <div class="photo"><img src="/images/gallery/cannonbeach/cannonbeach2.jpg" alt="Cannon Beach 2"></div>
-    <div class="photo"><img src="/images/gallery/cannonbeach/cannonbeach3.jpg" alt="Cannon Beach 3"></div>
-    <div class="photo"><img src="/images/gallery/cannonbeach/cannonbeach4.jpg" alt="Cannon Beach 4"></div>
-    <div class="photo"><img src="/images/gallery/cannonbeach/cannonbeach5.jpg" alt="Cannon Beach 5"></div>
-    <div class="photo"><img src="/images/gallery/cannonbeach/cannonbeach6.jpg" alt="Cannon Beach 6"></div>
-    <div class="photo"><img src="/images/gallery/cannonbeach/cannonbeach7.jpg" alt="Cannon Beach 7"></div>
-    <div class="photo"><img src="/images/gallery/cannonbeach/cannonbeach8.jpg" alt="Cannon Beach 8"></div>
-    <div class="photo"><img src="/images/gallery/cannonbeach/cannonbeach9.jpg" alt="Cannon Beach 9"></div>
-    <div class="photo"><img src="/images/gallery/cannonbeach/cannonbeach10.jpg" alt="Cannon Beach 10"></div>
-    <div class="photo"><img src="/images/gallery/cannonbeach/cannonbeach11.jpg" alt="Cannon Beach 11"></div>
-    <div class="photo"><img src="/images/gallery/cannonbeach/cannonbeach12.jpg" alt="Cannon Beach 12"></div>
-  </div>
-</div>
-
-
-<div class="album-card">
-  <div class="album-head">
-    <p class="album-title">🌊 Highway 101 Coastal Road <span style="font-weight:600;color:#6b7280;">(CA/OR Coast)</span></p>
-    <div class="album-badges">
-      <span class="badge">Pacific Coast</span>
-      <span class="badge">Road Trip</span>
-      <span class="badge">Ocean Views</span>
-    </div>
-  </div>
-  <p class="album-meta">Along Highway 101 — the road bends with the coastline, and the Pacific keeps unfolding beside the window.</p>
-
-  <div class="photo-grid">
-    <div class="photo"><img src="/images/gallery/101road/101road1.jpg" alt="Highway 101 Coastal Road 1"></div>
-    <div class="photo"><img src="/images/gallery/101road/101road2.jpg" alt="Highway 101 Coastal Road 2"></div>
-    <div class="photo"><img src="/images/gallery/101road/101road3.jpg" alt="Highway 101 Coastal Road 3"></div>
-    <div class="photo"><img src="/images/gallery/101road/101road4.jpg" alt="Highway 101 Coastal Road 4"></div>
-    <div class="photo"><img src="/images/gallery/101road/101road5.jpg" alt="Highway 101 Coastal Road 5"></div>
-    <div class="photo"><img src="/images/gallery/101road/101road6.jpg" alt="Highway 101 Coastal Road 6"></div>
-    <div class="photo"><img src="/images/gallery/101road/101road7.jpg" alt="Highway 101 Coastal Road 7"></div>
-    <div class="photo"><img src="/images/gallery/101road/101road8.jpg" alt="Highway 101 Coastal Road 8"></div>
-    <div class="photo"><img src="/images/gallery/101road/101road9.jpg" alt="Highway 101 Coastal Road 9"></div>
-    <div class="photo"><img src="/images/gallery/101road/101road10.jpg" alt="Highway 101 Coastal Road 10"></div>
-    <div class="photo"><img src="/images/gallery/101road/101road11.jpg" alt="Highway 101 Coastal Road 11"></div>
-    <div class="photo"><img src="/images/gallery/101road/101road12.jpg" alt="Highway 101 Coastal Road 12"></div>
-  </div>
-</div>
-
-
-
-<div class="album-card">
-  <div class="album-head">
-    <p class="album-title">🌊 Thor’s Well &amp; Spouting Horn <span style="font-weight:600;color:#6b7280;">(OR Coast)</span></p>
-    <div class="album-badges">
-      <span class="badge">Thor’s Well</span>
-      <span class="badge">Spouting Horn</span>
-      <span class="badge">Ocean Drama</span>
-    </div>
-  </div>
-  <p class="album-meta">Thor’s Well and Spouting Horn — waves rising and vanishing like a spell.</p>
-
-  <div class="photo-grid">
-    <div class="photo"><img src="/images/gallery/thorswell/thorswell1.jpg" alt="Thor’s Well and Spouting Horn 1"></div>
-    <div class="photo"><img src="/images/gallery/thorswell/thorswell2.jpg" alt="Thor’s Well and Spouting Horn 2"></div>
-    <div class="photo"><img src="/images/gallery/thorswell/thorswell3.jpg" alt="Thor’s Well and Spouting Horn 3"></div>
-    <div class="photo"><img src="/images/gallery/thorswell/thorswell4.jpg" alt="Thor’s Well and Spouting Horn 4"></div>
-    <div class="photo"><img src="/images/gallery/thorswell/thorswell5.jpg" alt="Thor’s Well and Spouting Horn 5"></div>
-    <div class="photo"><img src="/images/gallery/thorswell/thorswell6.jpg" alt="Thor’s Well and Spouting Horn 6"></div>
-
-    <div class="photo">
-      <video autoplay muted loop playsinline style="width:100%;height:175px;object-fit:cover;display:block;">
-        <source src="/images/gallery/thorswell/thorswell7.mp4" type="video/mp4">
-      </video>
-    </div>
-
-    <div class="photo"><img src="/images/gallery/thorswell/thorswell8.jpg" alt="Thor’s Well and Spouting Horn 8"></div>
-  </div>
-</div>
-
 
 <div class="album-card">
   <div class="album-head">
@@ -1747,6 +1661,123 @@ classes: wide
     <div class="photo"><img src="/images/gallery/pier39sf/pier39sf6.jpg" alt="Pier 39 San Francisco 6"></div>
     <div class="photo"><img src="/images/gallery/pier39sf/pier39sf7.jpg" alt="Pier 39 San Francisco 7"></div>
     <div class="photo"><img src="/images/gallery/pier39sf/pier39sf8.jpg" alt="Pier 39 San Francisco 8"></div>
+  </div>
+</div>
+
+
+
+
+<div class="album-card">
+  <div class="album-head">
+    <p class="album-title">🦒 Wildlife Safari <span style="font-weight:600;color:#6b7280;">(OR)</span></p>
+    <div class="album-badges">
+      <span class="badge">Wildlife</span>
+      <span class="badge">Safari Drive</span>
+      <span class="badge">Close Encounters</span>
+    </div>
+  </div>
+  <p class="album-meta">Wildlife Safari — sunlit fields, curious animals, and a road that briefly feels borrowed from the wild.</p>
+
+  <div class="photo-grid">
+    <div class="photo"><img src="/images/gallery/safari/safari1.jpg" alt="Wildlife Safari 1"></div>
+    <div class="photo"><img src="/images/gallery/safari/safari2.jpg" alt="Wildlife Safari 2"></div>
+    <div class="photo"><img src="/images/gallery/safari/safari3.jpg" alt="Wildlife Safari 3"></div>
+    <div class="photo"><img src="/images/gallery/safari/safari4.jpg" alt="Wildlife Safari 4"></div>
+    <div class="photo"><img src="/images/gallery/safari/safari5.jpg" alt="Wildlife Safari 5"></div>
+    <div class="photo"><img src="/images/gallery/safari/safari6.jpg" alt="Wildlife Safari 6"></div>
+    <div class="photo"><img src="/images/gallery/safari/safari7.jpg" alt="Wildlife Safari 7"></div>
+    <div class="photo"><img src="/images/gallery/safari/safari8.jpg" alt="Wildlife Safari 8"></div>
+    <div class="photo"><img src="/images/gallery/safari/safari9.jpg" alt="Wildlife Safari 9"></div>
+    <div class="photo"><img src="/images/gallery/safari/safari10.jpg" alt="Wildlife Safari 10"></div>
+    <div class="photo"><img src="/images/gallery/safari/safari11.jpg" alt="Wildlife Safari 11"></div>
+    <div class="photo"><img src="/images/gallery/safari/safari12.jpg" alt="Wildlife Safari 12"></div>
+  </div>
+</div>
+
+
+<div class="album-card">
+  <div class="album-head">
+    <p class="album-title">🌊 Cannon Beach <span style="font-weight:600;color:#6b7280;">(OR)</span></p>
+    <div class="album-badges">
+      <span class="badge">Haystack Rock</span>
+      <span class="badge">Oregon Coast</span>
+      <span class="badge">Pacific Mist</span>
+    </div>
+  </div>
+  <p class="album-meta">Cannon Beach — Haystack Rock, soft coastal mist, like a prose poem.</p>
+
+  <div class="photo-grid">
+    <div class="photo"><img src="/images/gallery/cannonbeach/cannonbeach1.jpg" alt="Cannon Beach 1"></div>
+    <div class="photo"><img src="/images/gallery/cannonbeach/cannonbeach2.jpg" alt="Cannon Beach 2"></div>
+    <div class="photo"><img src="/images/gallery/cannonbeach/cannonbeach3.jpg" alt="Cannon Beach 3"></div>
+    <div class="photo"><img src="/images/gallery/cannonbeach/cannonbeach4.jpg" alt="Cannon Beach 4"></div>
+    <div class="photo"><img src="/images/gallery/cannonbeach/cannonbeach5.jpg" alt="Cannon Beach 5"></div>
+    <div class="photo"><img src="/images/gallery/cannonbeach/cannonbeach6.jpg" alt="Cannon Beach 6"></div>
+    <div class="photo"><img src="/images/gallery/cannonbeach/cannonbeach7.jpg" alt="Cannon Beach 7"></div>
+    <div class="photo"><img src="/images/gallery/cannonbeach/cannonbeach8.jpg" alt="Cannon Beach 8"></div>
+    <div class="photo"><img src="/images/gallery/cannonbeach/cannonbeach9.jpg" alt="Cannon Beach 9"></div>
+    <div class="photo"><img src="/images/gallery/cannonbeach/cannonbeach10.jpg" alt="Cannon Beach 10"></div>
+    <div class="photo"><img src="/images/gallery/cannonbeach/cannonbeach11.jpg" alt="Cannon Beach 11"></div>
+    <div class="photo"><img src="/images/gallery/cannonbeach/cannonbeach12.jpg" alt="Cannon Beach 12"></div>
+  </div>
+</div>
+
+
+<div class="album-card">
+  <div class="album-head">
+    <p class="album-title">🌊 Highway 101 Coastal Road <span style="font-weight:600;color:#6b7280;">(CA/OR Coast)</span></p>
+    <div class="album-badges">
+      <span class="badge">Pacific Coast</span>
+      <span class="badge">Road Trip</span>
+      <span class="badge">Ocean Views</span>
+    </div>
+  </div>
+  <p class="album-meta">Along Highway 101 — the road bends with the coastline, and the Pacific keeps unfolding beside the window.</p>
+
+  <div class="photo-grid">
+    <div class="photo"><img src="/images/gallery/101road/101road1.jpg" alt="Highway 101 Coastal Road 1"></div>
+    <div class="photo"><img src="/images/gallery/101road/101road2.jpg" alt="Highway 101 Coastal Road 2"></div>
+    <div class="photo"><img src="/images/gallery/101road/101road3.jpg" alt="Highway 101 Coastal Road 3"></div>
+    <div class="photo"><img src="/images/gallery/101road/101road4.jpg" alt="Highway 101 Coastal Road 4"></div>
+    <div class="photo"><img src="/images/gallery/101road/101road5.jpg" alt="Highway 101 Coastal Road 5"></div>
+    <div class="photo"><img src="/images/gallery/101road/101road6.jpg" alt="Highway 101 Coastal Road 6"></div>
+    <div class="photo"><img src="/images/gallery/101road/101road7.jpg" alt="Highway 101 Coastal Road 7"></div>
+    <div class="photo"><img src="/images/gallery/101road/101road8.jpg" alt="Highway 101 Coastal Road 8"></div>
+    <div class="photo"><img src="/images/gallery/101road/101road9.jpg" alt="Highway 101 Coastal Road 9"></div>
+    <div class="photo"><img src="/images/gallery/101road/101road10.jpg" alt="Highway 101 Coastal Road 10"></div>
+    <div class="photo"><img src="/images/gallery/101road/101road11.jpg" alt="Highway 101 Coastal Road 11"></div>
+    <div class="photo"><img src="/images/gallery/101road/101road12.jpg" alt="Highway 101 Coastal Road 12"></div>
+  </div>
+</div>
+
+
+
+<div class="album-card">
+  <div class="album-head">
+    <p class="album-title">🌊 Thor’s Well &amp; Spouting Horn <span style="font-weight:600;color:#6b7280;">(OR Coast)</span></p>
+    <div class="album-badges">
+      <span class="badge">Thor’s Well</span>
+      <span class="badge">Spouting Horn</span>
+      <span class="badge">Ocean Drama</span>
+    </div>
+  </div>
+  <p class="album-meta">Thor’s Well and Spouting Horn — waves rising and vanishing like a spell.</p>
+
+  <div class="photo-grid">
+    <div class="photo"><img src="/images/gallery/thorswell/thorswell1.jpg" alt="Thor’s Well and Spouting Horn 1"></div>
+    <div class="photo"><img src="/images/gallery/thorswell/thorswell2.jpg" alt="Thor’s Well and Spouting Horn 2"></div>
+    <div class="photo"><img src="/images/gallery/thorswell/thorswell3.jpg" alt="Thor’s Well and Spouting Horn 3"></div>
+    <div class="photo"><img src="/images/gallery/thorswell/thorswell4.jpg" alt="Thor’s Well and Spouting Horn 4"></div>
+    <div class="photo"><img src="/images/gallery/thorswell/thorswell5.jpg" alt="Thor’s Well and Spouting Horn 5"></div>
+    <div class="photo"><img src="/images/gallery/thorswell/thorswell6.jpg" alt="Thor’s Well and Spouting Horn 6"></div>
+
+    <div class="photo">
+      <video autoplay muted loop playsinline style="width:100%;height:175px;object-fit:cover;display:block;">
+        <source src="/images/gallery/thorswell/thorswell7.mp4" type="video/mp4">
+      </video>
+    </div>
+
+    <div class="photo"><img src="/images/gallery/thorswell/thorswell8.jpg" alt="Thor’s Well and Spouting Horn 8"></div>
   </div>
 </div>
 
