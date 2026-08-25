@@ -289,6 +289,35 @@ classes: wide
 
 
 
+
+<div class="album-card">
+  <div class="album-head">
+    <p class="album-title">🌊 Crater Lake National Park <span style="font-weight:600;color:#6b7280;">(OR)</span></p>
+    <div class="album-badges">
+      <span class="badge">Deep Blue</span>
+      <span class="badge">Volcanic Lake</span>
+      <span class="badge">Rim Views</span>
+    </div>
+  </div>
+  <p class="album-meta">Crater Lake in impossible blue — volcanic silence, rim winds, and water deep enough to feel like sky.</p>
+
+  <div class="photo-grid">
+    <div class="photo"><img src="/images/gallery/craterlake/craterlake1.jpg" alt="Crater Lake National Park 1"></div>
+    <div class="photo"><img src="/images/gallery/craterlake/craterlake2.jpg" alt="Crater Lake National Park 2"></div>
+    <div class="photo"><img src="/images/gallery/craterlake/craterlake3.jpg" alt="Crater Lake National Park 3"></div>
+    <div class="photo"><img src="/images/gallery/craterlake/craterlake4.jpg" alt="Crater Lake National Park 4"></div>
+    <div class="photo"><img src="/images/gallery/craterlake/craterlake5.jpg" alt="Crater Lake National Park 5"></div>
+    <div class="photo"><img src="/images/gallery/craterlake/craterlake6.jpg" alt="Crater Lake National Park 6"></div>
+    <div class="photo"><img src="/images/gallery/craterlake/craterlake7.jpg" alt="Crater Lake National Park 7"></div>
+    <div class="photo"><img src="/images/gallery/craterlake/craterlake8.jpg" alt="Crater Lake National Park 8"></div>
+    <div class="photo"><img src="/images/gallery/craterlake/craterlake9.jpg" alt="Crater Lake National Park 9"></div>
+    <div class="photo"><img src="/images/gallery/craterlake/craterlake10.jpg" alt="Crater Lake National Park 10"></div>
+    <div class="photo"><img src="/images/gallery/craterlake/craterlake11.jpg" alt="Crater Lake National Park 11"></div>
+    <div class="photo"><img src="/images/gallery/craterlake/craterlake12.jpg" alt="Crater Lake National Park 12"></div>
+  </div>
+</div>
+
+
 <div class="album-card">
   <div class="album-head">
     <p class="album-title">🏜️ Grand Canyon <span style="font-weight:600;color:#6b7280;">(AZ/UT)</span></p>
@@ -324,6 +353,8 @@ classes: wide
     <div class="photo"><img src="/images/gallery/canyon/canyon20.jpg" alt="Canyon 20"></div>
   </div>
 </div>
+
+
 
 
 
