@@ -320,6 +320,34 @@ classes: wide
 
 <div class="album-card">
   <div class="album-head">
+    <p class="album-title">🌊 Cannon Beach <span style="font-weight:600;color:#6b7280;">(OR)</span></p>
+    <div class="album-badges">
+      <span class="badge">Haystack Rock</span>
+      <span class="badge">Oregon Coast</span>
+      <span class="badge">Pacific Mist</span>
+    </div>
+  </div>
+  <p class="album-meta">Cannon Beach — Haystack Rock, soft coastal mist, like a prose poem.</p>
+
+  <div class="photo-grid">
+    <div class="photo"><img src="/images/gallery/cannonbeach/cannonbeach1.jpg" alt="Cannon Beach 1"></div>
+    <div class="photo"><img src="/images/gallery/cannonbeach/cannonbeach2.jpg" alt="Cannon Beach 2"></div>
+    <div class="photo"><img src="/images/gallery/cannonbeach/cannonbeach3.jpg" alt="Cannon Beach 3"></div>
+    <div class="photo"><img src="/images/gallery/cannonbeach/cannonbeach4.jpg" alt="Cannon Beach 4"></div>
+    <div class="photo"><img src="/images/gallery/cannonbeach/cannonbeach5.jpg" alt="Cannon Beach 5"></div>
+    <div class="photo"><img src="/images/gallery/cannonbeach/cannonbeach6.jpg" alt="Cannon Beach 6"></div>
+    <div class="photo"><img src="/images/gallery/cannonbeach/cannonbeach7.jpg" alt="Cannon Beach 7"></div>
+    <div class="photo"><img src="/images/gallery/cannonbeach/cannonbeach8.jpg" alt="Cannon Beach 8"></div>
+    <div class="photo"><img src="/images/gallery/cannonbeach/cannonbeach9.jpg" alt="Cannon Beach 9"></div>
+    <div class="photo"><img src="/images/gallery/cannonbeach/cannonbeach10.jpg" alt="Cannon Beach 10"></div>
+    <div class="photo"><img src="/images/gallery/cannonbeach/cannonbeach11.jpg" alt="Cannon Beach 11"></div>
+    <div class="photo"><img src="/images/gallery/cannonbeach/cannonbeach12.jpg" alt="Cannon Beach 12"></div>
+  </div>
+</div>
+
+
+<div class="album-card">
+  <div class="album-head">
     <p class="album-title">🏜️ Grand Canyon <span style="font-weight:600;color:#6b7280;">(AZ/UT)</span></p>
     <div class="album-badges">
       <span class="badge">Grand Canyon</span>
