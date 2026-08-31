@@ -44,33 +44,7 @@ The question that keeps me up (in a good way):
 
 In statistical learning, this is about transferring geometry or smoothness from a well-understood **source** distribution to a smaller, noisier **target** under shift.  In reinforcement learning, the **source** might be prior trajectories, simulators, or related tasks, while the **target** is the evolving environment, so we need principled rules for **what to keep, what to adapt, and what to forget**. And yes! **LLMs/VLMs** make this even more exciting (and tricky): they already contain a lot of cross-domain knowledge, but the real challenge is **extracting and specializing it safely** for downstream tasks without **overfitting, hallucination, or misalignment**.
 
-
-
-## What I build
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <img src="https://img.shields.io/badge/THEORY-0369A1?style=flat-square&labelColor=0369A1" alt="THEORY">&nbsp;<b>Theory that supports practice</b><br>
-      Minimax rates · oracle inequalities · regret bounds · safe-transfer criteria under covariate or structural shift.
-    </td>
-    <td width="50%" valign="top">
-      <img src="https://img.shields.io/badge/GRAPHS-7C3AED?style=flat-square&labelColor=7C3AED" alt="GRAPHS">&nbsp;<b>Graph-structured transfer</b><br>
-      Aligning and transporting information across graphs and manifolds — robust transfer when correspondence is messy or unknown.
-    </td>
-  </tr>
-  <tr>
-    <td valign="top">
-      <img src="https://img.shields.io/badge/RL_%26_BANDITS-DB2777?style=flat-square&labelColor=DB2777" alt="RL & BANDITS">&nbsp;<b>RL &amp; bandits under drift</b><br>
-      Warm-started policies with uncertainty-aware adaptation for reliable sequential decision-making in changing environments.
-    </td>
-    <td valign="top">
-      <img src="https://img.shields.io/badge/LLMs_%26_VLMs-0D9488?style=flat-square&labelColor=0D9488" alt="LLMs & VLMs">&nbsp;<b>Transfer for LLMs / VLMs</b><br>
-      Controlled adaptation · domain grounding · structure-preserving fine-tuning — so models adapt <i>without</i> getting sloppy.
-    </td>
-  </tr>
-</table>
-
+Concretely, that means caring about when transfer provably works — minimax rates, oracle inequalities, safe-transfer criteria — and about the cases where structure is the hard part: aligning graphs and manifolds without known correspondence, warm-starting policies in environments that won't hold still, and specializing pretrained LLMs and VLMs without letting them overfit or drift out of alignment.
 
 
 Curious about my research? I've put together beginner-friendly slide decks on my main research directions: **[transfer learning](transfer_learning.pdf)**, **[graph learning](graph_learning.pdf)**, **[optimal transport](optimal_transport.pdf)**, and **[LLMs for time series](llm_time_series.pdf)**.
