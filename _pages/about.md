@@ -56,6 +56,36 @@ redirect_from:
 .page__content table { border: none; }
 .page__content table td { border: none; padding: 0.5em 0.9em 1.2em 0; }
 .page__content table tr { border: none; background: none !important; }
+.page__content p {
+  margin: 0 0 0.9em;
+  line-height: 1.65;
+}
+
+.page__content h1 {
+  margin-top: 1.6em;
+  margin-bottom: 0.7em;
+}
+.page__content h2 {
+  margin-top: 1.2em;
+  margin-bottom: 0.5em;
+}
+
+.page__content li {
+  margin-bottom: 0.25em;
+  line-height: 1.55;
+}
+.page__content ul {
+  margin: 0.4em 0 0.9em;
+}
+
+
+.page__content table td {
+  padding: 0.4em 0.8em 0.9em 0;
+}
+
+.page__content table {
+  margin: 0.6em 0 1.2em;
+}
 </style>
 
 {% if site.google_scholar_stats_use_cdn %}
