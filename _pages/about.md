@@ -25,36 +25,19 @@ The question I keep coming back to: **how do you reuse what a model already know
 
 ## What I build
 
-<table>
-<tr>
-<td width="50%" valign="top">
 
-**Theory that supports practice**  
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=2500&pause=600&color=D97757&width=380&lines=minimax+rates;oracle+inequalities;regret+bounds;safe-transfer+criteria" />
 
-</td>
-<td width="50%" valign="top">
+`Theory` &nbsp;**Minimax rates · oracle inequalities · regret bounds**  
+<sub>Safe-transfer criteria under covariate or structural shift.</sub>
 
-**Graph-structured transfer**  
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=2500&pause=600&color=D97757&width=380&lines=optimal+transport+across+graphs;manifold+alignment;correspondence-free+matching" />
+`Graphs` &nbsp;**Alignment and transport across graphs and manifolds**  
+<sub>Robust transfer when correspondence is messy or unknown.</sub>
 
-</td>
-</tr>
-<tr>
-<td valign="top">
+`RL` &nbsp;**Warm-started policies with uncertainty-aware adaptation**  
+<sub>Sequential decisions in environments that keep moving.</sub>
 
-**RL & bandits under drift**  
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=2500&pause=600&color=D97757&width=380&lines=warm-started+policies;uncertainty-aware+adaptation;non-stationary+environments" />
-
-</td>
-<td valign="top">
-
-**Transfer for LLMs / VLMs**  
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=2500&pause=600&color=D97757&width=380&lines=controlled+adaptation;domain+grounding;structure-preserving+fine-tuning" />
-
-</td>
-</tr>
-</table>
+`LLMs` &nbsp;**Controlled adaptation · domain grounding · structure-preserving fine-tuning**  
+<sub>Adapting broad pretrained knowledge without getting sloppy.</sub>
 
 Curious about the research? I've put together beginner-friendly slide decks on my main directions: **[transfer learning](transfer_learning.pdf)** · **[graph learning](graph_learning.pdf)** · **[optimal transport](optimal_transport.pdf)** · **[LLMs for time series](llm_time_series.pdf)**. I've been lucky to learn from [Zhanxing Zhu](https://zhanxingzhu.github.io/) (STGCN) and [Yongshun Gong](https://faculty.sdu.edu.cn/gongyongshun/en/), whose work on representation learning and spatio-temporal structure shaped how I think about heterogeneous, evolving data. Outside of research, I'm drawn to building things with atmosphere — cinema, memory, digital experiences that feel like something rather than just work ✨
 
@@ -266,39 +249,37 @@ Beyond theory and modeling, I am drawn to building AI applications that reflect 
 <table>
 <tr>
 <td width="50%" valign="top">
-
-**Alignment & Evaluation**  
-[![](https://img.shields.io/badge/AlignDPO-D97757?style=flat-square&logo=huggingface&logoColor=F0EEE6)](https://github.com/olivia3395/AlignDPO-Preference-Optimization-from-Scratch) [![](https://img.shields.io/badge/RAGAudit-D97757?style=flat-square&logo=huggingface&logoColor=F0EEE6)](https://github.com/olivia3395/RAGAudit)  
+<b>Alignment &amp; Evaluation</b><br>
+<a href="https://github.com/olivia3395/AlignDPO-Preference-Optimization-from-Scratch"><img src="https://img.shields.io/badge/AlignDPO-D97757?style=flat-square&logo=huggingface&logoColor=F0EEE6" alt="AlignDPO"></a>
+<a href="https://github.com/olivia3395/RAGAudit"><img src="https://img.shields.io/badge/RAGAudit-D97757?style=flat-square&logo=huggingface&logoColor=F0EEE6" alt="RAGAudit"></a><br>
 <sub>DPO · IPO · KTO · QLoRA · Mistral-7B — NLI · SelfCheckGPT · semantic entropy</sub>
-
 </td>
 <td width="50%" valign="top">
-
-**Retrieval Systems**  
-[![](https://img.shields.io/badge/GraphRAG-D97757?style=flat-square&logo=python&logoColor=F0EEE6)](https://github.com/olivia3395/GraphRAG) [![](https://img.shields.io/badge/Adaptive_RAG-D97757?style=flat-square&logo=fastapi&logoColor=F0EEE6)](https://github.com/olivia3395/Adaptive_RAG)  
+<b>Retrieval Systems</b><br>
+<a href="https://github.com/olivia3395/GraphRAG"><img src="https://img.shields.io/badge/GraphRAG-D97757?style=flat-square&logo=python&logoColor=F0EEE6" alt="GraphRAG"></a>
+<a href="https://github.com/olivia3395/Adaptive_RAG"><img src="https://img.shields.io/badge/Adaptive_RAG-D97757?style=flat-square&logo=fastapi&logoColor=F0EEE6" alt="Adaptive RAG"></a><br>
 <sub>entity graph + CLIP · ChromaDB — query routing · iterative retrieval · self-check</sub>
-
 </td>
 </tr>
 <tr>
 <td valign="top">
-
-**Inference Efficiency**  
-[![](https://img.shields.io/badge/DraftVerify-D97757?style=flat-square&logo=pytorch&logoColor=F0EEE6)](https://github.com/olivia3395/DraftVerify) [![](https://img.shields.io/badge/HQQ_Quantization-D97757?style=flat-square&logo=pytorch&logoColor=F0EEE6)](https://github.com/olivia3395/HQQ_1-bit_Quantization)  
-<sub>speculative decoding · acceptance rate — 1–8 bit · W1G64: 12.7× compression, >4× speedup</sub>
-
+<b>Inference Efficiency</b><br>
+<a href="https://github.com/olivia3395/DraftVerify"><img src="https://img.shields.io/badge/DraftVerify-D97757?style=flat-square&logo=pytorch&logoColor=F0EEE6" alt="DraftVerify"></a>
+<a href="https://github.com/olivia3395/HQQ_1-bit_Quantization"><img src="https://img.shields.io/badge/HQQ_Quantization-D97757?style=flat-square&logo=pytorch&logoColor=F0EEE6" alt="HQQ Quantization"></a><br>
+<sub>speculative decoding · acceptance rate — 1–8 bit · W1G64: 12.7× compression, &gt;4× speedup</sub>
 </td>
 <td valign="top">
-
-**Causal Inference**  
-[![](https://img.shields.io/badge/CausalLens-D97757?style=flat-square&logo=streamlit&logoColor=F0EEE6)](https://github.com/olivia3395/CausalLens) [![](https://img.shields.io/badge/Congestion_Pricing-D97757?style=flat-square&logo=python&logoColor=F0EEE6)](https://github.com/olivia3395/Pricing-Impact-Analyzer)  
+<b>Causal Inference</b><br>
+<a href="https://github.com/olivia3395/CausalLens"><img src="https://img.shields.io/badge/CausalLens-D97757?style=flat-square&logo=streamlit&logoColor=F0EEE6" alt="CausalLens"></a>
+<a href="https://github.com/olivia3395/Pricing-Impact-Analyzer"><img src="https://img.shields.io/badge/Congestion_Pricing-D97757?style=flat-square&logo=python&logoColor=F0EEE6" alt="Congestion Pricing"></a><br>
 <sub>DoWhy · Double ML · Causal Forest — TWFE · CS-DiD · Synthetic DiD · 12M+ NYC TLC</sub>
-
 </td>
 </tr>
 </table>
 
-<sub>Write-ups: [AlignDPO](https://github.com/olivia3395/AlignDPO-Preference-Optimization-from-Scratch/blob/main/DPO%20%26%20PPO.pdf) · [RAGAudit](https://github.com/olivia3395/RAGAudit/blob/main/RAG%20%26%20Hallucination%20Detection.pdf) · [Congestion Pricing](https://github.com/olivia3395/Pricing-Impact-Analyzer/blob/main/Congestion%20Pricing%20Impact%20Analyzer.pdf)</sub>
+<sub>Write-ups: <a href="https://github.com/olivia3395/AlignDPO-Preference-Optimization-from-Scratch/blob/main/DPO%20%26%20PPO.pdf">AlignDPO</a> · <a href="https://github.com/olivia3395/RAGAudit/blob/main/RAG%20%26%20Hallucination%20Detection.pdf">RAGAudit</a> · <a href="https://github.com/olivia3395/Pricing-Impact-Analyzer/blob/main/Congestion%20Pricing%20Impact%20Analyzer.pdf">Congestion Pricing</a></sub>
+
+
 
 
 <!--
