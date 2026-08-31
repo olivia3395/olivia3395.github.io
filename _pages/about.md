@@ -216,13 +216,27 @@ Beyond theory and modeling, I am drawn to building AI applications that reflect 
 # 🤖 LLM Engineering Projects
 
 
+**Alignment & Evaluation**  
+[![](https://img.shields.io/badge/AlignDPO-D97757?style=flat-square&logo=huggingface&logoColor=F0EEE6)](https://github.com/olivia3395/AlignDPO-Preference-Optimization-from-Scratch) [![](https://img.shields.io/badge/RAGAudit-D97757?style=flat-square&logo=huggingface&logoColor=F0EEE6)](https://github.com/olivia3395/RAGAudit)  
+<sub>DPO · IPO · KTO · QLoRA · Mistral-7B — NLI · SelfCheckGPT · semantic entropy</sub>
 
-[![](https://img.shields.io/badge/AlignDPO-D97757?style=flat-square&logo=huggingface&logoColor=F0EEE6)](https://github.com/olivia3395/AlignDPO-Preference-Optimization-from-Scratch) [![](https://img.shields.io/badge/RAGAudit-D97757?style=flat-square&logo=huggingface&logoColor=F0EEE6)](https://github.com/olivia3395/RAGAudit) [![](https://img.shields.io/badge/GraphRAG-D97757?style=flat-square&logo=chromadb&logoColor=F0EEE6)](https://github.com/olivia3395/GraphRAG) [![](https://img.shields.io/badge/Adaptive_RAG-D97757?style=flat-square&logo=fastapi&logoColor=F0EEE6)](https://github.com/olivia3395/Adaptive_RAG) [![](https://img.shields.io/badge/DraftVerify-D97757?style=flat-square&logo=pytorch&logoColor=F0EEE6)](https://github.com/olivia3395/DraftVerify) [![](https://img.shields.io/badge/HQQ_Quantization-D97757?style=flat-square&logo=pytorch&logoColor=F0EEE6)](https://github.com/olivia3395/HQQ_1-bit_Quantization) [![](https://img.shields.io/badge/CausalLens-D97757?style=flat-square&logo=streamlit&logoColor=F0EEE6)](https://github.com/olivia3395/CausalLens) [![](https://img.shields.io/badge/Congestion_Pricing-D97757?style=flat-square&logo=python&logoColor=F0EEE6)](https://github.com/olivia3395/Pricing-Impact-Analyzer) [![](https://img.shields.io/badge/Promotion_Optimization-D97757?style=flat-square&logo=python&logoColor=F0EEE6)](https://github.com/olivia3395/Causal-Promotion-Optimization) [![](https://img.shields.io/badge/Demand_Forecasting-D97757?style=flat-square&logo=lightning&logoColor=F0EEE6)](https://github.com/olivia3395/Retail-Demand-Forecasting)
+**Retrieval Systems**  
+[![](https://img.shields.io/badge/GraphRAG-D97757?style=flat-square&logo=python&logoColor=F0EEE6)](https://github.com/olivia3395/GraphRAG) [![](https://img.shields.io/badge/Adaptive_RAG-D97757?style=flat-square&logo=fastapi&logoColor=F0EEE6)](https://github.com/olivia3395/Adaptive_RAG)  
+<sub>entity graph + CLIP · ChromaDB — query routing · iterative retrieval · self-check</sub>
 
-<sub>Alignment (DPO/IPO/KTO, QLoRA) · Retrieval & hallucination detection (NLI, SelfCheckGPT, semantic entropy) · Inference efficiency (speculative decoding, 1-bit quantization) · Causal inference (DiD, Double ML, CATE)</sub>
+**Inference Efficiency**  
+[![](https://img.shields.io/badge/DraftVerify-D97757?style=flat-square&logo=pytorch&logoColor=F0EEE6)](https://github.com/olivia3395/DraftVerify) [![](https://img.shields.io/badge/HQQ_Quantization-D97757?style=flat-square&logo=pytorch&logoColor=F0EEE6)](https://github.com/olivia3395/HQQ_1-bit_Quantization)  
+<sub>speculative decoding · acceptance rate — 1–8 bit · W1G64: 12.7× compression, >4× speedup</sub>
+
+**Causal Inference**  
+[![](https://img.shields.io/badge/CausalLens-D97757?style=flat-square&logo=streamlit&logoColor=F0EEE6)](https://github.com/olivia3395/CausalLens) [![](https://img.shields.io/badge/Congestion_Pricing-D97757?style=flat-square&logo=python&logoColor=F0EEE6)](https://github.com/olivia3395/Pricing-Impact-Analyzer) [![](https://img.shields.io/badge/Promotion_Optimization-D97757?style=flat-square&logo=python&logoColor=F0EEE6)](https://github.com/olivia3395/Causal-Promotion-Optimization)  
+<sub>DoWhy · Double ML · Causal Forest — TWFE · CS-DiD · Synthetic DiD · 12M+ NYC TLC — AIPW · DRLearner CATE · OR-Tools</sub>
+
+**Forecasting**  
+[![](https://img.shields.io/badge/Demand_Forecasting-D97757?style=flat-square&logo=python&logoColor=F0EEE6)](https://github.com/olivia3395/Retail-Demand-Forecasting)  
+<sub>Seasonal Naive · LightGBM · TFT · M5 · 28-day store-SKU</sub>
 
 <sub>Write-ups: [AlignDPO](https://github.com/olivia3395/AlignDPO-Preference-Optimization-from-Scratch/blob/main/DPO%20%26%20PPO.pdf) · [RAGAudit](https://github.com/olivia3395/RAGAudit/blob/main/RAG%20%26%20Hallucination%20Detection.pdf) · [Congestion Pricing](https://github.com/olivia3395/Pricing-Impact-Analyzer/blob/main/Congestion%20Pricing%20Impact%20Analyzer.pdf) · [Promotion Optimization](https://github.com/olivia3395/Causal-Promotion-Optimization/blob/main/Causal_Promotion.pdf) · [Demand Forecasting](https://github.com/olivia3395/Retail-Demand-Forecasting/blob/main/Retail_Demand.pdf)</sub>
-
 
 <!--
 
