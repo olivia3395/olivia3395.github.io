@@ -215,6 +215,18 @@ Beyond theory and modeling, I am drawn to building AI applications that reflect 
 
 # 🤖 LLM Engineering Projects
 
+
+
+[![](https://img.shields.io/badge/AlignDPO-D97757?style=flat-square&logo=huggingface&logoColor=F0EEE6)](https://github.com/olivia3395/AlignDPO-Preference-Optimization-from-Scratch) [![](https://img.shields.io/badge/RAGAudit-D97757?style=flat-square&logo=huggingface&logoColor=F0EEE6)](https://github.com/olivia3395/RAGAudit) [![](https://img.shields.io/badge/GraphRAG-D97757?style=flat-square&logo=chromadb&logoColor=F0EEE6)](https://github.com/olivia3395/GraphRAG) [![](https://img.shields.io/badge/Adaptive_RAG-D97757?style=flat-square&logo=fastapi&logoColor=F0EEE6)](https://github.com/olivia3395/Adaptive_RAG) [![](https://img.shields.io/badge/DraftVerify-D97757?style=flat-square&logo=pytorch&logoColor=F0EEE6)](https://github.com/olivia3395/DraftVerify) [![](https://img.shields.io/badge/HQQ_Quantization-D97757?style=flat-square&logo=pytorch&logoColor=F0EEE6)](https://github.com/olivia3395/HQQ_1-bit_Quantization) [![](https://img.shields.io/badge/CausalLens-D97757?style=flat-square&logo=streamlit&logoColor=F0EEE6)](https://github.com/olivia3395/CausalLens) [![](https://img.shields.io/badge/Congestion_Pricing-D97757?style=flat-square&logo=python&logoColor=F0EEE6)](https://github.com/olivia3395/Pricing-Impact-Analyzer) [![](https://img.shields.io/badge/Promotion_Optimization-D97757?style=flat-square&logo=python&logoColor=F0EEE6)](https://github.com/olivia3395/Causal-Promotion-Optimization) [![](https://img.shields.io/badge/Demand_Forecasting-D97757?style=flat-square&logo=lightning&logoColor=F0EEE6)](https://github.com/olivia3395/Retail-Demand-Forecasting)
+
+<sub>Alignment (DPO/IPO/KTO, QLoRA) · Retrieval & hallucination detection (NLI, SelfCheckGPT, semantic entropy) · Inference efficiency (speculative decoding, 1-bit quantization) · Causal inference (DiD, Double ML, CATE)</sub>
+
+<sub>Write-ups: [AlignDPO](https://github.com/olivia3395/AlignDPO-Preference-Optimization-from-Scratch/blob/main/DPO%20%26%20PPO.pdf) · [RAGAudit](https://github.com/olivia3395/RAGAudit/blob/main/RAG%20%26%20Hallucination%20Detection.pdf) · [Congestion Pricing](https://github.com/olivia3395/Pricing-Impact-Analyzer/blob/main/Congestion%20Pricing%20Impact%20Analyzer.pdf) · [Promotion Optimization](https://github.com/olivia3395/Causal-Promotion-Optimization/blob/main/Causal_Promotion.pdf) · [Demand Forecasting](https://github.com/olivia3395/Retail-Demand-Forecasting/blob/main/Retail_Demand.pdf)</sub>
+
+
+<!--
+
+
 <table>
   <tr>
     <td width="50%" valign="top">
@@ -268,6 +280,7 @@ Beyond theory and modeling, I am drawn to building AI applications that reflect 
   </tr>
 </table>
 
+-->
 
 
 # 📖 Educations
