@@ -303,34 +303,6 @@ Beyond theory and modeling, I am drawn to building AI applications that reflect 
 
 # 🤖 LLM & DS Projects
 
-<table>
-<tr><td valign="top" width="22%"><b>AlignDPO</b><br><sub>alignment</sub></td>
-<td valign="top">Preference optimization implemented from scratch — DPO, IPO, KTO with QLoRA on Mistral-7B, compared head-to-head on HH-RLHF. &nbsp;<a href="https://github.com/olivia3395/AlignDPO-Preference-Optimization-from-Scratch">code</a> · <a href="https://github.com/olivia3395/AlignDPO-Preference-Optimization-from-Scratch/blob/main/DPO%20%26%20PPO.pdf">write-up</a></td></tr>
-
-<tr><td valign="top"><b>RAGAudit</b><br><sub>evaluation</sub></td>
-<td valign="top">Hallucination detection over retrieval pipelines, combining NLI entailment, SelfCheckGPT, and semantic entropy as complementary signals. &nbsp;<a href="https://github.com/olivia3395/RAGAudit">code</a> · <a href="https://github.com/olivia3395/RAGAudit/blob/main/RAG%20%26%20Hallucination%20Detection.pdf">write-up</a></td></tr>
-
-<tr><td valign="top"><b>Congestion Pricing</b><br><sub>causal</sub></td>
-<td valign="top">What NYC's congestion charge actually did to traffic — TWFE, Callaway–Sant'Anna DiD, and synthetic DiD across 12M+ taxi trips. &nbsp;<a href="https://github.com/olivia3395/Pricing-Impact-Analyzer">code</a> · <a href="https://github.com/olivia3395/Pricing-Impact-Analyzer/blob/main/Congestion%20Pricing%20Impact%20Analyzer.pdf">write-up</a></td></tr>
-</table>
-
-<sub><b>ALSO</b> &nbsp;
-<a href="https://github.com/olivia3395/GraphRAG">GraphRAG</a> ·
-<a href="https://github.com/olivia3395/Adaptive_RAG">Adaptive RAG</a> ·
-<a href="https://github.com/olivia3395/DraftVerify">DraftVerify</a> ·
-<a href="https://github.com/olivia3395/HQQ_1-bit_Quantization">HQQ Quantization</a> ·
-<a href="https://github.com/olivia3395/CausalLens">CausalLens</a> ·
-<a href="https://github.com/olivia3395/AB_Test_Ad">A/B Testing</a> ·
-<a href="https://github.com/olivia3395/finanial-text-analysis">Financial Sentiment</a> ·
-<a href="https://github.com/olivia3395/spam_detection">Spam Detection</a> ·
-<a href="https://github.com/olivia3395/dog_identification_app">Dog Classification</a> ·
-<a href="https://github.com/olivia3395/MaskDetection">Mask Detection</a> ·
-<a href="https://github.com/olivia3395/Bayesian_Lung_Cancer_Prediction">Bayesian Logistic</a> ·
-<a href="https://github.com/olivia3395/GlobalRiskAnalysisUSA">Time Series</a> ·
-<a href="https://github.com/olivia3395/credit-default-risk">Credit Risk</a> ·
-<a href="https://github.com/olivia3395/Customer_Segmentation">Segmentation</a> ·
-<a href="https://github.com/olivia3395/rshinyapp_airbnb">Airbnb Dashboard</a></sub>
-
 
 <table>
 <tr>
