@@ -36,13 +36,13 @@ redirect_from:
 }
 
 .page__content a {
-  color: #C1603F;
+  color: #1B6B7A;
   text-decoration: none;
-  border-bottom: 1px solid rgba(193, 96, 63, 0.25);
+  border-bottom: 1px solid rgba(27, 107, 122, 0.25);
   transition: border-color 0.2s ease;
 }
 .page__content a:hover {
-  border-bottom-color: #C1603F;
+  border-bottom-color: #1B6B7A;
 }
 
 .page__content sub {
@@ -57,7 +57,6 @@ redirect_from:
 .page__content table td { border: none; padding: 0.5em 0.9em 1.2em 0; }
 .page__content table tr { border: none; background: none !important; }
 </style>
-
 
 {% if site.google_scholar_stats_use_cdn %}
 {% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
