@@ -243,24 +243,15 @@ Beyond theory and modeling, I am drawn to building AI applications that reflect 
 </td>
 <td valign="top">
 
-**Forecasting**  
-[![](https://img.shields.io/badge/Demand_Forecasting-D97757?style=flat-square&logo=python&logoColor=F0EEE6)](https://github.com/olivia3395/Retail-Demand-Forecasting)  
-<sub>Seasonal Naive · LightGBM · TFT · M5 · 28-day store-SKU</sub>
-
-</td>
-</tr>
-<tr>
-<td colspan="2" valign="top">
-
 **Causal Inference**  
-[![](https://img.shields.io/badge/CausalLens-D97757?style=flat-square&logo=streamlit&logoColor=F0EEE6)](https://github.com/olivia3395/CausalLens) [![](https://img.shields.io/badge/Congestion_Pricing-D97757?style=flat-square&logo=python&logoColor=F0EEE6)](https://github.com/olivia3395/Pricing-Impact-Analyzer) [![](https://img.shields.io/badge/Promotion_Optimization-D97757?style=flat-square&logo=python&logoColor=F0EEE6)](https://github.com/olivia3395/Causal-Promotion-Optimization)  
-<sub>DoWhy · Double ML · Causal Forest — TWFE · CS-DiD · Synthetic DiD — AIPW · DRLearner CATE · OR-Tools</sub>
+[![](https://img.shields.io/badge/CausalLens-D97757?style=flat-square&logo=streamlit&logoColor=F0EEE6)](https://github.com/olivia3395/CausalLens) [![](https://img.shields.io/badge/Congestion_Pricing-D97757?style=flat-square&logo=python&logoColor=F0EEE6)](https://github.com/olivia3395/Pricing-Impact-Analyzer)  
+<sub>DoWhy · Double ML · Causal Forest — TWFE · CS-DiD · Synthetic DiD · 12M+ NYC TLC</sub>
 
 </td>
 </tr>
 </table>
 
-<sub>Write-ups: [AlignDPO](https://github.com/olivia3395/AlignDPO-Preference-Optimization-from-Scratch/blob/main/DPO%20%26%20PPO.pdf) · [RAGAudit](https://github.com/olivia3395/RAGAudit/blob/main/RAG%20%26%20Hallucination%20Detection.pdf) · [Congestion Pricing](https://github.com/olivia3395/Pricing-Impact-Analyzer/blob/main/Congestion%20Pricing%20Impact%20Analyzer.pdf) · [Promotion Optimization](https://github.com/olivia3395/Causal-Promotion-Optimization/blob/main/Causal_Promotion.pdf) · [Demand Forecasting](https://github.com/olivia3395/Retail-Demand-Forecasting/blob/main/Retail_Demand.pdf)</sub>
+<sub>Write-ups: [AlignDPO](https://github.com/olivia3395/AlignDPO-Preference-Optimization-from-Scratch/blob/main/DPO%20%26%20PPO.pdf) · [RAGAudit](https://github.com/olivia3395/RAGAudit/blob/main/RAG%20%26%20Hallucination%20Detection.pdf) · [Congestion Pricing](https://github.com/olivia3395/Pricing-Impact-Analyzer/blob/main/Congestion%20Pricing%20Impact%20Analyzer.pdf)</sub>
 
 
 <!--
