@@ -67,16 +67,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Howdy! I'm a Statistics Ph.D. candidate at Boston University, advised by [Debarghya Mukherjee](https://debarghya-mukherjee.github.io/) and [Luis Carvalho](https://math.bu.edu/people/lecarval/). Previously: M.A. Statistics, Columbia; B.S. Mathematics, Shandong University (with a year at AMSS, Chinese Academy of Sciences).
+Howdy! I'm a Statistics Ph.D. candidate at Boston University, advised by [Debarghya Mukherjee](https://debarghya-mukherjee.github.io/) and [Luis Carvalho](https://math.bu.edu/people/lecarval/). Before BU: M.A. Statistics at Columbia, B.S. Mathematics at Shandong University, with a year at AMSS, Chinese Academy of Sciences.
 
-I work on **transfer learning and representation learning** — optimal transport, graph methods, multimodal models — with a focus on what holds up when data is scarce, high-dimensional, and non-IID.
+I work on transfer learning and representation learning — optimal transport, graph methods, multimodal models — with a focus on what holds up when data is scarce, high-dimensional, and non-IID. The question I keep coming back to: **how do you reuse what a model already knows when the world won't sit still?** Part of the answer is knowing when transfer provably works — minimax rates, oracle inequalities, safe-transfer criteria. The other part is the cases where structure itself is the obstacle: aligning graphs and manifolds without known correspondence, warm-starting policies in environments that keep moving, and specializing pretrained LLMs and VLMs without letting them overfit or drift out of alignment.
 
-The question I keep coming back to: **how do you reuse what a model already knows when the world won't sit still?** Under distribution shift, that means transferring structure from a well-understood source to a noisier target. In LLMs and VLMs, it means specializing broad pretrained knowledge for a downstream task without overfitting, hallucination, or misalignment.
-
-Concretely, that means caring about when transfer provably works — minimax rates, oracle inequalities, safe-transfer criteria — and about the cases where structure is the hard part: aligning graphs and manifolds without known correspondence, warm-starting policies in environments that won't hold still, and specializing pretrained LLMs and VLMs without letting them overfit or drift out of alignment.
-
-Curious about the research? I've put together beginner-friendly slide decks on my main directions: **[transfer learning](transfer_learning.pdf)** · **[graph learning](graph_learning.pdf)** · **[optimal transport](optimal_transport.pdf)** · **[LLMs for time series](llm_time_series.pdf)**. I've been lucky to learn from [Zhanxing Zhu](https://zhanxingzhu.github.io/) (STGCN) and [Yongshun Gong](https://faculty.sdu.edu.cn/gongyongshun/en/), whose work on representation learning and spatio-temporal structure shaped how I think about heterogeneous, evolving data. Outside of research, I'm drawn to building things with atmosphere — cinema, memory, digital experiences that feel like something rather than just work ✨
-
+For anyone who wants a gentler entry point, I've put together beginner-friendly slide decks on my main directions: **[transfer learning](transfer_learning.pdf)** · **[graph learning](graph_learning.pdf)** · **[optimal transport](optimal_transport.pdf)** · **[LLMs for time series](llm_time_series.pdf)**. I've been lucky to learn from [Zhanxing Zhu](https://zhanxingzhu.github.io/) (STGCN) and [Yongshun Gong](https://faculty.sdu.edu.cn/gongyongshun/en/), whose work on spatio-temporal structure shaped how I think about heterogeneous, evolving data. Outside of research, I'm drawn to building things with atmosphere — cinema, memory, digital experiences that feel like something rather than just work ✨
 
 
 <!--
