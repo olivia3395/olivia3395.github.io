@@ -23,12 +23,7 @@ I work on **transfer learning and representation learning** — optimal transpor
 
 The question I keep coming back to: **how do you reuse what a model already knows when the world won't sit still?** Under distribution shift, that means transferring structure from a well-understood source to a noisier target. In LLMs and VLMs, it means specializing broad pretrained knowledge for a downstream task without overfitting, hallucination, or misalignment.
 
-## What I build
-
-**Theory** → **Graphs** → **RL & Bandits** → **LLMs / VLMs**
-
-<sub>The same question at four levels of abstraction: minimax rates and safe-transfer criteria at the bottom; transport across graphs and manifolds when correspondence is unknown; warm-started policies under drift; and controlled adaptation of pretrained models without overfitting or misalignment.</sub>
-
+Concretely, that means caring about when transfer provably works — minimax rates, oracle inequalities, safe-transfer criteria — and about the cases where structure is the hard part: aligning graphs and manifolds without known correspondence, warm-starting policies in environments that won't hold still, and specializing pretrained LLMs and VLMs without letting them overfit or drift out of alignment.
 
 Curious about the research? I've put together beginner-friendly slide decks on my main directions: **[transfer learning](transfer_learning.pdf)** · **[graph learning](graph_learning.pdf)** · **[optimal transport](optimal_transport.pdf)** · **[LLMs for time series](llm_time_series.pdf)**. I've been lucky to learn from [Zhanxing Zhu](https://zhanxingzhu.github.io/) (STGCN) and [Yongshun Gong](https://faculty.sdu.edu.cn/gongyongshun/en/), whose work on representation learning and spatio-temporal structure shaped how I think about heterogeneous, evolving data. Outside of research, I'm drawn to building things with atmosphere — cinema, memory, digital experiences that feel like something rather than just work ✨
 
@@ -43,9 +38,6 @@ The question that keeps me up (in a good way):
 > **How can we reuse past knowledge when the world—and the data—won’t sit still?**
 
 In statistical learning, this is about transferring geometry or smoothness from a well-understood **source** distribution to a smaller, noisier **target** under shift.  In reinforcement learning, the **source** might be prior trajectories, simulators, or related tasks, while the **target** is the evolving environment, so we need principled rules for **what to keep, what to adapt, and what to forget**. And yes! **LLMs/VLMs** make this even more exciting (and tricky): they already contain a lot of cross-domain knowledge, but the real challenge is **extracting and specializing it safely** for downstream tasks without **overfitting, hallucination, or misalignment**.
-
-Concretely, that means caring about when transfer provably works — minimax rates, oracle inequalities, safe-transfer criteria — and about the cases where structure is the hard part: aligning graphs and manifolds without known correspondence, warm-starting policies in environments that won't hold still, and specializing pretrained LLMs and VLMs without letting them overfit or drift out of alignment.
-
 
 Curious about my research? I've put together beginner-friendly slide decks on my main research directions: **[transfer learning](transfer_learning.pdf)**, **[graph learning](graph_learning.pdf)**, **[optimal transport](optimal_transport.pdf)**, and **[LLMs for time series](llm_time_series.pdf)**.
 
