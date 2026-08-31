@@ -380,7 +380,17 @@ A quiet collection of cinematic, atmospheric, and emotionally resonant side proj
 
 # 📂 DS Projects
 
-[Dog Classification](https://github.com/olivia3395/dog_identification_app) · [Credit Risk](https://github.com/olivia3395/credit-default-risk) · [Financial Sentiment](https://github.com/olivia3395/finanial-text-analysis) · [Mask Detection](https://github.com/olivia3395/MaskDetection) · [Spam Detection](https://github.com/olivia3395/spam_detection) · [Airbnb Dashboard](https://github.com/olivia3395/rshinyapp_airbnb) · [Bayesian Logistic](https://github.com/olivia3395/Bayesian_Lung_Cancer_Prediction) · [A/B Testing](https://github.com/olivia3395/AB_Test_Ad) · [Time Series](https://github.com/olivia3395/GlobalRiskAnalysisUSA) · [Recommender](https://github.com/olivia3395/Spring2020-Project4-group8) · [Segmentation](https://github.com/olivia3395/Customer_Segmentation)
+[![Dog Classification](https://img.shields.io/badge/Dog_Classification-24292F?style=flat-square)](https://github.com/olivia3395/dog_identification_app)
+[![Credit Risk](https://img.shields.io/badge/Credit_Risk-24292F?style=flat-square)](https://github.com/olivia3395/credit-default-risk)
+[![Financial Sentiment](https://img.shields.io/badge/Financial_Sentiment-24292F?style=flat-square)](https://github.com/olivia3395/finanial-text-analysis)
+[![Mask Detection](https://img.shields.io/badge/Mask_Detection-24292F?style=flat-square)](https://github.com/olivia3395/MaskDetection)
+[![Spam Detection](https://img.shields.io/badge/Spam_Detection-24292F?style=flat-square)](https://github.com/olivia3395/spam_detection)
+[![Airbnb Dashboard](https://img.shields.io/badge/Airbnb_Dashboard-24292F?style=flat-square)](https://github.com/olivia3395/rshinyapp_airbnb)
+[![Bayesian Logistic](https://img.shields.io/badge/Bayesian_Logistic-24292F?style=flat-square)](https://github.com/olivia3395/Bayesian_Lung_Cancer_Prediction)
+[![A/B Testing](https://img.shields.io/badge/A%2FB_Testing-24292F?style=flat-square)](https://github.com/olivia3395/AB_Test_Ad)
+[![Time Series](https://img.shields.io/badge/Time_Series-24292F?style=flat-square)](https://github.com/olivia3395/GlobalRiskAnalysisUSA)
+[![Recommender](https://img.shields.io/badge/Recommender-24292F?style=flat-square)](https://github.com/olivia3395/Spring2020-Project4-group8)
+[![Segmentation](https://img.shields.io/badge/Segmentation-24292F?style=flat-square)](https://github.com/olivia3395/Customer_Segmentation)
 
 
 
