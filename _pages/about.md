@@ -17,13 +17,56 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Howdy! I’m a Ph.D. candidate in Statistics at Boston University, co-advised by [Prof. Debarghya Mukherjee](https://debarghya-mukherjee.github.io/) and [Prof. Luis Carvalho](https://math.bu.edu/people/lecarval/), and I also collaborate with [Prof. Nabarun Deb](https://nabarund.github.io/). Before BU, I earned my M.A. in Statistics from Columbia University and my B.S. in Mathematics from Shandong University, including a year of joint training at the Academy of Mathematics and Systems Science(AMSS), Chinese Academy of Sciences. My research sits at the intersection of statistics and machine learning, where I develop theoretically grounded transfer-learning and representation-learning methods—spanning optimal transport, graph mining, multimodal learning for structured, heterogeneous data in low-sample, high-dimensional, and non-IID settings. 
+Howdy! I'm a Statistics Ph.D. candidate at Boston University, advised by [Debarghya Mukherjee](https://debarghya-mukherjee.github.io/) and [Luis Carvalho](https://math.bu.edu/people/lecarval/). Previously: M.A. Statistics, Columbia; B.S. Mathematics, Shandong University (with a year at AMSS, Chinese Academy of Sciences).
+
+I work on **transfer learning and representation learning** — optimal transport, graph methods, multimodal models — with a focus on what holds up when data is scarce, high-dimensional, and non-IID.
+
+The question I keep coming back to: **how do you reuse what a model already knows when the world won't sit still?** Under distribution shift, that means transferring structure from a well-understood source to a noisier target. In LLMs and VLMs, it means specializing broad pretrained knowledge for a downstream task without overfitting, hallucination, or misalignment.
+
+## What I build
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+![](https://img.shields.io/badge/Theory-D97757?style=flat-square) **Theory that supports practice**  
+Minimax rates · oracle inequalities · regret bounds · safe-transfer criteria under covariate or structural shift.
+
+</td>
+<td width="50%" valign="top">
+
+![](https://img.shields.io/badge/Graphs-D97757?style=flat-square) **Graph-structured transfer**  
+Aligning and transporting information across graphs and manifolds — robust transfer when correspondence is messy or unknown.
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+![](https://img.shields.io/badge/RL_%26_Bandits-D97757?style=flat-square) **RL & bandits under drift**  
+Warm-started policies with uncertainty-aware adaptation for sequential decisions in changing environments.
+
+</td>
+<td valign="top">
+
+![](https://img.shields.io/badge/LLMs_%26_VLMs-D97757?style=flat-square) **Transfer for LLMs / VLMs**  
+Controlled adaptation · domain grounding · structure-preserving fine-tuning — adapting without getting sloppy.
+
+</td>
+</tr>
+</table>
+
+
+<!--
+
+I’m a Ph.D. candidate in Statistics at Boston University, co-advised by [Prof. Debarghya Mukherjee](https://debarghya-mukherjee.github.io/) and [Prof. Luis Carvalho](https://math.bu.edu/people/lecarval/), and I also collaborate with [Prof. Nabarun Deb](https://nabarund.github.io/). Before BU, I earned my M.A. in Statistics from Columbia University and my B.S. in Mathematics from Shandong University, including a year of joint training at the Academy of Mathematics and Systems Science(AMSS), Chinese Academy of Sciences. My research sits at the intersection of statistics and machine learning, where I develop theoretically grounded transfer-learning and representation-learning methods—spanning optimal transport, graph mining, multimodal learning for structured, heterogeneous data in low-sample, high-dimensional, and non-IID settings. 
 
 The question that keeps me up (in a good way):
 
 > **How can we reuse past knowledge when the world—and the data—won’t sit still?**
 
 In statistical learning, this is about transferring geometry or smoothness from a well-understood **source** distribution to a smaller, noisier **target** under shift.  In reinforcement learning, the **source** might be prior trajectories, simulators, or related tasks, while the **target** is the evolving environment, so we need principled rules for **what to keep, what to adapt, and what to forget**. And yes! **LLMs/VLMs** make this even more exciting (and tricky): they already contain a lot of cross-domain knowledge, but the real challenge is **extracting and specializing it safely** for downstream tasks without **overfitting, hallucination, or misalignment**.
+
 
 
 ## What I build
@@ -51,6 +94,7 @@ In statistical learning, this is about transferring geometry or smoothness from 
   </tr>
 </table>
 
+-->
 
 Curious about my research? I've put together beginner-friendly slide decks on my main research directions: **[transfer learning](transfer_learning.pdf)**, **[graph learning](graph_learning.pdf)**, **[optimal transport](optimal_transport.pdf)**, and **[LLMs for time series](llm_time_series.pdf)**.
 
