@@ -25,19 +25,10 @@ The question I keep coming back to: **how do you reuse what a model already know
 
 ## What I build
 
+**Theory** → **Graphs** → **RL & Bandits** → **LLMs / VLMs**
 
+<sub>The same question at four levels of abstraction: minimax rates and safe-transfer criteria at the bottom; transport across graphs and manifolds when correspondence is unknown; warm-started policies under drift; and controlled adaptation of pretrained models without overfitting or misalignment.</sub>
 
-`Theory` &nbsp;**Minimax rates · oracle inequalities · regret bounds**  
-<sub>Safe-transfer criteria under covariate or structural shift.</sub>
-
-`Graphs` &nbsp;**Alignment and transport across graphs and manifolds**  
-<sub>Robust transfer when correspondence is messy or unknown.</sub>
-
-`RL` &nbsp;**Warm-started policies with uncertainty-aware adaptation**  
-<sub>Sequential decisions in environments that keep moving.</sub>
-
-`LLMs` &nbsp;**Controlled adaptation · domain grounding · structure-preserving fine-tuning**  
-<sub>Adapting broad pretrained knowledge without getting sloppy.</sub>
 
 Curious about the research? I've put together beginner-friendly slide decks on my main directions: **[transfer learning](transfer_learning.pdf)** · **[graph learning](graph_learning.pdf)** · **[optimal transport](optimal_transport.pdf)** · **[LLMs for time series](llm_time_series.pdf)**. I've been lucky to learn from [Zhanxing Zhu](https://zhanxingzhu.github.io/) (STGCN) and [Yongshun Gong](https://faculty.sdu.edu.cn/gongyongshun/en/), whose work on representation learning and spatio-temporal structure shaped how I think about heterogeneous, evolving data. Outside of research, I'm drawn to building things with atmosphere — cinema, memory, digital experiences that feel like something rather than just work ✨
 
