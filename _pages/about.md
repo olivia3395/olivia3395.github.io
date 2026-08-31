@@ -226,7 +226,7 @@ Beyond theory and modeling, I am drawn to building AI applications that reflect 
 
 
 
-# 🤖 LLM Engineering Projects
+# 🤖 LLM & DS Projects
 
 <table>
 <tr>
