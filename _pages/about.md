@@ -258,9 +258,25 @@ Beyond theory and modeling, I am drawn to building AI applications that reflect 
 <sub>DoWhy · Double ML · Causal Forest — TWFE · CS-DiD · Synthetic DiD · 12M+ NYC TLC</sub>
 </td>
 </tr>
+<tr>
+<td colspan="2" valign="top">
+<b>Earlier work</b> &nbsp;<sub>vision · NLP · classical ML · statistics</sub><br>
+<a href="https://github.com/olivia3395/dog_identification_app"><img src="https://img.shields.io/badge/Dog_Classification-B8B5AC?style=flat-square&logo=keras&logoColor=FFFFFF" alt="Dog Classification"></a>
+<a href="https://github.com/olivia3395/MaskDetection"><img src="https://img.shields.io/badge/Mask_Detection-B8B5AC?style=flat-square&logo=opencv&logoColor=FFFFFF" alt="Mask Detection"></a>
+<a href="https://github.com/olivia3395/finanial-text-analysis"><img src="https://img.shields.io/badge/Financial_Sentiment-B8B5AC?style=flat-square&logo=huggingface&logoColor=FFFFFF" alt="Financial Sentiment"></a>
+<a href="https://github.com/olivia3395/spam_detection"><img src="https://img.shields.io/badge/Spam_Detection-B8B5AC?style=flat-square&logo=scikitlearn&logoColor=FFFFFF" alt="Spam Detection"></a>
+<a href="https://github.com/olivia3395/credit-default-risk"><img src="https://img.shields.io/badge/Credit_Risk-B8B5AC?style=flat-square&logo=python&logoColor=FFFFFF" alt="Credit Risk"></a>
+<a href="https://github.com/olivia3395/Spring2020-Project4-group8"><img src="https://img.shields.io/badge/Recommender-B8B5AC?style=flat-square&logo=apachespark&logoColor=FFFFFF" alt="Recommender"></a>
+<a href="https://github.com/olivia3395/Customer_Segmentation"><img src="https://img.shields.io/badge/Segmentation-B8B5AC?style=flat-square&logo=scikitlearn&logoColor=FFFFFF" alt="Segmentation"></a>
+<a href="https://github.com/olivia3395/Bayesian_Lung_Cancer_Prediction"><img src="https://img.shields.io/badge/Bayesian_Logistic-B8B5AC?style=flat-square&logo=r&logoColor=FFFFFF" alt="Bayesian Logistic"></a>
+<a href="https://github.com/olivia3395/AB_Test_Ad"><img src="https://img.shields.io/badge/A%2FB_Testing-B8B5AC?style=flat-square&logo=python&logoColor=FFFFFF" alt="A/B Testing"></a>
+<a href="https://github.com/olivia3395/GlobalRiskAnalysisUSA"><img src="https://img.shields.io/badge/Time_Series-B8B5AC?style=flat-square&logo=plotly&logoColor=FFFFFF" alt="Time Series"></a>
+<a href="https://github.com/olivia3395/rshinyapp_airbnb"><img src="https://img.shields.io/badge/Airbnb_Dashboard-B8B5AC?style=flat-square&logo=rstudioide&logoColor=FFFFFF" alt="Airbnb Dashboard"></a>
+</td>
+</tr>
 </table>
 
-<sub>Write-ups: <a href="https://github.com/olivia3395/AlignDPO-Preference-Optimization-from-Scratch/blob/main/DPO%20%26%20PPO.pdf">AlignDPO</a> · <a href="https://github.com/olivia3395/RAGAudit/blob/main/RAG%20%26%20Hallucination%20Detection.pdf">RAGAudit</a> · <a href="https://github.com/olivia3395/Pricing-Impact-Analyzer/blob/main/Congestion%20Pricing%20Impact%20Analyzer.pdf">Congestion Pricing</a></sub>
+<sub>Write-ups: <a href="https://github.com/olivia3395/AlignDPO-Preference-Optimization-from-Scratch/blob/main/DPO%20%26%20PPO.pdf">AlignDPO</a> · <a href="https://github.com/olivia3395/RAGAudit/blob/main/RAG%20%26%20Hallucination%20Detection.pdf">RAGAudit</a> · <a href="https://github.com/olivia3395/Pricing-Impact-Analyzer/blob/main/Congestion%20Pricing%20Impact%20Analyzer.pdf">Congestion Pricing</a> &nbsp;·&nbsp; Live demos: <a href="https://olivia3395.github.io/dog_identification_app/">Dog Classification</a> · <a href="https://olivia3395.github.io/finanial-text-analysis/">Financial Sentiment</a> · <a href="https://olivia3395.github.io/Bayesian_Lung_Cancer_Prediction/">Bayesian Logistic</a> · <a href="https://yuyaowang.shinyapps.io/airbnb_app/">Time Series</a> · <a href="https://yuyaowang.shinyapps.io/airbnb_app/">Airbnb Dashboard</a></sub>
 
 
 
@@ -430,15 +446,6 @@ A quiet collection of cinematic, atmospheric, and emotionally resonant side proj
 - *2018*: Outstanding Student Leader, Shandong University  
 
 -->
-
-
-# 📂 DS Projects
-
-
-
-[![](https://img.shields.io/badge/Dog_Classification-D97757?style=flat-square&logo=keras&logoColor=F0EEE6)](https://github.com/olivia3395/dog_identification_app) [![](https://img.shields.io/badge/Mask_Detection-D97757?style=flat-square&logo=opencv&logoColor=F0EEE6)](https://github.com/olivia3395/MaskDetection) [![](https://img.shields.io/badge/Financial_Sentiment-D97757?style=flat-square&logo=huggingface&logoColor=F0EEE6)](https://github.com/olivia3395/finanial-text-analysis) [![](https://img.shields.io/badge/Spam_Detection-D97757?style=flat-square&logo=scikitlearn&logoColor=F0EEE6)](https://github.com/olivia3395/spam_detection) [![](https://img.shields.io/badge/Credit_Risk-D97757?style=flat-square&logo=python&logoColor=F0EEE6)](https://github.com/olivia3395/credit-default-risk) [![](https://img.shields.io/badge/Recommender-D97757?style=flat-square&logo=apachespark&logoColor=F0EEE6)](https://github.com/olivia3395/Spring2020-Project4-group8) [![](https://img.shields.io/badge/Segmentation-D97757?style=flat-square&logo=scikitlearn&logoColor=F0EEE6)](https://github.com/olivia3395/Customer_Segmentation) [![](https://img.shields.io/badge/Bayesian_Logistic-D97757?style=flat-square&logo=r&logoColor=F0EEE6)](https://github.com/olivia3395/Bayesian_Lung_Cancer_Prediction) [![](https://img.shields.io/badge/A%2FB_Testing-D97757?style=flat-square&logo=python&logoColor=F0EEE6)](https://github.com/olivia3395/AB_Test_Ad) [![](https://img.shields.io/badge/Time_Series-D97757?style=flat-square&logo=plotly&logoColor=F0EEE6)](https://github.com/olivia3395/GlobalRiskAnalysisUSA) [![](https://img.shields.io/badge/Airbnb_Dashboard-D97757?style=flat-square&logo=rstudioide&logoColor=F0EEE6)](https://github.com/olivia3395/rshinyapp_airbnb)
-
-<sub>Live demos: [Dog Classification](https://olivia3395.github.io/dog_identification_app/) · [Financial Sentiment](https://olivia3395.github.io/finanial-text-analysis/) · [Bayesian Logistic](https://olivia3395.github.io/Bayesian_Lung_Cancer_Prediction/) · [Time Series](https://olivia3395.github.io/GlobalRiskAnalysisUSA/) · [Airbnb Dashboard](https://yuyaowang.shinyapps.io/airbnb_app/)</sub>
 
 
 
