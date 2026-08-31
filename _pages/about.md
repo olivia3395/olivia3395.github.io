@@ -369,6 +369,14 @@ A quiet collection of cinematic, atmospheric, and emotionally resonant side proj
 
 
 
+# 📂 DS Projects
+
+[Dog Classification](https://github.com/olivia3395/dog_identification_app) · [Credit Risk](https://github.com/olivia3395/credit-default-risk) · [Financial Sentiment](https://github.com/olivia3395/finanial-text-analysis) · [Mask Detection](https://github.com/olivia3395/MaskDetection) · [Spam Detection](https://github.com/olivia3395/spam_detection) · [Airbnb Dashboard](https://github.com/olivia3395/rshinyapp_airbnb) · [Bayesian Logistic](https://github.com/olivia3395/Bayesian_Lung_Cancer_Prediction) · [A/B Testing](https://github.com/olivia3395/AB_Test_Ad) · [Time Series](https://github.com/olivia3395/GlobalRiskAnalysisUSA) · [Recommender](https://github.com/olivia3395/Spring2020-Project4-group8) · [Segmentation](https://github.com/olivia3395/Customer_Segmentation)
+
+
+
+<!--
+
 
 # 📂 DS Projects
 
@@ -430,6 +438,8 @@ A quiet collection of cinematic, atmospheric, and emotionally resonant side proj
     </td>
   </tr>
 </table>
+
+-->
 
 
 
