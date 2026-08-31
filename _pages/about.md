@@ -8,6 +8,57 @@ redirect_from:
   - /about.html
 ---
 
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,600;1,6..72,400&family=Inter:wght@400;500;600&display=swap');
+
+.page__content {
+  font-family: 'Inter', -apple-system, sans-serif;
+  font-size: 0.95rem;
+  line-height: 1.75;
+  color: #2A2724;
+}
+
+.page__content h1 {
+  font-family: 'Newsreader', Georgia, serif;
+  font-weight: 600;
+  font-size: 1.65rem;
+  letter-spacing: -0.01em;
+  margin-top: 2.4em;
+  padding-bottom: 0.3em;
+  border-bottom: 1px solid #E8E4DC;
+}
+
+.page__content h2 {
+  font-family: 'Newsreader', Georgia, serif;
+  font-weight: 600;
+  font-size: 1.2rem;
+  color: #6B6558;
+}
+
+.page__content a {
+  color: #C1603F;
+  text-decoration: none;
+  border-bottom: 1px solid rgba(193, 96, 63, 0.25);
+  transition: border-color 0.2s ease;
+}
+.page__content a:hover {
+  border-bottom-color: #C1603F;
+}
+
+.page__content sub {
+  font-size: 0.82rem;
+  line-height: 1.6;
+  color: #7A7266;
+}
+
+.page__content li { margin-bottom: 0.4em; }
+
+.page__content table { border: none; }
+.page__content table td { border: none; padding: 0.5em 0.9em 1.2em 0; }
+.page__content table tr { border: none; background: none !important; }
+</style>
+
+
 {% if site.google_scholar_stats_use_cdn %}
 {% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
 {% else %}
