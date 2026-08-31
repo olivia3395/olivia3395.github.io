@@ -355,6 +355,14 @@ A quiet collection of cinematic, atmospheric, and emotionally resonant side proj
 
 
 # 🎖 Honors 
+
+**Boston University** — Dean's Dissertation Fellowship (2026) · Ralph B. D'Agostino Endowed Fellowship (2025) · Outstanding Teaching Fellow Award (2025) · Student Travel Grant (2025)  
+**Shandong University** — Outstanding Graduate (2019) · First-Class Scholarship (2018) · Outstanding Student Leader (2018)  
+**National** — Hua Loo-Keng Scholarship, Chinese Academy of Sciences (2018) · National Gold Award, Internet+ Innovation & Entrepreneurship Competition (2018)
+
+
+<!--
+
 - *2026*: Dean’s Dissertation Fellowship, Boston University
 - *2025*: Student Travel Grant, Boston University  
 - *2025*: Ralph B. D’Agostino Endowed Fellowship, Boston University  
@@ -367,6 +375,7 @@ A quiet collection of cinematic, atmospheric, and emotionally resonant side proj
 - *2018*: First-Class Scholarship, Shandong University  
 - *2018*: Outstanding Student Leader, Shandong University  
 
+-->
 
 
 # 📂 DS Projects
