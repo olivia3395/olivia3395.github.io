@@ -25,39 +25,36 @@ The question I keep coming back to: **how do you reuse what a model already know
 
 ## What I build
 
-## What I build
-
 <table>
 <tr>
 <td width="50%" valign="top">
 
-<img src="https://img.shields.io/badge/-D97757?style=flat-square&logo=wolframmathematica&logoColor=F0EEE6" height="20"> **Theory that supports practice**  
-<sub>Minimax rates · oracle inequalities · regret bounds · safe-transfer criteria under covariate or structural shift.</sub>
+**Theory that supports practice**  
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=2500&pause=600&color=D97757&width=380&lines=minimax+rates;oracle+inequalities;regret+bounds;safe-transfer+criteria" />
 
 </td>
 <td width="50%" valign="top">
 
-<img src="https://img.shields.io/badge/-D97757?style=flat-square&logo=graphql&logoColor=F0EEE6" height="20"> **Graph-structured transfer**  
-<sub>Aligning and transporting information across graphs and manifolds — robust transfer when correspondence is messy or unknown.</sub>
+**Graph-structured transfer**  
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=2500&pause=600&color=D97757&width=380&lines=optimal+transport+across+graphs;manifold+alignment;correspondence-free+matching" />
 
 </td>
 </tr>
 <tr>
 <td valign="top">
 
-<img src="https://img.shields.io/badge/-D97757?style=flat-square&logo=gamepad&logoColor=F0EEE6" height="20"> **RL & bandits under drift**  
-<sub>Warm-started policies with uncertainty-aware adaptation for sequential decisions in changing environments.</sub>
+**RL & bandits under drift**  
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=2500&pause=600&color=D97757&width=380&lines=warm-started+policies;uncertainty-aware+adaptation;non-stationary+environments" />
 
 </td>
 <td valign="top">
 
-<img src="https://img.shields.io/badge/-D97757?style=flat-square&logo=openai&logoColor=F0EEE6" height="20"> **Transfer for LLMs / VLMs**  
-<sub>Controlled adaptation · domain grounding · structure-preserving fine-tuning — adapting without getting sloppy.</sub>
+**Transfer for LLMs / VLMs**  
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=2500&pause=600&color=D97757&width=380&lines=controlled+adaptation;domain+grounding;structure-preserving+fine-tuning" />
 
 </td>
 </tr>
 </table>
-
 
 <!--
 
