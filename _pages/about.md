@@ -228,55 +228,61 @@ Beyond theory and modeling, I am drawn to building AI applications that reflect 
 
 # 🤖 LLM Engineering Projects
 
-
 <table>
 <tr>
 <td width="50%" valign="top">
-<b>Alignment &amp; Evaluation</b><br>
+<b>LLM Alignment &amp; Evaluation</b><br>
 <a href="https://github.com/olivia3395/AlignDPO-Preference-Optimization-from-Scratch"><img src="https://img.shields.io/badge/AlignDPO-D97757?style=flat-square&logo=huggingface&logoColor=F0EEE6" alt="AlignDPO"></a>
 <a href="https://github.com/olivia3395/RAGAudit"><img src="https://img.shields.io/badge/RAGAudit-D97757?style=flat-square&logo=huggingface&logoColor=F0EEE6" alt="RAGAudit"></a><br>
-<sub>DPO · IPO · KTO · QLoRA · Mistral-7B — NLI · SelfCheckGPT · semantic entropy</sub>
+<sub>DPO · IPO · KTO · QLoRA — NLI · SelfCheckGPT · semantic entropy</sub>
 </td>
 <td width="50%" valign="top">
-<b>Retrieval Systems</b><br>
+<b>Retrieval &amp; Inference</b><br>
 <a href="https://github.com/olivia3395/GraphRAG"><img src="https://img.shields.io/badge/GraphRAG-D97757?style=flat-square&logo=python&logoColor=F0EEE6" alt="GraphRAG"></a>
-<a href="https://github.com/olivia3395/Adaptive_RAG"><img src="https://img.shields.io/badge/Adaptive_RAG-D97757?style=flat-square&logo=fastapi&logoColor=F0EEE6" alt="Adaptive RAG"></a><br>
-<sub>entity graph + CLIP · ChromaDB — query routing · iterative retrieval · self-check</sub>
-</td>
-</tr>
-<tr>
-<td valign="top">
-<b>Inference Efficiency</b><br>
+<a href="https://github.com/olivia3395/Adaptive_RAG"><img src="https://img.shields.io/badge/Adaptive_RAG-D97757?style=flat-square&logo=fastapi&logoColor=F0EEE6" alt="Adaptive RAG"></a>
 <a href="https://github.com/olivia3395/DraftVerify"><img src="https://img.shields.io/badge/DraftVerify-D97757?style=flat-square&logo=pytorch&logoColor=F0EEE6" alt="DraftVerify"></a>
-<a href="https://github.com/olivia3395/HQQ_1-bit_Quantization"><img src="https://img.shields.io/badge/HQQ_Quantization-D97757?style=flat-square&logo=pytorch&logoColor=F0EEE6" alt="HQQ Quantization"></a><br>
-<sub>speculative decoding · acceptance rate — 1–8 bit · W1G64: 12.7× compression, &gt;4× speedup</sub>
-</td>
-<td valign="top">
-<b>Causal Inference</b><br>
-<a href="https://github.com/olivia3395/CausalLens"><img src="https://img.shields.io/badge/CausalLens-D97757?style=flat-square&logo=streamlit&logoColor=F0EEE6" alt="CausalLens"></a>
-<a href="https://github.com/olivia3395/Pricing-Impact-Analyzer"><img src="https://img.shields.io/badge/Congestion_Pricing-D97757?style=flat-square&logo=python&logoColor=F0EEE6" alt="Congestion Pricing"></a><br>
-<sub>DoWhy · Double ML · Causal Forest — TWFE · CS-DiD · Synthetic DiD · 12M+ NYC TLC</sub>
+<a href="https://github.com/olivia3395/HQQ_1-bit_Quantization"><img src="https://img.shields.io/badge/HQQ-D97757?style=flat-square&logo=pytorch&logoColor=F0EEE6" alt="HQQ"></a><br>
+<sub>entity graph + CLIP · query routing — speculative decoding · 1-bit quantization</sub>
 </td>
 </tr>
 <tr>
-<td colspan="2" valign="top">
-<b>Earlier work</b> &nbsp;<sub>vision · NLP · classical ML · statistics</sub><br>
-<a href="https://github.com/olivia3395/dog_identification_app"><img src="https://img.shields.io/badge/Dog_Classification-B8B5AC?style=flat-square&logo=keras&logoColor=FFFFFF" alt="Dog Classification"></a>
-<a href="https://github.com/olivia3395/MaskDetection"><img src="https://img.shields.io/badge/Mask_Detection-B8B5AC?style=flat-square&logo=opencv&logoColor=FFFFFF" alt="Mask Detection"></a>
-<a href="https://github.com/olivia3395/finanial-text-analysis"><img src="https://img.shields.io/badge/Financial_Sentiment-B8B5AC?style=flat-square&logo=huggingface&logoColor=FFFFFF" alt="Financial Sentiment"></a>
-<a href="https://github.com/olivia3395/spam_detection"><img src="https://img.shields.io/badge/Spam_Detection-B8B5AC?style=flat-square&logo=scikitlearn&logoColor=FFFFFF" alt="Spam Detection"></a>
-<a href="https://github.com/olivia3395/credit-default-risk"><img src="https://img.shields.io/badge/Credit_Risk-B8B5AC?style=flat-square&logo=python&logoColor=FFFFFF" alt="Credit Risk"></a>
-<a href="https://github.com/olivia3395/Spring2020-Project4-group8"><img src="https://img.shields.io/badge/Recommender-B8B5AC?style=flat-square&logo=apachespark&logoColor=FFFFFF" alt="Recommender"></a>
-<a href="https://github.com/olivia3395/Customer_Segmentation"><img src="https://img.shields.io/badge/Segmentation-B8B5AC?style=flat-square&logo=scikitlearn&logoColor=FFFFFF" alt="Segmentation"></a>
-<a href="https://github.com/olivia3395/Bayesian_Lung_Cancer_Prediction"><img src="https://img.shields.io/badge/Bayesian_Logistic-B8B5AC?style=flat-square&logo=r&logoColor=FFFFFF" alt="Bayesian Logistic"></a>
-<a href="https://github.com/olivia3395/AB_Test_Ad"><img src="https://img.shields.io/badge/A%2FB_Testing-B8B5AC?style=flat-square&logo=python&logoColor=FFFFFF" alt="A/B Testing"></a>
-<a href="https://github.com/olivia3395/GlobalRiskAnalysisUSA"><img src="https://img.shields.io/badge/Time_Series-B8B5AC?style=flat-square&logo=plotly&logoColor=FFFFFF" alt="Time Series"></a>
-<a href="https://github.com/olivia3395/rshinyapp_airbnb"><img src="https://img.shields.io/badge/Airbnb_Dashboard-B8B5AC?style=flat-square&logo=rstudioide&logoColor=FFFFFF" alt="Airbnb Dashboard"></a>
+<td valign="top">
+<b>Causal Inference &amp; Experimentation</b><br>
+<a href="https://github.com/olivia3395/CausalLens"><img src="https://img.shields.io/badge/CausalLens-D97757?style=flat-square&logo=streamlit&logoColor=F0EEE6" alt="CausalLens"></a>
+<a href="https://github.com/olivia3395/Pricing-Impact-Analyzer"><img src="https://img.shields.io/badge/Congestion_Pricing-D97757?style=flat-square&logo=python&logoColor=F0EEE6" alt="Congestion Pricing"></a>
+<a href="https://github.com/olivia3395/AB_Test_Ad"><img src="https://img.shields.io/badge/A%2FB_Testing-D97757?style=flat-square&logo=python&logoColor=F0EEE6" alt="A/B Testing"></a><br>
+<sub>DoWhy · Double ML · Causal Forest — CS-DiD · Synthetic DiD · 12M+ NYC TLC</sub>
+</td>
+<td valign="top">
+<b>NLP</b><br>
+<a href="https://github.com/olivia3395/finanial-text-analysis"><img src="https://img.shields.io/badge/Financial_Sentiment-D97757?style=flat-square&logo=huggingface&logoColor=F0EEE6" alt="Financial Sentiment"></a>
+<a href="https://github.com/olivia3395/spam_detection"><img src="https://img.shields.io/badge/Spam_Detection-D97757?style=flat-square&logo=scikitlearn&logoColor=F0EEE6" alt="Spam Detection"></a><br>
+<sub>DistilBERT fine-tuning · TF-IDF · Naive Bayes</sub>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<b>Computer Vision</b><br>
+<a href="https://github.com/olivia3395/dog_identification_app"><img src="https://img.shields.io/badge/Dog_Classification-D97757?style=flat-square&logo=keras&logoColor=F0EEE6" alt="Dog Classification"></a>
+<a href="https://github.com/olivia3395/MaskDetection"><img src="https://img.shields.io/badge/Mask_Detection-D97757?style=flat-square&logo=opencv&logoColor=F0EEE6" alt="Mask Detection"></a><br>
+<sub>VGG16 · ResNet50 · transfer learning · Grad-CAM</sub>
+</td>
+<td valign="top">
+<b>Statistical Modeling</b><br>
+<a href="https://github.com/olivia3395/Bayesian_Lung_Cancer_Prediction"><img src="https://img.shields.io/badge/Bayesian_Logistic-D97757?style=flat-square&logo=r&logoColor=F0EEE6" alt="Bayesian Logistic"></a>
+<a href="https://github.com/olivia3395/GlobalRiskAnalysisUSA"><img src="https://img.shields.io/badge/Time_Series-D97757?style=flat-square&logo=plotly&logoColor=F0EEE6" alt="Time Series"></a>
+<a href="https://github.com/olivia3395/credit-default-risk"><img src="https://img.shields.io/badge/Credit_Risk-D97757?style=flat-square&logo=python&logoColor=F0EEE6" alt="Credit Risk"></a>
+<a href="https://github.com/olivia3395/Customer_Segmentation"><img src="https://img.shields.io/badge/Segmentation-D97757?style=flat-square&logo=scikitlearn&logoColor=F0EEE6" alt="Segmentation"></a>
+<a href="https://github.com/olivia3395/Spring2020-Project4-group8"><img src="https://img.shields.io/badge/Recommender-D97757?style=flat-square&logo=apachespark&logoColor=F0EEE6" alt="Recommender"></a>
+<a href="https://github.com/olivia3395/rshinyapp_airbnb"><img src="https://img.shields.io/badge/Airbnb_Dashboard-D97757?style=flat-square&logo=rstudioide&logoColor=F0EEE6" alt="Airbnb Dashboard"></a><br>
+<sub>RStan · Spike-and-Slab MCMC · SARIMA · XGBoost · R Shiny</sub>
 </td>
 </tr>
 </table>
 
-<sub>Write-ups: <a href="https://github.com/olivia3395/AlignDPO-Preference-Optimization-from-Scratch/blob/main/DPO%20%26%20PPO.pdf">AlignDPO</a> · <a href="https://github.com/olivia3395/RAGAudit/blob/main/RAG%20%26%20Hallucination%20Detection.pdf">RAGAudit</a> · <a href="https://github.com/olivia3395/Pricing-Impact-Analyzer/blob/main/Congestion%20Pricing%20Impact%20Analyzer.pdf">Congestion Pricing</a> &nbsp;·&nbsp; Live demos: <a href="https://olivia3395.github.io/dog_identification_app/">Dog Classification</a> · <a href="https://olivia3395.github.io/finanial-text-analysis/">Financial Sentiment</a> · <a href="https://olivia3395.github.io/Bayesian_Lung_Cancer_Prediction/">Bayesian Logistic</a> · <a href="https://yuyaowang.shinyapps.io/airbnb_app/">Time Series</a> · <a href="https://yuyaowang.shinyapps.io/airbnb_app/">Airbnb Dashboard</a></sub>
+<sub>Write-ups: <a href="https://github.com/olivia3395/AlignDPO-Preference-Optimization-from-Scratch/blob/main/DPO%20%26%20PPO.pdf">AlignDPO</a> · <a href="https://github.com/olivia3395/RAGAudit/blob/main/RAG%20%26%20Hallucination%20Detection.pdf">RAGAudit</a> · <a href="https://github.com/olivia3395/Pricing-Impact-Analyzer/blob/main/Congestion%20Pricing%20Impact%20Analyzer.pdf">Congestion Pricing</a><br>
+Live demos: <a href="https://olivia3395.github.io/dog_identification_app/">Dog Classification</a> · <a href="https://olivia3395.github.io/finanial-text-analysis/">Financial Sentiment</a> · <a href="https://olivia3395.github.io/Bayesian_Lung_Cancer_Prediction/">Bayesian Logistic</a> · <a href="https://olivia3395.github.io/GlobalRiskAnalysisUSA/">Time Series</a> · <a href="https://yuyaowang.shinyapps.io/airbnb_app/">Airbnb Dashboard</a></sub>
+
 
 
 
