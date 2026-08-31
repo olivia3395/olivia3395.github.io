@@ -56,6 +56,10 @@ The question I keep coming back to: **how do you reuse what a model already know
 </tr>
 </table>
 
+Curious about the research? I've put together beginner-friendly slide decks on my main directions: **[transfer learning](transfer_learning.pdf)** · **[graph learning](graph_learning.pdf)** · **[optimal transport](optimal_transport.pdf)** · **[LLMs for time series](llm_time_series.pdf)**. I've been lucky to learn from [Zhanxing Zhu](https://zhanxingzhu.github.io/) (STGCN) and [Yongshun Gong](https://faculty.sdu.edu.cn/gongyongshun/en/), whose work on representation learning and spatio-temporal structure shaped how I think about heterogeneous, evolving data. Outside of research, I'm drawn to building things with atmosphere — cinema, memory, digital experiences that feel like something rather than just work ✨
+
+
+
 <!--
 
 I’m a Ph.D. candidate in Statistics at Boston University, co-advised by [Prof. Debarghya Mukherjee](https://debarghya-mukherjee.github.io/) and [Prof. Luis Carvalho](https://math.bu.edu/people/lecarval/), and I also collaborate with [Prof. Nabarun Deb](https://nabarund.github.io/). Before BU, I earned my M.A. in Statistics from Columbia University and my B.S. in Mathematics from Shandong University, including a year of joint training at the Academy of Mathematics and Systems Science(AMSS), Chinese Academy of Sciences. My research sits at the intersection of statistics and machine learning, where I develop theoretically grounded transfer-learning and representation-learning methods—spanning optimal transport, graph mining, multimodal learning for structured, heterogeneous data in low-sample, high-dimensional, and non-IID settings. 
@@ -93,7 +97,7 @@ In statistical learning, this is about transferring geometry or smoothness from 
   </tr>
 </table>
 
--->
+
 
 Curious about my research? I've put together beginner-friendly slide decks on my main research directions: **[transfer learning](transfer_learning.pdf)**, **[graph learning](graph_learning.pdf)**, **[optimal transport](optimal_transport.pdf)**, and **[LLMs for time series](llm_time_series.pdf)**.
 
@@ -101,7 +105,7 @@ Along my academic journey, I have been deeply fortunate to study and conduct res
 
 
 Beyond theory and modeling, I am drawn to building AI applications that reflect how I see people and the world. I have always felt that human beings are more than their outward forms, that something of the spirit, memory, and inner life exceeds the body that temporarily carries it. That is why I am especially fascinated by cinema, atmosphere, and emotionally resonant digital experiences ✨
-
+-->
 
 
 # 🔥 News
