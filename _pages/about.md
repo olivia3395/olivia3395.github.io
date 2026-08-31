@@ -25,32 +25,34 @@ The question I keep coming back to: **how do you reuse what a model already know
 
 ## What I build
 
+## What I build
+
 <table>
 <tr>
 <td width="50%" valign="top">
 
-![](https://img.shields.io/badge/Theory-D97757?style=flat-square) **Theory that supports practice**  
-Minimax rates · oracle inequalities · regret bounds · safe-transfer criteria under covariate or structural shift.
+<img src="https://img.shields.io/badge/-D97757?style=flat-square&logo=wolframmathematica&logoColor=F0EEE6" height="20"> **Theory that supports practice**  
+<sub>Minimax rates · oracle inequalities · regret bounds · safe-transfer criteria under covariate or structural shift.</sub>
 
 </td>
 <td width="50%" valign="top">
 
-![](https://img.shields.io/badge/Graphs-D97757?style=flat-square) **Graph-structured transfer**  
-Aligning and transporting information across graphs and manifolds — robust transfer when correspondence is messy or unknown.
+<img src="https://img.shields.io/badge/-D97757?style=flat-square&logo=graphql&logoColor=F0EEE6" height="20"> **Graph-structured transfer**  
+<sub>Aligning and transporting information across graphs and manifolds — robust transfer when correspondence is messy or unknown.</sub>
 
 </td>
 </tr>
 <tr>
 <td valign="top">
 
-![](https://img.shields.io/badge/RL_%26_Bandits-D97757?style=flat-square) **RL & bandits under drift**  
-Warm-started policies with uncertainty-aware adaptation for sequential decisions in changing environments.
+<img src="https://img.shields.io/badge/-D97757?style=flat-square&logo=gamepad&logoColor=F0EEE6" height="20"> **RL & bandits under drift**  
+<sub>Warm-started policies with uncertainty-aware adaptation for sequential decisions in changing environments.</sub>
 
 </td>
 <td valign="top">
 
-![](https://img.shields.io/badge/LLMs_%26_VLMs-D97757?style=flat-square) **Transfer for LLMs / VLMs**  
-Controlled adaptation · domain grounding · structure-preserving fine-tuning — adapting without getting sloppy.
+<img src="https://img.shields.io/badge/-D97757?style=flat-square&logo=openai&logoColor=F0EEE6" height="20"> **Transfer for LLMs / VLMs**  
+<sub>Controlled adaptation · domain grounding · structure-preserving fine-tuning — adapting without getting sloppy.</sub>
 
 </td>
 </tr>
