@@ -327,9 +327,15 @@ Beyond theory and modeling, I am drawn to building AI applications that reflect 
 
 <hr style="border: none; border-top: 1px solid #E8E4DC; margin: 1.5em 0 1em;">
 
-<sub><b style="color:#9A9285; font-size:0.75rem; letter-spacing:0.08em;">WRITE-UPS</b>&nbsp;&nbsp;<a href="https://github.com/olivia3395/AlignDPO-Preference-Optimization-from-Scratch/blob/main/DPO%20%26%20PPO.pdf">AlignDPO</a> · <a href="https://github.com/olivia3395/RAGAudit/blob/main/RAG%20%26%20Hallucination%20Detection.pdf">RAGAudit</a> · <a href="https://github.com/olivia3395/Pricing-Impact-Analyzer/blob/main/Congestion%20Pricing%20Impact%20Analyzer.pdf">Congestion Pricing</a><br>
-<b style="color:#9A9285; font-size:0.75rem; letter-spacing:0.08em;">LIVE&nbsp;DEMOS</b>&nbsp;&nbsp;<a href="https://olivia3395.github.io/dog_identification_app/">Dog Classification</a> · <a href="https://olivia3395.github.io/finanial-text-analysis/">Financial Sentiment</a> · <a href="https://olivia3395.github.io/Bayesian_Lung_Cancer_Prediction/">Bayesian Logistic</a> · <a href="https://olivia3395.github.io/GlobalRiskAnalysisUSA/">Time Series</a> · <a href="https://yuyaowang.shinyapps.io/airbnb_app/">Airbnb Dashboard</a></sub>
 
+<details>
+<summary><sub><b>Write-ups &amp; live demos</b></sub></summary>
+<br>
+<sub>
+<b>Write-ups</b> &nbsp;<a href="https://github.com/olivia3395/AlignDPO-Preference-Optimization-from-Scratch/blob/main/DPO%20%26%20PPO.pdf">AlignDPO</a> · <a href="https://github.com/olivia3395/RAGAudit/blob/main/RAG%20%26%20Hallucination%20Detection.pdf">RAGAudit</a> · <a href="https://github.com/olivia3395/Pricing-Impact-Analyzer/blob/main/Congestion%20Pricing%20Impact%20Analyzer.pdf">Congestion Pricing</a><br>
+<b>Live demos</b> &nbsp;<a href="https://olivia3395.github.io/dog_identification_app/">Dog Classification</a> · <a href="https://olivia3395.github.io/finanial-text-analysis/">Financial Sentiment</a> · <a href="https://olivia3395.github.io/Bayesian_Lung_Cancer_Prediction/">Bayesian Logistic</a> · <a href="https://olivia3395.github.io/GlobalRiskAnalysisUSA/">Time Series</a> · <a href="https://yuyaowang.shinyapps.io/airbnb_app/">Airbnb Dashboard</a>
+</sub>
+</details>
 
 
 
