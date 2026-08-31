@@ -216,27 +216,52 @@ Beyond theory and modeling, I am drawn to building AI applications that reflect 
 # 🤖 LLM Engineering Projects
 
 
+<table>
+<tr>
+<td width="50%" valign="top">
+
 **Alignment & Evaluation**  
 [![](https://img.shields.io/badge/AlignDPO-D97757?style=flat-square&logo=huggingface&logoColor=F0EEE6)](https://github.com/olivia3395/AlignDPO-Preference-Optimization-from-Scratch) [![](https://img.shields.io/badge/RAGAudit-D97757?style=flat-square&logo=huggingface&logoColor=F0EEE6)](https://github.com/olivia3395/RAGAudit)  
 <sub>DPO · IPO · KTO · QLoRA · Mistral-7B — NLI · SelfCheckGPT · semantic entropy</sub>
+
+</td>
+<td width="50%" valign="top">
 
 **Retrieval Systems**  
 [![](https://img.shields.io/badge/GraphRAG-D97757?style=flat-square&logo=python&logoColor=F0EEE6)](https://github.com/olivia3395/GraphRAG) [![](https://img.shields.io/badge/Adaptive_RAG-D97757?style=flat-square&logo=fastapi&logoColor=F0EEE6)](https://github.com/olivia3395/Adaptive_RAG)  
 <sub>entity graph + CLIP · ChromaDB — query routing · iterative retrieval · self-check</sub>
 
+</td>
+</tr>
+<tr>
+<td valign="top">
+
 **Inference Efficiency**  
 [![](https://img.shields.io/badge/DraftVerify-D97757?style=flat-square&logo=pytorch&logoColor=F0EEE6)](https://github.com/olivia3395/DraftVerify) [![](https://img.shields.io/badge/HQQ_Quantization-D97757?style=flat-square&logo=pytorch&logoColor=F0EEE6)](https://github.com/olivia3395/HQQ_1-bit_Quantization)  
 <sub>speculative decoding · acceptance rate — 1–8 bit · W1G64: 12.7× compression, >4× speedup</sub>
 
-**Causal Inference**  
-[![](https://img.shields.io/badge/CausalLens-D97757?style=flat-square&logo=streamlit&logoColor=F0EEE6)](https://github.com/olivia3395/CausalLens) [![](https://img.shields.io/badge/Congestion_Pricing-D97757?style=flat-square&logo=python&logoColor=F0EEE6)](https://github.com/olivia3395/Pricing-Impact-Analyzer) [![](https://img.shields.io/badge/Promotion_Optimization-D97757?style=flat-square&logo=python&logoColor=F0EEE6)](https://github.com/olivia3395/Causal-Promotion-Optimization)  
-<sub>DoWhy · Double ML · Causal Forest — TWFE · CS-DiD · Synthetic DiD · 12M+ NYC TLC — AIPW · DRLearner CATE · OR-Tools</sub>
+</td>
+<td valign="top">
 
 **Forecasting**  
 [![](https://img.shields.io/badge/Demand_Forecasting-D97757?style=flat-square&logo=python&logoColor=F0EEE6)](https://github.com/olivia3395/Retail-Demand-Forecasting)  
 <sub>Seasonal Naive · LightGBM · TFT · M5 · 28-day store-SKU</sub>
 
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+
+**Causal Inference**  
+[![](https://img.shields.io/badge/CausalLens-D97757?style=flat-square&logo=streamlit&logoColor=F0EEE6)](https://github.com/olivia3395/CausalLens) [![](https://img.shields.io/badge/Congestion_Pricing-D97757?style=flat-square&logo=python&logoColor=F0EEE6)](https://github.com/olivia3395/Pricing-Impact-Analyzer) [![](https://img.shields.io/badge/Promotion_Optimization-D97757?style=flat-square&logo=python&logoColor=F0EEE6)](https://github.com/olivia3395/Causal-Promotion-Optimization)  
+<sub>DoWhy · Double ML · Causal Forest — TWFE · CS-DiD · Synthetic DiD — AIPW · DRLearner CATE · OR-Tools</sub>
+
+</td>
+</tr>
+</table>
+
 <sub>Write-ups: [AlignDPO](https://github.com/olivia3395/AlignDPO-Preference-Optimization-from-Scratch/blob/main/DPO%20%26%20PPO.pdf) · [RAGAudit](https://github.com/olivia3395/RAGAudit/blob/main/RAG%20%26%20Hallucination%20Detection.pdf) · [Congestion Pricing](https://github.com/olivia3395/Pricing-Impact-Analyzer/blob/main/Congestion%20Pricing%20Impact%20Analyzer.pdf) · [Promotion Optimization](https://github.com/olivia3395/Causal-Promotion-Optimization/blob/main/Causal_Promotion.pdf) · [Demand Forecasting](https://github.com/olivia3395/Retail-Demand-Forecasting/blob/main/Retail_Demand.pdf)</sub>
+
 
 <!--
 
@@ -383,9 +408,9 @@ A quiet collection of cinematic, atmospheric, and emotionally resonant side proj
 
 # 🎖 Honors 
 
-**Boston University** — Dean's Dissertation Fellowship (2026) · Ralph B. D'Agostino Endowed Fellowship (2025) · Outstanding Teaching Fellow Award (2025) · Student Travel Grant (2025)  
+**Boston University** — Dean's Dissertation Fellowship (2026) · Ralph B. D'Agostino Fellowship (2025) · Outstanding Teaching Fellow Award (2025) 
 **Shandong University** — Outstanding Graduate (2019) · First-Class Scholarship (2018) · Outstanding Student Leader (2018)  
-**National** — Hua Loo-Keng Scholarship, Chinese Academy of Sciences (2018) · National Gold Award, Internet+ Innovation & Entrepreneurship Competition (2018)
+**National** — Hua Loo-Keng Scholarship (2018) · National Gold Award, Internet+ Innovation & Entrepreneurship Competition (2018)
 
 
 <!--
