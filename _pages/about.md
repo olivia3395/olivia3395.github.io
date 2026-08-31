@@ -353,18 +353,7 @@ Beyond theory and modeling, I am drawn to building AI applications that reflect 
 <sub>RStan · Spike-and-Slab MCMC · SARIMA · XGBoost · R Shiny</sub>
 </td>
 </tr>
-<tr>
-<td valign="top" style="border-top:1px solid #E8E4DC; padding-top:0.9em;">
-<sub><b>Write-ups</b><br>
-<a href="https://github.com/olivia3395/AlignDPO-Preference-Optimization-from-Scratch/blob/main/DPO%20%26%20PPO.pdf">AlignDPO</a> · <a href="https://github.com/olivia3395/RAGAudit/blob/main/RAG%20%26%20Hallucination%20Detection.pdf">RAGAudit</a> · <a href="https://github.com/olivia3395/Pricing-Impact-Analyzer/blob/main/Congestion%20Pricing%20Impact%20Analyzer.pdf">Congestion Pricing</a></sub>
-</td>
-<td valign="top" style="border-top:1px solid #E8E4DC; padding-top:0.9em;">
-<sub><b>Live demos</b><br>
-<a href="https://olivia3395.github.io/dog_identification_app/">Dog Classification</a> · <a href="https://olivia3395.github.io/finanial-text-analysis/">Financial Sentiment</a> · <a href="https://olivia3395.github.io/Bayesian_Lung_Cancer_Prediction/">Bayesian Logistic</a> · <a href="https://olivia3395.github.io/GlobalRiskAnalysisUSA/">Time Series</a> · <a href="https://yuyaowang.shinyapps.io/airbnb_app/">Airbnb Dashboard</a></sub>
-</td>
-</tr>
 </table>
-
 
 
 
