@@ -145,7 +145,7 @@ Beyond theory and modeling, I am drawn to building AI applications that reflect 
 
 <table>
   <tr>
-    <td width="40%" valign="top">
+    <td width="28%" valign="top">
       <img src="images/gtrans_workflow.png" alt="GTrans" width="100%">
     </td>
     <td valign="top">
@@ -161,7 +161,7 @@ Beyond theory and modeling, I am drawn to building AI applications that reflect 
 
 <table>
   <tr>
-    <td width="40%" valign="top">
+    <td width="28%" valign="top">
       <img src="images/tess_workflow.png" alt="TESS" width="100%">
     </td>
     <td valign="top">
@@ -177,7 +177,7 @@ Beyond theory and modeling, I am drawn to building AI applications that reflect 
 
 <table>
   <tr>
-    <td width="40%" valign="top">
+    <td width="28%" valign="top">
       <img src="images/phaseshift.png" alt="Phase Transition" width="100%">
     </td>
     <td valign="top">
@@ -194,7 +194,7 @@ Beyond theory and modeling, I am drawn to building AI applications that reflect 
 
 <table>
   <tr>
-    <td width="40%" valign="top">
+    <td width="28%" valign="top">
       <img src="images/scot_main.png" alt="SCOT" width="100%">
     </td>
     <td valign="top">
@@ -209,7 +209,7 @@ Beyond theory and modeling, I am drawn to building AI applications that reflect 
 
 <!-- <table>
   <tr>
-    <td width="40%" valign="top">
+    <td width="28%" valign="top">
       <img src="images/synergy_bpr_workflow.png" alt="INCM" width="100%">
     </td>
     <td valign="top">
@@ -228,7 +228,7 @@ Beyond theory and modeling, I am drawn to building AI applications that reflect 
 
 <table>
   <tr>
-    <td width="40%" valign="top">
+    <td width="28%" valign="top">
       <img src="images/netpaging.png" alt="Net-Paging" width="100%">
     </td>
     <td valign="top">
@@ -244,7 +244,7 @@ Beyond theory and modeling, I am drawn to building AI applications that reflect 
 
 <table>
   <tr>
-    <td width="40%" valign="top">
+    <td width="28%" valign="top">
       <img src="images/mkdnet.png" alt="MKDNet" width="100%">
     </td>
     <td valign="top">
@@ -259,7 +259,7 @@ Beyond theory and modeling, I am drawn to building AI applications that reflect 
 
 <table>
   <tr>
-    <td width="40%" valign="top">
+    <td width="28%" valign="top">
       <img src="images/ssgp_workflow.png" alt="SSGP" width="100%">
     </td>
     <td valign="top">
