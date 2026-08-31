@@ -380,17 +380,18 @@ A quiet collection of cinematic, atmospheric, and emotionally resonant side proj
 
 # 📂 DS Projects
 
-[![Dog Classification](https://img.shields.io/badge/Dog_Classification-24292F?style=flat-square)](https://github.com/olivia3395/dog_identification_app)
-[![Credit Risk](https://img.shields.io/badge/Credit_Risk-24292F?style=flat-square)](https://github.com/olivia3395/credit-default-risk)
-[![Financial Sentiment](https://img.shields.io/badge/Financial_Sentiment-24292F?style=flat-square)](https://github.com/olivia3395/finanial-text-analysis)
-[![Mask Detection](https://img.shields.io/badge/Mask_Detection-24292F?style=flat-square)](https://github.com/olivia3395/MaskDetection)
-[![Spam Detection](https://img.shields.io/badge/Spam_Detection-24292F?style=flat-square)](https://github.com/olivia3395/spam_detection)
-[![Airbnb Dashboard](https://img.shields.io/badge/Airbnb_Dashboard-24292F?style=flat-square)](https://github.com/olivia3395/rshinyapp_airbnb)
-[![Bayesian Logistic](https://img.shields.io/badge/Bayesian_Logistic-24292F?style=flat-square)](https://github.com/olivia3395/Bayesian_Lung_Cancer_Prediction)
-[![A/B Testing](https://img.shields.io/badge/A%2FB_Testing-24292F?style=flat-square)](https://github.com/olivia3395/AB_Test_Ad)
-[![Time Series](https://img.shields.io/badge/Time_Series-24292F?style=flat-square)](https://github.com/olivia3395/GlobalRiskAnalysisUSA)
-[![Recommender](https://img.shields.io/badge/Recommender-24292F?style=flat-square)](https://github.com/olivia3395/Spring2020-Project4-group8)
-[![Segmentation](https://img.shields.io/badge/Segmentation-24292F?style=flat-square)](https://github.com/olivia3395/Customer_Segmentation)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=DM+Sans&weight=500&size=22&duration=3000&pause=800&color=D97757&center=true&vCenter=true&width=520&lines=Statistics+PhD+%40+Boston+University;Computer+Vision+%C2%B7+NLP+%C2%B7+Bayesian+Methods" alt="typing" />
+</p>
+
+
+[![](https://img.shields.io/badge/Dog_Classification-D97757?style=flat-square&logo=keras&logoColor=F0EEE6)](https://github.com/olivia3395/dog_identification_app) [![](https://img.shields.io/badge/Mask_Detection-D97757?style=flat-square&logo=opencv&logoColor=F0EEE6)](https://github.com/olivia3395/MaskDetection) [![](https://img.shields.io/badge/Financial_Sentiment-D97757?style=flat-square&logo=huggingface&logoColor=F0EEE6)](https://github.com/olivia3395/finanial-text-analysis) [![](https://img.shields.io/badge/Spam_Detection-D97757?style=flat-square&logo=scikitlearn&logoColor=F0EEE6)](https://github.com/olivia3395/spam_detection) [![](https://img.shields.io/badge/Credit_Risk-D97757?style=flat-square&logo=python&logoColor=F0EEE6)](https://github.com/olivia3395/credit-default-risk) [![](https://img.shields.io/badge/Recommender-D97757?style=flat-square&logo=apachespark&logoColor=F0EEE6)](https://github.com/olivia3395/Spring2020-Project4-group8) [![](https://img.shields.io/badge/Segmentation-D97757?style=flat-square&logo=scikitlearn&logoColor=F0EEE6)](https://github.com/olivia3395/Customer_Segmentation) [![](https://img.shields.io/badge/Bayesian_Logistic-D97757?style=flat-square&logo=r&logoColor=F0EEE6)](https://github.com/olivia3395/Bayesian_Lung_Cancer_Prediction) [![](https://img.shields.io/badge/A%2FB_Testing-D97757?style=flat-square&logo=python&logoColor=F0EEE6)](https://github.com/olivia3395/AB_Test_Ad) [![](https://img.shields.io/badge/Time_Series-D97757?style=flat-square&logo=plotly&logoColor=F0EEE6)](https://github.com/olivia3395/GlobalRiskAnalysisUSA) [![](https://img.shields.io/badge/Airbnb_Dashboard-D97757?style=flat-square&logo=rstudioide&logoColor=F0EEE6)](https://github.com/olivia3395/rshinyapp_airbnb)
+
+<sub>Live demos: [Dog Classification](https://olivia3395.github.io/dog_identification_app/) · [Financial Sentiment](https://olivia3395.github.io/finanial-text-analysis/) · [Bayesian Logistic](https://olivia3395.github.io/Bayesian_Lung_Cancer_Prediction/) · [Time Series](https://olivia3395.github.io/GlobalRiskAnalysisUSA/) · [Airbnb Dashboard](https://yuyaowang.shinyapps.io/airbnb_app/)</sub>
+
+
+
+
 
 
 
