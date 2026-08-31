@@ -306,6 +306,26 @@ Beyond theory and modeling, I am drawn to building AI applications that reflect 
 
 <table>
 <tr>
+<td width="50%" valign="top" style="background:#FAF9F7; border:1px solid #EAE6DF; border-radius:6px; padding:14px 16px;">
+<b>LLM Alignment &amp; Evaluation</b><br>
+<a href="https://github.com/olivia3395/AlignDPO-Preference-Optimization-from-Scratch"><img src="https://img.shields.io/badge/AlignDPO-D97757?style=flat-square&logo=huggingface&logoColor=F0EEE6" alt="AlignDPO"></a>
+<a href="https://github.com/olivia3395/RAGAudit"><img src="https://img.shields.io/badge/RAGAudit-D97757?style=flat-square&logo=huggingface&logoColor=F0EEE6" alt="RAGAudit"></a><br>
+<sub>DPO · IPO · KTO · QLoRA — NLI · SelfCheckGPT · semantic entropy</sub>
+</td>
+<td width="50%" valign="top" style="background:#FAF9F7; border:1px solid #EAE6DF; border-radius:6px; padding:14px 16px;">
+<b>Retrieval &amp; Inference</b><br>
+<a href="https://github.com/olivia3395/GraphRAG"><img src="https://img.shields.io/badge/GraphRAG-D97757?style=flat-square&logo=python&logoColor=F0EEE6" alt="GraphRAG"></a>
+<a href="https://github.com/olivia3395/Adaptive_RAG"><img src="https://img.shields.io/badge/Adaptive_RAG-D97757?style=flat-square&logo=fastapi&logoColor=F0EEE6" alt="Adaptive RAG"></a>
+<a href="https://github.com/olivia3395/DraftVerify"><img src="https://img.shields.io/badge/DraftVerify-D97757?style=flat-square&logo=pytorch&logoColor=F0EEE6" alt="DraftVerify"></a>
+<a href="https://github.com/olivia3395/HQQ_1-bit_Quantization"><img src="https://img.shields.io/badge/HQQ-D97757?style=flat-square&logo=pytorch&logoColor=F0EEE6" alt="HQQ"></a><br>
+<sub>entity graph + CLIP · query routing — speculative decoding · 1-bit quantization</sub>
+</td>
+</tr>
+</table>
+
+
+<table>
+<tr>
 <td width="50%" valign="top">
 <b>LLM Alignment &amp; Evaluation</b><br>
 <a href="https://github.com/olivia3395/AlignDPO-Preference-Optimization-from-Scratch"><img src="https://img.shields.io/badge/AlignDPO-D97757?style=flat-square&logo=huggingface&logoColor=F0EEE6" alt="AlignDPO"></a>
