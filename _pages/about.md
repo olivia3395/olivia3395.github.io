@@ -585,6 +585,10 @@ Beyond theory and modeling, I am drawn to building AI applications that reflect 
 # 💻 Internships
 
 
+<b>Data Scientist Intern</b> · Plymouth Rock Insurance · <i>Summer 2025</i><br>
+<sub>Multimodal property risk scoring with GPT-4o and Street View imagery; XGBoost Tweedie loss model on SageMaker (+4.3% Gini). <a href="HomeInsurance.pdf">Slides</a></sub>
+
+
 <img src="images/plymouth_logo.png" alt="Plymouth Rock" width="50" align="left" hspace="15">
 
 <b><font size="4">Data Scientist Intern</font></b> · Plymouth Rock Insurance<br>
