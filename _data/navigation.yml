@@ -18,15 +18,12 @@ main:
   - title: "Internships"
     url: "/#-internships"
     
-  - title: "My Apps"
-    url: "/#-my-apps"
-    
   - title: "Honors"
     url: "/#-honors"
 
-  - title: "DS Projects"
-    url: "/#-ds-projects"
-    
+  - title: "My Apps"
+    url: "/#-my-apps"
+
   - title: "Service & Teaching"
     url: "/#-service--teaching"
   
