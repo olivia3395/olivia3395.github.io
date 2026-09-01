@@ -168,6 +168,32 @@ redirect_from:
   }
   .pg-list { border-left: none; padding-left: 0; }
 }
+
+.projgrid { margin: 0.9em 0 0.4em; }
+.pg { display: grid; grid-template-columns: 10.5rem 1fr; padding-bottom: 0.95em; }
+.pg-cat {
+  padding-right: 1.4rem; padding-top: 0.18em;
+  font-size: 0.78rem; line-height: 1.35; color: #9A9184;
+}
+.pg-cat svg { width: 13px; height: 13px; vertical-align: -0.15em; margin-right: 0.35em; opacity: 0.7; }
+.pg-list { border-left: 1px solid #EFEBE3; padding-left: 1.4rem; }
+.p { line-height: 1.7; }
+.page__content .p a {
+  font-family: 'Newsreader', Georgia, serif; font-weight: 600; font-size: 0.98rem;
+  color: #2A2724; border-bottom: none; transition: color .18s ease;
+}
+.page__content .p a:hover { color: #1B6B7A; border-bottom: none; }
+.p i { font-style: normal; font-size: 0.8rem; color: #8A8175; margin-left: 0.5em; }
+.page__content .p-more, .page__content .p-more a {
+  font-family: 'Inter', sans-serif; font-size: 0.8rem; font-weight: 400; color: #8A8175;
+}
+.page__content .p-more a { border-bottom: 1px solid rgba(138,129,117,.3); }
+.page__content .p-more a:hover { color: #1B6B7A; border-bottom-color: #1B6B7A; }
+@media (max-width: 640px) {
+  .pg { grid-template-columns: 1fr; padding-bottom: 0.8em; }
+  .pg-cat { padding: 0 0 0.3em 0; }
+  .pg-list { border-left: none; padding-left: 0; }
+}
 </style>
 
 
@@ -387,64 +413,64 @@ Beyond theory and modeling, I am drawn to building AI applications that reflect 
 
 # 🤖 LLM & DS Projects
 
+
 <div class="projgrid">
  
 <div class="pg">
-  <div class="pg-cat">Alignment and evaluation</div>
+  <div class="pg-cat"><svg viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.3"><circle cx="8" cy="8" r="5.6"/><circle cx="8" cy="8" r="1.9"/></svg>Alignment</div>
   <div class="pg-list">
-    <div class="p"><a href="https://github.com/olivia3395/AlignDPO-Preference-Optimization-from-Scratch">AlignDPO</a><span>From-scratch DPO, IPO, and KTO, compared under QLoRA fine-tuning on HH-RLHF.</span></div>
-    <div class="p"><a href="https://github.com/olivia3395/RAGAudit">RAGAudit</a><span>Hallucination detection for retrieval-augmented generation via NLI entailment, SelfCheckGPT, and semantic entropy.</span></div>
+    <div class="p"><a href="https://github.com/olivia3395/AlignDPO-Preference-Optimization-from-Scratch">AlignDPO</a><i>DPO, IPO, KTO under QLoRA</i></div>
+    <div class="p"><a href="https://github.com/olivia3395/RAGAudit">RAGAudit</a><i>NLI, SelfCheckGPT, semantic entropy</i></div>
   </div>
 </div>
  
 <div class="pg">
-  <div class="pg-cat">Retrieval and inference</div>
+  <div class="pg-cat"><svg viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.3" stroke-linecap="round"><circle cx="7" cy="7" r="4.6"/><line x1="10.4" y1="10.4" x2="13.6" y2="13.6"/></svg>Retrieval</div>
   <div class="pg-list">
-    <div class="p"><a href="https://github.com/olivia3395/GraphRAG">GraphRAG</a><span>Multimodal retrieval combining dense vectors, an entity graph, and CLIP image embeddings.</span></div>
-    <div class="p"><a href="https://github.com/olivia3395/Adaptive_RAG">Adaptive RAG</a><span>Query routing that adjusts retrieval depth to question difficulty, with iterative self-checking.</span></div>
-    <div class="p"><a href="https://github.com/olivia3395/DraftVerify">DraftVerify</a><span>Speculative decoding with a draft-verifier pair, benchmarked on latency and acceptance rate.</span></div>
-    <div class="p"><a href="https://github.com/olivia3395/HQQ_1-bit_Quantization">HQQ</a><span>Post-training quantization from 1 to 8 bits by proximal optimization, reaching 12.7x compression.</span></div>
+    <div class="p"><a href="https://github.com/olivia3395/GraphRAG">GraphRAG</a><i>dense + entity graph + CLIP</i></div>
+    <div class="p"><a href="https://github.com/olivia3395/Adaptive_RAG">Adaptive RAG</a><i>difficulty-aware query routing</i></div>
+    <div class="p"><a href="https://github.com/olivia3395/DraftVerify">DraftVerify</a><i>speculative decoding, draft-verifier</i></div>
+    <div class="p"><a href="https://github.com/olivia3395/HQQ_1-bit_Quantization">HQQ</a><i>1–8 bit quantization, 12.7x</i></div>
   </div>
 </div>
  
 <div class="pg">
-  <div class="pg-cat">Causal inference and experimentation</div>
+  <div class="pg-cat"><svg viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.3" stroke-linecap="round"><circle cx="3.4" cy="8" r="1.9"/><circle cx="12.6" cy="8" r="1.9"/><line x1="5.6" y1="8" x2="10.2" y2="8"/><polyline points="8.9,6.6 10.5,8 8.9,9.4"/></svg>Causal inference</div>
   <div class="pg-list">
-    <div class="p"><a href="https://github.com/olivia3395/CausalLens">CausalLens</a><span>LLM-assisted causal pipeline built on DoWhy, double machine learning, and causal forests.</span></div>
-    <div class="p"><a href="https://github.com/olivia3395/Pricing-Impact-Analyzer">Congestion Pricing</a><span>Effect of NYC congestion pricing on trip volume, estimated with CS-DiD and synthetic DiD over 12M+ TLC records.</span></div>
-    <div class="p"><a href="https://github.com/olivia3395/AB_Test_Ad">A/B Testing</a><span>Bootstrap confidence intervals and power analysis for an advertising conversion experiment.</span></div>
+    <div class="p"><a href="https://github.com/olivia3395/CausalLens">CausalLens</a><i>DoWhy, double ML, causal forests</i></div>
+    <div class="p"><a href="https://github.com/olivia3395/Pricing-Impact-Analyzer">Congestion Pricing</a><i>CS-DiD on 12M+ NYC TLC trips</i></div>
+    <div class="p"><a href="https://github.com/olivia3395/AB_Test_Ad">A/B Testing</a><i>bootstrap CIs, power analysis</i></div>
   </div>
 </div>
  
 <div class="pg">
-  <div class="pg-cat">Natural language processing</div>
+  <div class="pg-cat"><svg viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.3" stroke-linejoin="round"><path d="M13.4 3.4v6.2H6.2L3.2 12.2V3.4z"/></svg>Language</div>
   <div class="pg-list">
-    <div class="p"><a href="https://github.com/olivia3395/finanial-text-analysis">Financial Sentiment</a><span>DistilBERT fine-tuned on financial news, with distillation for faster inference.</span></div>
-    <div class="p"><a href="https://github.com/olivia3395/spam_detection">Spam Detection</a><span>TF-IDF and Naive Bayes baseline for short-message classification.</span></div>
+    <div class="p"><a href="https://github.com/olivia3395/finanial-text-analysis">Financial Sentiment</a><i>DistilBERT on financial news</i></div>
+    <div class="p"><a href="https://github.com/olivia3395/spam_detection">Spam Detection</a><i>TF-IDF, Naive Bayes</i></div>
   </div>
 </div>
  
 <div class="pg">
-  <div class="pg-cat">Computer vision</div>
+  <div class="pg-cat"><svg viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.3"><path d="M1.6 8s2.5-4.2 6.4-4.2S14.4 8 14.4 8s-2.5 4.2-6.4 4.2S1.6 8 1.6 8z"/><circle cx="8" cy="8" r="1.8"/></svg>Vision</div>
   <div class="pg-list">
-    <div class="p"><a href="https://github.com/olivia3395/dog_identification_app">Dog Breed Classification</a><span>VGG16 and ResNet50 transfer learning, deployed as a small web app.</span></div>
-    <div class="p"><a href="https://github.com/olivia3395/MaskDetection">Mask Detection</a><span>ResNet50 detector with Grad-CAM visualization of the regions driving each prediction.</span></div>
+    <div class="p"><a href="https://github.com/olivia3395/dog_identification_app">Dog Breed Classification</a><i>VGG16, ResNet50 transfer</i></div>
+    <div class="p"><a href="https://github.com/olivia3395/MaskDetection">Mask Detection</a><i>ResNet50, Grad-CAM</i></div>
   </div>
 </div>
  
 <div class="pg">
-  <div class="pg-cat">Statistical modeling</div>
+  <div class="pg-cat"><svg viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.3" stroke-linecap="round"><line x1="2.4" y1="13.2" x2="13.6" y2="13.2"/><line x1="4.6" y1="13.2" x2="4.6" y2="8.8"/><line x1="8" y1="13.2" x2="8" y2="4"/><line x1="11.4" y1="13.2" x2="11.4" y2="10.4"/></svg>Statistics</div>
   <div class="pg-list">
-    <div class="p"><a href="https://github.com/olivia3395/Bayesian_Lung_Cancer_Prediction">Bayesian Logistic Regression</a><span>Spike-and-slab variable selection for lung cancer risk, fitted by MCMC in RStan.</span></div>
-    <div class="p"><a href="https://github.com/olivia3395/GlobalRiskAnalysisUSA">Time Series Forecasting</a><span>SARIMA, ETS, and Prophet compared on macroeconomic risk indicators.</span></div>
-    <div class="p"><a href="https://github.com/olivia3395/credit-default-risk">Credit Default Risk</a><span>Gradient-boosted trees with SMOTE resampling for imbalanced default prediction.</span></div>
-    <div class="p p-more">Also: <a href="https://github.com/olivia3395/Customer_Segmentation">customer segmentation</a>, <a href="https://github.com/olivia3395/Spring2020-Project4-group8">matrix-factorization recommender</a>, <a href="https://github.com/olivia3395/rshinyapp_airbnb">Airbnb dashboard</a>.</div>
+    <div class="p"><a href="https://github.com/olivia3395/Bayesian_Lung_Cancer_Prediction">Bayesian Logistic</a><i>spike-and-slab MCMC, RStan</i></div>
+    <div class="p"><a href="https://github.com/olivia3395/GlobalRiskAnalysisUSA">Time Series</a><i>SARIMA, ETS, Prophet</i></div>
+    <div class="p"><a href="https://github.com/olivia3395/credit-default-risk">Credit Risk</a><i>XGBoost, SMOTE</i></div>
+    <div class="p p-more">Also <a href="https://github.com/olivia3395/Customer_Segmentation">segmentation</a>, <a href="https://github.com/olivia3395/Spring2020-Project4-group8">recommender</a>, <a href="https://github.com/olivia3395/rshinyapp_airbnb">Airbnb dashboard</a>.</div>
   </div>
 </div>
  
 </div>
-
-
+ 
 
 
 <table>
@@ -584,11 +610,13 @@ Beyond theory and modeling, I am drawn to building AI applications that reflect 
 
 # 💻 Internships
 
+<b>Applied Scientist Intern</b> · Amazon · <i>Summer 2026</i><br>
+<sub>LangChain agent with LLM-based heuristic learning that turns request-level attribution into ranked traffic-blocking policies; MIMO forecasting on large-scale HTTP logs, benchmarking tabular foundation models against Chronos-2. </sub>
 
 <b>Data Scientist Intern</b> · Plymouth Rock Insurance · <i>Summer 2025</i><br>
 <sub>Multimodal property risk scoring with GPT-4o and Street View imagery; XGBoost Tweedie loss model on SageMaker (+4.3% Gini). <a href="HomeInsurance.pdf">Slides</a></sub>
 
-
+<!--
 <img src="images/plymouth_logo.png" alt="Plymouth Rock" width="50" align="left" hspace="15">
 
 <b><font size="4">Data Scientist Intern</font></b> · Plymouth Rock Insurance<br>
@@ -600,6 +628,8 @@ Beyond theory and modeling, I am drawn to building AI applications that reflect 
 
 - 📎 For a high-level, non-confidential summary of this work, see the <b>[Home Insurance slides](HomeInsurance.pdf)</b>.
 <br clear="left">
+
+-->
 
 
 # ✨ My Apps
