@@ -21,12 +21,12 @@ main:
   - title: "Honors"
     url: "/#-honors"
 
+  - title: "Service & Teaching"
+    url: "/#-service--teaching"
+
   - title: "My Apps"
     url: "/#-my-apps"
 
-  - title: "Service & Teaching"
-    url: "/#-service--teaching"
-  
   - title: "Interests"
     url: "/#-interests"
 
