@@ -11,7 +11,6 @@ redirect_from:
 <style>
 @import url('https://fonts.googleapis.com/css2?family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,600;1,6..72,400&family=Inter:wght@400;500;600&display=swap');
 
-/* ---------- 正文 ---------- */
 .page__content {
   font-family: 'Inter', -apple-system, sans-serif;
   font-size: 0.92rem;
@@ -20,7 +19,7 @@ redirect_from:
 }
 .page__content p { margin: 0 0 0.7em; }
 
-/* ---------- 标题 ---------- */
+
 .page__content h1 {
   font-family: 'Newsreader', Georgia, serif;
   font-weight: 600;
@@ -45,7 +44,7 @@ redirect_from:
   margin: 1.1em 0 0.4em;
 }
 
-/* ---------- 链接 ---------- */
+
 .page__content a {
   color: #1B6B7A;
   text-decoration: none;
@@ -54,7 +53,7 @@ redirect_from:
 }
 .page__content a:hover { border-bottom-color: #1B6B7A; }
 
-/* ---------- 列表 / 小字 / 表格 ---------- */
+
 .page__content ul { margin: 0.3em 0 0.7em; padding-left: 1.15em; }
 .page__content li { margin-bottom: 0.18em; line-height: 1.5; }
 .page__content h1 + ul li { margin-bottom: 0.3em; }
@@ -66,7 +65,7 @@ redirect_from:
 .page__content table td { border: none; padding: 0.25em 0.9em 0.75em 0; line-height: 1.5; }
 .page__content img[src*="shields.io"] { height: 17px; width: auto; vertical-align: -3px; }
 
-/* ---------- Selected Projects（两栏） ---------- */
+
 .projgrid {
   column-count: 2;
   column-gap: 2.8rem;
@@ -137,9 +136,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Howdy! I'm a Statistics Ph.D. candidate at Boston University, advised by [Debarghya Mukherjee](https://debarghya-mukherjee.github.io/) and [Luis Carvalho](https://math.bu.edu/people/lecarval/). Before BU: M.A. in Statistics at Columbia, B.S. in Mathematics at Shandong University, and a year at AMSS, Chinese Academy of Sciences. Earlier I worked with [Zhanxing Zhu](https://zhanxingzhu.github.io/) and [Yongshun Gong](https://faculty.sdu.edu.cn/gongyongshun/en/), whose research on spatio-temporal structure still shapes how I think about heterogeneous, evolving data.
+Howdy! I work on transfer learning and representation learning: optimal transport, graph methods, and multimodal models, with a focus on what holds up when data is scarce, high-dimensional, and non-IID. The question I keep coming back to is **how you reuse what a model already knows when the world won't sit still**. Part of the answer is knowing when transfer provably works, through minimax rates, oracle inequalities, and safe-transfer criteria. The other part is the cases where structure itself is the obstacle: aligning graphs and manifolds without known correspondence, warm-starting policies in environments that keep moving, and specializing pretrained LLMs and VLMs without letting them overfit or drift out of alignment.
 
-I work on transfer learning and representation learning — optimal transport, graph methods, multimodal models — with a focus on what holds up when data is scarce, high-dimensional, and non-IID. The question I keep coming back to: **how do you reuse what a model already knows when the world won't sit still?** Part of the answer is knowing when transfer provably works — minimax rates, oracle inequalities, safe-transfer criteria. The other part is the cases where structure itself is the obstacle: aligning graphs and manifolds without known correspondence, warm-starting policies in environments that keep moving, and specializing pretrained LLMs and VLMs without letting them overfit or drift out of alignment. For anyone who wants a gentler entry point, I've put together beginner-friendly slide decks on my main directions: **[transfer learning](transfer_learning.pdf)** · **[graph learning](graph_learning.pdf)** · **[optimal transport](optimal_transport.pdf)** · **[LLMs for time series](llm_time_series.pdf)**.
+I'm a Statistics Ph.D. candidate at Boston University, advised by [Debarghya Mukherjee](https://debarghya-mukherjee.github.io/) and [Luis Carvalho](https://math.bu.edu/people/lecarval/). Before BU: M.A. in Statistics at Columbia, B.S. in Mathematics at Shandong University, and a year at AMSS, Chinese Academy of Sciences. Earlier I worked with [Zhanxing Zhu](https://zhanxingzhu.github.io/) and [Yongshun Gong](https://faculty.sdu.edu.cn/gongyongshun/en/), whose research on spatio-temporal structure still shapes how I think about heterogeneous, evolving data.
+
+<sub>A gentler entry point, in slides: **[transfer learning](transfer_learning.pdf)** · **[graph learning](graph_learning.pdf)** · **[optimal transport](optimal_transport.pdf)** · **[LLMs for time series](llm_time_series.pdf)**
 
 <!--
 
