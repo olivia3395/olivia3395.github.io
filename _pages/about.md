@@ -9,6 +9,113 @@ redirect_from:
 ---
 
 <style>
+
+@import url('https://fonts.googleapis.com/css2?family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,600;1,6..72,400&family=Inter:wght@400;500;600&display=swap');
+
+/* ---------- 正文 ---------- */
+.page__content {
+  font-family: 'Inter', -apple-system, sans-serif;
+  font-size: 0.92rem;
+  line-height: 1.55;
+  color: #2A2724;
+}
+
+.page__content p {
+  margin: 0 0 0.7em;
+}
+
+/* ---------- 章节标题 ---------- */
+.page__content h1 {
+  font-family: 'Newsreader', Georgia, serif;
+  font-weight: 600;
+  font-size: 1.18rem;
+  letter-spacing: -0.005em;
+  color: #2A2724;
+  margin: 2em 0 0.55em;
+  padding-bottom: 0.22em;
+  border-bottom: 1px solid #EFEBE3;
+}
+
+/* 可选：给标题里的 emoji 包一层 <span class="e">，让它比字小一号 */
+.page__content h1 .e {
+  font-size: 0.78em;
+  opacity: 0.9;
+  margin-right: 0.15em;
+  vertical-align: 0.04em;
+}
+
+.page__content h2 {
+  font-family: 'Newsreader', Georgia, serif;
+  font-weight: 600;
+  font-size: 1.02rem;
+  color: #6B6558;
+  margin: 1.1em 0 0.4em;
+}
+
+/* ---------- 链接 ---------- */
+.page__content a {
+  color: #1B6B7A;
+  text-decoration: none;
+  border-bottom: 1px solid rgba(27, 107, 122, 0.22);
+  transition: border-color 0.2s ease;
+}
+.page__content a:hover {
+  border-bottom-color: #1B6B7A;
+}
+
+/* ---------- 列表 ---------- */
+.page__content ul {
+  margin: 0.3em 0 0.7em;
+  padding-left: 1.15em;
+}
+.page__content li {
+  margin-bottom: 0.18em;
+  line-height: 1.5;
+}
+
+/* ---------- 小字说明（技术栈那行） ---------- */
+.page__content sub {
+  font-size: 0.8rem;
+  line-height: 1.5;
+  color: #857C6F;
+}
+
+/* ---------- 表格（项目 / 论文卡片） ---------- */
+.page__content table {
+  border: none;
+  margin: 0.4em 0 0.9em;
+}
+.page__content table tr {
+  border: none;
+  background: none !important;
+}
+.page__content table td {
+  border: none;
+  padding: 0.25em 0.9em 0.75em 0;
+  line-height: 1.5;
+}
+
+/* ---------- shields.io 徽章：统一高度，别抢戏 ---------- */
+.page__content img[src*="shields.io"] {
+  height: 17px;
+  width: auto;
+  vertical-align: -3px;
+}
+
+/* ---------- 紧凑区块：学历 / 荣誉 / 服务这种 <br> 堆叠的段落 ---------- */
+.page__content .compact {
+  line-height: 1.85;
+  margin: 0.2em 0 0.6em;
+}
+
+/* ---------- 新闻列表 ---------- */
+.page__content h1 + ul li {
+  margin-bottom: 0.3em;
+}
+
+
+<!--
+
 @import url('https://fonts.googleapis.com/css2?family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,600;1,6..72,400&family=Inter:wght@400;500;600&display=swap');
 
 .page__content {
@@ -86,7 +193,10 @@ redirect_from:
 .page__content table {
   margin: 0.6em 0 1.2em;
 }
+-->
 </style>
+
+
 
 {% if site.google_scholar_stats_use_cdn %}
 {% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
