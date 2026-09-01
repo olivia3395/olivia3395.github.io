@@ -310,6 +310,64 @@ Beyond theory and modeling, I am drawn to building AI applications that reflect 
 
 # 🤖 LLM & DS Projects
 
+<div class="projgrid">
+ 
+<div class="pg">
+  <div class="pg-cat">Alignment and evaluation</div>
+  <div class="pg-list">
+    <div class="p"><a href="https://github.com/olivia3395/AlignDPO-Preference-Optimization-from-Scratch">AlignDPO</a><span>From-scratch DPO, IPO, and KTO, compared under QLoRA fine-tuning on HH-RLHF.</span></div>
+    <div class="p"><a href="https://github.com/olivia3395/RAGAudit">RAGAudit</a><span>Hallucination detection for retrieval-augmented generation via NLI entailment, SelfCheckGPT, and semantic entropy.</span></div>
+  </div>
+</div>
+ 
+<div class="pg">
+  <div class="pg-cat">Retrieval and inference</div>
+  <div class="pg-list">
+    <div class="p"><a href="https://github.com/olivia3395/GraphRAG">GraphRAG</a><span>Multimodal retrieval combining dense vectors, an entity graph, and CLIP image embeddings.</span></div>
+    <div class="p"><a href="https://github.com/olivia3395/Adaptive_RAG">Adaptive RAG</a><span>Query routing that adjusts retrieval depth to question difficulty, with iterative self-checking.</span></div>
+    <div class="p"><a href="https://github.com/olivia3395/DraftVerify">DraftVerify</a><span>Speculative decoding with a draft-verifier pair, benchmarked on latency and acceptance rate.</span></div>
+    <div class="p"><a href="https://github.com/olivia3395/HQQ_1-bit_Quantization">HQQ</a><span>Post-training quantization from 1 to 8 bits by proximal optimization, reaching 12.7x compression.</span></div>
+  </div>
+</div>
+ 
+<div class="pg">
+  <div class="pg-cat">Causal inference and experimentation</div>
+  <div class="pg-list">
+    <div class="p"><a href="https://github.com/olivia3395/CausalLens">CausalLens</a><span>LLM-assisted causal pipeline built on DoWhy, double machine learning, and causal forests.</span></div>
+    <div class="p"><a href="https://github.com/olivia3395/Pricing-Impact-Analyzer">Congestion Pricing</a><span>Effect of NYC congestion pricing on trip volume, estimated with CS-DiD and synthetic DiD over 12M+ TLC records.</span></div>
+    <div class="p"><a href="https://github.com/olivia3395/AB_Test_Ad">A/B Testing</a><span>Bootstrap confidence intervals and power analysis for an advertising conversion experiment.</span></div>
+  </div>
+</div>
+ 
+<div class="pg">
+  <div class="pg-cat">Natural language processing</div>
+  <div class="pg-list">
+    <div class="p"><a href="https://github.com/olivia3395/finanial-text-analysis">Financial Sentiment</a><span>DistilBERT fine-tuned on financial news, with distillation for faster inference.</span></div>
+    <div class="p"><a href="https://github.com/olivia3395/spam_detection">Spam Detection</a><span>TF-IDF and Naive Bayes baseline for short-message classification.</span></div>
+  </div>
+</div>
+ 
+<div class="pg">
+  <div class="pg-cat">Computer vision</div>
+  <div class="pg-list">
+    <div class="p"><a href="https://github.com/olivia3395/dog_identification_app">Dog Breed Classification</a><span>VGG16 and ResNet50 transfer learning, deployed as a small web app.</span></div>
+    <div class="p"><a href="https://github.com/olivia3395/MaskDetection">Mask Detection</a><span>ResNet50 detector with Grad-CAM visualization of the regions driving each prediction.</span></div>
+  </div>
+</div>
+ 
+<div class="pg">
+  <div class="pg-cat">Statistical modeling</div>
+  <div class="pg-list">
+    <div class="p"><a href="https://github.com/olivia3395/Bayesian_Lung_Cancer_Prediction">Bayesian Logistic Regression</a><span>Spike-and-slab variable selection for lung cancer risk, fitted by MCMC in RStan.</span></div>
+    <div class="p"><a href="https://github.com/olivia3395/GlobalRiskAnalysisUSA">Time Series Forecasting</a><span>SARIMA, ETS, and Prophet compared on macroeconomic risk indicators.</span></div>
+    <div class="p"><a href="https://github.com/olivia3395/credit-default-risk">Credit Default Risk</a><span>Gradient-boosted trees with SMOTE resampling for imbalanced default prediction.</span></div>
+    <div class="p p-more">Also: <a href="https://github.com/olivia3395/Customer_Segmentation">customer segmentation</a>, <a href="https://github.com/olivia3395/Spring2020-Project4-group8">matrix-factorization recommender</a>, <a href="https://github.com/olivia3395/rshinyapp_airbnb">Airbnb dashboard</a>.</div>
+  </div>
+</div>
+ 
+</div>
+
+
 
 
 <table>
