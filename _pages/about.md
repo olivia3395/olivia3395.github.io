@@ -420,6 +420,15 @@ Beyond theory and modeling, I am drawn to building AI applications that reflect 
 
 
 # 📖 Educations
+
+
+<b>Boston University</b> &nbsp;·&nbsp; Ph.D. in Statistics &nbsp;·&nbsp; <i>2021.09 – present</i><br>
+<b>Columbia University</b> &nbsp;·&nbsp; M.A. in Statistics, Data Science Track &nbsp;·&nbsp; <i>2019.09 – 2020.05</i><br>
+<b>Shandong University</b> &nbsp;·&nbsp; B.S. in Mathematics &nbsp;·&nbsp; <i>2015.09 – 2019.06</i><br>
+<b>Chinese Academy of Sciences</b> &nbsp;·&nbsp; Jointly Supervised Talent Program, AMSS &nbsp;·&nbsp; <i>2018.05 – 2019.06</i>
+
+
+<!--
 - *2021.09 – Now*: Ph.D. in Statistics, Boston University
 
 - *2019.09 – 2020.05*: M.A. in Statistics (Data Science Track), Columbia University
@@ -428,7 +437,7 @@ Beyond theory and modeling, I am drawn to building AI applications that reflect 
   (Jointly Supervised Talent Program)
   
 - *2015.09 – 2019.06*: B.S. in Mathematics, Shandong University
-
+-->
 
 
 # 💻 Internships
