@@ -9,7 +9,6 @@ redirect_from:
 ---
 
 <style>
-
 @import url('https://fonts.googleapis.com/css2?family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,600;1,6..72,400&family=Inter:wght@400;500;600&display=swap');
 .page__content {
   font-family: 'Inter', -apple-system, sans-serif;
@@ -17,7 +16,6 @@ redirect_from:
   line-height: 1.55;
   color: #2A2724;
 }
-
 .page__content p {
   margin: 0 0 0.7em;
 }
@@ -31,14 +29,12 @@ redirect_from:
   padding-bottom: 0.22em;
   border-bottom: 1px solid #EFEBE3;
 }
-
 .page__content h1 .e {
   font-size: 0.78em;
   opacity: 0.9;
   margin-right: 0.15em;
   vertical-align: 0.04em;
 }
-
 .page__content h2 {
   font-family: 'Newsreader', Georgia, serif;
   font-weight: 600;
@@ -95,88 +91,6 @@ redirect_from:
 .page__content h1 + ul li {
   margin-bottom: 0.3em;
 }
-
-
-<!--
-
-@import url('https://fonts.googleapis.com/css2?family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,600;1,6..72,400&family=Inter:wght@400;500;600&display=swap');
-
-.page__content {
-  font-family: 'Inter', -apple-system, sans-serif;
-  font-size: 0.95rem;
-  line-height: 1.75;
-  color: #2A2724;
-}
-
-.page__content h1 {
-  font-family: 'Newsreader', Georgia, serif;
-  font-weight: 600;
-  font-size: 1.65rem;
-  letter-spacing: -0.01em;
-  margin-top: 2.4em;
-  padding-bottom: 0.3em;
-  border-bottom: 1px solid #E8E4DC;
-}
-
-.page__content h2 {
-  font-family: 'Newsreader', Georgia, serif;
-  font-weight: 600;
-  font-size: 1.2rem;
-  color: #6B6558;
-}
-
-.page__content a {
-  color: #1B6B7A;
-  text-decoration: none;
-  border-bottom: 1px solid rgba(27, 107, 122, 0.25);
-  transition: border-color 0.2s ease;
-}
-.page__content a:hover {
-  border-bottom-color: #1B6B7A;
-}
-
-.page__content sub {
-  font-size: 0.82rem;
-  line-height: 1.6;
-  color: #7A7266;
-}
-
-.page__content li { margin-bottom: 0.4em; }
-
-.page__content table { border: none; }
-.page__content table td { border: none; padding: 0.5em 0.9em 1.2em 0; }
-.page__content table tr { border: none; background: none !important; }
-.page__content p {
-  margin: 0 0 0.9em;
-  line-height: 1.65;
-}
-
-.page__content h1 {
-  margin-top: 1.6em;
-  margin-bottom: 0.7em;
-}
-.page__content h2 {
-  margin-top: 1.2em;
-  margin-bottom: 0.5em;
-}
-
-.page__content li {
-  margin-bottom: 0.25em;
-  line-height: 1.55;
-}
-.page__content ul {
-  margin: 0.4em 0 0.9em;
-}
-
-
-.page__content table td {
-  padding: 0.4em 0.8em 0.9em 0;
-}
-
-.page__content table {
-  margin: 0.6em 0 1.2em;
-}
--->
 </style>
 
 
