@@ -585,11 +585,17 @@ Beyond theory and modeling, I am drawn to building AI applications that reflect 
 
 # 📝 Service & Teaching
 
+<b class="inst">Presentations</b> &nbsp;·&nbsp; CIKM 2024, NeurIPS 2025, ICML 2026<br>
+<b class="inst">Reviewer</b> &nbsp;·&nbsp; CIKM 2025, ICME 2026, ICML 2026, KDD 2026, KDD 2027<br>
+<b class="inst">Instructor</b>, Boston University &nbsp;·&nbsp; Mathematical Statistics (MA 582), Elementary Statistics (MA 113)<br>
+<b class="inst">Teaching Fellow</b> &nbsp;·&nbsp; Generalized Linear Models (MA 575), Data Science in R (MA 415), Applied Statistics (MA 214)
+
+<!--
 <b>Presentations</b> &nbsp;·&nbsp; CIKM 2024, NeurIPS 2025, ICML 2026<br>
 <b>Reviewer</b> &nbsp;·&nbsp; CIKM 2025, ICME 2026, ICML 2026, KDD 2026, KDD 2027<br>
 <b>Instructor</b> @ Boston University &nbsp;·&nbsp; MA 582 <i>Mathematical Statistics</i>, MA 113 <i>Elementary Statistics</i><br>
 <b>TA</b> @ Boston University &nbsp;·&nbsp; MA 575 <i>Generalized Linear Models</i>, MA 582, MA 415 <i>Data Science in R</i>, MA 214 <i>Applied Stats</i>
-
+-->
 
 
 # ✨ My Apps
