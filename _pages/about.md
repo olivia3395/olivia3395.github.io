@@ -716,10 +716,8 @@ A quiet collection of cinematic, atmospheric, and emotionally resonant side proj
 
 # 🎨 Interests
 
-🎵 Mandarin R&B loyalist — Leehom Wang, David Tao, Khalil Fong🦋, Dean Ting
-
-🎹 Trained in piano, calligraphy, and ink painting
-
+🎵 Mandarin R&B loyalist — Leehom Wang, David Tao, Khalil Fong 🦋, Dean Ting<br>
+🎹 Trained in piano, calligraphy, and ink painting<br>
 🏞️ National park lover · 🫧 lake admirer · 🌅 opacarophile — welcome to my [Gallery](/gallery/)  
 
 
