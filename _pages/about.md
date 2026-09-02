@@ -244,10 +244,6 @@ Beyond theory and modeling, I am drawn to building AI applications that reflect 
 
 
 
-
-
-
-
 # 📝 Publications
 
 <h2>First author</h2>
@@ -316,7 +312,6 @@ Beyond theory and modeling, I am drawn to building AI applications that reflect 
     <div class="pub-meta"><b>Under review</b> / <a href="https://arxiv.org/abs/2603.01801">arXiv</a></div>
   </div>
 </div>
-
 
 
 
