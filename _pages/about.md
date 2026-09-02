@@ -124,6 +124,12 @@ redirect_from:
   .projgrid { column-count: 1; }
 }
 
+.page__content .inst {
+  font-family: 'Newsreader', Georgia, serif;
+  font-weight: 600;
+  font-size: 1.02rem;
+  letter-spacing: -0.005em;
+}
 
 .pub {
   display: flex;
@@ -504,12 +510,10 @@ Beyond theory and modeling, I am drawn to building AI applications that reflect 
 
 # 📖 Educations
 
-
-<b>Boston University</b> &nbsp;·&nbsp; Ph.D. in Statistics &nbsp;·&nbsp; <i>2021.09 – present</i><br>
-<b>Columbia University</b> &nbsp;·&nbsp; M.A. in Statistics, Data Science Track &nbsp;·&nbsp; <i>2019.09 – 2020.05</i><br>
-<b>Shandong University</b> &nbsp;·&nbsp; B.S. in Mathematics &nbsp;·&nbsp; <i>2015.09 – 2019.06</i><br>
-<b>Chinese Academy of Sciences</b> &nbsp;·&nbsp; Jointly Supervised Talent Program, AMSS &nbsp;·&nbsp; <i>2018.05 – 2019.06</i>
-
+<b class="inst">Boston University</b> &nbsp;·&nbsp; Ph.D. in Statistics &nbsp;·&nbsp; <i>2021.09 – present</i><br>
+<b class="inst">Columbia University</b> &nbsp;·&nbsp; M.A. in Statistics, Data Science Track &nbsp;·&nbsp; <i>2019.09 – 2020.05</i><br>
+<b class="inst">Shandong University</b> &nbsp;·&nbsp; B.S. in Mathematics &nbsp;·&nbsp; <i>2015.09 – 2019.06</i><br>
+<b class="inst">Chinese Academy of Sciences</b> &nbsp;·&nbsp; Jointly Supervised Talent Program, AMSS &nbsp;·&nbsp; <i>2018.05 – 2019.06</i>
 
 <!--
 - *2021.09 – Now*: Ph.D. in Statistics, Boston University
