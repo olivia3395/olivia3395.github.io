@@ -238,10 +238,10 @@ Beyond theory and modeling, I am drawn to building AI applications that reflect 
 
 # 🔥 News
 
-- *2026.05* — 🎤 **TESS** (co-first) got an **Oral** at [ICML 2026](https://icml.cc/), top 0.5% of submissions!
+- *2026.05* — **TESS** (co-first) got an **Oral** at [ICML 2026](https://icml.cc/), top 0.5% of submissions!
 - *2026.05* — "Network Perturbation Aggregation for Graphon Estimation" (co-author) is in at [SLADS](https://slads.scichina.com/).
-- *2026.04* — 🚀 Heading to **Amazon** as an Applied Scientist this summer, Bay Area bound.
-- *2026.04* — 🎓 Honored to receive the **Dean's Dissertation Fellowship** from BU's Graduate School of Arts and Sciences.
+- *2026.04* — Heading to **Amazon** as an Applied Scientist this summer, Bay Area bound.
+- *2026.04* — Honored to receive the **Dean's Dissertation Fellowship** from BU's Graduate School of Arts and Sciences.
 - *2025.09* — **GTrans** (first author) accepted at [NeurIPS 2025](https://neurips.cc/).
 - *2025.08* — "Cross-Domain Hyperspectral Image Classification" (co-author) accepted at [IEEE TGRS](https://ieeexplore.ieee.org/).
 
