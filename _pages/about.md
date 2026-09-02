@@ -604,6 +604,65 @@ Beyond theory and modeling, I am drawn to building AI applications that reflect 
 
 A quiet collection of cinematic, atmospheric, and emotionally resonant side projects — part digital keepsakes, part memory-keepers. &nbsp;<a href="/myapps/"><b>See all →</b></a>
 
+
+<table>
+  <tr>
+    <td align="center" width="16.6%">
+      <a href="/myapps/#wilderness"><img src="images/NationalPark.png" alt="Wilderness" width="100%"></a><br>
+      <sub>🌲 <b>Wilderness</b></sub>
+    </td>
+    <td align="center" width="16.6%">
+      <a href="/myapps/#mbti-vibe"><img src="images/mbti_vibe.png" alt="MBTI Vibe" width="100%"></a><br>
+      <sub>✨ <b>MBTI Vibe</b></sub>
+    </td>
+    <td align="center" width="16.6%">
+      <a href="/myapps/#what-if-cinema"><img src="images/what_if_cinema.png" alt="What If Cinema" width="100%"></a><br>
+      <sub>🎬 <b>What If Cinema</b></sub>
+    </td>
+    <td align="center" width="16.6%">
+      <a href="/myapps/#letters-from-the-screen"><img src="images/letter_from_sceen.png" alt="Letters from the Screen" width="100%"></a><br>
+      <sub>✉️ <b>Letters from Screen</b></sub>
+    </td>
+    <td align="center" width="16.6%">
+      <a href="/myapps/#if-you-disappeared"><img src="images/if_you_disappeared.png" alt="If You Disappeared" width="100%"></a><br>
+      <sub>✈️ <b>If You Disappeared</b></sub>
+    </td>
+    <td align="center" width="16.6%">
+      <a href="/myapps/#souvenirs"><img src="images/souvenir_of_a_life.png" alt="Souvenirs" width="100%"></a><br>
+      <sub>🎟️ <b>Souvenirs</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="16.6%">
+      <a href="/myapps/#map-of-me"><img src="images/the_map_of_me.png" alt="The Map of Me" width="100%"></a><br>
+      <sub>🗺️ <b>Map of Me</b></sub>
+    </td>
+    <td align="center" width="16.6%">
+      <a href="/myapps/#macondo"><img src="images/macondo.png" alt="A Room in Macondo" width="100%"></a><br>
+      <sub>🦋 <b>A Room in Macondo</b></sub>
+    </td>
+    <td align="center" width="16.6%">
+      <a href="/myapps/#say-it-like-a-classic"><img src="images/say_it_like_a_classic.png" alt="Say It Like a Classic" width="100%"></a><br>
+      <sub>✒️ <b>Say It Like a Classic</b></sub>
+    </td>
+    <td align="center" width="16.6%">
+      <a href="/myapps/#sanmao"><img src="images/sanmao_app.png" alt="Sanmao" width="100%"></a><br>
+      <sub>🏜️ <b>Sanmao</b></sub>
+    </td>
+    <td align="center" width="16.6%">
+      <a href="/myapps/#monet"><img src="images/monet_app.png" alt="Monet" width="100%"></a><br>
+      <sub>🎨 <b>Monet</b></sub>
+    </td>
+    <td align="center" width="16.6%">
+      <a href="/myapps/#vincent"><img src="images/vincent.png" alt="Vincent" width="100%"></a><br>
+      <sub>🌻 <b>Vincent</b></sub>
+    </td>
+  </tr>
+</table>
+
+
+<!--
+
 <table>
   <tr>
     <td align="center" width="20%">
@@ -652,7 +711,7 @@ A quiet collection of cinematic, atmospheric, and emotionally resonant side proj
 </table>
 
 
-
+-->
 
 
 
