@@ -187,7 +187,7 @@ Howdy! I'm a Statistics Ph.D. candidate at Boston University, advised by [Debarg
 
 I work on transfer learning and representation learning: optimal transport, graph methods, and multimodal models, with a focus on what holds up when data is scarce, high-dimensional, and non-IID. The question I keep coming back to is **how you reuse what a model already knows when the world won't sit still**. Part of the answer is knowing when transfer provably works, through minimax rates, oracle inequalities, and safe-transfer criteria. The other part is the cases where structure itself is the obstacle: aligning graphs and manifolds without known correspondence, warm-starting policies in environments that keep moving, and specializing pretrained LLMs and VLMs without letting them overfit or drift out of alignment.
 
-A gentler entry point, in slides: **[transfer learning](transfer_learning.pdf)** · **[graph learning](graph_learning.pdf)** · **[optimal transport](optimal_transport.pdf)** · **[LLMs for time series](llm_time_series.pdf)**</sub>
+A gentler entry point, in slides: **[transfer learning](transfer_learning.pdf)** · **[graph learning](graph_learning.pdf)** · **[optimal transport](optimal_transport.pdf)** · **[LLMs for time series](llm_time_series.pdf)**
 
 
 
