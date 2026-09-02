@@ -406,59 +406,6 @@ Beyond theory and modeling, I am drawn to building AI applications that reflect 
 
 -->
 
-<!--
-<h2>Co-author</h2>
-
-
-
-<table>
-  <tr>
-    <td width="40%" valign="top">
-      <img src="images/netpaging.png" alt="Net-Paging" width="100%">
-    </td>
-    <td valign="top">
-      <img src="https://img.shields.io/badge/SLADS_2026-7C3AED?style=flat-square&labelColor=7C3AED" alt="SLADS 2026">&nbsp;<b><font size="3"><a href="https://www.sciencedirect.com/science/article/pii/S305139012600005X">Network Perturbation Aggregation for Graphon Estimation</a></font></b>&nbsp;&nbsp;<a href="https://www.sciencedirect.com/science/article/pii/S305139012600005X"><img src="https://img.shields.io/badge/Paper-DC2626?style=flat-square&logo=adobeacrobatreader&logoColor=white" alt="Paper"></a> <a href="https://github.com/wd5457/gmixup"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" alt="Code"></a>
-      <ul>
-        <li>Introduces <b>Net-Paging</b>, a perturbation–aggregation framework that generates multiple <b>graphon-preserving networks</b> from a single observed graph to reduce estimation variance.</li>
-        <li>Provides a <b>closed-form bias correction</b> and theoretical guarantees showing that aggregation improves MSE while preserving the convergence behavior of the base estimator.</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
-
-<table>
-  <tr>
-    <td width="40%" valign="top">
-      <img src="images/mkdnet.png" alt="MKDNet" width="100%">
-    </td>
-    <td valign="top">
-      <img src="https://img.shields.io/badge/IEEE_TGRS_2025-0891B2?style=flat-square&labelColor=0891B2" alt="IEEE TGRS 2025">&nbsp;<b><font size="3"><a href="https://ieeexplore.ieee.org/abstract/document/11133483">Cross-Domain Hyperspectral Image Classification via Mamba-CNN and Knowledge Distillation</a></font></b>&nbsp;&nbsp;<a href="https://ieeexplore.ieee.org/abstract/document/11133483"><img src="https://img.shields.io/badge/IEEE-00629B?style=flat-square&logo=ieee&logoColor=white" alt="IEEE"></a> <a href="https://github.com/olivia3395/Cross-Domain-Hyperspectral-Image-Classification-/blob/main/IEEE%20TRGS%202025.pptx"><img src="https://img.shields.io/badge/Slides-EA580C?style=flat-square" alt="Slides"></a>
-      <ul>
-        <li><b>Hybrid spectral–spatial modeling for domain shift:</b> integrates a <b>Mamba-based global spectral encoder</b> with <b>CNN local feature extraction</b>, capturing long-range dependencies while preserving fine-grained spatial structure.</li>
-        <li><b>Dual-level transfer via distillation + graph alignment:</b> performs <b>teacher–student knowledge distillation</b> for distribution alignment and <b>OT-guided graph consistency</b> across domains, yielding robust cross-domain generalization under severe spectral mismatch.</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
-<table>
-  <tr>
-    <td width="40%" valign="top">
-      <img src="images/ssgp_workflow.png" alt="SSGP" width="100%">
-    </td>
-    <td valign="top">
-      <img src="https://img.shields.io/badge/Under_Review-94A3B8?style=flat-square&labelColor=94A3B8" alt="Under Review">&nbsp;<b><font size="3"><a href="https://arxiv.org/abs/2603.01801">Semantic Scientific Graph Pruning for Reliable Agentic Paper Reproduction</a></font></b>&nbsp;&nbsp;<a href="https://arxiv.org/abs/2603.01801"><img src="https://img.shields.io/badge/arXiv-B31B1B?style=flat-square&logo=arxiv&logoColor=white" alt="arXiv"></a>
-      <ul>
-        <li><b>SSGP</b> prunes dense scientific graphs into <b>task-adaptive subgraphs</b> via rank-based ensemble scoring — drastically shrinks agent search space.</li>
-        <li><b>Reuse–patch execution + confidence-weighted aggregation</b> boosts reproducibility, stability, and success rate of LLM scientific agents.</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
-
--->
 
 
 # 🤖 LLM & DS Projects
