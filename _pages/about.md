@@ -320,7 +320,7 @@ Beyond theory and modeling, I am drawn to building AI applications that reflect 
 <div class="pub">
   <div class="pub-fig"><img src="images/ssgp_workflow.png" alt="SSGP"></div>
   <div class="pub-body">
-    <a class="pub-title" href="https://arxiv.org/abs/2603.01801">Semantic Scientific Graph Pruning for Reliable Agentic Paper Reproduction</a>
+    <a class="pub-title" href="https://arxiv.org/abs/2603.01801">What Papers Don't Tell You: Recovering Tacit Knowledge for Automated Paper Reproduction</a>
     <div class="pub-desc">Prunes dense scientific graphs into task-adaptive subgraphs by rank-based ensemble scoring, shrinking the search space for LLM agents and raising the success rate of automated paper reproduction.</div>
     <div class="pub-meta"><b>Under review</b> / <a href="https://arxiv.org/abs/2603.01801">arXiv</a></div>
   </div>
