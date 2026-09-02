@@ -383,7 +383,7 @@ Beyond theory and modeling, I am drawn to building AI applications that reflect 
     <div class="p"><a href="https://github.com/olivia3395/GlobalRiskAnalysisUSA">Time Series</a><i>SARIMA, ETS, Prophet</i></div>
     <div class="p"><a href="https://github.com/olivia3395/credit-default-risk">Credit Risk</a><i>XGBoost, SMOTE</i></div>
     <div class="p"><a href="https://github.com/olivia3395/Customer_Segmentation">Segmentation</a><i>K-Means, elbow and silhouette</i></div>
-    <div class="p"><a href="https://github.com/olivia3395/Spring2020-Project4-group8">Recommender</a><i>ALS, SVD matrix factorization</i></div>
+    <div class="p"><a href="https://github.com/olivia3395/Spring2020-Project4-group8">Recommendation System</a><i>ALS, SVD matrix factorization</i></div>
   </div>
 </div>
  
