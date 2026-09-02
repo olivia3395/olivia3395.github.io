@@ -250,10 +250,6 @@ Beyond theory and modeling, I am drawn to building AI applications that reflect 
 
 # 📝 Publications
 
-
- 
-<!-- ===================== 替换 Publications 整节 ===================== -->
- 
 <h2>First author</h2>
  
 <div class="pub">
