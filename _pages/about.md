@@ -552,12 +552,19 @@ Beyond theory and modeling, I am drawn to building AI applications that reflect 
 
 # 🎖 Honors 
 
+<b class="inst">Boston University</b> &nbsp;·&nbsp; Dean's Dissertation Fellowship (2026) · Ralph B. D'Agostino Fellowship (2025) · Outstanding Teaching Award (2025)<br>
+<b class="inst">Shandong University</b> &nbsp;·&nbsp; Outstanding Graduate (2019) · First-Class Scholarship (2018) · Outstanding Student Leader (2018)<br>
+<b class="inst">National</b> &nbsp;·&nbsp; Hua Loo-Keng Scholarship (2018) · National Gold Award, Internet+ Innovation and Entrepreneurship Competition (2018)
+
+
+
+<!--
+
+
 <b>Boston University</b> &nbsp;·&nbsp; Dean's Dissertation Fellowship (2026) · Ralph B. D'Agostino Fellowship (2025) · Outstanding Teaching Award (2025) 
 <b>Shandong University</b> &nbsp;·&nbsp; Outstanding Graduate (2019) · First-Class Scholarship (2018) · Outstanding Student Leader (2018)  
 <b>National</b> &nbsp;·&nbsp; Hua Loo-Keng Scholarship (2018) · National Gold Award, Internet+ Innovation & Entrepreneurship Competition (2018)
 
-
-<!--
 
 - *2026*: Dean’s Dissertation Fellowship, Boston University
 - *2025*: Student Travel Grant, Boston University  
@@ -712,8 +719,6 @@ A quiet collection of cinematic, atmospheric, and emotionally resonant side proj
 </table>
 
 -->
-
-
 
 
 
