@@ -237,6 +237,16 @@ Beyond theory and modeling, I am drawn to building AI applications that reflect 
 
 
 # 🔥 News
+
+- *2026.05* — **TESS** (first author) selected for an **Oral** at [ICML 2026](https://icml.cc/), top 0.5%.
+- *2026.05* — "Network Perturbation Aggregation for Graphon Estimation" (co-author) accepted at [SLADS](https://slads.scichina.com/).
+- *2026.04* — Joining **Amazon** as an Applied Scientist this summer, in the Bay Area.
+- *2026.04* — Received the **Dean's Dissertation Fellowship**, BU Graduate School of Arts and Sciences.
+- *2025.09* — **GTrans** (first author) accepted at [NeurIPS 2025](https://neurips.cc/).
+- *2025.08* — "Cross-Domain Hyperspectral Image Classification" (co-author) accepted at [IEEE TGRS](https://ieeexplore.ieee.org/).
+
+
+<!--
 - *2026.05*: 🎉 My co-first-author paper **"From Text to Forecasts: Bridging Modality Gap with Temporal Evolution Semantic Space"** was selected for an **Oral** presentation (**top 0.5%**) at ([ICML 2026](https://icml.cc/))! 
 - *2026.05*: 🎉 My co-authored paper **"Network Perturbation Aggregation for Graphon Estimation"** has been accepted by [SLADS](https://slads.scichina.com/)!
 - *2026.04*: 🎉 My co-first-author paper **"From Text to Forecasts: Bridging Modality Gap with Temporal Evolution Semantic Space"** is accepted by ([ICML 2026](https://icml.cc/)) and selected as a **Spotlight**!
@@ -244,7 +254,7 @@ Beyond theory and modeling, I am drawn to building AI applications that reflect 
 - *2026.04*: 🎉 I am honored to receive the **Dean’s Dissertation Fellowship** from the **Graduate School of Arts and Sciences**!
 - *2025.09*: 🎉 My first-author paper **"Transfer Learning on Edge Connecting Probability Estimation Under Graphon Model"** is accepted by ([NeurIPS 2025](https://neurips.cc/))!
 - *2025.08*: 🎉 My co-authored paper **"Cross-Domain Hyperspectral Image Classification via Mamba-CNN and Knowledge Distillation"** is accepted by ([IEEE TGRS 2025](https://ieeexplore.ieee.org/))!
-
+-->
 
 
 # 📝 Publications
