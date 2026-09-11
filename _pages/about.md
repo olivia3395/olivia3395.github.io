@@ -190,11 +190,15 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 
-Howdy! I'm a Statistics Ph.D. candidate at Boston University, advised by [Debarghya Mukherjee](https://debarghya-mukherjee.github.io/) and [Luis Carvalho](https://math.bu.edu/people/lecarval/). Before BU: M.A. in Statistics at Columbia, B.S. in Mathematics at Shandong University, and a year at AMSS, Chinese Academy of Sciences. Earlier I worked with [Zhanxing Zhu](https://zhanxingzhu.github.io/) and [Yongshun Gong](https://faculty.sdu.edu.cn/gongyongshun/en/), whose research on spatio-temporal structure still shapes how I think about heterogeneous, evolving data.
 
-I work on transfer learning and representation learning: optimal transport, graph methods, and multimodal models, with a focus on what holds up when data is scarce, high-dimensional, and non-IID. The question I keep coming back to is **how you reuse what a model already knows when the world won't sit still**. Part of the answer is knowing when transfer provably works, through minimax rates, oracle inequalities, and safe-transfer criteria. The other part is the cases where structure itself is the obstacle: aligning graphs and manifolds without known correspondence, warm-starting policies in environments that keep moving, and specializing pretrained LLMs and VLMs without letting them overfit or drift out of alignment.
+Howdy! I'm a final-year Statistics Ph.D. candidate at Boston University, advised by [Debarghya Mukherjee](https://debarghya-mukherjee.github.io/) and [Luis Carvalho](https://math.bu.edu/people/lecarval/). Before BU, I studied statistics at Columbia (M.A.) and mathematics at Shandong University (B.S.), spent a year at AMSS, Chinese Academy of Sciences, and worked with [Zhanxing Zhu](https://zhanxingzhu.github.io/) and [Yongshun Gong](https://faculty.sdu.edu.cn/gongyongshun/en/) on spatio-temporal data.
 
-A gentler entry point, in slides: **[transfer learning](transfer_learning.pdf)** · **[graph learning](graph_learning.pdf)** · **[optimal transport](optimal_transport.pdf)** · **[LLMs for time series](llm_time_series.pdf)**
+I work on transfer and representation learning for modern AI systems, from multimodal foundation models to LLM agents. The question I keep coming back to is **how you reuse what a model already knows when the world won't sit still**:
+- **LLM agents.** Post-training agents for changing environments: RL from sparse rewards, on-policy self-distillation, and spatio-temporal reasoning.
+- **When transfer provably works.** Minimax rates, oracle inequalities, and safe-transfer criteria.
+- **When structure is the obstacle.** Optimal transport and graph methods for alignment without known correspondence, and multimodal models for heterogeneous, evolving data.
+
+A gentler entry point, in slides: **[LLM agents](llm_agent.pdf)** · **[transfer learning](transfer_learning.pdf)** · **[graph learning](graph_learning.pdf)** · **[optimal transport](optimal_transport.pdf)** · **[LLMs for time series](llm_time_series.pdf)**
 
 
 
