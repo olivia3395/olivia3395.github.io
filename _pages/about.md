@@ -325,6 +325,16 @@ Beyond theory and modeling, I am drawn to building AI applications that reflect 
     <div class="pub-meta"><b>IEEE TGRS 2025</b> / <a href="https://ieeexplore.ieee.org/abstract/document/11133483">Paper</a> / <a href="https://github.com/olivia3395/Cross-Domain-Hyperspectral-Image-Classification-/blob/main/IEEE%20TRGS%202025.pptx">Slides</a></div>
   </div>
 </div>
+
+<div class="pub">
+  <div class="pub-fig"><img src="images/mcsanet_workflow.png" alt="MCSANet"></div>
+  <div class="pub-body">
+    <a class="pub-title" href="https://ieeexplore.ieee.org/abstract/document/11343384/">Multi-Scale Based Cross-Modal Semantic Alignment Network for Radiology Report Generation</a>
+    <div class="pub-desc">Aligns radiology images and reports across scales via sparse local attention at multiple dilation rates, coupled with a gated shared-memory alignment module and a multi-label contrastive objective.</div>
+    <div class="pub-meta"><b>IEEE SMC 2025</b> / <a href="https://ieeexplore.ieee.org/abstract/document/11343384/">IEEE Xplore</a></div>
+  </div>
+</div>
+
  
 <div class="pub">
   <div class="pub-fig"><img src="images/ssgp_workflow.png" alt="SSGP"></div>
