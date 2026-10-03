@@ -277,9 +277,10 @@ Beyond theory and modeling, I am drawn to building AI applications that reflect 
   <div class="pub-body">
     <a class="pub-title" href="https://arxiv.org/abs/2604.07383">SCOT: Multi-Source Cross-City Transfer with Optimal-Transport Soft-Correspondence Objectives</a>
     <div class="pub-desc">Sinkhorn entropic-OT coupling gives many-to-many region alignment across cities with no node matching, paired with an OT-weighted contrastive objective that resists collapse under multi-source heterogeneity.</div>
-    <div class="pub-meta"><b>NeurIPS 2026</b> / <a href="https://arxiv.org/abs/2604.07383">Paper</a> / <a href="https://github.com/olivia3395/olivia3395.github.io/blob/main/_pages/SCOT.pdf">Slides</a> / <a href="https://github.com/olivia3395/SCOT-Multi-Source-Cross-City-Transfer">Code</a></div>
+    <div class="pub-meta"><b>NeurIPS 2026</b> / <a href="https://arxiv.org/abs/2604.07383">Paper</a> / <a href="https://github.com/olivia3395/SCOT-Multi-Source-Cross-City-Transfer/blob/main/SCOT_poster.pdf">Poster</a> / <a href="https://github.com/olivia3395/olivia3395.github.io/blob/main/_pages/SCOT.pdf">Slides</a> / <a href="https://github.com/olivia3395/SCOT-Multi-Source-Cross-City-Transfer">Code</a></div>
   </div>
 </div>
+
 
 
 <div class="pub">
@@ -296,9 +297,10 @@ Beyond theory and modeling, I am drawn to building AI applications that reflect 
   <div class="pub-body">
     <a class="pub-title" href="https://arxiv.org/pdf/2603.12664">From Text to Forecasts: Bridging Modality Gap with Temporal Evolution Semantic Space</a>
     <div class="pub-desc">Translates free-form text into interpretable temporal primitives (distribution shift, volatility, shape, lag) and conditions a Transformer forecaster on them, reducing error by up to 29% under event-driven non-stationarity.</div>
-    <div class="pub-meta"><b>ICML 2026 (Oral)</b> / <a href="https://arxiv.org/pdf/2603.12664">Paper</a> / <a href="https://github.com/olivia3395/olivia3395.github.io/blob/main/_pages/TESS.pdf">Slides</a> / <a href="https://github.com/olivia3395/TESS">Code</a></div>
+    <div class="pub-meta"><b>ICML 2026 (Oral)</b> / <a href="https://arxiv.org/pdf/2603.12664">Paper</a> / <a href="https://github.com/olivia3395/TESS/blob/main/TESS_Poster.pdf">Poster</a> / <a href="https://github.com/olivia3395/olivia3395.github.io/blob/main/_pages/TESS.pdf">Slides</a> / <a href="https://github.com/olivia3395/TESS">Code</a></div>
   </div>
 </div>
+
  
 <div class="pub">
   <div class="pub-fig"><img src="images/phaseshift.png" alt="Phase Transition"></div>
