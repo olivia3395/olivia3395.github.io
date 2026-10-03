@@ -551,7 +551,7 @@ Beyond theory and modeling, I am drawn to building AI applications that reflect 
 <sub>LangChain agent with LLM-based heuristic learning that turns request-level attribution into ranked traffic-blocking policies; MIMO forecasting on large-scale HTTP logs, benchmarking tabular foundation models against Chronos-2. </sub>
 
 <b>Data Scientist Intern</b> · Plymouth Rock Insurance · <i>Summer 2025</i><br>
-<sub>Multimodal property risk scoring with GPT-4o and Street View imagery; XGBoost Tweedie loss model on SageMaker (+4.3% Gini). <a href="HomeInsurance.pdf">Slides</a></sub>
+<sub>Designed a multimodal LLM pipeline for homeowners risk assessment, leveraging GPT as a vision-language model to distill Google Street View imagery into structured property-level risk features. Integrated VLM-derived features into a pure-premium XGBoost model with a Tweedie objective.</sub>
 
 <!--
 <img src="images/plymouth_logo.png" alt="Plymouth Rock" width="50" align="left" hspace="15">
