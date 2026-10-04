@@ -1781,6 +1781,32 @@ classes: wide
   </div>
 </div>
 
+<div class="album-card">
+  <div class="album-head">
+    <p class="album-title">🌿 Long Island Corners <span style="font-weight:600;color:#6b7280;">(Old Westbury Gardens · Montauk · Southampton)</span></p>
+    <div class="album-badges">
+      <span class="badge">Old Westbury Gardens</span>
+      <span class="badge">Montauk</span>
+      <span class="badge">Southampton</span>
+    </div>
+  </div>
+  <p class="album-meta">Long Island in gentle light — garden paths, ocean edges, and small-town afternoons drifting softly toward the sea.</p>
+
+  <div class="photo-grid">
+    <div class="photo"><img src="/images/gallery/longisland_corners/lc1.jpg" alt="Long Island Corners 1"></div>
+    <div class="photo"><img src="/images/gallery/longisland_corners/lc2.jpg" alt="Long Island Corners 2"></div>
+    <div class="photo"><img src="/images/gallery/longisland_corners/lc3.jpg" alt="Long Island Corners 3"></div>
+    <div class="photo"><img src="/images/gallery/longisland_corners/lc4.jpg" alt="Long Island Corners 4"></div>
+    <div class="photo"><img src="/images/gallery/longisland_corners/lc5.jpg" alt="Long Island Corners 5"></div>
+    <div class="photo"><img src="/images/gallery/longisland_corners/lc6.jpg" alt="Long Island Corners 6"></div>
+    <div class="photo"><img src="/images/gallery/longisland_corners/lc7.jpg" alt="Long Island Corners 7"></div>
+    <div class="photo"><img src="/images/gallery/longisland_corners/lc8.jpg" alt="Long Island Corners 8"></div>
+    <div class="photo"><img src="/images/gallery/longisland_corners/lc9.jpg" alt="Long Island Corners 9"></div>
+    <div class="photo"><img src="/images/gallery/longisland_corners/lc10.jpg" alt="Long Island Corners 10"></div>
+    <div class="photo"><img src="/images/gallery/longisland_corners/lc11.jpg" alt="Long Island Corners 11"></div>
+    <div class="photo"><img src="/images/gallery/longisland_corners/lc12.jpg" alt="Long Island Corners 12"></div>
+  </div>
+</div>
 
 
 <div class="album-card">
