@@ -5,7 +5,6 @@ permalink: /music/
 author_profile: true
 ---
 
-Some pieces I've played and made. Headphones recommended 🎧
 
 
 <style>
