@@ -34,14 +34,12 @@ author_profile: true
     <div class="emoji">🌧️</div>
     <div class="num">Music 1</div>
     <div class="title">A Little Blue</div>
-    <div class="desc">A quiet, slightly wistful piece, for the evenings that feel a bit heavy.</div>
     <audio controls preload="none"><source src="/files/music/music1.mp3" type="audio/mpeg"></audio>
   </div>
   <div class="music-card warm">
     <div class="emoji">☕</div>
     <div class="num">Music 2</div>
     <div class="title">Warmth</div>
-    <div class="desc">Soft and gentle, like a cup of tea on a cold day.</div>
     <audio controls preload="none"><source src="/files/music/music2.mp3" type="audio/mpeg"></audio>
   </div>
   <div class="music-card youth">
