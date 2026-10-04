@@ -48,49 +48,42 @@ author_profile: true
     <div class="emoji">🌿</div>
     <div class="num">Music 3</div>
     <div class="title">Youth</div>
-    <div class="desc">Light, bright, and a little nostalgic. Sounds like being twenty.</div>
     <audio controls preload="none"><source src="/files/music/music3.mp3" type="audio/mpeg"></audio>
   </div>
   <div class="music-card sun">
     <div class="emoji">🌅</div>
     <div class="num">Music 4</div>
     <div class="title">Sunshine</div>
-    <div class="desc">Open windows, golden light, and nowhere to be.</div>
     <audio controls preload="none"><source src="/files/music/music4.mp3" type="audio/mpeg"></audio>
   </div>
   <div class="music-card calm">
     <div class="emoji">🫧</div>
     <div class="num">Music 5</div>
     <div class="title">Stillness</div>
-    <div class="desc">Calm as a lake at dawn, with no ripples and no hurry.</div>
     <audio controls preload="none"><source src="/files/music/music5.mp3" type="audio/mpeg"></audio>
   </div>
   <div class="music-card rnb dark">
     <div class="emoji">🎧</div>
     <div class="num">Music 6</div>
     <div class="title">Late Night Groove</div>
-    <div class="desc">Smooth chords and a soft groove, a little R&amp;B for the city at night.</div>
     <audio controls preload="none"><source src="/files/music/music6.mp3" type="audio/mpeg"></audio>
   </div>
   <div class="music-card night dark">
     <div class="emoji">🌙</div>
     <div class="num">Music 7</div>
     <div class="title">Goodnight</div>
-    <div class="desc">A lullaby to close the day. Lights off, eyes closed.</div>
     <audio controls preload="none"><source src="/files/music/music7.mp3" type="audio/mpeg"></audio>
   </div>
   <div class="music-card read">
     <div class="emoji">📖</div>
     <div class="num">Music 8</div>
     <div class="title">Pages &amp; Thoughts</div>
-    <div class="desc">For reading and slow thinking, when the mind finally settles.</div>
     <audio controls preload="none"><source src="/files/music/music8.mp3" type="audio/mpeg"></audio>
   </div>
   <div class="music-card happy">
     <div class="emoji">🌈</div>
     <div class="num">Music 9</div>
     <div class="title">Happy Days</div>
-    <div class="desc">Pure joy in a few minutes. Press play and smile.</div>
     <audio controls preload="none"><source src="/files/music/music9.mp3" type="audio/mpeg"></audio>
   </div>
 </div>
