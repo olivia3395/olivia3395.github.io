@@ -91,7 +91,6 @@ author_profile: true
     <div class="title">Happy Days</div>
     <audio controls preload="none"><source src="/files/music/music9.mp3" type="audio/mpeg"></audio>
   </div>
-</div>
   <div class="music-card spring">
     <div class="emoji">🌸</div>
     <div class="num">Music 10</div>
@@ -128,7 +127,8 @@ author_profile: true
     <div class="title">Above the Clouds</div>
     <audio controls preload="none"><source src="/files/music/music15.mp3" type="audio/mpeg"></audio>
   </div>
-
+</div>
+  
 
 
 
