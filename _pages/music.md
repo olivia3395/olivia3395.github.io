@@ -28,6 +28,13 @@ author_profile: true
 .night{background:linear-gradient(135deg,#1f2a4a,#3d4a7a)}
 .read{background:linear-gradient(135deg,#f3ead8,#dfe6cf)}
 .happy{background:linear-gradient(135deg,#ffd6e0,#ffe9a8)}
+.spring{background:linear-gradient(135deg,#ffe0ec,#d8f3dc)}
+.autumn{background:linear-gradient(135deg,#fbd9a5,#e9a57c)}
+.winter{background:linear-gradient(135deg,#eef4fb,#d3e1ef)}
+.dusk{background:linear-gradient(135deg,#fcc9a8,#a3add6)}
+.rain{background:linear-gradient(135deg,#dbe3e8,#b4c3cd)}
+.cloud{background:linear-gradient(135deg,#fdfdff,#c9d6ea)}
+  
 </style>
 <div class="music-grid">
   <div class="music-card blue">
@@ -85,6 +92,43 @@ author_profile: true
     <audio controls preload="none"><source src="/files/music/music9.mp3" type="audio/mpeg"></audio>
   </div>
 </div>
+  <div class="music-card spring">
+    <div class="emoji">🌸</div>
+    <div class="num">Music 10</div>
+    <div class="title">Spring Bloom</div>
+    <audio controls preload="none"><source src="/files/music/music10.mp3" type="audio/mpeg"></audio>
+  </div>
+  <div class="music-card autumn">
+    <div class="emoji">🍂</div>
+    <div class="num">Music 11</div>
+    <div class="title">Autumn Leaves</div>
+    <audio controls preload="none"><source src="/files/music/music11.mp3" type="audio/mpeg"></audio>
+  </div>
+  <div class="music-card winter">
+    <div class="emoji">❄️</div>
+    <div class="num">Music 12</div>
+    <div class="title">Winter Hush</div>
+    <audio controls preload="none"><source src="/files/music/music12.mp3" type="audio/mpeg"></audio>
+  </div>
+  <div class="music-card dusk">
+    <div class="emoji">🌊</div>
+    <div class="num">Music 13</div>
+    <div class="title">Seaside at Dusk</div>
+    <audio controls preload="none"><source src="/files/music/music13.mp3" type="audio/mpeg"></audio>
+  </div>
+  <div class="music-card rain">
+    <div class="emoji">☔</div>
+    <div class="num">Music 14</div>
+    <div class="title">Rainy Day</div>
+    <audio controls preload="none"><source src="/files/music/music14.mp3" type="audio/mpeg"></audio>
+  </div>
+  <div class="music-card cloud">
+    <div class="emoji">☁️</div>
+    <div class="num">Music 15</div>
+    <div class="title">Above the Clouds</div>
+    <audio controls preload="none"><source src="/files/music/music15.mp3" type="audio/mpeg"></audio>
+  </div>
+
 
 
 
