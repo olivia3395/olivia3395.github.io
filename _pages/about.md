@@ -271,6 +271,15 @@ Beyond theory and modeling, I am drawn to building AI applications that reflect 
 
 <h2>First author</h2>
 
+<div class="pub">
+  <div class="pub-fig"><img src="images/statprior_main.png" alt="StatPrior"></div>
+  <div class="pub-body">
+    <a class="pub-title" href="https://arxiv.org/abs/2611.31856">Start Where the Data Are: Statistical Priors for One-Step Generation on Manifolds</a>
+    <div class="pub-desc">A tangent-space Gaussian mixture fitted to the data replaces uniform noise, and posterior coupling pairs each data point with noise from its own component, so one-step generators on spheres, tori and SO(3) stop placing samples between modes, with no change to the network, objective or sampler.</div>
+    <div class="pub-meta"><b>Preprint 2026</b> / <a href="https://arxiv.org/abs/2611.31856">Paper</a> / <a href="https://github.com/olivia3395/statprior-onestep">Code</a></div>
+  </div>
+</div>
+
 
 <div class="pub">
   <div class="pub-fig"><img src="images/scot_main.png" alt="SCOT"></div>
