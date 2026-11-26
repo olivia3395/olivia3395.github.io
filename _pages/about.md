@@ -302,7 +302,7 @@ Beyond theory and modeling, I am drawn to building AI applications that reflect 
   <div class="pub-body">
     <a class="pub-title" href="https://openreview.net/pdf?id=i3sWs5614Y">Transfer Learning on Edge Connecting Probability Estimation Under Graphon Model</a>
     <div class="pub-desc">Graphon-level transfer without node correspondence: aligns graphs via Gromov–Wasserstein, then transfers edge structure nonparametrically, with residual smoothing that unlocks small and sparse targets.</div>
-    <div class="pub-meta"><b>NeurIPS 2025</b> / <a href="https://neurips.cc/virtual/2025/poster/116597">Paper</a> / <a href="https://github.com/olivia3395/GTrans/blob/main/neurips_poster.pdf">Poster</a> / <a href="https://github.com/olivia3395/GTrans/blob/main/GTrans.pdf">Slides</a> / <a href="https://github.com/olivia3395/GTRANS">Code</a></div>
+    <div class="pub-meta"><b>NeurIPS 2025</b> / <a href="https://proceedings.neurips.cc/paper_files/paper/2025/hash/30dee0ddc6c0b4907a9d587d3ce87979-Abstract-Conference.html">Paper</a> / <a href="https://github.com/olivia3395/GTrans/blob/main/neurips_poster.pdf">Poster</a> / <a href="https://github.com/olivia3395/GTrans/blob/main/GTrans.pdf">Slides</a> / <a href="https://github.com/olivia3395/GTRANS">Code</a></div>
   </div>
 </div>
  
