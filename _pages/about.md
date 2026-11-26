@@ -382,10 +382,16 @@ Beyond theory and modeling, I am drawn to building AI applications that reflect 
 </div>
  
 <div class="pg">
-  <div class="pg-cat"><svg viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.3" stroke-linecap="round"><circle cx="7" cy="7" r="4.6"/><line x1="10.4" y1="10.4" x2="13.6" y2="13.6"/></svg>Retrieval &amp; Inference</div>
+  <div class="pg-cat"><svg viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.3" stroke-linecap="round"><circle cx="7" cy="7" r="4.6"/><line x1="10.4" y1="10.4" x2="13.6" y2="13.6"/></svg>Retrieval</div>
   <div class="pg-list">
     <div class="p"><a href="https://github.com/olivia3395/llm-projects/tree/main/GraphRAG">GraphRAG</a><i>dense + entity graph + CLIP</i></div>
     <div class="p"><a href="https://github.com/olivia3395/llm-projects/tree/main/Adaptive-RAG">Adaptive RAG</a><i>difficulty-aware query routing</i></div>
+  </div>
+</div>
+ 
+<div class="pg">
+  <div class="pg-cat"><svg viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.3" stroke-linejoin="round"><path d="M9.2 1.8 3.6 9h4l-1 5.2L12.4 7h-4z"/></svg>Efficient Inference</div>
+  <div class="pg-list">
     <div class="p"><a href="https://github.com/olivia3395/llm-projects/tree/main/DraftVerify">DraftVerify</a><i>speculative decoding, draft-verifier</i></div>
     <div class="p"><a href="https://github.com/olivia3395/llm-projects/tree/main/HQQ-Quantization">HQQ</a><i>1–8 bit quantization, 12.7x</i></div>
   </div>
