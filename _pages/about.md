@@ -374,7 +374,7 @@ Beyond theory and modeling, I am drawn to building AI applications that reflect 
 <div class="projgrid">
  
 <div class="pg">
-  <div class="pg-cat"><svg viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.3"><circle cx="8" cy="8" r="5.6"/><circle cx="8" cy="8" r="1.9"/></svg>Alignment</div>
+  <div class="pg-cat"><svg viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.3"><circle cx="8" cy="8" r="5.6"/><circle cx="8" cy="8" r="1.9"/></svg>Alignment &amp; Evaluation</div>
   <div class="pg-list">
     <div class="p"><a href="https://github.com/olivia3395/llm-projects/tree/main/AlignDPO">AlignDPO</a><i>DPO, IPO, KTO under QLoRA</i></div>
     <div class="p"><a href="https://github.com/olivia3395/llm-projects/tree/main/RAGAudit">RAGAudit</a><i>NLI, SelfCheckGPT, semantic entropy</i></div>
@@ -382,7 +382,7 @@ Beyond theory and modeling, I am drawn to building AI applications that reflect 
 </div>
  
 <div class="pg">
-  <div class="pg-cat"><svg viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.3" stroke-linecap="round"><circle cx="7" cy="7" r="4.6"/><line x1="10.4" y1="10.4" x2="13.6" y2="13.6"/></svg>Retrieval</div>
+  <div class="pg-cat"><svg viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.3" stroke-linecap="round"><circle cx="7" cy="7" r="4.6"/><line x1="10.4" y1="10.4" x2="13.6" y2="13.6"/></svg>Retrieval &amp; Inference</div>
   <div class="pg-list">
     <div class="p"><a href="https://github.com/olivia3395/llm-projects/tree/main/GraphRAG">GraphRAG</a><i>dense + entity graph + CLIP</i></div>
     <div class="p"><a href="https://github.com/olivia3395/llm-projects/tree/main/Adaptive-RAG">Adaptive RAG</a><i>difficulty-aware query routing</i></div>
@@ -392,43 +392,18 @@ Beyond theory and modeling, I am drawn to building AI applications that reflect 
 </div>
  
 <div class="pg">
-  <div class="pg-cat"><svg viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.3" stroke-linecap="round"><circle cx="3.4" cy="8" r="1.9"/><circle cx="12.6" cy="8" r="1.9"/><line x1="5.6" y1="8" x2="10.2" y2="8"/><polyline points="8.9,6.6 10.5,8 8.9,9.4"/></svg>Causal inference</div>
+  <div class="pg-cat"><svg viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.3" stroke-linecap="round"><circle cx="3.4" cy="8" r="1.9"/><circle cx="12.6" cy="8" r="1.9"/><line x1="5.6" y1="8" x2="10.2" y2="8"/><polyline points="8.9,6.6 10.5,8 8.9,9.4"/></svg>Causal Inference &amp; Statistics</div>
   <div class="pg-list">
-    <div class="p"><a href="https://github.com/olivia3395/data-science-portfolio/tree/main/causal-inference/CausalLens">CausalLens</a><i>DoWhy, double ML, causal forests</i></div>
     <div class="p"><a href="https://github.com/olivia3395/data-science-portfolio/tree/main/causal-inference/Congestion-Pricing">Congestion Pricing</a><i>CS-DiD on 12M+ NYC TLC trips</i></div>
-    <div class="p"><a href="https://github.com/olivia3395/data-science-portfolio/tree/main/causal-inference/AB-Testing">A/B Testing</a><i>bootstrap CIs, power analysis</i></div>
-  </div>
-</div>
- 
-<div class="pg">
-  <div class="pg-cat"><svg viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.3" stroke-linejoin="round"><path d="M13.4 3.4v6.2H6.2L3.2 12.2V3.4z"/></svg>Language</div>
-  <div class="pg-list">
-    <div class="p"><a href="https://github.com/olivia3395/data-science-portfolio/tree/main/nlp/Financial-Sentiment">Financial Sentiment</a><i>DistilBERT on financial news</i></div>
-    <div class="p"><a href="https://github.com/olivia3395/data-science-portfolio/tree/main/nlp/Spam-Detection">Spam Detection</a><i>TF-IDF, Naive Bayes</i></div>
-  </div>
-</div>
- 
-<div class="pg">
-  <div class="pg-cat"><svg viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.3"><path d="M1.6 8s2.5-4.2 6.4-4.2S14.4 8 14.4 8s-2.5 4.2-6.4 4.2S1.6 8 1.6 8z"/><circle cx="8" cy="8" r="1.8"/></svg>Vision</div>
-  <div class="pg-list">
-    <div class="p"><a href="https://github.com/olivia3395/data-science-portfolio/tree/main/vision/Dog-Breed-Classification">Dog Breed Classification</a><i>VGG16, ResNet50 transfer</i></div>
-    <div class="p"><a href="https://github.com/olivia3395/data-science-portfolio/tree/main/vision/Mask-Detection">Mask Detection</a><i>ResNet50, Grad-CAM</i></div>
-  </div>
-</div>
- 
-<div class="pg">
-  <div class="pg-cat"><svg viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.3" stroke-linecap="round"><line x1="2.4" y1="13.2" x2="13.6" y2="13.2"/><line x1="4.6" y1="13.2" x2="4.6" y2="8.8"/><line x1="8" y1="13.2" x2="8" y2="4"/><line x1="11.4" y1="13.2" x2="11.4" y2="10.4"/></svg>Statistics</div>
-  <div class="pg-list">
+    <div class="p"><a href="https://github.com/olivia3395/data-science-portfolio/tree/main/causal-inference/CausalLens">CausalLens</a><i>DoWhy, double ML, causal forests</i></div>
     <div class="p"><a href="https://github.com/olivia3395/data-science-portfolio/tree/main/statistics/Bayesian-Lung-Cancer-Prediction">Bayesian Logistic</a><i>spike-and-slab MCMC, RStan</i></div>
-    <div class="p"><a href="https://github.com/olivia3395/data-science-portfolio/tree/main/apps/Global-Risk-Analysis-USA">Time Series</a><i>SARIMA, ETS, Prophet</i></div>
-    <div class="p"><a href="https://github.com/olivia3395/data-science-portfolio/tree/main/ml/Credit-Default-Risk">Credit Risk</a><i>XGBoost, SMOTE</i></div>
-    <div class="p"><a href="https://github.com/olivia3395/data-science-portfolio/tree/main/ml/Customer-Segmentation">Segmentation</a><i>K-Means, elbow and silhouette</i></div>
-    <div class="p"><a href="https://github.com/olivia3395/Spring2020-Project4-group8">Recommendation System</a><i>ALS, SVD matrix factorization</i></div>
   </div>
 </div>
  
 </div>
- 
+
+<p style="margin-top:0.6em"><sub>More projects: <a href="https://github.com/olivia3395/llm-projects">llm-projects</a> · <a href="https://github.com/olivia3395/data-science-portfolio">data-science-portfolio</a></sub></p>
+
 <!--
 
 <table>
