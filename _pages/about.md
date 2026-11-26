@@ -419,7 +419,7 @@ Beyond theory and modeling, I am drawn to building AI applications that reflect 
 <div class="pg">
   <div class="pg-cat"><svg viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.3" stroke-linecap="round"><line x1="2.4" y1="13.2" x2="13.6" y2="13.2"/><line x1="4.6" y1="13.2" x2="4.6" y2="8.8"/><line x1="8" y1="13.2" x2="8" y2="4"/><line x1="11.4" y1="13.2" x2="11.4" y2="10.4"/></svg>Statistics</div>
   <div class="pg-list">
-    <div class="p"><a href="https://github.com/olivia3395/Bayesian_Lung_Cancer_Prediction">Bayesian Logistic</a><i>spike-and-slab MCMC, RStan</i></div>
+    <div class="p"><a href="https://github.com/olivia3395/data-science-portfolio/tree/main/statistics/Bayesian-Lung-Cancer-Prediction">Bayesian Logistic</a><i>spike-and-slab MCMC, RStan</i></div>
     <div class="p"><a href="https://github.com/olivia3395/data-science-portfolio/tree/main/apps/Global-Risk-Analysis-USA">Time Series</a><i>SARIMA, ETS, Prophet</i></div>
     <div class="p"><a href="https://github.com/olivia3395/data-science-portfolio/tree/main/ml/Credit-Default-Risk">Credit Risk</a><i>XGBoost, SMOTE</i></div>
     <div class="p"><a href="https://github.com/olivia3395/data-science-portfolio/tree/main/ml/Customer-Segmentation">Segmentation</a><i>K-Means, elbow and silhouette</i></div>
@@ -472,7 +472,7 @@ Beyond theory and modeling, I am drawn to building AI applications that reflect 
 </td>
 <td valign="top">
 <b>Statistical Modeling</b><br>
-<a href="https://github.com/olivia3395/Bayesian_Lung_Cancer_Prediction"><img src="https://img.shields.io/badge/Bayesian_Logistic-D97757?style=flat-square&logo=r&logoColor=F0EEE6" alt="Bayesian Logistic"></a>
+<a href="https://github.com/olivia3395/data-science-portfolio/tree/main/statistics/Bayesian-Lung-Cancer-Prediction"><img src="https://img.shields.io/badge/Bayesian_Logistic-D97757?style=flat-square&logo=r&logoColor=F0EEE6" alt="Bayesian Logistic"></a>
 <a href="https://github.com/olivia3395/data-science-portfolio/tree/main/apps/Global-Risk-Analysis-USA"><img src="https://img.shields.io/badge/Time_Series-D97757?style=flat-square&logo=plotly&logoColor=F0EEE6" alt="Time Series"></a>
 <a href="https://github.com/olivia3395/data-science-portfolio/tree/main/ml/Credit-Default-Risk"><img src="https://img.shields.io/badge/Credit_Risk-D97757?style=flat-square&logo=python&logoColor=F0EEE6" alt="Credit Risk"></a>
 <a href="https://github.com/olivia3395/data-science-portfolio/tree/main/ml/Customer-Segmentation"><img src="https://img.shields.io/badge/Segmentation-D97757?style=flat-square&logo=scikitlearn&logoColor=F0EEE6" alt="Segmentation"></a>
@@ -793,7 +793,7 @@ A quiet collection of cinematic, atmospheric, and emotionally resonant side proj
       <sub>R Shiny · maps · filtering</sub>
     </td>
     <td valign="top">
-      <img src="https://img.shields.io/badge/STATS-EA580C?style=flat-square&labelColor=EA580C" alt="STATS"> <b>Bayesian Logistic</b> <a href="https://github.com/olivia3395/Bayesian_Lung_Cancer_Prediction"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" alt="Code"></a><br>
+      <img src="https://img.shields.io/badge/STATS-EA580C?style=flat-square&labelColor=EA580C" alt="STATS"> <b>Bayesian Logistic</b> <a href="https://github.com/olivia3395/data-science-portfolio/tree/main/statistics/Bayesian-Lung-Cancer-Prediction"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" alt="Code"></a><br>
       <sub>RStan · Spike-and-Slab · MCMC</sub>
     </td>
     <td valign="top">
