@@ -284,7 +284,7 @@ Beyond theory and modeling, I am drawn to building AI applications that reflect 
 <div class="pub">
   <div class="pub-fig"><img src="images/scot_main.png" alt="SCOT"></div>
   <div class="pub-body">
-    <a class="pub-title" href="https://arxiv.org/abs/2604.07383">SCOT: Multi-Source Cross-City Transfer with Optimal-Transport Soft-Correspondence Objectives</a>
+    <a class="pub-title" href="https://arxiv.org/abs/2604.07383">SCOT: Soft Correspondence via Optimal Transport for Multi-Source Cross-City Transfer</a>
     <div class="pub-desc">Sinkhorn entropic-OT coupling gives many-to-many region alignment across cities with no node matching, paired with an OT-weighted contrastive objective that resists collapse under multi-source heterogeneity.</div>
     <div class="pub-meta"><b>NeurIPS 2026</b> / <a href="https://arxiv.org/abs/2604.07383">Paper</a> / <a href="https://github.com/olivia3395/SCOT-Multi-Source-Cross-City-Transfer/blob/main/SCOT_poster.pdf">Poster</a> / <a href="https://github.com/olivia3395/olivia3395.github.io/blob/main/_pages/SCOT.pdf">Slides</a> / <a href="https://github.com/olivia3395/SCOT-Multi-Source-Cross-City-Transfer">Code</a></div>
   </div>
