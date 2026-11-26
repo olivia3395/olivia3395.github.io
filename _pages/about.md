@@ -376,43 +376,43 @@ Beyond theory and modeling, I am drawn to building AI applications that reflect 
 <div class="pg">
   <div class="pg-cat"><svg viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.3"><circle cx="8" cy="8" r="5.6"/><circle cx="8" cy="8" r="1.9"/></svg>Alignment</div>
   <div class="pg-list">
-    <div class="p"><a href="https://github.com/olivia3395/AlignDPO-Preference-Optimization-from-Scratch">AlignDPO</a><i>DPO, IPO, KTO under QLoRA</i></div>
-    <div class="p"><a href="https://github.com/olivia3395/RAGAudit">RAGAudit</a><i>NLI, SelfCheckGPT, semantic entropy</i></div>
+    <div class="p"><a href="https://github.com/olivia3395/llm-projects/tree/main/AlignDPO">AlignDPO</a><i>DPO, IPO, KTO under QLoRA</i></div>
+    <div class="p"><a href="https://github.com/olivia3395/llm-projects/tree/main/RAGAudit">RAGAudit</a><i>NLI, SelfCheckGPT, semantic entropy</i></div>
   </div>
 </div>
  
 <div class="pg">
   <div class="pg-cat"><svg viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.3" stroke-linecap="round"><circle cx="7" cy="7" r="4.6"/><line x1="10.4" y1="10.4" x2="13.6" y2="13.6"/></svg>Retrieval</div>
   <div class="pg-list">
-    <div class="p"><a href="https://github.com/olivia3395/GraphRAG">GraphRAG</a><i>dense + entity graph + CLIP</i></div>
-    <div class="p"><a href="https://github.com/olivia3395/Adaptive_RAG">Adaptive RAG</a><i>difficulty-aware query routing</i></div>
-    <div class="p"><a href="https://github.com/olivia3395/DraftVerify">DraftVerify</a><i>speculative decoding, draft-verifier</i></div>
-    <div class="p"><a href="https://github.com/olivia3395/HQQ_1-bit_Quantization">HQQ</a><i>1–8 bit quantization, 12.7x</i></div>
+    <div class="p"><a href="https://github.com/olivia3395/llm-projects/tree/main/GraphRAG">GraphRAG</a><i>dense + entity graph + CLIP</i></div>
+    <div class="p"><a href="https://github.com/olivia3395/llm-projects/tree/main/Adaptive-RAG">Adaptive RAG</a><i>difficulty-aware query routing</i></div>
+    <div class="p"><a href="https://github.com/olivia3395/llm-projects/tree/main/DraftVerify">DraftVerify</a><i>speculative decoding, draft-verifier</i></div>
+    <div class="p"><a href="https://github.com/olivia3395/llm-projects/tree/main/HQQ-Quantization">HQQ</a><i>1–8 bit quantization, 12.7x</i></div>
   </div>
 </div>
  
 <div class="pg">
   <div class="pg-cat"><svg viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.3" stroke-linecap="round"><circle cx="3.4" cy="8" r="1.9"/><circle cx="12.6" cy="8" r="1.9"/><line x1="5.6" y1="8" x2="10.2" y2="8"/><polyline points="8.9,6.6 10.5,8 8.9,9.4"/></svg>Causal inference</div>
   <div class="pg-list">
-    <div class="p"><a href="https://github.com/olivia3395/CausalLens">CausalLens</a><i>DoWhy, double ML, causal forests</i></div>
-    <div class="p"><a href="https://github.com/olivia3395/Pricing-Impact-Analyzer">Congestion Pricing</a><i>CS-DiD on 12M+ NYC TLC trips</i></div>
-    <div class="p"><a href="https://github.com/olivia3395/AB_Test_Ad">A/B Testing</a><i>bootstrap CIs, power analysis</i></div>
+    <div class="p"><a href="https://github.com/olivia3395/data-science-portfolio/tree/main/causal-inference/CausalLens">CausalLens</a><i>DoWhy, double ML, causal forests</i></div>
+    <div class="p"><a href="https://github.com/olivia3395/data-science-portfolio/tree/main/causal-inference/Congestion-Pricing">Congestion Pricing</a><i>CS-DiD on 12M+ NYC TLC trips</i></div>
+    <div class="p"><a href="https://github.com/olivia3395/data-science-portfolio/tree/main/causal-inference/AB-Testing">A/B Testing</a><i>bootstrap CIs, power analysis</i></div>
   </div>
 </div>
  
 <div class="pg">
   <div class="pg-cat"><svg viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.3" stroke-linejoin="round"><path d="M13.4 3.4v6.2H6.2L3.2 12.2V3.4z"/></svg>Language</div>
   <div class="pg-list">
-    <div class="p"><a href="https://github.com/olivia3395/finanial-text-analysis">Financial Sentiment</a><i>DistilBERT on financial news</i></div>
-    <div class="p"><a href="https://github.com/olivia3395/spam_detection">Spam Detection</a><i>TF-IDF, Naive Bayes</i></div>
+    <div class="p"><a href="https://github.com/olivia3395/data-science-portfolio/tree/main/nlp/Financial-Sentiment">Financial Sentiment</a><i>DistilBERT on financial news</i></div>
+    <div class="p"><a href="https://github.com/olivia3395/data-science-portfolio/tree/main/nlp/Spam-Detection">Spam Detection</a><i>TF-IDF, Naive Bayes</i></div>
   </div>
 </div>
  
 <div class="pg">
   <div class="pg-cat"><svg viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.3"><path d="M1.6 8s2.5-4.2 6.4-4.2S14.4 8 14.4 8s-2.5 4.2-6.4 4.2S1.6 8 1.6 8z"/><circle cx="8" cy="8" r="1.8"/></svg>Vision</div>
   <div class="pg-list">
-    <div class="p"><a href="https://github.com/olivia3395/dog_identification_app">Dog Breed Classification</a><i>VGG16, ResNet50 transfer</i></div>
-    <div class="p"><a href="https://github.com/olivia3395/MaskDetection">Mask Detection</a><i>ResNet50, Grad-CAM</i></div>
+    <div class="p"><a href="https://github.com/olivia3395/data-science-portfolio/tree/main/vision/Dog-Breed-Classification">Dog Breed Classification</a><i>VGG16, ResNet50 transfer</i></div>
+    <div class="p"><a href="https://github.com/olivia3395/data-science-portfolio/tree/main/vision/Mask-Detection">Mask Detection</a><i>ResNet50, Grad-CAM</i></div>
   </div>
 </div>
  
@@ -420,9 +420,9 @@ Beyond theory and modeling, I am drawn to building AI applications that reflect 
   <div class="pg-cat"><svg viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.3" stroke-linecap="round"><line x1="2.4" y1="13.2" x2="13.6" y2="13.2"/><line x1="4.6" y1="13.2" x2="4.6" y2="8.8"/><line x1="8" y1="13.2" x2="8" y2="4"/><line x1="11.4" y1="13.2" x2="11.4" y2="10.4"/></svg>Statistics</div>
   <div class="pg-list">
     <div class="p"><a href="https://github.com/olivia3395/Bayesian_Lung_Cancer_Prediction">Bayesian Logistic</a><i>spike-and-slab MCMC, RStan</i></div>
-    <div class="p"><a href="https://github.com/olivia3395/GlobalRiskAnalysisUSA">Time Series</a><i>SARIMA, ETS, Prophet</i></div>
-    <div class="p"><a href="https://github.com/olivia3395/credit-default-risk">Credit Risk</a><i>XGBoost, SMOTE</i></div>
-    <div class="p"><a href="https://github.com/olivia3395/Customer_Segmentation">Segmentation</a><i>K-Means, elbow and silhouette</i></div>
+    <div class="p"><a href="https://github.com/olivia3395/data-science-portfolio/tree/main/apps/Global-Risk-Analysis-USA">Time Series</a><i>SARIMA, ETS, Prophet</i></div>
+    <div class="p"><a href="https://github.com/olivia3395/data-science-portfolio/tree/main/ml/Credit-Default-Risk">Credit Risk</a><i>XGBoost, SMOTE</i></div>
+    <div class="p"><a href="https://github.com/olivia3395/data-science-portfolio/tree/main/ml/Customer-Segmentation">Segmentation</a><i>K-Means, elbow and silhouette</i></div>
     <div class="p"><a href="https://github.com/olivia3395/Spring2020-Project4-group8">Recommendation System</a><i>ALS, SVD matrix factorization</i></div>
   </div>
 </div>
@@ -435,49 +435,49 @@ Beyond theory and modeling, I am drawn to building AI applications that reflect 
 <tr>
 <td width="50%" valign="top">
 <b>LLM Alignment &amp; Evaluation</b><br>
-<a href="https://github.com/olivia3395/AlignDPO-Preference-Optimization-from-Scratch"><img src="https://img.shields.io/badge/AlignDPO-D97757?style=flat-square&logo=huggingface&logoColor=F0EEE6" alt="AlignDPO"></a>
-<a href="https://github.com/olivia3395/RAGAudit"><img src="https://img.shields.io/badge/RAGAudit-D97757?style=flat-square&logo=huggingface&logoColor=F0EEE6" alt="RAGAudit"></a><br>
+<a href="https://github.com/olivia3395/llm-projects/tree/main/AlignDPO"><img src="https://img.shields.io/badge/AlignDPO-D97757?style=flat-square&logo=huggingface&logoColor=F0EEE6" alt="AlignDPO"></a>
+<a href="https://github.com/olivia3395/llm-projects/tree/main/RAGAudit"><img src="https://img.shields.io/badge/RAGAudit-D97757?style=flat-square&logo=huggingface&logoColor=F0EEE6" alt="RAGAudit"></a><br>
 <sub>DPO · IPO · KTO · QLoRA — NLI · SelfCheckGPT · semantic entropy</sub>
 </td>
 <td width="50%" valign="top">
 <b>Retrieval &amp; Inference</b><br>
-<a href="https://github.com/olivia3395/GraphRAG"><img src="https://img.shields.io/badge/GraphRAG-D97757?style=flat-square&logo=python&logoColor=F0EEE6" alt="GraphRAG"></a>
-<a href="https://github.com/olivia3395/Adaptive_RAG"><img src="https://img.shields.io/badge/Adaptive_RAG-D97757?style=flat-square&logo=fastapi&logoColor=F0EEE6" alt="Adaptive RAG"></a>
-<a href="https://github.com/olivia3395/DraftVerify"><img src="https://img.shields.io/badge/DraftVerify-D97757?style=flat-square&logo=pytorch&logoColor=F0EEE6" alt="DraftVerify"></a>
-<a href="https://github.com/olivia3395/HQQ_1-bit_Quantization"><img src="https://img.shields.io/badge/HQQ-D97757?style=flat-square&logo=pytorch&logoColor=F0EEE6" alt="HQQ"></a><br>
+<a href="https://github.com/olivia3395/llm-projects/tree/main/GraphRAG"><img src="https://img.shields.io/badge/GraphRAG-D97757?style=flat-square&logo=python&logoColor=F0EEE6" alt="GraphRAG"></a>
+<a href="https://github.com/olivia3395/llm-projects/tree/main/Adaptive-RAG"><img src="https://img.shields.io/badge/Adaptive_RAG-D97757?style=flat-square&logo=fastapi&logoColor=F0EEE6" alt="Adaptive RAG"></a>
+<a href="https://github.com/olivia3395/llm-projects/tree/main/DraftVerify"><img src="https://img.shields.io/badge/DraftVerify-D97757?style=flat-square&logo=pytorch&logoColor=F0EEE6" alt="DraftVerify"></a>
+<a href="https://github.com/olivia3395/llm-projects/tree/main/HQQ-Quantization"><img src="https://img.shields.io/badge/HQQ-D97757?style=flat-square&logo=pytorch&logoColor=F0EEE6" alt="HQQ"></a><br>
 <sub>entity graph + CLIP · query routing — speculative decoding · 1-bit quantization</sub>
 </td>
 </tr>
 <tr>
 <td valign="top">
 <b>Causal Inference &amp; Experimentation</b><br>
-<a href="https://github.com/olivia3395/CausalLens"><img src="https://img.shields.io/badge/CausalLens-D97757?style=flat-square&logo=streamlit&logoColor=F0EEE6" alt="CausalLens"></a>
-<a href="https://github.com/olivia3395/Pricing-Impact-Analyzer"><img src="https://img.shields.io/badge/Congestion_Pricing-D97757?style=flat-square&logo=python&logoColor=F0EEE6" alt="Congestion Pricing"></a>
-<a href="https://github.com/olivia3395/AB_Test_Ad"><img src="https://img.shields.io/badge/A%2FB_Testing-D97757?style=flat-square&logo=python&logoColor=F0EEE6" alt="A/B Testing"></a><br>
+<a href="https://github.com/olivia3395/data-science-portfolio/tree/main/causal-inference/CausalLens"><img src="https://img.shields.io/badge/CausalLens-D97757?style=flat-square&logo=streamlit&logoColor=F0EEE6" alt="CausalLens"></a>
+<a href="https://github.com/olivia3395/data-science-portfolio/tree/main/causal-inference/Congestion-Pricing"><img src="https://img.shields.io/badge/Congestion_Pricing-D97757?style=flat-square&logo=python&logoColor=F0EEE6" alt="Congestion Pricing"></a>
+<a href="https://github.com/olivia3395/data-science-portfolio/tree/main/causal-inference/AB-Testing"><img src="https://img.shields.io/badge/A%2FB_Testing-D97757?style=flat-square&logo=python&logoColor=F0EEE6" alt="A/B Testing"></a><br>
 <sub>DoWhy · Double ML · Causal Forest — CS-DiD · Synthetic DiD · 12M+ NYC TLC</sub>
 </td>
 <td valign="top">
 <b>NLP</b><br>
-<a href="https://github.com/olivia3395/finanial-text-analysis"><img src="https://img.shields.io/badge/Financial_Sentiment-D97757?style=flat-square&logo=huggingface&logoColor=F0EEE6" alt="Financial Sentiment"></a>
-<a href="https://github.com/olivia3395/spam_detection"><img src="https://img.shields.io/badge/Spam_Detection-D97757?style=flat-square&logo=scikitlearn&logoColor=F0EEE6" alt="Spam Detection"></a><br>
+<a href="https://github.com/olivia3395/data-science-portfolio/tree/main/nlp/Financial-Sentiment"><img src="https://img.shields.io/badge/Financial_Sentiment-D97757?style=flat-square&logo=huggingface&logoColor=F0EEE6" alt="Financial Sentiment"></a>
+<a href="https://github.com/olivia3395/data-science-portfolio/tree/main/nlp/Spam-Detection"><img src="https://img.shields.io/badge/Spam_Detection-D97757?style=flat-square&logo=scikitlearn&logoColor=F0EEE6" alt="Spam Detection"></a><br>
 <sub>DistilBERT fine-tuning · TF-IDF · Naive Bayes</sub>
 </td>
 </tr>
 <tr>
 <td valign="top">
 <b>Computer Vision</b><br>
-<a href="https://github.com/olivia3395/dog_identification_app"><img src="https://img.shields.io/badge/Dog_Classification-D97757?style=flat-square&logo=keras&logoColor=F0EEE6" alt="Dog Classification"></a>
-<a href="https://github.com/olivia3395/MaskDetection"><img src="https://img.shields.io/badge/Mask_Detection-D97757?style=flat-square&logo=opencv&logoColor=F0EEE6" alt="Mask Detection"></a><br>
+<a href="https://github.com/olivia3395/data-science-portfolio/tree/main/vision/Dog-Breed-Classification"><img src="https://img.shields.io/badge/Dog_Classification-D97757?style=flat-square&logo=keras&logoColor=F0EEE6" alt="Dog Classification"></a>
+<a href="https://github.com/olivia3395/data-science-portfolio/tree/main/vision/Mask-Detection"><img src="https://img.shields.io/badge/Mask_Detection-D97757?style=flat-square&logo=opencv&logoColor=F0EEE6" alt="Mask Detection"></a><br>
 <sub>VGG16 · ResNet50 · transfer learning · Grad-CAM</sub>
 </td>
 <td valign="top">
 <b>Statistical Modeling</b><br>
 <a href="https://github.com/olivia3395/Bayesian_Lung_Cancer_Prediction"><img src="https://img.shields.io/badge/Bayesian_Logistic-D97757?style=flat-square&logo=r&logoColor=F0EEE6" alt="Bayesian Logistic"></a>
-<a href="https://github.com/olivia3395/GlobalRiskAnalysisUSA"><img src="https://img.shields.io/badge/Time_Series-D97757?style=flat-square&logo=plotly&logoColor=F0EEE6" alt="Time Series"></a>
-<a href="https://github.com/olivia3395/credit-default-risk"><img src="https://img.shields.io/badge/Credit_Risk-D97757?style=flat-square&logo=python&logoColor=F0EEE6" alt="Credit Risk"></a>
-<a href="https://github.com/olivia3395/Customer_Segmentation"><img src="https://img.shields.io/badge/Segmentation-D97757?style=flat-square&logo=scikitlearn&logoColor=F0EEE6" alt="Segmentation"></a>
+<a href="https://github.com/olivia3395/data-science-portfolio/tree/main/apps/Global-Risk-Analysis-USA"><img src="https://img.shields.io/badge/Time_Series-D97757?style=flat-square&logo=plotly&logoColor=F0EEE6" alt="Time Series"></a>
+<a href="https://github.com/olivia3395/data-science-portfolio/tree/main/ml/Credit-Default-Risk"><img src="https://img.shields.io/badge/Credit_Risk-D97757?style=flat-square&logo=python&logoColor=F0EEE6" alt="Credit Risk"></a>
+<a href="https://github.com/olivia3395/data-science-portfolio/tree/main/ml/Customer-Segmentation"><img src="https://img.shields.io/badge/Segmentation-D97757?style=flat-square&logo=scikitlearn&logoColor=F0EEE6" alt="Segmentation"></a>
 <a href="https://github.com/olivia3395/Spring2020-Project4-group8"><img src="https://img.shields.io/badge/Recommender-D97757?style=flat-square&logo=apachespark&logoColor=F0EEE6" alt="Recommender"></a>
-<a href="https://github.com/olivia3395/rshinyapp_airbnb"><img src="https://img.shields.io/badge/Airbnb_Dashboard-D97757?style=flat-square&logo=rstudioide&logoColor=F0EEE6" alt="Airbnb Dashboard"></a><br>
+<a href="https://github.com/olivia3395/data-science-portfolio/tree/main/apps/Airbnb-Shiny-App"><img src="https://img.shields.io/badge/Airbnb_Dashboard-D97757?style=flat-square&logo=rstudioide&logoColor=F0EEE6" alt="Airbnb Dashboard"></a><br>
 <sub>RStan · Spike-and-Slab MCMC · SARIMA · XGBoost · R Shiny</sub>
 </td>
 </tr>
@@ -489,51 +489,51 @@ Beyond theory and modeling, I am drawn to building AI applications that reflect 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <img src="https://img.shields.io/badge/ALIGN-DB2777?style=flat-square&labelColor=DB2777" alt="ALIGN"> <b><a href="https://github.com/olivia3395/AlignDPO-Preference-Optimization-from-Scratch">AlignDPO</a></b> <a href="https://github.com/olivia3395/AlignDPO-Preference-Optimization-from-Scratch"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" alt="Code"></a> <a href="https://github.com/olivia3395/AlignDPO-Preference-Optimization-from-Scratch/blob/main/DPO%20%26%20PPO.pdf"><img src="https://img.shields.io/badge/PDF-DC2626?style=flat-square&logo=adobeacrobatreader&logoColor=white" alt="PDF"></a><br>
+      <img src="https://img.shields.io/badge/ALIGN-DB2777?style=flat-square&labelColor=DB2777" alt="ALIGN"> <b><a href="https://github.com/olivia3395/llm-projects/tree/main/AlignDPO">AlignDPO</a></b> <a href="https://github.com/olivia3395/llm-projects/tree/main/AlignDPO"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" alt="Code"></a> <a href="https://github.com/olivia3395/llm-projects/tree/main/AlignDPO"><img src="https://img.shields.io/badge/PDF-DC2626?style=flat-square&logo=adobeacrobatreader&logoColor=white" alt="PDF"></a><br>
       <sub><b>DPO · IPO · KTO</b> · QLoRA · Mistral-7B · HH-RLHF</sub>
     </td>
     <td width="50%" valign="top">
-      <img src="https://img.shields.io/badge/RAG-7C3AED?style=flat-square&labelColor=7C3AED" alt="RAG"> <b><a href="https://github.com/olivia3395/RAGAudit">RAGAudit: Hallucination Detection</a></b> <a href="https://github.com/olivia3395/RAGAudit"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" alt="Code"></a> <a href="https://github.com/olivia3395/RAGAudit/blob/main/RAG%20%26%20Hallucination%20Detection.pdf"><img src="https://img.shields.io/badge/PDF-DC2626?style=flat-square&logo=adobeacrobatreader&logoColor=white" alt="PDF"></a><br>
+      <img src="https://img.shields.io/badge/RAG-7C3AED?style=flat-square&labelColor=7C3AED" alt="RAG"> <b><a href="https://github.com/olivia3395/llm-projects/tree/main/RAGAudit">RAGAudit: Hallucination Detection</a></b> <a href="https://github.com/olivia3395/llm-projects/tree/main/RAGAudit"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" alt="Code"></a> <a href="https://github.com/olivia3395/llm-projects/tree/main/RAGAudit"><img src="https://img.shields.io/badge/PDF-DC2626?style=flat-square&logo=adobeacrobatreader&logoColor=white" alt="PDF"></a><br>
       <sub>BM25+FAISS · <b>NLI · SelfCheckGPT · sem. entropy</b> · Mistral-7B</sub>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <img src="https://img.shields.io/badge/CAUSAL-0369A1?style=flat-square&labelColor=0369A1" alt="CAUSAL"> <b><a href="https://github.com/olivia3395/Pricing-Impact-Analyzer">Congestion Pricing Analyzer</a></b> <a href="https://github.com/olivia3395/Pricing-Impact-Analyzer"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" alt="Code"></a> <a href="https://github.com/olivia3395/Pricing-Impact-Analyzer/blob/main/Congestion%20Pricing%20Impact%20Analyzer.pdf"><img src="https://img.shields.io/badge/PDF-DC2626?style=flat-square&logo=adobeacrobatreader&logoColor=white" alt="PDF"></a><br>
+      <img src="https://img.shields.io/badge/CAUSAL-0369A1?style=flat-square&labelColor=0369A1" alt="CAUSAL"> <b><a href="https://github.com/olivia3395/data-science-portfolio/tree/main/causal-inference/Congestion-Pricing">Congestion Pricing Analyzer</a></b> <a href="https://github.com/olivia3395/data-science-portfolio/tree/main/causal-inference/Congestion-Pricing"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" alt="Code"></a> <a href="https://github.com/olivia3395/data-science-portfolio/tree/main/causal-inference/Congestion-Pricing"><img src="https://img.shields.io/badge/PDF-DC2626?style=flat-square&logo=adobeacrobatreader&logoColor=white" alt="PDF"></a><br>
       <sub><b>TWFE · CS-DiD · Synth DiD · Double ML</b> · <b>12M+ NYC TLC</b></sub>
     </td>
     <td valign="top">
-      <img src="https://img.shields.io/badge/AGENT-0D9488?style=flat-square&labelColor=0D9488" alt="AGENT"> <b><a href="https://github.com/olivia3395/CausalLens">CausalLens: LLM-Augmented Causal Pipeline</a></b> <a href="https://github.com/olivia3395/CausalLens"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" alt="Code"></a><br>
+      <img src="https://img.shields.io/badge/AGENT-0D9488?style=flat-square&labelColor=0D9488" alt="AGENT"> <b><a href="https://github.com/olivia3395/data-science-portfolio/tree/main/causal-inference/CausalLens">CausalLens: LLM-Augmented Causal Pipeline</a></b> <a href="https://github.com/olivia3395/data-science-portfolio/tree/main/causal-inference/CausalLens"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" alt="Code"></a><br>
       <sub>DoWhy · <b>Double ML · Causal Forest</b> · Claude API · Streamlit</sub>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <img src="https://img.shields.io/badge/RAG-7C3AED?style=flat-square&labelColor=7C3AED" alt="RAG"> <b><a href="https://github.com/olivia3395/GraphRAG">GraphRAG: Multimodal RAG</a></b> <a href="https://github.com/olivia3395/GraphRAG"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" alt="Code"></a><br>
+      <img src="https://img.shields.io/badge/RAG-7C3AED?style=flat-square&labelColor=7C3AED" alt="RAG"> <b><a href="https://github.com/olivia3395/llm-projects/tree/main/GraphRAG">GraphRAG: Multimodal RAG</a></b> <a href="https://github.com/olivia3395/llm-projects/tree/main/GraphRAG"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" alt="Code"></a><br>
       <sub>dense + <b>entity graph</b> + CLIP · FastAPI · ChromaDB</sub>
     </td>
     <td valign="top">
-      <img src="https://img.shields.io/badge/RAG-7C3AED?style=flat-square&labelColor=7C3AED" alt="RAG"> <b><a href="https://github.com/olivia3395/Adaptive_RAG">Adaptive RAG</a></b> <a href="https://github.com/olivia3395/Adaptive_RAG"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" alt="Code"></a><br>
+      <img src="https://img.shields.io/badge/RAG-7C3AED?style=flat-square&labelColor=7C3AED" alt="RAG"> <b><a href="https://github.com/olivia3395/llm-projects/tree/main/Adaptive-RAG">Adaptive RAG</a></b> <a href="https://github.com/olivia3395/llm-projects/tree/main/Adaptive-RAG"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" alt="Code"></a><br>
       <sub><b>query routing</b> · iterative retrieval · self-check · FastAPI</sub>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <img src="https://img.shields.io/badge/CORE-EA580C?style=flat-square&labelColor=EA580C" alt="CORE"> <b><a href="https://github.com/olivia3395/DraftVerify">DraftVerify: Speculative Decoding</a></b> <a href="https://github.com/olivia3395/DraftVerify"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" alt="Code"></a><br>
+      <img src="https://img.shields.io/badge/CORE-EA580C?style=flat-square&labelColor=EA580C" alt="CORE"> <b><a href="https://github.com/olivia3395/llm-projects/tree/main/DraftVerify">DraftVerify: Speculative Decoding</a></b> <a href="https://github.com/olivia3395/llm-projects/tree/main/DraftVerify"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" alt="Code"></a><br>
       <sub><b>draft + verifier</b> · latency · throughput · acceptance</sub>
     </td>
     <td valign="top">
-      <img src="https://img.shields.io/badge/CORE-EA580C?style=flat-square&labelColor=EA580C" alt="CORE"> <b><a href="https://github.com/olivia3395/HQQ_1-bit_Quantization">HQQ: 1-bit Quantization</a></b> <a href="https://github.com/olivia3395/HQQ_1-bit_Quantization"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" alt="Code"></a><br>
+      <img src="https://img.shields.io/badge/CORE-EA580C?style=flat-square&labelColor=EA580C" alt="CORE"> <b><a href="https://github.com/olivia3395/llm-projects/tree/main/HQQ-Quantization">HQQ: 1-bit Quantization</a></b> <a href="https://github.com/olivia3395/llm-projects/tree/main/HQQ-Quantization"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" alt="Code"></a><br>
       <sub>1–8 bit · proximal opt · <b>W1G64: 12.7× · &gt;4× speedup</b></sub>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <img src="https://img.shields.io/badge/CAUSAL-0369A1?style=flat-square&labelColor=0369A1" alt="CAUSAL"> <b><a href="https://github.com/olivia3395/Causal-Promotion-Optimization">Causal Promotion Optimization</a></b> <a href="https://github.com/olivia3395/Causal-Promotion-Optimization"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" alt="Code"></a> <a href="https://github.com/olivia3395/Causal-Promotion-Optimization/blob/main/Causal_Promotion.pdf"><img src="https://img.shields.io/badge/PDF-DC2626?style=flat-square&logo=adobeacrobatreader&logoColor=white" alt="PDF"></a><br>
+      <img src="https://img.shields.io/badge/CAUSAL-0369A1?style=flat-square&labelColor=0369A1" alt="CAUSAL"> <b><a href="https://github.com/olivia3395/data-science-portfolio/tree/main/causal-inference/Causal-Promotion-Optimization">Causal Promotion Optimization</a></b> <a href="https://github.com/olivia3395/data-science-portfolio/tree/main/causal-inference/Causal-Promotion-Optimization"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" alt="Code"></a> <a href="https://github.com/olivia3395/data-science-portfolio/tree/main/causal-inference/Causal-Promotion-Optimization"><img src="https://img.shields.io/badge/PDF-DC2626?style=flat-square&logo=adobeacrobatreader&logoColor=white" alt="PDF"></a><br>
       <sub><b>AIPW</b> · LightGBM · <b>DRLearner CATE</b> · OR-Tools · FastAPI</sub>
     </td>
     <td valign="top">
-      <img src="https://img.shields.io/badge/ML-16A34A?style=flat-square&labelColor=16A34A" alt="ML"> <b><a href="https://github.com/olivia3395/Retail-Demand-Forecasting">Demand Forecasting</a></b> <a href="https://github.com/olivia3395/Retail-Demand-Forecasting"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" alt="Code"></a> <a href="https://github.com/olivia3395/Retail-Demand-Forecasting/blob/main/Retail_Demand.pdf"><img src="https://img.shields.io/badge/PDF-DC2626?style=flat-square&logo=adobeacrobatreader&logoColor=white" alt="PDF"></a><br>
+      <img src="https://img.shields.io/badge/ML-16A34A?style=flat-square&labelColor=16A34A" alt="ML"> <b><a href="https://github.com/olivia3395/data-science-portfolio/tree/main/forecasting/Retail-Demand-Forecasting">Demand Forecasting</a></b> <a href="https://github.com/olivia3395/data-science-portfolio/tree/main/forecasting/Retail-Demand-Forecasting"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" alt="Code"></a> <a href="https://github.com/olivia3395/data-science-portfolio/tree/main/forecasting/Retail-Demand-Forecasting"><img src="https://img.shields.io/badge/PDF-DC2626?style=flat-square&logo=adobeacrobatreader&logoColor=white" alt="PDF"></a><br>
       <sub>Seasonal Naive · LightGBM · <b>TFT</b> · <b>M5</b> · 28-day · store-SKU</sub>
     </td>
   </tr>
@@ -761,11 +761,11 @@ A quiet collection of cinematic, atmospheric, and emotionally resonant side proj
 <table>
   <tr>
     <td width="33%" valign="top">
-      <img src="https://img.shields.io/badge/CV-7C3AED?style=flat-square&labelColor=7C3AED" alt="CV"> <b>Dog Classification</b> <a href="https://github.com/olivia3395/dog_identification_app"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" alt="Code"></a> <a href="https://olivia3395.github.io/dog_identification_app/"><img src="https://img.shields.io/badge/Demo-22C55E?style=flat-square&logo=rocket&logoColor=white" alt="Demo"></a><br>
+      <img src="https://img.shields.io/badge/CV-7C3AED?style=flat-square&labelColor=7C3AED" alt="CV"> <b>Dog Classification</b> <a href="https://github.com/olivia3395/data-science-portfolio/tree/main/vision/Dog-Breed-Classification"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" alt="Code"></a><br>
       <sub>VGG16 · ResNet50 · Flask · <b>75.48%</b></sub>
     </td>
     <td width="33%" valign="top">
-      <img src="https://img.shields.io/badge/ML-16A34A?style=flat-square&labelColor=16A34A" alt="ML"> <b>Credit Risk</b> <a href="https://github.com/olivia3395/credit-default-risk"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" alt="Code"></a><br>
+      <img src="https://img.shields.io/badge/ML-16A34A?style=flat-square&labelColor=16A34A" alt="ML"> <b>Credit Risk</b> <a href="https://github.com/olivia3395/data-science-portfolio/tree/main/ml/Credit-Default-Risk"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" alt="Code"></a><br>
       <sub>XGBoost · SMOTE · <b>AUC 0.976</b></sub>
     </td>
     <td width="33%" valign="top">
@@ -775,35 +775,35 @@ A quiet collection of cinematic, atmospheric, and emotionally resonant side proj
   </tr>
   <tr>
     <td valign="top">
-      <img src="https://img.shields.io/badge/NLP-DB2777?style=flat-square&labelColor=DB2777" alt="NLP"> <b>Financial Sentiment</b> <a href="https://github.com/olivia3395/finanial-text-analysis"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" alt="Code"></a> <a href="https://olivia3395.github.io/finanial-text-analysis/"><img src="https://img.shields.io/badge/Demo-22C55E?style=flat-square&logo=rocket&logoColor=white" alt="Demo"></a><br>
+      <img src="https://img.shields.io/badge/NLP-DB2777?style=flat-square&labelColor=DB2777" alt="NLP"> <b>Financial Sentiment</b> <a href="https://github.com/olivia3395/data-science-portfolio/tree/main/nlp/Financial-Sentiment"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" alt="Code"></a><br>
       <sub>DistilBERT · <b>85%</b> · <b>30%↑ speed</b></sub>
     </td>
     <td valign="top">
-      <img src="https://img.shields.io/badge/CV-7C3AED?style=flat-square&labelColor=7C3AED" alt="CV"> <b>Mask Detection</b> <a href="https://github.com/olivia3395/MaskDetection"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" alt="Code"></a><br>
+      <img src="https://img.shields.io/badge/CV-7C3AED?style=flat-square&labelColor=7C3AED" alt="CV"> <b>Mask Detection</b> <a href="https://github.com/olivia3395/data-science-portfolio/tree/main/vision/Mask-Detection"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" alt="Code"></a><br>
       <sub>ResNet50 · Grad-CAM · <b>94%</b></sub>
     </td>
     <td valign="top">
-      <img src="https://img.shields.io/badge/NLP-DB2777?style=flat-square&labelColor=DB2777" alt="NLP"> <b>Spam Detection</b> <a href="https://github.com/olivia3395/spam_detection"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" alt="Code"></a><br>
+      <img src="https://img.shields.io/badge/NLP-DB2777?style=flat-square&labelColor=DB2777" alt="NLP"> <b>Spam Detection</b> <a href="https://github.com/olivia3395/data-science-portfolio/tree/main/nlp/Spam-Detection"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" alt="Code"></a><br>
       <sub>TF-IDF · NB · <b>P 96 / R 94</b></sub>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <img src="https://img.shields.io/badge/APP-0369A1?style=flat-square&labelColor=0369A1" alt="APP"> <b>Airbnb Dashboard</b> <a href="https://github.com/olivia3395/rshinyapp_airbnb"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" alt="Code"></a> <a href="https://yuyaowang.shinyapps.io/airbnb_app/"><img src="https://img.shields.io/badge/Demo-22C55E?style=flat-square&logo=rocket&logoColor=white" alt="Demo"></a><br>
+      <img src="https://img.shields.io/badge/APP-0369A1?style=flat-square&labelColor=0369A1" alt="APP"> <b>Airbnb Dashboard</b> <a href="https://github.com/olivia3395/data-science-portfolio/tree/main/apps/Airbnb-Shiny-App"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" alt="Code"></a> <a href="https://yuyaowang.shinyapps.io/airbnb_app/"><img src="https://img.shields.io/badge/Demo-22C55E?style=flat-square&logo=rocket&logoColor=white" alt="Demo"></a><br>
       <sub>R Shiny · maps · filtering</sub>
     </td>
     <td valign="top">
-      <img src="https://img.shields.io/badge/STATS-EA580C?style=flat-square&labelColor=EA580C" alt="STATS"> <b>Bayesian Logistic</b> <a href="https://github.com/olivia3395/Bayesian_Lung_Cancer_Prediction"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" alt="Code"></a> <a href="https://olivia3395.github.io/Bayesian_Lung_Cancer_Prediction/"><img src="https://img.shields.io/badge/Demo-22C55E?style=flat-square&logo=rocket&logoColor=white" alt="Demo"></a><br>
+      <img src="https://img.shields.io/badge/STATS-EA580C?style=flat-square&labelColor=EA580C" alt="STATS"> <b>Bayesian Logistic</b> <a href="https://github.com/olivia3395/Bayesian_Lung_Cancer_Prediction"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" alt="Code"></a><br>
       <sub>RStan · Spike-and-Slab · MCMC</sub>
     </td>
     <td valign="top">
-      <img src="https://img.shields.io/badge/STATS-EA580C?style=flat-square&labelColor=EA580C" alt="STATS"> <b>A/B Testing</b> <a href="https://github.com/olivia3395/AB_Test_Ad"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" alt="Code"></a><br>
+      <img src="https://img.shields.io/badge/STATS-EA580C?style=flat-square&labelColor=EA580C" alt="STATS"> <b>A/B Testing</b> <a href="https://github.com/olivia3395/data-science-portfolio/tree/main/causal-inference/AB-Testing"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" alt="Code"></a><br>
       <sub>Bootstrap · power · <b>+15% conv.</b></sub>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <img src="https://img.shields.io/badge/TS-0D9488?style=flat-square&labelColor=0D9488" alt="TS"> <b>Time Series Forecast</b> <a href="https://github.com/olivia3395/GlobalRiskAnalysisUSA"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" alt="Code"></a> <a href="https://olivia3395.github.io/GlobalRiskAnalysisUSA/"><img src="https://img.shields.io/badge/Demo-22C55E?style=flat-square&logo=rocket&logoColor=white" alt="Demo"></a><br>
+      <img src="https://img.shields.io/badge/TS-0D9488?style=flat-square&labelColor=0D9488" alt="TS"> <b>Time Series Forecast</b> <a href="https://github.com/olivia3395/data-science-portfolio/tree/main/apps/Global-Risk-Analysis-USA"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" alt="Code"></a><br>
       <sub>SARIMA · ETS · Prophet</sub>
     </td>
     <td valign="top">
@@ -811,7 +811,7 @@ A quiet collection of cinematic, atmospheric, and emotionally resonant side proj
       <sub>ALS · SVD · <b>+15% / −20%</b></sub>
     </td>
     <td valign="top">
-      <img src="https://img.shields.io/badge/ML-16A34A?style=flat-square&labelColor=16A34A" alt="ML"> <b>Customer Segmentation</b> <a href="https://github.com/olivia3395/Customer_Segmentation"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" alt="Code"></a><br>
+      <img src="https://img.shields.io/badge/ML-16A34A?style=flat-square&labelColor=16A34A" alt="ML"> <b>Customer Segmentation</b> <a href="https://github.com/olivia3395/data-science-portfolio/tree/main/ml/Customer-Segmentation"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" alt="Code"></a><br>
       <sub>K-Means · elbow · silhouette</sub>
     </td>
   </tr>
