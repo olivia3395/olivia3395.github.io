@@ -276,10 +276,9 @@ Beyond theory and modeling, I am drawn to building AI applications that reflect 
   <div class="pub-body">
     <a class="pub-title" href="https://arxiv.org/abs/2611.31856">Start Where the Data Are: Statistical Priors for One-Step Generation on Manifolds</a>
     <div class="pub-desc">A drop-in, data-fitted noise prior, paired with nearby noise per sample, makes one-step generators on curved spaces up to 125× more accurate and cuts protein Ramachandran outliers from 12.1% to 0.55%, at no extra inference cost.</div>
-    <div class="pub-meta"><b>Preprint 2026</b> / <a href="https://arxiv.org/abs/2611.31856">Paper</a> / <a href="https://github.com/olivia3395/statprior-onestep">Code</a></div>
+    <div class="pub-meta"><b>Preprint 2026</b> / <a href="https://arxiv.org/abs/2611.31856">Paper</a> / <a href="https://github.com/olivia3395/olivia3395.github.io/blob/main/_pages/StatPrior.pdf">Slides</a> / <a href="https://github.com/olivia3395/statprior-onestep">Code</a></div>
   </div>
 </div>
-
 
 <div class="pub">
   <div class="pub-fig"><img src="images/scot_main.png" alt="SCOT"></div>
