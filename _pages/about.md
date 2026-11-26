@@ -170,7 +170,7 @@ redirect_from:
   overflow: hidden;
   text-overflow: ellipsis;
 }
-.pub-authors b { font-weight: 600; color: #2A2724; }
+.pub-authors b { font-weight: 600; color: #2A2724; text-decoration: underline; text-underline-offset: 2px; }
 .pub-desc {
   font-size: 0.83rem;
   line-height: 1.55;
@@ -384,7 +384,7 @@ Beyond theory and modeling, I am drawn to building AI applications that reflect 
   <div class="pub-fig"><img src="images/ssgp_workflow.png" alt="SSGP"></div>
   <div class="pub-body">
     <a class="pub-title" href="https://arxiv.org/abs/2603.01801">What Papers Don't Tell You: Recovering Tacit Knowledge for Automated Paper Reproduction</a>
-    <div class="pub-authors" title="Lehui Li, Ruining Wang, Haochen Song, Yaoxin Mao, Tong Zhang, Yuyao Wang, Jiayi Fan, Yitong Zhang, Jieping Ye, Chengqi Zhang, Yongshun Gong">Lehui Li, Ruining Wang, …, <b>Yuyao Wang</b>, …, Chengqi Zhang, Yongshun Gong</div>
+    <div class="pub-authors" title="Lehui Li, Ruining Wang, Zonglin Yang, Yuyao Wang, Haochen Song, Yaoxin Mao, Tong Zhang, Jiayi Fan, Yitong Zhang, Taozhi Chen, Jieping Ye, Chengqi Zhang, Yongshun Gong">Lehui Li, Ruining Wang, Zonglin Yang, <b>Yuyao Wang</b>, …, Yongshun Gong</div>
     <div class="pub-desc">Prunes dense scientific graphs into task-adaptive subgraphs by rank-based ensemble scoring, shrinking the search space for LLM agents and raising the success rate of automated paper reproduction.</div>
     <div class="pub-meta"><b>Preprint 2026</b> / <a href="https://arxiv.org/abs/2603.01801">Paper</a></div>
   </div>
