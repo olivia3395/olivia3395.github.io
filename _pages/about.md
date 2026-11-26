@@ -316,7 +316,7 @@ Beyond theory and modeling, I am drawn to building AI applications that reflect 
   <div class="pub-body">
     <a class="pub-title" href="https://arxiv.org/abs/2507.00889">Phase Transition in Nonparametric Minimax Rates for Covariate Shifts on Approximate Manifolds</a>
     <div class="pub-desc">Minimax theory for near-manifold covariate shift, exposing a sharp phase transition governed by the support gap, together with a ratio-free estimator that adapts to unknown intrinsic dimension.</div>
-    <div class="pub-meta"><b>Under review</b> / <a href="https://arxiv.org/abs/2507.00889">arXiv</a> / <a href="https://github.com/olivia3395/Covariate-Shifts-on-Approximate-Manifolds/blob/main/manifold_poster.pdf">Poster</a> / <a href="https://github.com/olivia3395/Covariate-Shifts-on-Approximate-Manifolds/blob/main/slides_Manifold.pdf">Slides</a> / <a href="https://github.com/olivia3395/Covariate-Shifts-on-Approximate-Manifolds">Code</a></div>
+    <div class="pub-meta"><b>Preprint 2025</b> / <a href="https://arxiv.org/abs/2507.00889">arXiv</a> / <a href="https://github.com/olivia3395/Covariate-Shifts-on-Approximate-Manifolds/blob/main/manifold_poster.pdf">Poster</a> / <a href="https://github.com/olivia3395/Covariate-Shifts-on-Approximate-Manifolds/blob/main/slides_Manifold.pdf">Slides</a> / <a href="https://github.com/olivia3395/Covariate-Shifts-on-Approximate-Manifolds">Code</a></div>
   </div>
 </div>
  
