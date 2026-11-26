@@ -144,7 +144,7 @@ redirect_from:
 .pub-fig img {
   display: block;
   width: 100%;
-  height: 112px;            /* 图片高度，原来 128px */
+  height: 132px;            /* 图片高度，原来 112px */
   object-fit: contain;
 }
 .pub-body { flex: 1; min-width: 0; }
@@ -161,11 +161,25 @@ redirect_from:
   transition: color .18s ease;
 }
 .page__content .pub-title:hover { color: #1B6B7A; border-bottom: none; }
+.pub-authors {
+  font-size: 0.8rem;
+  line-height: 1.5;
+  color: #8A8276;
+  margin-bottom: 0.3em;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+.pub-authors b { font-weight: 600; color: #2A2724; }
 .pub-desc {
   font-size: 0.83rem;
   line-height: 1.55;
   color: #7A7266;
   margin-bottom: 0.4em;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
 }
 .pub-meta { font-size: 0.83rem; line-height: 1.5; color: #9A9184; }
 .pub-meta b { font-weight: 600; color: #2A2724; }
@@ -283,7 +297,7 @@ Beyond theory and modeling, I am drawn to building AI applications that reflect 
   <div class="pub-fig"><img src="images/statprior_thumb.png" alt="StatPrior"></div>
   <div class="pub-body">
     <a class="pub-title" href="https://arxiv.org/abs/2611.31856">Start Where the Data Are: Statistical Priors for One-Step Generation on Manifolds</a>
-    <div class="pub-authors" style="font-size:0.9em;opacity:0.75;margin:2px 0 4px;"><b>Yuyao Wang</b>, Haoliang Sun, Xiankai Lu, Xinxin Zhang, Yongshun Gong</div>
+    <div class="pub-authors" title="Yuyao Wang, Haoliang Sun, Xiankai Lu, Xinxin Zhang, Yongshun Gong"><b>Yuyao Wang</b>, Haoliang Sun, Xiankai Lu, Xinxin Zhang, Yongshun Gong</div>
     <div class="pub-desc">A drop-in, data-fitted noise prior, paired with nearby noise per sample, makes one-step generators on curved spaces up to 125× more accurate and cuts protein Ramachandran outliers from 12.1% to 0.55%, at no extra inference cost.</div>
     <div class="pub-meta"><b>Preprint 2026</b> / <a href="https://arxiv.org/abs/2611.31856">Paper</a> / <a href="https://github.com/olivia3395/olivia3395.github.io/blob/main/_pages/StatPrior.pdf">Slides</a> / <a href="https://github.com/olivia3395/statprior-onestep">Code</a></div>
   </div>
@@ -293,7 +307,7 @@ Beyond theory and modeling, I am drawn to building AI applications that reflect 
   <div class="pub-fig"><img src="images/scot_main.png" alt="SCOT"></div>
   <div class="pub-body">
     <a class="pub-title" href="https://arxiv.org/abs/2604.07383">SCOT: Soft Correspondence via Optimal Transport for Multi-Source Cross-City Transfer</a>
-    <div class="pub-authors" style="font-size:0.9em;opacity:0.75;margin:2px 0 4px;"><b>Yuyao Wang</b>, Min Yang, Meng Chen, Weiming Huang, Yilong Yin, Yongshun Gong</div>
+    <div class="pub-authors" title="Yuyao Wang, Min Yang, Meng Chen, Weiming Huang, Yilong Yin, Yongshun Gong"><b>Yuyao Wang</b>, Min Yang, Meng Chen, Weiming Huang, Yilong Yin, Yongshun Gong</div>
     <div class="pub-desc">Sinkhorn entropic-OT coupling gives many-to-many region alignment across cities with no node matching, paired with an OT-weighted contrastive objective that resists collapse under multi-source heterogeneity.</div>
     <div class="pub-meta"><b>NeurIPS 2026</b> / <a href="https://arxiv.org/abs/2604.07383">Paper</a> / <a href="https://github.com/olivia3395/SCOT-Multi-Source-Cross-City-Transfer/blob/main/SCOT_poster.pdf">Poster</a> / <a href="https://github.com/olivia3395/olivia3395.github.io/blob/main/_pages/SCOT.pdf">Slides</a> / <a href="https://github.com/olivia3395/SCOT-Multi-Source-Cross-City-Transfer">Code</a></div>
   </div>
@@ -305,7 +319,7 @@ Beyond theory and modeling, I am drawn to building AI applications that reflect 
   <div class="pub-fig"><img src="images/gtrans_workflow.png" alt="GTrans"></div>
   <div class="pub-body">
     <a class="pub-title" href="https://openreview.net/pdf?id=i3sWs5614Y">Transfer Learning on Edge Connecting Probability Estimation Under Graphon Model</a>
-    <div class="pub-authors" style="font-size:0.9em;opacity:0.75;margin:2px 0 4px;"><b>Yuyao Wang</b>, Yu-Hung Cheng, Debarghya Mukherjee, Huimin Cheng</div>
+    <div class="pub-authors" title="Yuyao Wang, Yu-Hung Cheng, Debarghya Mukherjee, Huimin Cheng"><b>Yuyao Wang</b>, Yu-Hung Cheng, Debarghya Mukherjee, Huimin Cheng</div>
     <div class="pub-desc">Graphon-level transfer without node correspondence: aligns graphs via Gromov–Wasserstein, then transfers edge structure nonparametrically, with residual smoothing that unlocks small and sparse targets.</div>
     <div class="pub-meta"><b>NeurIPS 2025</b> / <a href="https://proceedings.neurips.cc/paper_files/paper/2025/hash/30dee0ddc6c0b4907a9d587d3ce87979-Abstract-Conference.html">Paper</a> / <a href="https://github.com/olivia3395/GTrans/blob/main/neurips_poster.pdf">Poster</a> / <a href="https://github.com/olivia3395/GTrans/blob/main/GTrans.pdf">Slides</a> / <a href="https://github.com/olivia3395/GTRANS">Code</a></div>
   </div>
@@ -315,7 +329,7 @@ Beyond theory and modeling, I am drawn to building AI applications that reflect 
   <div class="pub-fig"><img src="images/tess_workflow.png" alt="TESS"></div>
   <div class="pub-body">
     <a class="pub-title" href="https://arxiv.org/pdf/2603.12664">From Text to Forecasts: Bridging Modality Gap with Temporal Evolution Semantic Space</a>
-    <div class="pub-authors" style="font-size:0.9em;opacity:0.75;margin:2px 0 4px;">Lehui Li*, <b>Yuyao Wang*</b>, Jisheng Yan, Wei Zhang, Jinliang Deng, Haoliang Sun, Zhongyi Han, Yongshun Gong</div>
+    <div class="pub-authors" title="Lehui Li*, Yuyao Wang*, Jisheng Yan, Wei Zhang, Jinliang Deng, Haoliang Sun, Zhongyi Han, Yongshun Gong">Lehui Li*, <b>Yuyao Wang*</b>, Jisheng Yan, Wei Zhang, …, Yongshun Gong</div>
     <div class="pub-desc">Translates free-form text into interpretable temporal primitives (distribution shift, volatility, shape, lag) and conditions a Transformer forecaster on them, reducing error by up to 29% under event-driven non-stationarity.</div>
     <div class="pub-meta"><b>ICML 2026 (Oral)</b> / <a href="https://arxiv.org/pdf/2603.12664">Paper</a> / <a href="https://github.com/olivia3395/TESS/blob/main/TESS_Poster.pdf">Poster</a> / <a href="https://github.com/olivia3395/olivia3395.github.io/blob/main/_pages/TESS.pdf">Slides</a> / <a href="https://github.com/olivia3395/TESS">Code</a></div>
   </div>
@@ -326,7 +340,7 @@ Beyond theory and modeling, I am drawn to building AI applications that reflect 
   <div class="pub-fig"><img src="images/phaseshift.png" alt="Phase Transition"></div>
   <div class="pub-body">
     <a class="pub-title" href="https://arxiv.org/abs/2507.00889">Phase Transition in Nonparametric Minimax Rates for Covariate Shifts on Approximate Manifolds</a>
-    <div class="pub-authors" style="font-size:0.9em;opacity:0.75;margin:2px 0 4px;"><b>Yuyao Wang</b>, Nabarun Deb, Debarghya Mukherjee</div>
+    <div class="pub-authors" title="Yuyao Wang, Nabarun Deb, Debarghya Mukherjee"><b>Yuyao Wang</b>, Nabarun Deb, Debarghya Mukherjee</div>
     <div class="pub-desc">Minimax theory for near-manifold covariate shift, exposing a sharp phase transition governed by the support gap, together with a ratio-free estimator that adapts to unknown intrinsic dimension.</div>
     <div class="pub-meta"><b>Preprint 2025</b> / <a href="https://arxiv.org/abs/2507.00889">Paper</a> / <a href="https://github.com/olivia3395/Covariate-Shifts-on-Approximate-Manifolds/blob/main/manifold_poster.pdf">Poster</a> / <a href="https://github.com/olivia3395/Covariate-Shifts-on-Approximate-Manifolds/blob/main/slides_Manifold.pdf">Slides</a> / <a href="https://github.com/olivia3395/Covariate-Shifts-on-Approximate-Manifolds">Code</a></div>
   </div>
@@ -340,7 +354,7 @@ Beyond theory and modeling, I am drawn to building AI applications that reflect 
   <div class="pub-fig"><img src="images/netpaging.png" alt="Net-Paging"></div>
   <div class="pub-body">
     <a class="pub-title" href="https://www.sciencedirect.com/science/article/pii/S305139012600005X">Network Perturbation Aggregation for Graphon Estimation</a>
-    <div class="pub-authors" style="font-size:0.9em;opacity:0.75;margin:2px 0 4px;">Da Wang, Jun S. Liu, Yongkai Chen, <b>Yuyao Wang</b>, Huimin Cheng</div>
+    <div class="pub-authors" title="Da Wang, Jun S. Liu, Yongkai Chen, Yuyao Wang, Huimin Cheng">Da Wang, Jun S. Liu, Yongkai Chen, <b>Yuyao Wang</b>, Huimin Cheng</div>
     <div class="pub-desc">Generates graphon-preserving networks from a single observed graph and aggregates them to cut estimation variance, with a closed-form bias correction and guarantees that the base estimator's convergence is preserved.</div>
     <div class="pub-meta"><b>SLADS 2026</b> / <a href="https://www.sciencedirect.com/science/article/pii/S305139012600005X">Paper</a> / <a href="https://github.com/wd5457/gmixup">Code</a></div>
   </div>
@@ -350,7 +364,7 @@ Beyond theory and modeling, I am drawn to building AI applications that reflect 
   <div class="pub-fig"><img src="images/mkdnet.png" alt="MKDNet"></div>
   <div class="pub-body">
     <a class="pub-title" href="https://ieeexplore.ieee.org/abstract/document/11133483">Cross-Domain Hyperspectral Image Classification via Mamba-CNN and Knowledge Distillation</a>
-    <div class="pub-authors" style="font-size:0.9em;opacity:0.75;margin:2px 0 4px;">Aoyan Du, Guixin Zhao, Mengxin Cao, <b>Yuyao Wang</b>, Aimei Dong, Guohua Lv, Yongbiao Gao, Dongqing Li, Xiangjun Dong</div>
+    <div class="pub-authors" title="Aoyan Du, Guixin Zhao, Mengxin Cao, Yuyao Wang, Aimei Dong, Guohua Lv, Yongbiao Gao, Dongqing Li, Xiangjun Dong">Aoyan Du, Guixin Zhao, Mengxin Cao, <b>Yuyao Wang</b>, …, Xiangjun Dong</div>
     <div class="pub-desc">Pairs a Mamba global spectral encoder with CNN local features, then transfers across domains through teacher–student distillation and OT-guided graph consistency under severe spectral mismatch.</div>
     <div class="pub-meta"><b>IEEE TGRS 2025</b> / <a href="https://ieeexplore.ieee.org/abstract/document/11133483">Paper</a> / <a href="https://github.com/olivia3395/Cross-Domain-Hyperspectral-Image-Classification-/blob/main/IEEE%20TRGS%202025.pptx">Slides</a></div>
   </div>
@@ -370,7 +384,7 @@ Beyond theory and modeling, I am drawn to building AI applications that reflect 
   <div class="pub-fig"><img src="images/ssgp_workflow.png" alt="SSGP"></div>
   <div class="pub-body">
     <a class="pub-title" href="https://arxiv.org/abs/2603.01801">What Papers Don't Tell You: Recovering Tacit Knowledge for Automated Paper Reproduction</a>
-    <div class="pub-authors" style="font-size:0.9em;opacity:0.75;margin:2px 0 4px;">Lehui Li, Ruining Wang, Haochen Song, Yaoxin Mao, Tong Zhang, <b>Yuyao Wang</b>, Jiayi Fan, Yitong Zhang, Jieping Ye, Chengqi Zhang, Yongshun Gong</div>
+    <div class="pub-authors" title="Lehui Li, Ruining Wang, Haochen Song, Yaoxin Mao, Tong Zhang, Yuyao Wang, Jiayi Fan, Yitong Zhang, Jieping Ye, Chengqi Zhang, Yongshun Gong">Lehui Li, Ruining Wang, …, <b>Yuyao Wang</b>, …, Chengqi Zhang, Yongshun Gong</div>
     <div class="pub-desc">Prunes dense scientific graphs into task-adaptive subgraphs by rank-based ensemble scoring, shrinking the search space for LLM agents and raising the success rate of automated paper reproduction.</div>
     <div class="pub-meta"><b>Preprint 2026</b> / <a href="https://arxiv.org/abs/2603.01801">Paper</a></div>
   </div>
