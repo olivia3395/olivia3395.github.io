@@ -596,10 +596,11 @@ Beyond theory and modeling, I am drawn to building AI applications that reflect 
 <div class="intern">
   <img class="intern-logo" src="images/plymouth_logo.png" alt="Plymouth Rock Assurance">
   <div class="intern-body">
-    <div class="intern-head"><b>Data Scientist Intern</b> · Plymouth Rock Insurance <span class="intern-date">Summer 2025</span></div>
+    <div class="intern-head"><b>Data Scientist Intern</b> · Plymouth Rock Insurance · <a href="/_pages/HomeInsurance.pdf">Slides</a> <span class="intern-date">Summer 2025</span></div>
     <ul class="intern-list">
-      <li>Architected an end-to-end <b>AWS SageMaker</b> pipeline for property-level loss prediction with an <b>XGBoost Tweedie</b> model on multi-million-policy data, lifting <b>Gini by +4.3%</b> over the production baseline.</li>
-      <li>Pioneered an <b>LLM-powered visual risk scoring</b> system that uses <b>GPT-4o</b> as a vision-language model to turn <b>Google Street View</b> imagery into structured property-risk features for actuarial pricing.</li>
+      <li><b>Brought multimodal LLMs into actuarial pricing:</b> used <b>GPT-4o as a vision-language model</b> to read <b>Google Street View</b> façades and turn them into structured, scored property-condition features (deferred maintenance, roof edges, clutter), with confidence thresholds and audit-sample QA; the LLM façade score became a <b>top-6 model feature</b> and maps to filed pricing factors.</li>
+      <li><b>Fused LLM, satellite and geospatial signals</b> in an <b>XGBoost Tweedie</b> pure-premium model on <b>50M+ policy rows</b> (H3 hex features with empirical-Bayes smoothing, NOAA/FEMA peril zones): <b>+4.3 Gini</b> over the production model and <b>+7.0</b> over the legacy GLM, with these new signals carrying ~55% of model gain.</li>
+      <li><b>Production MLOps on AWS SageMaker:</b> automated SHAP-based feature compression (<b>1,247 → 147 features</b>, p99 latency <b>210 → 42 ms</b>), weekly champion/challenger retraining with drift monitoring and auto-rollback, and SHAP explanations for state rate filings, moving pricing from an annual cycle to continuous refresh.</li>
     </ul>
   </div>
 </div>
