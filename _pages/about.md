@@ -364,7 +364,7 @@ Beyond theory and modeling, I am drawn to building AI applications that reflect 
   <div class="pub-fig"><img src="images/mkdnet.png" alt="MKDNet"></div>
   <div class="pub-body">
     <a class="pub-title" href="https://ieeexplore.ieee.org/abstract/document/11133483">Cross-Domain Hyperspectral Image Classification via Mamba-CNN and Knowledge Distillation</a>
-    <div class="pub-authors" title="Aoyan Du, Guixin Zhao, Mengxin Cao, Yuyao Wang, Aimei Dong, Guohua Lv, Yongbiao Gao, Dongqing Li, Xiangjun Dong">Aoyan Du, Guixin Zhao, Mengxin Cao, <b>Yuyao Wang</b>, …, Xiangjun Dong</div>
+    <div class="pub-authors" title="Aoyan Du, Guixin Zhao, Mengxin Cao, Yuyao Wang, Aimei Dong, Guohua Lv, Yongbiao Gao, Dongqing Li, Xiangjun Dong">Aoyan Du, Guixin Zhao, Mengxin Cao, <b>Yuyao Wang</b>, Aimei Dong, Guohua Lv, Yongbiao Gao, Dongqing Li, Xiangjun Dong</div>
     <div class="pub-desc">Pairs a Mamba global spectral encoder with CNN local features, then transfers across domains through teacher–student distillation and OT-guided graph consistency under severe spectral mismatch.</div>
     <div class="pub-meta"><b>IEEE TGRS 2025</b> / <a href="https://ieeexplore.ieee.org/abstract/document/11133483">Paper</a> / <a href="https://github.com/olivia3395/Cross-Domain-Hyperspectral-Image-Classification-/blob/main/IEEE%20TRGS%202025.pptx">Slides</a></div>
   </div>
@@ -384,7 +384,7 @@ Beyond theory and modeling, I am drawn to building AI applications that reflect 
   <div class="pub-fig"><img src="images/ssgp_workflow.png" alt="SSGP"></div>
   <div class="pub-body">
     <a class="pub-title" href="https://arxiv.org/abs/2603.01801">What Papers Don't Tell You: Recovering Tacit Knowledge for Automated Paper Reproduction</a>
-    <div class="pub-authors" title="Lehui Li, Ruining Wang, Zonglin Yang, Yuyao Wang, Haochen Song, Yaoxin Mao, Tong Zhang, Jiayi Fan, Yitong Zhang, Taozhi Chen, Jieping Ye, Chengqi Zhang, Yongshun Gong">Lehui Li, Ruining Wang, Zonglin Yang, <b>Yuyao Wang</b>, …, Yongshun Gong</div>
+    <div class="pub-authors" title="Lehui Li, Ruining Wang, Zonglin Yang, Yuyao Wang, Haochen Song, Yaoxin Mao, Tong Zhang, Jiayi Fan, Yitong Zhang, Taozhi Chen, Jieping Ye, Chengqi Zhang, Yongshun Gong">Lehui Li, Ruining Wang, Zonglin Yang, <b>Yuyao Wang</b>, Haochen Song, Yaoxin Mao, Tong Zhang, Jiayi Fan, Yitong Zhang, Taozhi Chen, Jieping Ye, Chengqi Zhang, Yongshun Gong</div>
     <div class="pub-desc">Prunes dense scientific graphs into task-adaptive subgraphs by rank-based ensemble scoring, shrinking the search space for LLM agents and raising the success rate of automated paper reproduction.</div>
     <div class="pub-meta"><b>Preprint 2026</b> / <a href="https://arxiv.org/abs/2603.01801">Paper</a></div>
   </div>
