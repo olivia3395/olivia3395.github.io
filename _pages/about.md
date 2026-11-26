@@ -185,6 +185,16 @@ redirect_from:
 .pub-meta b { font-weight: 600; color: #2A2724; }
 .page__content .pub-meta a { color: #6B6558; border-bottom: none; }
 .page__content .pub-meta a:hover { color: #1B6B7A; }
+.intern { display: flex; gap: 1.1rem; align-items: flex-start; padding: 0.7rem 0; border-bottom: 1px solid #EFEBE3; }
+.intern:last-of-type { border-bottom: none; }
+.intern-logo { flex: 0 0 52px; width: 52px; height: 52px; border-radius: 12px; object-fit: cover; margin-top: 0.15rem; }
+.intern-body { flex: 1; min-width: 0; }
+.intern-head { font-family: 'Newsreader', Georgia, serif; font-size: 1.02rem; color: #2A2724; line-height: 1.4; margin-bottom: 0.25em; }
+.intern-head b { font-weight: 600; }
+.intern-date { float: right; font-family: inherit; font-style: italic; font-size: 0.88rem; color: #9A9184; }
+.intern-list { margin: 0 0 0 1.1em; padding: 0; font-size: 0.83rem; line-height: 1.55; color: #7A7266; }
+.intern-list li { margin-bottom: 0.2em; }
+.intern-list b { font-weight: 600; color: #2A2724; }
 @media (max-width: 700px) {
   .pub { flex-direction: column; align-items: flex-start; gap: 0.8rem; }
   .pub-fig {
@@ -211,10 +221,14 @@ redirect_from:
 
 
 
-Howdy! I'm a final-year Statistics Ph.D. candidate at Boston University, advised by [Debarghya Mukherjee](https://debarghya-mukherjee.github.io/) and [Luis Carvalho](https://math.bu.edu/people/lecarval/). Before BU, I studied statistics at Columbia (M.A.) and mathematics at Shandong University & Chinese Academy of Sciences (B.S.), and worked with [Zhanxing Zhu](https://zhanxingzhu.github.io/) and [Yongshun Gong](https://faculty.sdu.edu.cn/gongyongshun/en/) on spatio-temporal data. Currently, I work on transfer and representation learning for modern AI systems, from multimodal foundation models to LLM agents. The question I keep coming back to is **how you reuse what a model already knows when the world won't sit still**:
-- **LLM agents.** Post-training agents for changing environments: RL from sparse rewards, on-policy self-distillation, and spatio-temporal reasoning.
-- **When transfer provably works.** Minimax rates, oracle inequalities, and safe-transfer criteria.
-- **When structure is the obstacle.** Optimal transport, graph, and multimodal methods for aligning heterogeneous data.
+Howdy! I'm a final-year Statistics Ph.D. candidate at Boston University, advised by [Debarghya Mukherjee](https://debarghya-mukherjee.github.io/) and [Luis Carvalho](https://math.bu.edu/people/lecarval/). I build **transfer and representation learning methods for modern AI systems**, from multimodal foundation models to LLM agents, and I care about methods that come with both a guarantee and a benchmark win.
+
+The question I keep coming back to is **how to reuse what a model already knows when the world won't sit still**:
+- **Foundation models and agents in a changing world.** Text-conditioned forecasting (TESS, ICML 2026 Oral), and post-training LLM agents with sparse-reward RL and on-policy self-distillation.
+- **Transfer with guarantees.** Minimax rates, phase transitions and safe-transfer criteria that tell you when borrowing from a source helps, and when it hurts.
+- **Alignment across heterogeneous structure.** Optimal transport, graph and multimodal methods that align networks, cities and modalities without one-to-one correspondence (GTrans, NeurIPS 2025; SCOT, NeurIPS 2026).
+
+Before BU, I earned an M.A. in Statistics at Columbia and a B.S. in Mathematics at Shandong University (with joint training at AMSS, Chinese Academy of Sciences), and worked with [Zhanxing Zhu](https://zhanxingzhu.github.io/) and [Yongshun Gong](https://faculty.sdu.edu.cn/gongyongshun/en/) on spatio-temporal data.
 
 A gentler entry point, in slides: **[LLM agents](llm_agent.pdf)** · **[transfer learning](transfer_learning.pdf)** · **[graph learning](graph_learning.pdf)** · **[optimal transport](optimal_transport.pdf)** · **[LLMs for time series](llm_time_series.pdf)**
 
@@ -566,11 +580,29 @@ Beyond theory and modeling, I am drawn to building AI applications that reflect 
 
 # 💻 Internships
 
-<b>Applied Scientist Intern</b> · Amazon · <i>Summer 2026</i><br>
-<sub>LangChain agent with LLM-based heuristic learning that turns request-level attribution into ranked traffic-blocking policies; MIMO forecasting on large-scale HTTP logs, benchmarking tabular foundation models against Chronos-2. </sub>
+<div class="intern">
+  <img class="intern-logo" src="images/amazon_logo.svg" alt="Amazon">
+  <div class="intern-body">
+    <div class="intern-head"><b>Applied Scientist Intern</b> · Amazon, Traffic Engineering <span class="intern-date">Summer 2026</span></div>
+    <ul class="intern-list">
+      <li>Built a <b>label-free, three-stage bot-detection system</b> for Amazon's retail web traffic, <b>deployed to production</b>.</li>
+      <li><b>Detection as calibrated forecasting:</b> a consensus portfolio of foundation models (<b>Chronos-2, TabPFN, TabICL</b>) flags minutes that exceed a 95% prediction interval; majority vote reaches a <b>77% corroboration rate (100% when unanimous)</b> within a 60-second latency budget.</li>
+      <li><b>Identifier-free attribution:</b> 18 rotation-resistant tokenizers (TLS, header structure) and <b>MinHash/LSH</b> cluster <b>~1M requests/minute in under 6 minutes</b>, surfacing distributed campaigns that rate- or session-based rules cannot see.</li>
+      <li><b>Bounded-autonomy LLM agent (LangChain + Claude):</b> runs the pipeline from natural-language queries and proposes evidence-backed blocks, gated by sandbox backtests and never executed without human approval.</li>
+    </ul>
+  </div>
+</div>
 
-<b>Data Scientist Intern</b> · Plymouth Rock Insurance · <i>Summer 2025</i><br>
-<sub>Designed a multimodal LLM pipeline for homeowners risk assessment, leveraging GPT as a vision-language model to distill Google Street View imagery into structured property-level risk features. Integrated VLM-derived features into a pure-premium XGBoost model with a Tweedie objective.</sub>
+<div class="intern">
+  <img class="intern-logo" src="images/plymouth_logo.png" alt="Plymouth Rock Assurance">
+  <div class="intern-body">
+    <div class="intern-head"><b>Data Scientist Intern</b> · Plymouth Rock Insurance <span class="intern-date">Summer 2025</span></div>
+    <ul class="intern-list">
+      <li>Architected an end-to-end <b>AWS SageMaker</b> pipeline for property-level loss prediction with an <b>XGBoost Tweedie</b> model on multi-million-policy data, lifting <b>Gini by +4.3%</b> over the production baseline.</li>
+      <li>Pioneered an <b>LLM-powered visual risk scoring</b> system that uses <b>GPT-4o</b> as a vision-language model to turn <b>Google Street View</b> imagery into structured property-risk features for actuarial pricing.</li>
+    </ul>
+  </div>
+</div>
 
 <!--
 <img src="images/plymouth_logo.png" alt="Plymouth Rock" width="50" align="left" hspace="15">
