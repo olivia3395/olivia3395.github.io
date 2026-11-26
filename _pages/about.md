@@ -402,13 +402,11 @@ Beyond theory and modeling, I am drawn to building AI applications that reflect 
   <div class="pg-list">
     <div class="p"><a href="https://github.com/olivia3395/data-science-portfolio/tree/main/causal-inference/Congestion-Pricing">Congestion Pricing</a><i>CS-DiD on 12M+ NYC TLC trips</i></div>
     <div class="p"><a href="https://github.com/olivia3395/data-science-portfolio/tree/main/causal-inference/CausalLens">CausalLens</a><i>DoWhy, double ML, causal forests</i></div>
-    <div class="p"><a href="https://github.com/olivia3395/data-science-portfolio/tree/main/statistics/Bayesian-Lung-Cancer-Prediction">Bayesian Logistic</a><i>spike-and-slab MCMC, RStan</i></div>
   </div>
 </div>
  
 </div>
 
-<p style="margin-top:0.6em"><sub>More projects: <a href="https://github.com/olivia3395/llm-projects">llm-projects</a> · <a href="https://github.com/olivia3395/data-science-portfolio">data-science-portfolio</a></sub></p>
 
 <!--
 
