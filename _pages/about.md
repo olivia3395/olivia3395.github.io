@@ -135,8 +135,8 @@ redirect_from:
 .pub {
   display: flex;
   align-items: center;
-  gap: 1.6rem;
-  padding: 1.1rem 0;
+  gap: 1.2rem;              /* 图和文字之间的距离，原来 1.6rem */
+  padding: 0.65rem 0;       /* 每篇论文上下的留白，原来 1.1rem */
   border-bottom: 1px solid #EFEBE3;
 }
 .pub:last-of-type { border-bottom: none; }
@@ -144,7 +144,7 @@ redirect_from:
 .pub-fig img {
   display: block;
   width: 100%;
-  height: 128px;
+  height: 112px;            /* 图片高度，原来 128px */
   object-fit: contain;
 }
 .pub-body { flex: 1; min-width: 0; }
