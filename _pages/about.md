@@ -329,7 +329,7 @@ Beyond theory and modeling, I am drawn to building AI applications that reflect 
   <div class="pub-fig"><img src="images/tess_workflow.png" alt="TESS"></div>
   <div class="pub-body">
     <a class="pub-title" href="https://arxiv.org/pdf/2603.12664">From Text to Forecasts: Bridging Modality Gap with Temporal Evolution Semantic Space</a>
-    <div class="pub-authors" title="Lehui Li*, Yuyao Wang*, Jisheng Yan, Wei Zhang, Jinliang Deng, Haoliang Sun, Zhongyi Han, Yongshun Gong">Lehui Li*, <b>Yuyao Wang*</b>, Jisheng Yan, Wei Zhang, …, Yongshun Gong</div>
+    <div class="pub-authors" title="Lehui Li*, Yuyao Wang*, Jisheng Yan, Wei Zhang, Jinliang Deng, Haoliang Sun, Zhongyi Han, Yongshun Gong">Lehui Li*, <b>Yuyao Wang*</b>, Jisheng Yan, Wei Zhang, Jinliang Deng, Haoliang Sun, Zhongyi Han, Yongshun Gong</div>
     <div class="pub-desc">Translates free-form text into interpretable temporal primitives (distribution shift, volatility, shape, lag) and conditions a Transformer forecaster on them, reducing error by up to 29% under event-driven non-stationarity.</div>
     <div class="pub-meta"><b>ICML 2026 (Oral)</b> / <a href="https://arxiv.org/pdf/2603.12664">Paper</a> / <a href="https://github.com/olivia3395/TESS/blob/main/TESS_Poster.pdf">Poster</a> / <a href="https://github.com/olivia3395/olivia3395.github.io/blob/main/_pages/TESS.pdf">Slides</a> / <a href="https://github.com/olivia3395/TESS">Code</a></div>
   </div>
