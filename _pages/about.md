@@ -135,25 +135,15 @@ redirect_from:
 .pub {
   display: flex;
   align-items: center;
-  gap: 1.4rem;
-  background: #FBF8F3;
-  padding: 1.05rem 1.25rem;
-  margin-bottom: 0.85rem;
+  gap: 1.6rem;
+  padding: 1.1rem 0;
+  border-bottom: 1px solid #EFEBE3;
 }
-.pub-fig {
-  flex: 0 0 calc(236px + 1.25rem);
-  align-self: stretch;
-  margin: -1.05rem 0 -1.05rem -1.25rem;
-  min-height: calc(128px + 2.1rem);
-  background: #fff;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  padding-left: 1.25rem;
-}
+.pub:last-of-type { border-bottom: none; }
+.pub-fig { flex: 0 0 236px; }
 .pub-fig img {
   display: block;
-  width: 236px;
+  width: 100%;
   height: 128px;
   object-fit: contain;
 }
