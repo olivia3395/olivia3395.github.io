@@ -132,51 +132,42 @@ redirect_from:
   font-size: 1.02rem;
   letter-spacing: -0.005em;
 }
-
 .pub {
   display: flex;
-  align-items: center;
-  gap: 1.4rem;
+  align-items: stretch;      /* 左侧图片区域撑满卡片高度 */
+  gap: 0;
   background: #FBF8F3;
-  padding: 1.05rem 1.25rem;
+  padding: 0;                /* 去掉外圈内边距，图片贴边 */
   margin-bottom: 0.85rem;
+  overflow: hidden;
 }
-.pub-fig { flex: 0 0 236px; }
+.pub-fig {
+  flex: 0 0 260px;
+  background: #fff;          /* 留白处显示白色，和图片底色一致 */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0.6rem;
+}
 .pub-fig img {
   display: block;
   width: 100%;
-  height: 128px;
+  height: auto;
+  max height: 150px;
   object-fit: contain;
 }
-.pub-body { flex: 1; min-width: 0; }
-.page__content .pub-title {
-  display: block;
-  font-family: 'Newsreader', Georgia, serif;
-  font-weight: 600;
-  font-size: 1.02rem;
-  line-height: 1.35;
-  letter-spacing: -0.005em;
-  color: #2A2724;
-  border-bottom: none;
-  margin-bottom: 0.3em;
-  transition: color .18s ease;
+.pub-body {
+  flex: 1;
+  min-width: 0;
+  align-self: center;
+  padding: 1.05rem 1.25rem;  /* 内边距挪到右侧文字区 */
 }
-.page__content .pub-title:hover { color: #1B6B7A; border-bottom: none; }
-.pub-desc {
-  font-size: 0.83rem;
-  line-height: 1.55;
-  color: #7A7266;
-  margin-bottom: 0.4em;
-}
-.pub-meta { font-size: 0.83rem; line-height: 1.5; color: #9A9184; }
-.pub-meta b { font-weight: 600; color: #2A2724; }
-.page__content .pub-meta a { color: #6B6558; border-bottom: none; }
-.page__content .pub-meta a:hover { color: #1B6B7A; }
 @media (max-width: 700px) {
-  .pub { flex-direction: column; align-items: flex-start; gap: 0.8rem; }
+  .pub { flex-direction: column; }
   .pub-fig { flex: none; width: 100%; }
 }
-  
+
+
 </style>
 
 
