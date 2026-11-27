@@ -380,7 +380,7 @@ Beyond theory and modeling, I am drawn to building AI applications that reflect 
     <a class="pub-title" href="https://ieeexplore.ieee.org/abstract/document/11133483">Cross-Domain Hyperspectral Image Classification via Mamba-CNN and Knowledge Distillation</a>
     <div class="pub-authors" title="Aoyan Du, Guixin Zhao, Mengxin Cao, Yuyao Wang, Aimei Dong, Guohua Lv, Yongbiao Gao, Dongqing Li, Xiangjun Dong">Aoyan Du, Guixin Zhao, Mengxin Cao, <b>Yuyao Wang</b>, Aimei Dong, Guohua Lv, Yongbiao Gao, Dongqing Li, Xiangjun Dong</div>
     <div class="pub-desc">Pairs a Mamba global spectral encoder with CNN local features, then transfers across domains through teacher–student distillation and OT-guided graph consistency under severe spectral mismatch.</div>
-    <div class="pub-meta"><b>IEEE TGRS 2025</b> / <a href="https://ieeexplore.ieee.org/abstract/document/11133483">Paper</a> / <a href="https://github.com/olivia3395/Cross-Domain-Hyperspectral-Image-Classification-/blob/main/IEEE%20TRGS%202025.pptx">Slides</a></div>
+    <div class="pub-meta"><b>IEEE TGRS 2025</b> / <a href="https://ieeexplore.ieee.org/abstract/document/11133483">Paper</a> / <a href="/_pages/IEEE%20TRGS%202025.pdf">Slides</a></div>
   </div>
 </div>
 
