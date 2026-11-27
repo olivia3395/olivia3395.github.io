@@ -673,60 +673,28 @@ Beyond theory and modeling, I am drawn to building AI applications that reflect 
 A quiet collection of cinematic, atmospheric, and emotionally resonant side projects — part digital keepsakes, part memory-keepers. &nbsp;<a href="/myapps/"><b>See all →</b></a>
 
 
-<table>
-  <tr>
-    <td align="center" width="16.6%">
-      <a href="/myapps/#wilderness"><img src="images/NationalPark.png" alt="Wilderness" width="100%"></a><br>
-      <sub>🌲 <b>Wilderness</b></sub>
-    </td>
-    <td align="center" width="16.6%">
-      <a href="/myapps/#mbti-vibe"><img src="images/mbti_vibe.png" alt="MBTI Vibe" width="100%"></a><br>
-      <sub>✨ <b>MBTI Vibe</b></sub>
-    </td>
-    <td align="center" width="16.6%">
-      <a href="/myapps/#what-if-cinema"><img src="images/what_if_cinema.png" alt="What If Cinema" width="100%"></a><br>
-      <sub>🎬 <b>What If Cinema</b></sub>
-    </td>
-    <td align="center" width="16.6%">
-      <a href="/myapps/#letters-from-the-screen"><img src="images/letter_from_sceen.png" alt="Letters from the Screen" width="100%"></a><br>
-      <sub>✉️ <b>Letters from Screen</b></sub>
-    </td>
-    <td align="center" width="16.6%">
-      <a href="/myapps/#if-you-disappeared"><img src="images/if_you_disappeared.png" alt="If You Disappeared" width="100%"></a><br>
-      <sub>✈️ <b>If You Disappeared</b></sub>
-    </td>
-    <td align="center" width="16.6%">
-      <a href="/myapps/#souvenirs"><img src="images/souvenir_of_a_life.png" alt="Souvenirs" width="100%"></a><br>
-      <sub>🎟️ <b>Souvenirs</b></sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="16.6%">
-      <a href="/myapps/#map-of-me"><img src="images/the_map_of_me.png" alt="The Map of Me" width="100%"></a><br>
-      <sub>🗺️ <b>Map of Me</b></sub>
-    </td>
-    <td align="center" width="16.6%">
-      <a href="/myapps/#macondo"><img src="images/macondo.png" alt="A Room in Macondo" width="100%"></a><br>
-      <sub>🦋 <b>A Room in Macondo</b></sub>
-    </td>
-    <td align="center" width="16.6%">
-      <a href="/myapps/#say-it-like-a-classic"><img src="images/say_it_like_a_classic.png" alt="Say It Like a Classic" width="100%"></a><br>
-      <sub>✒️ <b>Say It Like a Classic</b></sub>
-    </td>
-    <td align="center" width="16.6%">
-      <a href="/myapps/#sanmao"><img src="images/sanmao_app.png" alt="Sanmao" width="100%"></a><br>
-      <sub>🏜️ <b>Sanmao</b></sub>
-    </td>
-    <td align="center" width="16.6%">
-      <a href="/myapps/#monet"><img src="images/monet_app.png" alt="Monet" width="100%"></a><br>
-      <sub>🎨 <b>Monet</b></sub>
-    </td>
-    <td align="center" width="16.6%">
-      <a href="/myapps/#vincent"><img src="images/vincent.png" alt="Vincent" width="100%"></a><br>
-      <sub>🌻 <b>Vincent</b></sub>
-    </td>
-  </tr>
-</table>
+<style>
+.app-row { display:grid; grid-template-columns:repeat(12,minmax(0,1fr)); gap:0.45rem; margin:0.6rem 0 0.4rem; }
+.app-row .app { display:block; text-align:center; text-decoration:none; border-bottom:none; }
+.app-row .app img { width:100%; aspect-ratio:1/1; object-fit:cover; border-radius:8px; display:block; transition:transform .15s ease; }
+.app-row .app:hover img { transform:translateY(-2px); }
+.app-row .app span { display:block; margin-top:0.25em; font-size:0.62rem; line-height:1.3; color:#7A7266; white-space:nowrap; overflow:hidden; text-overflow:ellipsis; }
+@media (max-width: 760px) { .app-row { grid-template-columns:repeat(6,minmax(0,1fr)); } }
+</style>
+<div class="app-row">
+  <a class="app" href="/myapps/#wilderness" title="Wilderness"><img src="images/NationalPark.png" alt="Wilderness"><span>🌲 Wilderness</span></a>
+  <a class="app" href="/myapps/#mbti-vibe" title="MBTI Vibe"><img src="images/mbti_vibe.png" alt="MBTI Vibe"><span>✨ MBTI Vibe</span></a>
+  <a class="app" href="/myapps/#what-if-cinema" title="What If Cinema"><img src="images/what_if_cinema.png" alt="What If Cinema"><span>🎬 What If Cinema</span></a>
+  <a class="app" href="/myapps/#letters-from-the-screen" title="Letters from the Screen"><img src="images/letter_from_sceen.png" alt="Letters from the Screen"><span>✉️ Letters from Screen</span></a>
+  <a class="app" href="/myapps/#if-you-disappeared" title="If You Disappeared"><img src="images/if_you_disappeared.png" alt="If You Disappeared"><span>✈️ If You Disappeared</span></a>
+  <a class="app" href="/myapps/#souvenirs" title="Souvenirs"><img src="images/souvenir_of_a_life.png" alt="Souvenirs"><span>🎟️ Souvenirs</span></a>
+  <a class="app" href="/myapps/#map-of-me" title="The Map of Me"><img src="images/the_map_of_me.png" alt="The Map of Me"><span>🗺️ Map of Me</span></a>
+  <a class="app" href="/myapps/#macondo" title="A Room in Macondo"><img src="images/macondo.png" alt="A Room in Macondo"><span>🦋 A Room in Macondo</span></a>
+  <a class="app" href="/myapps/#say-it-like-a-classic" title="Say It Like a Classic"><img src="images/say_it_like_a_classic.png" alt="Say It Like a Classic"><span>✒️ Say It Like a Classic</span></a>
+  <a class="app" href="/myapps/#sanmao" title="Sanmao"><img src="images/sanmao_app.png" alt="Sanmao"><span>🏜️ Sanmao</span></a>
+  <a class="app" href="/myapps/#monet" title="Monet"><img src="images/monet_app.png" alt="Monet"><span>🎨 Monet</span></a>
+  <a class="app" href="/myapps/#vincent" title="Vincent"><img src="images/vincent.png" alt="Vincent"><span>🌻 Vincent</span></a>
+</div>
 
 
 <!--
