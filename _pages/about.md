@@ -331,16 +331,6 @@ Beyond theory and modeling, I am drawn to building AI applications that reflect 
 
 
 <div class="pub">
-  <div class="pub-fig"><img src="images/gtrans_workflow.png" alt="GTrans"></div>
-  <div class="pub-body">
-    <a class="pub-title" href="https://openreview.net/pdf?id=i3sWs5614Y">Transfer Learning on Edge Connecting Probability Estimation Under Graphon Model</a>
-    <div class="pub-authors" title="Yuyao Wang, Yu-Hung Cheng, Debarghya Mukherjee, Huimin Cheng"><b>Yuyao Wang</b>, Yu-Hung Cheng, Debarghya Mukherjee, Huimin Cheng</div>
-    <div class="pub-desc">Graphon-level transfer without node correspondence: aligns graphs via Gromov–Wasserstein, then transfers edge structure nonparametrically, with residual smoothing that unlocks small and sparse targets.</div>
-    <div class="pub-meta"><b>NeurIPS 2025</b> / <a href="https://proceedings.neurips.cc/paper_files/paper/2025/hash/30dee0ddc6c0b4907a9d587d3ce87979-Abstract-Conference.html">Paper</a> / <a href="https://github.com/olivia3395/GTrans/blob/main/neurips_poster.pdf">Poster</a> / <a href="https://github.com/olivia3395/GTrans/blob/main/GTrans.pdf">Slides</a> / <a href="https://github.com/olivia3395/GTRANS">Code</a></div>
-  </div>
-</div>
- 
-<div class="pub">
   <div class="pub-fig"><img src="images/tess_workflow.png" alt="TESS"></div>
   <div class="pub-body">
     <a class="pub-title" href="https://arxiv.org/pdf/2603.12664">From Text to Forecasts: Bridging Modality Gap with Temporal Evolution Semantic Space</a>
@@ -350,6 +340,16 @@ Beyond theory and modeling, I am drawn to building AI applications that reflect 
   </div>
 </div>
 
+ 
+<div class="pub">
+  <div class="pub-fig"><img src="images/gtrans_workflow.png" alt="GTrans"></div>
+  <div class="pub-body">
+    <a class="pub-title" href="https://openreview.net/pdf?id=i3sWs5614Y">Transfer Learning on Edge Connecting Probability Estimation Under Graphon Model</a>
+    <div class="pub-authors" title="Yuyao Wang, Yu-Hung Cheng, Debarghya Mukherjee, Huimin Cheng"><b>Yuyao Wang</b>, Yu-Hung Cheng, Debarghya Mukherjee, Huimin Cheng</div>
+    <div class="pub-desc">Graphon-level transfer without node correspondence: aligns graphs via Gromov–Wasserstein, then transfers edge structure nonparametrically, with residual smoothing that unlocks small and sparse targets.</div>
+    <div class="pub-meta"><b>NeurIPS 2025</b> / <a href="https://proceedings.neurips.cc/paper_files/paper/2025/hash/30dee0ddc6c0b4907a9d587d3ce87979-Abstract-Conference.html">Paper</a> / <a href="https://github.com/olivia3395/GTrans/blob/main/neurips_poster.pdf">Poster</a> / <a href="https://github.com/olivia3395/GTrans/blob/main/GTrans.pdf">Slides</a> / <a href="https://github.com/olivia3395/GTRANS">Code</a></div>
+  </div>
+</div>
  
 <div class="pub">
   <div class="pub-fig"><img src="images/phaseshift.png" alt="Phase Transition"></div>
