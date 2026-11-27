@@ -585,9 +585,8 @@ Beyond theory and modeling, I am drawn to building AI applications that reflect 
   <div class="intern-body">
     <div class="intern-head"><b>Applied Scientist Intern</b> · Amazon, Traffic Engineering <span class="intern-date">Summer 2026</span></div>
     <ul class="intern-list">
-      <li>Built a <b>label-free, three-stage bot-detection system</b> for Amazon's retail web traffic, <b>deployed to production</b>.</li>
-      <li><b>Detection as calibrated forecasting:</b> a consensus portfolio of foundation models (<b>Chronos-2, TabPFN, TabICL</b>) flags minutes that exceed a 95% prediction interval; majority vote reaches a <b>77% corroboration rate (100% when unanimous)</b> within a 60-second latency budget.</li>
-      <li><b>Identifier-free attribution:</b> 18 rotation-resistant tokenizers (TLS, header structure) and <b>MinHash/LSH</b> cluster <b>~1M requests/minute in under 6 minutes</b>, surfacing distributed campaigns that rate- or session-based rules cannot see.</li>
+      <li><b>Label-free bot detection as calibrated forecasting, deployed to production:</b> foundation models (<b>Chronos-2, TabPFN, TabICL</b>) vote on 95% prediction-interval breaches, reaching a <b>77% corroboration rate (100% when unanimous)</b> within 60 s.</li>
+      <li><b>Identifier-free attribution:</b> 18 rotation-resistant tokenizers (TLS, header structure) with <b>MinHash/LSH</b> cluster <b>~1M requests/minute in under 6 minutes</b>, exposing distributed campaigns that rate- or session-based rules miss.</li>
       <li><b>Bounded-autonomy LLM agent (LangChain + Claude):</b> runs the pipeline from natural-language queries and proposes evidence-backed blocks, gated by sandbox backtests and never executed without human approval.</li>
     </ul>
   </div>
@@ -598,9 +597,9 @@ Beyond theory and modeling, I am drawn to building AI applications that reflect 
   <div class="intern-body">
     <div class="intern-head"><b>Data Scientist Intern</b> · Plymouth Rock Insurance · <a href="/_pages/HomeInsurance.pdf">Slides</a> <span class="intern-date">Summer 2025</span></div>
     <ul class="intern-list">
-      <li><b>Brought multimodal LLMs into actuarial pricing:</b> used <b>GPT-4o as a vision-language model</b> to read <b>Google Street View</b> façades and turn them into structured, scored property-condition features (deferred maintenance, roof edges, clutter), with confidence thresholds and audit-sample QA; the LLM façade score became a <b>top-6 model feature</b> and maps to filed pricing factors.</li>
-      <li><b>Fused LLM, satellite and geospatial signals</b> in an <b>XGBoost Tweedie</b> pure-premium model on <b>50M+ policy rows</b> (H3 hex features with empirical-Bayes smoothing, NOAA/FEMA peril zones): <b>+4.3 Gini</b> over the production model and <b>+7.0</b> over the legacy GLM, with these new signals carrying ~55% of model gain.</li>
-      <li><b>Production MLOps on AWS SageMaker:</b> automated SHAP-based feature compression (<b>1,247 → 147 features</b>, p99 latency <b>210 → 42 ms</b>), weekly champion/challenger retraining with drift monitoring and auto-rollback, and SHAP explanations for state rate filings, moving pricing from an annual cycle to continuous refresh.</li>
+      <li><b>Brought multimodal LLMs into actuarial pricing:</b> <b>GPT-4o as a vision-language model</b> scores <b>Google Street View</b> façades into structured property-condition features with confidence gates and audit QA, becoming a <b>top-6 model feature</b>.</li>
+      <li><b>Fused LLM, satellite and geospatial signals</b> in an <b>XGBoost Tweedie</b> pure-premium model on <b>50M+ policy rows</b> (H3 + empirical-Bayes smoothing): <b>+4.3 Gini</b> over production, <b>+7.0</b> over the legacy GLM, ~55% of the gain from new signals.</li>
+      <li><b>Production MLOps on AWS SageMaker:</b> SHAP feature compression (<b>1,247 → 147 features</b>, p99 latency <b>210 → 42 ms</b>), weekly champion/challenger retraining with drift monitoring and auto-rollback, moving pricing from annual to continuous.</li>
     </ul>
   </div>
 </div>
