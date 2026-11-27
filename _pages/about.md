@@ -281,8 +281,9 @@ Beyond theory and modeling, I am drawn to building AI applications that reflect 
 
 # 🔥 News
 
+- *2026.11* — New first-author preprint, **"Start Where the Data Are"**, is out on [arXiv](https://arxiv.org/abs/2611.31856).
 - *2026.09* — **SCOT** (first author) accepted at [NeurIPS 2026](https://neurips.cc/)!
-- *2026.05* — Joined **Amazon** as an Applied Scientist Intern (Traffic Engineering).
+- *Summer 2026* — Joined **Amazon** as an Applied Scientist Intern (Traffic Engineering).
 - *2026.05* — **TESS** (co-first) got an **Oral** at [ICML 2026](https://icml.cc/), top 0.5% of submissions!
 - *2026.05* — "Network Perturbation Aggregation for Graphon Estimation" (co-author) is in at [SLADS](https://slads.scichina.com/).
 - *2026.04* — Honored to receive the **Dean's Dissertation Fellowship** from BU's Graduate School of Arts and Sciences.
@@ -312,7 +313,7 @@ Beyond theory and modeling, I am drawn to building AI applications that reflect 
   <div class="pub-body">
     <a class="pub-title" href="https://arxiv.org/abs/2611.31856">Start Where the Data Are: Statistical Priors for One-Step Generation on Manifolds</a>
     <div class="pub-authors" title="Yuyao Wang, Haoliang Sun, Xiankai Lu, Xinxin Zhang, Yongshun Gong"><b>Yuyao Wang</b>, Haoliang Sun, Xiankai Lu, Xinxin Zhang, Yongshun Gong</div>
-    <div class="pub-desc">A drop-in, data-fitted noise prior, paired with nearby noise per sample, makes one-step generators on curved spaces up to 125× more accurate and cuts protein Ramachandran outliers from 12.1% to 0.55%, at no extra inference cost.</div>
+    <div class="pub-desc">One-step generators on manifolds leave spurious samples between data modes. A fitted mixture prior with posterior noise–data coupling, drop-in, cuts distributional error up to 125× and protein Ramachandran outliers from 12.1% to 0.55%.</div>
     <div class="pub-meta"><b>Preprint 2026</b> / <a href="https://arxiv.org/abs/2611.31856">Paper</a> / <a href="https://github.com/olivia3395/olivia3395.github.io/blob/main/_pages/StatPrior.pdf">Slides</a> / <a href="https://github.com/olivia3395/statprior-onestep">Code</a></div>
   </div>
 </div>
@@ -322,7 +323,7 @@ Beyond theory and modeling, I am drawn to building AI applications that reflect 
   <div class="pub-body">
     <a class="pub-title" href="https://arxiv.org/abs/2604.07383">SCOT: Soft Correspondence via Optimal Transport for Multi-Source Cross-City Transfer</a>
     <div class="pub-authors" title="Yuyao Wang, Min Yang, Meng Chen, Weiming Huang, Yilong Yin, Yongshun Gong"><b>Yuyao Wang</b>, Min Yang, Meng Chen, Weiming Huang, Yilong Yin, Yongshun Gong</div>
-    <div class="pub-desc">Sinkhorn entropic-OT coupling gives many-to-many region alignment across cities with no node matching, paired with an OT-weighted contrastive objective that resists collapse under multi-source heterogeneity.</div>
+    <div class="pub-desc">Soft, mass-controlled OT correspondences between cities with incompatible regions and no ground-truth matching, plus an OT-weighted contrastive loss and a shared prototype hub for multi-source transfer: 5–50% lower MAE and MAPE.</div>
     <div class="pub-meta"><b>NeurIPS 2026</b> / <a href="https://arxiv.org/abs/2604.07383">Paper</a> / <a href="https://github.com/olivia3395/SCOT-Multi-Source-Cross-City-Transfer/blob/main/SCOT_poster.pdf">Poster</a> / <a href="https://github.com/olivia3395/olivia3395.github.io/blob/main/_pages/SCOT.pdf">Slides</a> / <a href="https://github.com/olivia3395/SCOT-Multi-Source-Cross-City-Transfer">Code</a></div>
   </div>
 </div>
@@ -344,7 +345,7 @@ Beyond theory and modeling, I am drawn to building AI applications that reflect 
   <div class="pub-body">
     <a class="pub-title" href="https://arxiv.org/pdf/2603.12664">From Text to Forecasts: Bridging Modality Gap with Temporal Evolution Semantic Space</a>
     <div class="pub-authors" title="Lehui Li*, Yuyao Wang*, Jisheng Yan, Wei Zhang, Jinliang Deng, Haoliang Sun, Zhongyi Han, Yongshun Gong">Lehui Li*, <b>Yuyao Wang*</b>, Jisheng Yan, Wei Zhang, Jinliang Deng, Haoliang Sun, Zhongyi Han, Yongshun Gong</div>
-    <div class="pub-desc">Translates free-form text into interpretable temporal primitives (distribution shift, volatility, shape, lag) and conditions a Transformer forecaster on them, reducing error by up to 29% under event-driven non-stationarity.</div>
+    <div class="pub-desc">An LLM translates free-form text into interpretable, numerically grounded temporal primitives (mean shift, volatility, shape, lag), a bottleneck that closes the text–series modality gap and cuts forecasting error by up to 29% on four real datasets.</div>
     <div class="pub-meta"><b>ICML 2026 (Oral)</b> / <a href="https://arxiv.org/pdf/2603.12664">Paper</a> / <a href="https://github.com/olivia3395/TESS/blob/main/TESS_Poster.pdf">Poster</a> / <a href="https://github.com/olivia3395/olivia3395.github.io/blob/main/_pages/TESS.pdf">Slides</a> / <a href="https://github.com/olivia3395/TESS">Code</a></div>
   </div>
 </div>
@@ -355,7 +356,7 @@ Beyond theory and modeling, I am drawn to building AI applications that reflect 
   <div class="pub-body">
     <a class="pub-title" href="https://arxiv.org/abs/2507.00889">Phase Transition in Nonparametric Minimax Rates for Covariate Shifts on Approximate Manifolds</a>
     <div class="pub-authors" title="Yuyao Wang, Nabarun Deb, Debarghya Mukherjee"><b>Yuyao Wang</b>, Nabarun Deb, Debarghya Mukherjee</div>
-    <div class="pub-desc">Minimax theory for near-manifold covariate shift, exposing a sharp phase transition governed by the support gap, together with a ratio-free estimator that adapts to unknown intrinsic dimension.</div>
+    <div class="pub-desc">When target covariates lie near, not on, a manifold inside the source, density ratios fail. Minimax rates reveal a sharp phase transition in the distance to the manifold; a local polynomial estimator adapts to unknown smoothness and dimension.</div>
     <div class="pub-meta"><b>Preprint 2025</b> / <a href="https://arxiv.org/abs/2507.00889">Paper</a> / <a href="https://github.com/olivia3395/Covariate-Shifts-on-Approximate-Manifolds/blob/main/manifold_poster.pdf">Poster</a> / <a href="https://github.com/olivia3395/Covariate-Shifts-on-Approximate-Manifolds/blob/main/slides_Manifold.pdf">Slides</a> / <a href="https://github.com/olivia3395/Covariate-Shifts-on-Approximate-Manifolds">Code</a></div>
   </div>
 </div>
@@ -399,7 +400,7 @@ Beyond theory and modeling, I am drawn to building AI applications that reflect 
   <div class="pub-body">
     <a class="pub-title" href="https://arxiv.org/abs/2603.01801">What Papers Don't Tell You: Recovering Tacit Knowledge for Automated Paper Reproduction</a>
     <div class="pub-authors" title="Lehui Li, Ruining Wang, Zonglin Yang, Yuyao Wang, Haochen Song, Yaoxin Mao, Tong Zhang, Jiayi Fan, Yitong Zhang, Taozhi Chen, Jieping Ye, Chengqi Zhang, Yongshun Gong">Lehui Li, Ruining Wang, Zonglin Yang, <b>Yuyao Wang</b>, Haochen Song, Yaoxin Mao, …, Yongshun Gong</div>
-    <div class="pub-desc">Prunes dense scientific graphs into task-adaptive subgraphs by rank-based ensemble scoring, shrinking the search space for LLM agents and raising the success rate of automated paper reproduction.</div>
+    <div class="pub-desc">Paper reproduction is bottlenecked by tacit knowledge, not retrieval. A graph-based agent recovers it from citation neighbors, execution feedback and paper clusters, improving over the strongest baseline by 24.68%.</div>
     <div class="pub-meta"><b>Preprint 2026</b> / <a href="https://arxiv.org/abs/2603.01801">Paper</a></div>
   </div>
 </div>
