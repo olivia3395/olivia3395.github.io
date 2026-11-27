@@ -225,7 +225,7 @@ Howdy! I'm a final-year Statistics Ph.D. candidate at Boston University, advised
 
 The question I keep coming back to is **how to reuse what a model already knows when the world won't sit still**:
 - **Foundation models and agents in a changing world.** Text-conditioned forecasting (TESS, ICML 2026 Oral), and post-training LLM agents with sparse-reward RL and on-policy self-distillation.
-- **Transfer with guarantees.** Minimax rates and phase transitions for high-dimensional and manifold-structured transfer under distribution shift, plus data-driven safe-transfer criteria that tell you when borrowing from a source helps, and when it causes negative transfer.
+- **Transfer with guarantees.** Minimax rates and phase transitions for high-dimensional and manifold-structured transfer under distribution shift, plus safe-transfer criteria that tell you when borrowing from a source helps, and when it hurts.
 - **Alignment across heterogeneous structure.** Optimal transport, graph and multimodal methods that align networks, cities and modalities without one-to-one correspondence (GTrans, NeurIPS 2025; SCOT, NeurIPS 2026).
 
 Before BU, I earned an M.A. in Statistics at Columbia and a B.S. in Mathematics at Shandong University (with joint training at AMSS, Chinese Academy of Sciences), and worked with [Zhanxing Zhu](https://zhanxingzhu.github.io/) and [Yongshun Gong](https://faculty.sdu.edu.cn/gongyongshun/en/) on spatio-temporal data.
