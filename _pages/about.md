@@ -224,8 +224,7 @@ redirect_from:
 Howdy! I'm a final-year Statistics Ph.D. candidate at Boston University, advised by [Debarghya Mukherjee](https://debarghya-mukherjee.github.io/) and [Luis Carvalho](https://math.bu.edu/people/lecarval/). I build **transfer and representation learning methods for modern AI systems**, from multimodal foundation models to LLM agents, and I care about methods that come with both a guarantee and a benchmark win.
 
 The question I keep coming back to is **how to reuse what a model already knows when the world won't sit still**:
-- **Foundation models for time series.** Text-conditioned forecasting (TESS, ICML 2026 Oral), and LLM context-aided forecasting with risk control.
-- **Robust vision-language and generative models.** Adapting CLIP-style VLMs to noisy, partial and multi-label supervision and to test-time drift, plus statistical priors for one-step generation on manifolds.
+- **Foundation models under shift.** Text-conditioned forecasting (TESS, ICML 2026 Oral) and context-aided LLM forecasting; adapting CLIP-style VLMs to noisy, partial and multi-label supervision and to test-time drift; and statistically grounded generative models.
 - **Transfer with guarantees.** Minimax rates and phase transitions for high-dimensional and manifold-structured transfer under distribution shift, plus safe-transfer criteria that tell you when borrowing from a source helps, and when it hurts.
 - **Alignment across heterogeneous structure.** Optimal transport, graph and multimodal methods that align networks, cities and modalities without one-to-one correspondence (GTrans, NeurIPS 2025; SCOT, NeurIPS 2026).
 
