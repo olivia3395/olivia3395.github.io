@@ -225,7 +225,7 @@ Howdy! I'm a final-year Statistics Ph.D. candidate at Boston University, advised
 
 The question I keep coming back to is **how to reuse what a model already knows when the world won't sit still**:
 - **Foundation models for time series.** Text-conditioned forecasting (TESS, ICML 2026 Oral), and LLM context-aided forecasting with risk control.
-- **Reliable vision-language and generative models.** Making CLIP-style vision-language models reliable under noisy, partial and multi-label supervision and test-time drift, and statistical priors for one-step generation on manifolds.
+- **Robust vision-language and generative models.** Adapting CLIP-style VLMs to noisy, partial and multi-label supervision and to test-time drift, plus statistical priors for one-step generation on manifolds.
 - **Transfer with guarantees.** Minimax rates and phase transitions for high-dimensional and manifold-structured transfer under distribution shift, plus safe-transfer criteria that tell you when borrowing from a source helps, and when it hurts.
 - **Alignment across heterogeneous structure.** Optimal transport, graph and multimodal methods that align networks, cities and modalities without one-to-one correspondence (GTrans, NeurIPS 2025; SCOT, NeurIPS 2026).
 
