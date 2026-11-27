@@ -281,10 +281,11 @@ Beyond theory and modeling, I am drawn to building AI applications that reflect 
 
 # 🔥 News
 
+- *2026.11* — New first-author preprint, **"Start Where the Data Are"**, is out on [arXiv](https://arxiv.org/abs/2611.31856).
 - *2026.09* — **SCOT** (first author) accepted at [NeurIPS 2026](https://neurips.cc/)!
+- *Summer 2026* — Joined **Amazon** as an Applied Scientist Intern (Traffic Engineering).
 - *2026.05* — **TESS** (co-first) got an **Oral** at [ICML 2026](https://icml.cc/), top 0.5% of submissions!
 - *2026.05* — "Network Perturbation Aggregation for Graphon Estimation" (co-author) is in at [SLADS](https://slads.scichina.com/).
-- *2026.04* — Heading to **Amazon** as an Applied Scientist this summer, Bay Area bound.
 - *2026.04* — Honored to receive the **Dean's Dissertation Fellowship** from BU's Graduate School of Arts and Sciences.
 - *2025.09* — **GTrans** (first author) accepted at [NeurIPS 2025](https://neurips.cc/).
 - *2025.08* — "Cross-Domain Hyperspectral Image Classification" (co-author) accepted at [IEEE TGRS](https://ieeexplore.ieee.org/).
@@ -559,7 +560,7 @@ Beyond theory and modeling, I am drawn to building AI applications that reflect 
 -->
 
 
-# 📖 Educations
+# 📖 Education
 
 <b class="inst">Boston University</b> &nbsp;·&nbsp; Ph.D. in Statistics &nbsp;·&nbsp; <i>2021.09 – present</i><br>
 <b class="inst">Columbia University</b> &nbsp;·&nbsp; M.A. in Statistics, Data Science Track &nbsp;·&nbsp; <i>2019.09 – 2020.05</i><br>
