@@ -583,9 +583,9 @@ Beyond theory and modeling, I am drawn to building AI applications that reflect 
   <div class="intern-body">
     <div class="intern-head"><b>Applied Scientist Intern</b> · Amazon, Traffic Engineering <span class="intern-date">Summer 2026</span></div>
     <ul class="intern-list">
-      <li><b>Label-free detection as calibrated forecasting:</b> a production ensemble of foundation models (Chronos-2, TabPFN, TabICL) flags 95% prediction-interval breaches by majority vote, with <b>77% corroboration (100% when unanimous)</b> within 60 s.</li>
-      <li><b>Identifier-free attribution:</b> 18 rotation-resistant tokenizers over TLS and header structure, with MinHash signatures and LSH banding, cluster <b>~1M requests/minute in under 6 minutes</b>, exposing distributed campaigns that rate-based rules miss.</li>
-      <li><b>Bounded-autonomy LLM agent:</b> a LangChain + Claude tool-calling agent runs the pipeline from natural-language queries and proposes evidence-backed blocks, gated by sandbox backtests and human approval.</li>
+      <li><b>Label-free detection as calibrated forecasting:</b> an ensemble of time-series and tabular foundation models flags prediction-interval breaches as anomalies, with no labeled attacks needed.</li>
+      <li><b>Identifier-free attribution:</b> similarity hashing over request structure clusters large-scale traffic and surfaces coordinated activity that rate-based rules miss.</li>
+      <li><b>Human-in-the-loop LLM agent:</b> a tool-calling agent runs the analysis from natural-language queries and proposes evidence-backed actions, gated by backtests and human approval.</li>
     </ul>
   </div>
 </div>
@@ -595,27 +595,13 @@ Beyond theory and modeling, I am drawn to building AI applications that reflect 
   <div class="intern-body">
     <div class="intern-head"><b>Data Scientist Intern</b> · Plymouth Rock Insurance <span class="intern-date">Summer 2025</span></div>
     <ul class="intern-list">
-      <li><b>Multimodal LLM features:</b> GPT-4o as a vision-language model scores Google Street View façades into structured property-condition features with confidence gates and audit-sample QA, becoming a <b>top-6 model feature</b>.</li>
-      <li><b>Tweedie pricing model:</b> XGBoost pure-premium model on 50M+ policy rows, fusing LLM, satellite and H3 geospatial features with empirical-Bayes smoothing: <b>+4.3 Gini</b> over production and <b>+7.0</b> over the legacy GLM.</li>
-      <li><b>Production MLOps:</b> on AWS SageMaker, SHAP-based feature compression (<b>1,247 → 147</b>, p99 latency <b>210 → 42 ms</b>), weekly champion/challenger retraining with drift monitoring and auto-rollback, and SHAP explanations for rate filings.</li>
+      <li><b>Multimodal LLM features:</b> a vision-language model turns street-level imagery into structured property-condition features, with confidence gating and audit-sample QA, and they became among the model's strongest predictors.</li>
+      <li><b>Loss-cost modeling:</b> a gradient-boosted Tweedie model fuses LLM, satellite and geospatial features with empirical-Bayes smoothing, improving Gini over the production model.</li>
+      <li><b>Production MLOps:</b> SHAP-based feature compression (about 10× fewer features, about 5× lower latency), scheduled retraining with drift monitoring, and model explanations for rate filings.</li>
     </ul>
   </div>
 </div>
 
-<!--
-<img src="images/plymouth_logo.png" alt="Plymouth Rock" width="50" align="left" hspace="15">
-
-<b><font size="4">Data Scientist Intern</font></b> · Plymouth Rock Insurance<br>
-<sub>📍 Boston, MA &nbsp;·&nbsp; 🗓️ May 2025 – Aug 2025</sub>
-
-- Architected an end-to-end <b>AWS SageMaker</b> pipeline for property-level loss prediction using an <b>XGBoost Tweedie</b> model on multi-million-policy data, lifting <b>Gini by +4.3%</b> over the production baseline and directly improving underwriting risk segmentation.
-  
-- Pioneered an <b>LLM-powered visual risk scoring</b> system combining <b>GPT-4o multimodal reasoning</b> with <b>Google Street View</b> imagery to capture previously unobservable property features (roof condition, surroundings, hazards); integrated outputs into downstream <b>actuarial pricing models</b> as a novel signal layer.
-
-- 📎 For a high-level, non-confidential summary of this work, see the <b>[Home Insurance slides](HomeInsurance.pdf)</b>.
-<br clear="left">
-
--->
 
 # 🎖 Honors 
 
