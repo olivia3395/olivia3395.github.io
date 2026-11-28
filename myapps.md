@@ -145,9 +145,10 @@ classes: wide
   filter: drop-shadow(0 3px 5px rgba(0,0,0,0.12));
   animation: deco-float 4.6s ease-in-out infinite;
 }
-.app-deco.d1{ left: 22px; animation-delay: 0s; }
-.app-deco.d2{ left: 50%; margin-left: -14px; animation-delay: -1.6s; animation-duration: 5.2s; }
-.app-deco.d3{ right: 22px; animation-delay: -3.1s; animation-duration: 4s; }
+.app-deco.d1{ left: 12.5%; margin-left: -14px; animation-delay: 0s; }
+.app-deco.d2{ left: 37.5%; margin-left: -14px; animation-delay: -1.2s; animation-duration: 5.2s; }
+.app-deco.d3{ left: 62.5%; margin-left: -14px; animation-delay: -2.5s; animation-duration: 4.2s; }
+.app-deco.d4{ left: 87.5%; margin-left: -14px; animation-delay: -3.6s; animation-duration: 4.9s; }
 @keyframes deco-float{
   0%, 100% { transform: translateY(0) rotate(-6deg); }
   50%      { transform: translateY(-7px) rotate(6deg); }
@@ -300,7 +301,8 @@ classes: wide
       <span class="app-category cat-wilderness">🌲 WILDERNESS</span>
       <img class="app-deco d1" src="/images/decor/deer.png" alt="" aria-hidden="true">
       <img class="app-deco d2" src="/images/decor/evergreen_tree.png" alt="" aria-hidden="true">
-      <img class="app-deco d3" src="/images/decor/leaf_fluttering_in_wind.png" alt="" aria-hidden="true">
+      <img class="app-deco d3" src="/images/decor/snow-capped_mountain.png" alt="" aria-hidden="true">
+      <img class="app-deco d4" src="/images/decor/leaf_fluttering_in_wind.png" alt="" aria-hidden="true">
       <img src="/images/NationalPark.png" alt="Wilderness">
     </div>
     <div class="app-body">
@@ -324,7 +326,8 @@ classes: wide
       <span class="app-category cat-persona">✨ PERSONA</span>
       <img class="app-deco d1" src="/images/decor/crystal_ball.png" alt="" aria-hidden="true">
       <img class="app-deco d2" src="/images/decor/sparkling_heart.png" alt="" aria-hidden="true">
-      <img class="app-deco d3" src="/images/decor/sparkles.png" alt="" aria-hidden="true">
+      <img class="app-deco d3" src="/images/decor/rainbow.png" alt="" aria-hidden="true">
+      <img class="app-deco d4" src="/images/decor/sparkles.png" alt="" aria-hidden="true">
       <img src="/images/mbti_vibe.png" alt="MBTI Vibe">
     </div>
     <div class="app-body">
@@ -348,7 +351,8 @@ classes: wide
       <span class="app-category cat-cinema">🎬 CINEMA</span>
       <img class="app-deco d1" src="/images/decor/clapper_board.png" alt="" aria-hidden="true">
       <img class="app-deco d2" src="/images/decor/popcorn.png" alt="" aria-hidden="true">
-      <img class="app-deco d3" src="/images/decor/movie_camera.png" alt="" aria-hidden="true">
+      <img class="app-deco d3" src="/images/decor/film_projector.png" alt="" aria-hidden="true">
+      <img class="app-deco d4" src="/images/decor/movie_camera.png" alt="" aria-hidden="true">
       <img src="/images/what_if_cinema.png" alt="What If Cinema">
     </div>
     <div class="app-body">
@@ -372,7 +376,8 @@ classes: wide
       <span class="app-category cat-letter">✉️ LETTER</span>
       <img class="app-deco d1" src="/images/decor/love_letter.png" alt="" aria-hidden="true">
       <img class="app-deco d2" src="/images/decor/rose.png" alt="" aria-hidden="true">
-      <img class="app-deco d3" src="/images/decor/fountain_pen.png" alt="" aria-hidden="true">
+      <img class="app-deco d3" src="/images/decor/postbox.png" alt="" aria-hidden="true">
+      <img class="app-deco d4" src="/images/decor/candle.png" alt="" aria-hidden="true">
       <img src="/images/letter_from_sceen.png" alt="Letters from the Screen">
     </div>
     <div class="app-body">
@@ -395,8 +400,9 @@ classes: wide
       <span class="app-number">№ 05</span>
       <span class="app-category cat-escape">✈️ ESCAPE</span>
       <img class="app-deco d1" src="/images/decor/luggage.png" alt="" aria-hidden="true">
-      <img class="app-deco d2" src="/images/decor/globe_showing_americas.png" alt="" aria-hidden="true">
-      <img class="app-deco d3" src="/images/decor/airplane.png" alt="" aria-hidden="true">
+      <img class="app-deco d2" src="/images/decor/airplane.png" alt="" aria-hidden="true">
+      <img class="app-deco d3" src="/images/decor/globe_showing_americas.png" alt="" aria-hidden="true">
+      <img class="app-deco d4" src="/images/decor/beach_with_umbrella.png" alt="" aria-hidden="true">
       <img src="/images/if_you_disappeared.png" alt="If You Disappeared on a Trip">
     </div>
     <div class="app-body">
@@ -420,7 +426,8 @@ classes: wide
       <span class="app-category cat-keepsake">🎟️ KEEPSAKE</span>
       <img class="app-deco d1" src="/images/decor/admission_tickets.png" alt="" aria-hidden="true">
       <img class="app-deco d2" src="/images/decor/camera_with_flash.png" alt="" aria-hidden="true">
-      <img class="app-deco d3" src="/images/decor/balloon.png" alt="" aria-hidden="true">
+      <img class="app-deco d3" src="/images/decor/wrapped_gift.png" alt="" aria-hidden="true">
+      <img class="app-deco d4" src="/images/decor/balloon.png" alt="" aria-hidden="true">
       <img src="/images/souvenir_of_a_life.png" alt="Souvenirs of a Life Not Yet Lived">
     </div>
     <div class="app-body">
@@ -445,6 +452,7 @@ classes: wide
       <img class="app-deco d1" src="/images/decor/world_map.png" alt="" aria-hidden="true">
       <img class="app-deco d2" src="/images/decor/compass.png" alt="" aria-hidden="true">
       <img class="app-deco d3" src="/images/decor/round_pushpin.png" alt="" aria-hidden="true">
+      <img class="app-deco d4" src="/images/decor/footprints.png" alt="" aria-hidden="true">
       <img src="/images/the_map_of_me.png" alt="The Map of Me">
     </div>
     <div class="app-body">
@@ -468,7 +476,8 @@ classes: wide
       <span class="app-category cat-literary">🦋 LITERARY</span>
       <img class="app-deco d1" src="/images/decor/butterfly.png" alt="" aria-hidden="true">
       <img class="app-deco d2" src="/images/decor/cloud_with_rain.png" alt="" aria-hidden="true">
-      <img class="app-deco d3" src="/images/decor/butterfly.png" alt="" aria-hidden="true">
+      <img class="app-deco d3" src="/images/decor/ice.png" alt="" aria-hidden="true">
+      <img class="app-deco d4" src="/images/decor/hourglass_not_done.png" alt="" aria-hidden="true">
       <img src="/images/macondo.png" alt="A Room in Macondo">
     </div>
     <div class="app-body">
@@ -491,8 +500,9 @@ classes: wide
       <span class="app-number">№ 09</span>
       <span class="app-category cat-voice">✒️ VOICE</span>
       <img class="app-deco d1" src="/images/decor/scroll.png" alt="" aria-hidden="true">
-      <img class="app-deco d2" src="/images/decor/feather.png" alt="" aria-hidden="true">
-      <img class="app-deco d3" src="/images/decor/fountain_pen.png" alt="" aria-hidden="true">
+      <img class="app-deco d2" src="/images/decor/fountain_pen.png" alt="" aria-hidden="true">
+      <img class="app-deco d3" src="/images/decor/feather.png" alt="" aria-hidden="true">
+      <img class="app-deco d4" src="/images/decor/books.png" alt="" aria-hidden="true">
       <img src="/images/say_it_like_a_classic.png" alt="Say It Like a Classic">
     </div>
     <div class="app-body">
@@ -516,7 +526,8 @@ classes: wide
       <span class="app-category cat-archive">🏛️ ARCHIVE</span>
       <img class="app-deco d1" src="/images/decor/classical_building.png" alt="" aria-hidden="true">
       <img class="app-deco d2" src="/images/decor/sailboat.png" alt="" aria-hidden="true">
-      <img class="app-deco d3" src="/images/decor/fallen_leaf.png" alt="" aria-hidden="true">
+      <img class="app-deco d3" src="/images/decor/lobster.png" alt="" aria-hidden="true">
+      <img class="app-deco d4" src="/images/decor/fallen_leaf.png" alt="" aria-hidden="true">
       <img src="/images/boston_archive.png" alt="The Boston Archive">
     </div>
     <div class="app-body">
@@ -541,7 +552,8 @@ classes: wide
     <span class="app-category cat-art">🌻 ART</span>
       <img class="app-deco d1" src="/images/decor/sunflower.png" alt="" aria-hidden="true">
       <img class="app-deco d2" src="/images/decor/crescent_moon.png" alt="" aria-hidden="true">
-      <img class="app-deco d3" src="/images/decor/glowing_star.png" alt="" aria-hidden="true">
+      <img class="app-deco d3" src="/images/decor/artist_palette.png" alt="" aria-hidden="true">
+      <img class="app-deco d4" src="/images/decor/glowing_star.png" alt="" aria-hidden="true">
     <img src="/images/vincent.png" alt="Vincent's Archive">
   </div>
   <div class="app-body">
@@ -565,7 +577,8 @@ classes: wide
     <span class="app-category cat-desert">🌵 DESERT</span>
       <img class="app-deco d1" src="/images/decor/camel.png" alt="" aria-hidden="true">
       <img class="app-deco d2" src="/images/decor/cactus.png" alt="" aria-hidden="true">
-      <img class="app-deco d3" src="/images/decor/sun.png" alt="" aria-hidden="true">
+      <img class="app-deco d3" src="/images/decor/desert.png" alt="" aria-hidden="true">
+      <img class="app-deco d4" src="/images/decor/sun.png" alt="" aria-hidden="true">
     <img src="/images/sanmao_app.png" alt="Hello Sanmao">
   </div>
   <div class="app-body">
@@ -591,8 +604,9 @@ classes: wide
     <span class="app-number">№ 13</span>
     <span class="app-category cat-impression">🌊 IMPRESSION</span>
       <img class="app-deco d1" src="/images/decor/lotus.png" alt="" aria-hidden="true">
-      <img class="app-deco d2" src="/images/decor/water_wave.png" alt="" aria-hidden="true">
-      <img class="app-deco d3" src="/images/decor/paintbrush.png" alt="" aria-hidden="true">
+      <img class="app-deco d2" src="/images/decor/frog.png" alt="" aria-hidden="true">
+      <img class="app-deco d3" src="/images/decor/water_wave.png" alt="" aria-hidden="true">
+      <img class="app-deco d4" src="/images/decor/paintbrush.png" alt="" aria-hidden="true">
     <img src="/images/monet_app.png" alt="Claude Monet Digital Museum">
   </div>
   <div class="app-body">
