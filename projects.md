@@ -49,7 +49,7 @@ Side projects in LLM systems and applied causal inference. Each one comes with a
   padding: 22px 26px;
   position: relative;
 }
-.proj-fig img{ width:100%; height:auto; display:block; border-radius:6px; }
+.proj-fig img{ width:100%; max-width:780px; height:auto; display:block; margin:0 auto; border-radius:6px; }
 .proj-num{
   position:absolute; top:12px; left:16px;
   font-family: Georgia, 'Cochin', serif; font-size:0.74rem; font-weight:700;
