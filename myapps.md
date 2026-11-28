@@ -75,7 +75,7 @@ classes: wide
   min-height: 300px;
 }
 
-.app-hero img{
+.app-hero img:not(.app-deco){
   max-width: 100%;
   max-height: 100%;
   width: auto;
@@ -86,7 +86,7 @@ classes: wide
   transition: transform 400ms ease, filter 400ms ease;
 }
 
-.app-card:hover .app-hero img{
+.app-card:hover .app-hero img:not(.app-deco){
   transform: scale(1.025);
   filter: saturate(1.04);
 }
