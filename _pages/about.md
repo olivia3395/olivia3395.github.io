@@ -583,7 +583,7 @@ Beyond theory and modeling, I am drawn to building AI applications that reflect 
     <div class="intern-head"><b>Applied Scientist Intern</b> · Amazon, Traffic Engineering <span class="intern-date">Summer 2026</span></div>
     <ul class="intern-list">
       <li><b>Label-free detection as calibrated forecasting:</b> an ensemble of time-series and tabular foundation models flags prediction-interval breaches as anomalies, with no labeled attacks needed.</li>
-      <li><b>Identifier-free attribution:</b> similarity hashing over request structure clusters large-scale traffic and surfaces coordinated activity that rate-based rules miss.</li>
+      <li><b>Identifier-free attribution:</b> when IPs and other identifiers rotate, structural fingerprints of each request are compressed into similarity sketches, so near-duplicate traffic clusters at scale and coordinated campaigns spread across many sources come to light, even when each source stays under rate-based thresholds.</li>
       <li><b>Human-in-the-loop LLM agent:</b> a tool-calling agent runs the analysis from natural-language queries and proposes evidence-backed actions, gated by backtests and human approval.</li>
     </ul>
   </div>
@@ -783,6 +783,6 @@ Beyond theory and modeling, I am drawn to building AI applications that reflect 
 
 🎵 Mandarin R&B loyalist — Leehom Wang, David Tao, Khalil Fong 🦋, Dean Ting<br>
 🎧 I also play and make my own music — have a listen in my [Music](/music/) corner<br>
-✨ I also build small cinematic, story-driven apps — wander through my [Apps](/myapps/) corner<br>
+✨ Cinematic, story-driven web apps are my side craft; a few are on display in my [Apps](/myapps/) corner<br>
 🎹 Trained in piano, calligraphy, and ink painting<br>
 🏞️ National park lover · 🫧 lake admirer · 🌅 opacarophile — welcome to my [Gallery](/gallery/)
