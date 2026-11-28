@@ -11,6 +11,7 @@ redirect_from:
 
 
 <style>
+.sec-ico { height: 1.25em; width: auto; vertical-align: -0.28em; margin-right: 0.35em; display: inline-block; }
 @import url('https://fonts.googleapis.com/css2?family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,600;1,6..72,400&family=Inter:wght@400;500;600&display=swap');
 
 .page__content {
@@ -277,7 +278,7 @@ Beyond theory and modeling, I am drawn to building AI applications that reflect 
 -->
 
 
-# 🔥 News
+# <img class="sec-ico" src="/images/icons/megaphone.png" alt="">News {#-news}
 
 - *2026.09* — **SCOT** (first author) accepted at [NeurIPS 2026](https://neurips.cc/)!
 - *2026.05* — Joined **Amazon** as an Applied Scientist Intern (Traffic Engineering).
@@ -299,7 +300,7 @@ Beyond theory and modeling, I am drawn to building AI applications that reflect 
 -->
 
 
-# 📝 Publications
+# <img class="sec-ico" src="/images/icons/books.png" alt="">Publications {#-publications}
 
 <p style="font-size:0.85em;opacity:0.7;margin:0 0 0.4em;">* equal contribution</p>
 
@@ -516,7 +517,7 @@ Beyond theory and modeling, I am drawn to building AI applications that reflect 
 -->
 
 
-# 📖 Education
+# <img class="sec-ico" src="/images/icons/graduation_cap.png" alt="">Education {#-education}
 
 <b class="inst">Boston University</b> &nbsp;·&nbsp; Ph.D. in Statistics &nbsp;·&nbsp; <i>2021.09 – present</i><br>
 <b class="inst">Columbia University</b> &nbsp;·&nbsp; M.A. in Statistics &nbsp;·&nbsp; <i>2019.09 – 2020.05</i><br>
@@ -534,7 +535,7 @@ Beyond theory and modeling, I am drawn to building AI applications that reflect 
 -->
 
 
-# 💻 Industry Experience
+# <img class="sec-ico" src="/images/icons/briefcase.png" alt="">Industry Experience {#-industry-experience}
 
 <div class="intern">
   <img class="intern-logo" src="images/amazon_logo.svg" alt="Amazon">
@@ -561,7 +562,7 @@ Beyond theory and modeling, I am drawn to building AI applications that reflect 
 </div>
 
 
-# 🎖 Honors 
+# <img class="sec-ico" src="/images/icons/trophy.png" alt="">Honors {#-honors}
 
 <b class="inst">Boston University</b> &nbsp;·&nbsp; Dean's Dissertation Fellowship (2026) · Ralph B. D'Agostino Fellowship (2025) · Outstanding Teaching Award (2025)<br>
 <b class="inst">Shandong University</b> &nbsp;·&nbsp; Outstanding Graduate (2019) · First-Class Scholarship (2018) · Outstanding Student Leader (2018)<br>
@@ -594,7 +595,7 @@ Beyond theory and modeling, I am drawn to building AI applications that reflect 
 
 
 
-# 📝 Service & Teaching
+# <img class="sec-ico" src="/images/icons/handshake.png" alt="">Service & Teaching {#-service--teaching}
 
 <b class="inst">Reviewer (conferences)</b> &nbsp;·&nbsp; NeurIPS, ICML, ICLR, CVPR, KDD, CIKM, ICME<br>
 <b class="inst">Reviewer (journals)</b> &nbsp;·&nbsp; Pattern Recognition, IEEE Transactions on Knowledge and Data Engineering<br>
@@ -738,7 +739,7 @@ Beyond theory and modeling, I am drawn to building AI applications that reflect 
 
 
 
-# 🎨 Interests
+# <img class="sec-ico" src="/images/icons/artist_palette.png" alt="">Interests {#-interests}
 
 🎹 Piano & ink painting · 🎧 I make my own [music](/music/) · 🎵 Mandarin R&B — Leehom Wang, David Tao, Khalil Fong 🦋, Dean Ting<br>
 ✨ Cinematic, story-driven web apps are my side craft; a few are on display in my [Apps](/myapps/) corner<br>
