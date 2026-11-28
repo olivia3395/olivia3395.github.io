@@ -597,7 +597,7 @@ Beyond theory and modeling, I am drawn to building AI applications that reflect 
 # 📝 Service & Teaching
 
 <b class="inst">Reviewer (conferences)</b> &nbsp;·&nbsp; NeurIPS, ICML, ICLR, CVPR, KDD, CIKM, ICME<br>
-<b class="inst">Reviewer (journals)</b> &nbsp;·&nbsp; Pattern Recognition, IEEE TKDE<br>
+<b class="inst">Reviewer (journals)</b> &nbsp;·&nbsp; Pattern Recognition, IEEE Transactions on Knowledge and Data Engineering<br>
 <b class="inst">Instructor</b>, Boston University &nbsp;·&nbsp; Mathematical Statistics (MA 582), Elementary Statistics (MA 113)<br>
 <b class="inst">Teaching Fellow</b> &nbsp;·&nbsp; Generalized Linear Models (MA 575), Data Science in R (MA 415), Applied Statistics (MA 214)
 
