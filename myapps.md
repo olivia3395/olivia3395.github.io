@@ -604,7 +604,7 @@ classes: wide
     <span class="app-number">№ 13</span>
     <span class="app-category cat-impression">🌊 IMPRESSION</span>
       <img class="app-deco d1" src="/images/decor/lotus.png" alt="" aria-hidden="true">
-      <img class="app-deco d2" src="/images/decor/frog.png" alt="" aria-hidden="true">
+      <img class="app-deco d2" src="/images/decor/sunrise.png" alt="" aria-hidden="true">
       <img class="app-deco d3" src="/images/decor/water_wave.png" alt="" aria-hidden="true">
       <img class="app-deco d4" src="/images/decor/paintbrush.png" alt="" aria-hidden="true">
     <img src="/images/monet_app.png" alt="Claude Monet Digital Museum">
