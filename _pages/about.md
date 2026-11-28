@@ -11,9 +11,10 @@ redirect_from:
 
 
 <style>
-.sec-ico { height: 1.3em; width: auto; vertical-align: -0.3em; margin-right: 0.3em; display: inline-block; }
-h1[id^="-"] { margin-top: 1.25em !important; }
 @import url('https://fonts.googleapis.com/css2?family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,600;1,6..72,400&family=Inter:wght@400;500;600&display=swap');
+
+.sec-ico { height: 1.3em; width: auto; vertical-align: -0.3em; margin-right: 0.3em; display: inline-block; }
+.page__content h1[id^="-"] { margin-top: 1.25em; }
 
 .page__content {
   font-family: 'Inter', -apple-system, sans-serif;
