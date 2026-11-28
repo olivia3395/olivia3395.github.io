@@ -575,7 +575,7 @@ Beyond theory and modeling, I am drawn to building AI applications that reflect 
 -->
 
 
-# 💻 Internships
+# 💻 Industry Experience
 
 <div class="intern">
   <img class="intern-logo" src="images/amazon_logo.svg" alt="Amazon">
