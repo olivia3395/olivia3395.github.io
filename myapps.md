@@ -138,15 +138,16 @@ classes: wide
 /* ---------- floating decor icons ---------- */
 .app-deco{
   position: absolute;
-  width: 34px; height: 34px;
+  width: 28px; height: 28px;
+  bottom: 12px;
   z-index: 3;
   pointer-events: none;
-  filter: drop-shadow(0 4px 6px rgba(0,0,0,0.12));
+  filter: drop-shadow(0 3px 5px rgba(0,0,0,0.12));
   animation: deco-float 4.6s ease-in-out infinite;
 }
-.app-deco.d1{ left: 16px;  bottom: 18px; animation-delay: 0s; }
-.app-deco.d2{ right: 18px; bottom: 34px; width: 30px; height: 30px; animation-delay: -1.6s; animation-duration: 5.2s; }
-.app-deco.d3{ left: 50%;   top: 16px;    width: 28px; height: 28px; margin-left: -14px; animation-delay: -3.1s; animation-duration: 4s; }
+.app-deco.d1{ left: 22px; animation-delay: 0s; }
+.app-deco.d2{ left: 50%; margin-left: -14px; animation-delay: -1.6s; animation-duration: 5.2s; }
+.app-deco.d3{ right: 22px; animation-delay: -3.1s; animation-duration: 4s; }
 @keyframes deco-float{
   0%, 100% { transform: translateY(0) rotate(-6deg); }
   50%      { transform: translateY(-7px) rotate(6deg); }
