@@ -640,8 +640,7 @@ Beyond theory and modeling, I am drawn to building AI applications that reflect 
 <b class="inst">Presentations</b> &nbsp;·&nbsp; CIKM 2024, NeurIPS 2025, ICML 2026<br>
 <b class="inst">Reviewer</b> &nbsp;·&nbsp; CIKM 2025, ICME 2026, ICML 2026, KDD 2026, NeurIPS 2026, KDD 2027<br>
 <b class="inst">Instructor</b>, Boston University &nbsp;·&nbsp; Mathematical Statistics (MA 582), Elementary Statistics (MA 113)<br>
-<b class="inst">Teaching Fellow</b> &nbsp;·&nbsp; Generalized Linear Models (MA 575), Data Science in R (MA 415), Applied Statistics (MA 214)<br>
-<b class="inst">Tutorial slides</b> &nbsp;·&nbsp; <a href="/_pages/llm_agent.pdf">LLM agents</a>, <a href="/_pages/transfer_learning.pdf">transfer learning</a>, <a href="/_pages/graph_learning.pdf">graph learning</a>, <a href="/_pages/optimal_transport.pdf">optimal transport</a>, <a href="/_pages/llm_time_series.pdf">LLMs for time series</a>
+<b class="inst">Teaching Fellow</b> &nbsp;·&nbsp; Generalized Linear Models (MA 575), Data Science in R (MA 415), Applied Statistics (MA 214)
 
 <!--
 <b>Presentations</b> &nbsp;·&nbsp; CIKM 2024, NeurIPS 2025, ICML 2026<br>
