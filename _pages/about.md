@@ -230,8 +230,6 @@ The question I keep coming back to is **how to reuse what a model already knows 
 
 I earned an M.A. in Statistics at Columbia and a B.S. in Mathematics at Shandong University (with joint training at AMSS, Chinese Academy of Sciences). I have been fortunate to collaborate with [Nabarun Deb](https://nabarund.github.io/), [Jun S. Liu](https://statistics.fas.harvard.edu/people/jun-s-liu), [Chengqi Zhang](https://www.polyu.edu.hk/dsai/people/academic-staff/zhang-chengqi/), [Haoliang Sun](https://haolsun.github.io/), [Jinliang Deng](https://scholar.google.com/citations?user=4lqwlQ0AAAAJ&hl=en) and [Yongshun Gong](https://faculty.sdu.edu.cn/gongyongshun/en/).
 
-A gentler entry point, in slides: **[LLM agents](llm_agent.pdf)** · **[transfer learning](transfer_learning.pdf)** · **[graph learning](graph_learning.pdf)** · **[optimal transport](optimal_transport.pdf)** · **[LLMs for time series](llm_time_series.pdf)**
-
 
 
 <!--
@@ -595,7 +593,7 @@ Beyond theory and modeling, I am drawn to building AI applications that reflect 
 <div class="intern">
   <img class="intern-logo" src="images/plymouth_logo.png" alt="Plymouth Rock Assurance">
   <div class="intern-body">
-    <div class="intern-head"><b>Data Scientist Intern</b> · Plymouth Rock Insurance · <a href="/_pages/HomeInsurance.pdf">Slides</a> <span class="intern-date">Summer 2025</span></div>
+    <div class="intern-head"><b>Data Scientist Intern</b> · Plymouth Rock Insurance <span class="intern-date">Summer 2025</span></div>
     <ul class="intern-list">
       <li><b>Multimodal LLM features:</b> GPT-4o as a vision-language model scores Google Street View façades into structured property-condition features with confidence gates and audit-sample QA, becoming a <b>top-6 model feature</b>.</li>
       <li><b>Tweedie pricing model:</b> XGBoost pure-premium model on 50M+ policy rows, fusing LLM, satellite and H3 geospatial features with empirical-Bayes smoothing: <b>+4.3 Gini</b> over production and <b>+7.0</b> over the legacy GLM.</li>
@@ -657,7 +655,8 @@ Beyond theory and modeling, I am drawn to building AI applications that reflect 
 <b class="inst">Presentations</b> &nbsp;·&nbsp; CIKM 2024, NeurIPS 2025, ICML 2026<br>
 <b class="inst">Reviewer</b> &nbsp;·&nbsp; CIKM 2025, ICME 2026, ICML 2026, KDD 2026, NeurIPS 2026, KDD 2027<br>
 <b class="inst">Instructor</b>, Boston University &nbsp;·&nbsp; Mathematical Statistics (MA 582), Elementary Statistics (MA 113)<br>
-<b class="inst">Teaching Fellow</b> &nbsp;·&nbsp; Generalized Linear Models (MA 575), Data Science in R (MA 415), Applied Statistics (MA 214)
+<b class="inst">Teaching Fellow</b> &nbsp;·&nbsp; Generalized Linear Models (MA 575), Data Science in R (MA 415), Applied Statistics (MA 214)<br>
+<b class="inst">Tutorial slides</b> &nbsp;·&nbsp; <a href="llm_agent.pdf">LLM agents</a>, <a href="transfer_learning.pdf">transfer learning</a>, <a href="graph_learning.pdf">graph learning</a>, <a href="optimal_transport.pdf">optimal transport</a>, <a href="llm_time_series.pdf">LLMs for time series</a>
 
 <!--
 <b>Presentations</b> &nbsp;·&nbsp; CIKM 2024, NeurIPS 2025, ICML 2026<br>
@@ -667,34 +666,6 @@ Beyond theory and modeling, I am drawn to building AI applications that reflect 
 -->
 
 
-# ✨ My Apps
-
-
-A quiet collection of cinematic, atmospheric, and emotionally resonant side projects — part digital keepsakes, part memory-keepers. &nbsp;<a href="/myapps/"><b>See all →</b></a>
-
-
-<style>
-.app-row { display:grid; grid-template-columns:repeat(12,minmax(0,1fr)); gap:0.45rem; margin:0.6rem 0 0.4rem; }
-.app-row .app { display:block; text-align:center; text-decoration:none; border-bottom:none; }
-.app-row .app img { width:100%; aspect-ratio:1/1; object-fit:cover; border-radius:8px; display:block; transition:transform .15s ease; }
-.app-row .app:hover img { transform:translateY(-2px); }
-.app-row .app span { display:block; margin-top:0.25em; font-size:0.62rem; line-height:1.3; color:#7A7266; white-space:nowrap; overflow:hidden; text-overflow:ellipsis; }
-@media (max-width: 760px) { .app-row { grid-template-columns:repeat(6,minmax(0,1fr)); } }
-</style>
-<div class="app-row">
-  <a class="app" href="/myapps/#wilderness" title="Wilderness"><img src="images/NationalPark.png" alt="Wilderness"><span>🌲 Wilderness</span></a>
-  <a class="app" href="/myapps/#mbti-vibe" title="MBTI Vibe"><img src="images/mbti_vibe.png" alt="MBTI Vibe"><span>✨ MBTI Vibe</span></a>
-  <a class="app" href="/myapps/#what-if-cinema" title="What If Cinema"><img src="images/what_if_cinema.png" alt="What If Cinema"><span>🎬 What If Cinema</span></a>
-  <a class="app" href="/myapps/#letters-from-the-screen" title="Letters from the Screen"><img src="images/letter_from_sceen.png" alt="Letters from the Screen"><span>✉️ Letters from Screen</span></a>
-  <a class="app" href="/myapps/#if-you-disappeared" title="If You Disappeared"><img src="images/if_you_disappeared.png" alt="If You Disappeared"><span>✈️ If You Disappeared</span></a>
-  <a class="app" href="/myapps/#souvenirs" title="Souvenirs"><img src="images/souvenir_of_a_life.png" alt="Souvenirs"><span>🎟️ Souvenirs</span></a>
-  <a class="app" href="/myapps/#map-of-me" title="The Map of Me"><img src="images/the_map_of_me.png" alt="The Map of Me"><span>🗺️ Map of Me</span></a>
-  <a class="app" href="/myapps/#macondo" title="A Room in Macondo"><img src="images/macondo.png" alt="A Room in Macondo"><span>🦋 A Room in Macondo</span></a>
-  <a class="app" href="/myapps/#say-it-like-a-classic" title="Say It Like a Classic"><img src="images/say_it_like_a_classic.png" alt="Say It Like a Classic"><span>✒️ Say It Like a Classic</span></a>
-  <a class="app" href="/myapps/#sanmao" title="Sanmao"><img src="images/sanmao_app.png" alt="Sanmao"><span>🏜️ Sanmao</span></a>
-  <a class="app" href="/myapps/#monet" title="Monet"><img src="images/monet_app.png" alt="Monet"><span>🎨 Monet</span></a>
-  <a class="app" href="/myapps/#vincent" title="Vincent"><img src="images/vincent.png" alt="Vincent"><span>🌻 Vincent</span></a>
-</div>
 
 
 <!--
@@ -828,5 +799,6 @@ A quiet collection of cinematic, atmospheric, and emotionally resonant side proj
 
 🎵 Mandarin R&B loyalist — Leehom Wang, David Tao, Khalil Fong 🦋, Dean Ting<br>
 🎧 I also play and make my own music — have a listen in my [Music](/music/) corner<br>
+✨ I also build small cinematic, story-driven apps — wander through my [Apps](/myapps/) corner<br>
 🎹 Trained in piano, calligraphy, and ink painting<br>
 🏞️ National park lover · 🫧 lake admirer · 🌅 opacarophile — welcome to my [Gallery](/gallery/)
