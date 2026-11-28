@@ -583,7 +583,7 @@ Beyond theory and modeling, I am drawn to building AI applications that reflect 
     <div class="intern-head"><b>Applied Scientist Intern</b> · Amazon, Traffic Engineering <span class="intern-date">Summer 2026</span></div>
     <ul class="intern-list">
       <li><b>Label-free detection as calibrated forecasting:</b> an ensemble of time-series and tabular foundation models flags prediction-interval breaches as anomalies, with no labeled attacks needed.</li>
-      <li><b>Identifier-free attribution:</b> when IPs and other identifiers rotate, structural fingerprints of each request are compressed into similarity sketches, so near-duplicate traffic clusters at scale and coordinated campaigns spread across many sources come to light, even when each source stays under rate-based thresholds.</li>
+      <li><b>Identifier-free attribution:</b> structural request fingerprints, compressed into similarity sketches, cluster traffic at scale even as IPs rotate, exposing coordinated campaigns that stay under rate-based thresholds.</li>
       <li><b>Human-in-the-loop LLM agent:</b> a tool-calling agent runs the analysis from natural-language queries and proposes evidence-backed actions, gated by backtests and human approval.</li>
     </ul>
   </div>
