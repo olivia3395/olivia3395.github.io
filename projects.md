@@ -26,9 +26,10 @@ Side projects in LLM systems and applied causal inference. Each one comes with a
 
 
 <style>
-.proj-wrap{ margin: 40px 0 72px; display:flex; flex-direction:column; }
+.proj-wrap{ margin: 40px auto 72px; max-width: 960px; display:flex; flex-direction:column; }
+.proj-intro{ max-width:960px; margin:0 auto; }
 .proj-card{
-  display:grid; grid-template-columns: 1.1fr 1fr;
+  display:grid; grid-template-columns: 1fr 1fr;
   background: rgba(255,255,255,0.95); border-radius: 24px;
   border: 1px solid rgba(0,0,0,0.08); box-shadow: 0 14px 36px rgba(0,0,0,0.06);
   overflow:hidden; position:relative; transition: transform 300ms ease, box-shadow 300ms ease;
@@ -38,7 +39,7 @@ Side projects in LLM systems and applied causal inference. Each one comes with a
 .proj-card.reverse .proj-body{ order:1; }
 .proj-hero{
   background: linear-gradient(180deg, #fbfaf6 0%, #f2efe7 100%);
-  padding: 50px 30px 30px; display:flex; align-items:center; justify-content:center; position:relative;
+  padding: 46px 22px 24px; display:flex; align-items:center; justify-content:center; position:relative;
 }
 .proj-hero img{ width:100%; max-width:520px; height:auto; display:block; border-radius:12px; box-shadow: 0 10px 28px rgba(0,0,0,0.08); transition: transform 400ms ease; }
 .proj-card:hover .proj-hero img{ transform: scale(1.02); }
@@ -50,18 +51,18 @@ Side projects in LLM systems and applied causal inference. Each one comes with a
 .c-retr{ background: rgba(138,107,201,0.95); }
 .c-inf{ background: rgba(229,154,58,0.95); }
 .c-causal{ background: rgba(78,156,95,0.95); }
-.proj-body{ padding: 46px 48px 44px; display:flex; flex-direction:column; justify-content:center; }
+.proj-body{ padding: 36px 36px 34px; display:flex; flex-direction:column; justify-content:center; }
 .proj-sub{ margin:0 0 4px; color:#9ca3af; font-size:0.76rem; font-weight:600; letter-spacing:0.8px; text-transform:uppercase; }
 .proj-title{ margin:0; font-weight:800; font-size:1.5rem; letter-spacing:-0.4px; color:#111827; line-height:1.25; }
 .proj-tagline{ margin:12px 0 0; font-style:italic; color:#6b7280; font-size:1rem; line-height:1.55; }
-.proj-desc{ margin:14px 0 0; color:#374151; font-size:0.93rem; line-height:1.75; }
+.proj-desc{ margin:12px 0 0; color:#374151; font-size:0.9rem; line-height:1.7; }
 .proj-tags{ margin-top:16px; display:flex; flex-wrap:wrap; gap:6px; }
 .proj-tags span{ font-size:0.74rem; color:#4b5563; background:rgba(17,24,39,0.04); border:1px solid rgba(17,24,39,0.08); border-radius:999px; padding:3px 10px; }
 .proj-actions{ margin-top:22px; }
 .proj-btn{ display:inline-flex; align-items:center; gap:6px; padding:9px 18px; border-radius:999px; text-decoration:none !important; font-size:0.88rem; font-weight:600; background: rgba(17,24,39,0.04); color:#111827 !important; border:1px solid rgba(17,24,39,0.1); transition: all 180ms ease; }
 .proj-btn:hover{ background: rgba(17,24,39,0.08); }
 .card-divider{ text-align:center; padding:46px 0; color: rgba(75,85,99,0.28); font-size:1.05rem; font-family: Georgia, 'Cochin', serif; letter-spacing:14px; user-select:none; }
-@media (max-width: 900px){
+@media (max-width: 760px){
   .proj-card, .proj-card.reverse{ grid-template-columns: 1fr; }
   .proj-card.reverse .proj-hero, .proj-card.reverse .proj-body{ order:0; }
   .proj-card.reverse .proj-num{ left:24px; right:auto; }
@@ -75,6 +76,7 @@ Side projects in LLM systems and applied causal inference. Each one comes with a
 
 
 <div class="proj-wrap">
+
   <div class="proj-card" id="aligndpo">
     <div class="proj-hero">
       <span class="proj-num">№ 01</span>
@@ -88,6 +90,7 @@ Side projects in LLM systems and applied causal inference. Each one comes with a
       <p class="proj-desc">Fine-tunes Mistral-7B-Instruct on Anthropic HH-RLHF (or UltraFeedback) with QLoRA: a 4-bit NF4 base, trainable LoRA adapters and a frozen reference model. DPO, IPO and KTO are written from scratch and switched by one config flag, so a controlled ablation compares them under identical hyperparameters, tracked by reward accuracy, reward margin and GPT-4 win-rate.</p>
       <div class="proj-tags"><span>DPO</span><span>IPO</span><span>KTO</span><span>QLoRA</span><span>Mistral-7B</span><span>W&amp;B</span></div>
       <div class="proj-actions"><a class="proj-btn" href="https://github.com/olivia3395/llm-projects/tree/main/AlignDPO">&lt;/&gt; Code</a>
+    </div>
     </div>
   </div>
 
@@ -107,6 +110,7 @@ Side projects in LLM systems and applied causal inference. Each one comes with a
       <div class="proj-tags"><span>BM25</span><span>FAISS</span><span>RRF</span><span>NLI</span><span>SelfCheckGPT</span><span>semantic entropy</span></div>
       <div class="proj-actions"><a class="proj-btn" href="https://github.com/olivia3395/llm-projects/tree/main/RAGAudit">&lt;/&gt; Code</a>
     </div>
+    </div>
   </div>
 
   <div class="card-divider">❦</div>
@@ -124,6 +128,7 @@ Side projects in LLM systems and applied causal inference. Each one comes with a
       <p class="proj-desc">Combines dense text retrieval (sentence-transformers + ChromaDB), CLIP image–text search and entity-graph expansion in one FastAPI service. The graph route pulls in second-hop context that flat chunk retrieval misses. Answers are synthesized by an LLM when a key is configured, with an extractive fallback that runs fully offline.</p>
       <div class="proj-tags"><span>entity graph</span><span>CLIP</span><span>ChromaDB</span><span>FastAPI</span></div>
       <div class="proj-actions"><a class="proj-btn" href="https://github.com/olivia3395/llm-projects/tree/main/GraphRAG">&lt;/&gt; Code</a>
+    </div>
     </div>
   </div>
 
@@ -143,6 +148,7 @@ Side projects in LLM systems and applied causal inference. Each one comes with a
       <div class="proj-tags"><span>query routing</span><span>iterative retrieval</span><span>self-reflection</span><span>FastAPI</span></div>
       <div class="proj-actions"><a class="proj-btn" href="https://github.com/olivia3395/llm-projects/tree/main/Adaptive-RAG">&lt;/&gt; Code</a>
     </div>
+    </div>
   </div>
 
   <div class="card-divider">❦</div>
@@ -160,6 +166,7 @@ Side projects in LLM systems and applied causal inference. Each one comes with a
       <p class="proj-desc">A speculative-decoding engine with a benchmark harness. The draft model proposes k tokens, the target model checks them in one forward pass, the matching prefix is accepted and the first mismatch is replaced by the target's token. Sweeps over the draft length measure latency, throughput and acceptance rate against plain autoregressive decoding.</p>
       <div class="proj-tags"><span>draft–verify</span><span>acceptance rate</span><span>latency</span><span>FastAPI</span></div>
       <div class="proj-actions"><a class="proj-btn" href="https://github.com/olivia3395/llm-projects/tree/main/DraftVerify">&lt;/&gt; Code</a>
+    </div>
     </div>
   </div>
 
@@ -179,6 +186,7 @@ Side projects in LLM systems and applied causal inference. Each one comes with a
       <div class="proj-tags"><span>HQQ</span><span>W1–W8</span><span>proximal optimization</span><span>LLaMA-2</span></div>
       <div class="proj-actions"><a class="proj-btn" href="https://github.com/olivia3395/llm-projects/tree/main/HQQ-Quantization">&lt;/&gt; Code</a>
     </div>
+    </div>
   </div>
 
   <div class="card-divider">❦</div>
@@ -197,6 +205,7 @@ Side projects in LLM systems and applied causal inference. Each one comes with a
       <div class="proj-tags"><span>CS-DiD</span><span>synthetic DiD</span><span>double ML</span><span>causal forest</span><span>DuckDB</span></div>
       <div class="proj-actions"><a class="proj-btn" href="https://github.com/olivia3395/data-science-portfolio/tree/main/causal-inference/Congestion-Pricing">&lt;/&gt; Code</a>
     </div>
+    </div>
   </div>
 
   <div class="card-divider">❦</div>
@@ -214,6 +223,7 @@ Side projects in LLM systems and applied causal inference. Each one comes with a
       <p class="proj-desc">Takes a tabular dataset through a DoWhy causal DAG, four ATE estimators (propensity matching, IPW, double ML, causal forest) and refutation tests, then uses the Claude API to explain the graph and write a business report. It is validated on Lalonde, where the observational estimates can be checked against the experimental benchmark, and applied to IBM HR attrition.</p>
       <div class="proj-tags"><span>DoWhy</span><span>EconML</span><span>refutation</span><span>Claude API</span><span>Streamlit</span></div>
       <div class="proj-actions"><a class="proj-btn" href="https://github.com/olivia3395/data-science-portfolio/tree/main/causal-inference/CausalLens">&lt;/&gt; Code</a>
+    </div>
     </div>
   </div>
 
