@@ -135,26 +135,9 @@ classes: wide
 .cat-desert     { background: rgba(176, 98, 48, 0.95); }
 .cat-impression { background: rgba(52, 118, 160, 0.95); }
 
-/* ---------- floating decor icons ---------- */
-.app-deco{
-  position: absolute;
-  width: 28px; height: 28px;
-  bottom: 12px;
-  z-index: 3;
-  pointer-events: none;
-  filter: drop-shadow(0 3px 5px rgba(0,0,0,0.12));
-  animation: deco-float 4.6s ease-in-out infinite;
-}
-.app-deco.d1{ left: 12.5%; margin-left: -14px; animation-delay: 0s; }
-.app-deco.d2{ left: 37.5%; margin-left: -14px; animation-delay: -1.2s; animation-duration: 5.2s; }
-.app-deco.d3{ left: 62.5%; margin-left: -14px; animation-delay: -2.5s; animation-duration: 4.2s; }
-.app-deco.d4{ left: 87.5%; margin-left: -14px; animation-delay: -3.6s; animation-duration: 4.9s; }
-@keyframes deco-float{
-  0%, 100% { transform: translateY(0) rotate(-6deg); }
-  50%      { transform: translateY(-7px) rotate(6deg); }
-}
-.app-card:hover .app-deco{ animation-duration: 2.4s; }
-@media (prefers-reduced-motion: reduce){ .app-deco{ animation: none; } }
+/* ---------- little icons after the title ---------- */
+.app-icons{ display: inline-flex; gap: 4px; margin-left: 8px; vertical-align: -0.12em; }
+.app-icons img{ width: 24px; height: 24px; display: block; }
 
 /* ---------- body ---------- */
 .app-body{
@@ -299,15 +282,11 @@ classes: wide
     <div class="app-hero">
       <span class="app-number">№ 01</span>
       <span class="app-category cat-wilderness">🌲 WILDERNESS</span>
-      <img class="app-deco d1" src="/images/decor/deer.png" alt="" aria-hidden="true">
-      <img class="app-deco d2" src="/images/decor/evergreen_tree.png" alt="" aria-hidden="true">
-      <img class="app-deco d3" src="/images/decor/snow-capped_mountain.png" alt="" aria-hidden="true">
-      <img class="app-deco d4" src="/images/decor/leaf_fluttering_in_wind.png" alt="" aria-hidden="true">
       <img src="/images/NationalPark.png" alt="Wilderness">
     </div>
     <div class="app-body">
       <p class="app-sub">National Park Explorer</p>
-      <p class="app-title">Wilderness</p>
+      <p class="app-title">Wilderness<span class="app-icons"><img src="/images/decor/deer.png" alt="" aria-hidden="true"><img src="/images/decor/evergreen_tree.png" alt="" aria-hidden="true"><img src="/images/decor/snow-capped_mountain.png" alt="" aria-hidden="true"><img src="/images/decor/leaf_fluttering_in_wind.png" alt="" aria-hidden="true"></span></p>
       <p class="app-tagline">A refined digital companion for discovering America's national parks.</p>
       <p class="app-desc">A calm web app for exploring the U.S. National Parks through park discovery, trail maps, ranger tips, preservation resources, and a digital passport-inspired experience. Part field guide, part archive, part invitation to wander — spacious, earth-toned, and gently immersive.</p>
       <div class="app-actions">
@@ -324,15 +303,11 @@ classes: wide
     <div class="app-hero">
       <span class="app-number">№ 02</span>
       <span class="app-category cat-persona">✨ PERSONA</span>
-      <img class="app-deco d1" src="/images/decor/crystal_ball.png" alt="" aria-hidden="true">
-      <img class="app-deco d2" src="/images/decor/sparkling_heart.png" alt="" aria-hidden="true">
-      <img class="app-deco d3" src="/images/decor/rainbow.png" alt="" aria-hidden="true">
-      <img class="app-deco d4" src="/images/decor/sparkles.png" alt="" aria-hidden="true">
       <img src="/images/mbti_vibe.png" alt="MBTI Vibe">
     </div>
     <div class="app-body">
       <p class="app-sub">Multimodal Vibe Reader</p>
-      <p class="app-title">MBTI Vibe</p>
+      <p class="app-title">MBTI Vibe<span class="app-icons"><img src="/images/decor/crystal_ball.png" alt="" aria-hidden="true"><img src="/images/decor/sparkling_heart.png" alt="" aria-hidden="true"><img src="/images/decor/rainbow.png" alt="" aria-hidden="true"><img src="/images/decor/sparkles.png" alt="" aria-hidden="true"></span></p>
       <p class="app-tagline">What kind of personality atmosphere does this content radiate?</p>
       <p class="app-desc">A multimodal AI app that reads text and images — captions, poems, screenshots, moodboards, all those tiny digital traces of self-expression — and whispers back the MBTI vibe it gives off. It doesn't claim to tell you who someone <i>really</i> is. It asks a softer, kinder question instead.</p>
       <div class="app-actions">
@@ -349,15 +324,11 @@ classes: wide
     <div class="app-hero">
       <span class="app-number">№ 03</span>
       <span class="app-category cat-cinema">🎬 CINEMA</span>
-      <img class="app-deco d1" src="/images/decor/clapper_board.png" alt="" aria-hidden="true">
-      <img class="app-deco d2" src="/images/decor/popcorn.png" alt="" aria-hidden="true">
-      <img class="app-deco d3" src="/images/decor/film_projector.png" alt="" aria-hidden="true">
-      <img class="app-deco d4" src="/images/decor/movie_camera.png" alt="" aria-hidden="true">
       <img src="/images/what_if_cinema.png" alt="What If Cinema">
     </div>
     <div class="app-body">
       <p class="app-sub">Rewrite a Film's Ending</p>
-      <p class="app-title">What If Cinema</p>
+      <p class="app-title">What If Cinema<span class="app-icons"><img src="/images/decor/clapper_board.png" alt="" aria-hidden="true"><img src="/images/decor/popcorn.png" alt="" aria-hidden="true"><img src="/images/decor/film_projector.png" alt="" aria-hidden="true"><img src="/images/decor/movie_camera.png" alt="" aria-hidden="true"></span></p>
       <p class="app-tagline">Rewrite a film's final heartbeat.</p>
       <p class="app-desc">For anyone who has ever left a movie wondering — <i>what if it ended differently?</i> Insert a new scene, change one choice, shift a single moment. It stays close to the emotional soul of the original — preserving its tone, longing, and ache — while imagining endings that feel tender, devastating, hopeful, or quietly healing.</p>
       <div class="app-actions">
@@ -374,15 +345,11 @@ classes: wide
     <div class="app-hero">
       <span class="app-number">№ 04</span>
       <span class="app-category cat-letter">✉️ LETTER</span>
-      <img class="app-deco d1" src="/images/decor/love_letter.png" alt="" aria-hidden="true">
-      <img class="app-deco d2" src="/images/decor/rose.png" alt="" aria-hidden="true">
-      <img class="app-deco d3" src="/images/decor/postbox.png" alt="" aria-hidden="true">
-      <img class="app-deco d4" src="/images/decor/candle.png" alt="" aria-hidden="true">
       <img src="/images/letter_from_sceen.png" alt="Letters from the Screen">
     </div>
     <div class="app-body">
       <p class="app-sub">A Letter from a Character</p>
-      <p class="app-title">Letters from the Screen</p>
+      <p class="app-title">Letters from the Screen<span class="app-icons"><img src="/images/decor/love_letter.png" alt="" aria-hidden="true"><img src="/images/decor/rose.png" alt="" aria-hidden="true"><img src="/images/decor/postbox.png" alt="" aria-hidden="true"><img src="/images/decor/candle.png" alt="" aria-hidden="true"></span></p>
       <p class="app-tagline">A healing letter from the character you need most.</p>
       <p class="app-desc">Share what is on your heart, and receive a letter from the movie or TV character who would understand. More love letter than chatbot — intimate, tender, just a little magical. The rare feeling that a voice from another story has stepped out of the screen to sit beside you for a while.</p>
       <div class="app-actions">
@@ -399,15 +366,11 @@ classes: wide
     <div class="app-hero">
       <span class="app-number">№ 05</span>
       <span class="app-category cat-escape">✈️ ESCAPE</span>
-      <img class="app-deco d1" src="/images/decor/luggage.png" alt="" aria-hidden="true">
-      <img class="app-deco d2" src="/images/decor/airplane.png" alt="" aria-hidden="true">
-      <img class="app-deco d3" src="/images/decor/globe_showing_americas.png" alt="" aria-hidden="true">
-      <img class="app-deco d4" src="/images/decor/beach_with_umbrella.png" alt="" aria-hidden="true">
       <img src="/images/if_you_disappeared.png" alt="If You Disappeared on a Trip">
     </div>
     <div class="app-body">
       <p class="app-sub">A Borrowed Life</p>
-      <p class="app-title">If You Disappeared on a Trip</p>
+      <p class="app-title">If You Disappeared on a Trip<span class="app-icons"><img src="/images/decor/luggage.png" alt="" aria-hidden="true"><img src="/images/decor/airplane.png" alt="" aria-hidden="true"><img src="/images/decor/globe_showing_americas.png" alt="" aria-hidden="true"><img src="/images/decor/beach_with_umbrella.png" alt="" aria-hidden="true"></span></p>
       <p class="app-tagline">A small borrowed life in another city.</p>
       <p class="app-desc">For anyone who has ever wanted to slip away for a day or two. Instead of a typical itinerary, it builds a small borrowed life in another city based on your mood — cinematic, soothing, touched with humor. A brief imaginative place to rest, wander, and feel held by another version of life.</p>
       <div class="app-actions">
@@ -424,15 +387,11 @@ classes: wide
     <div class="app-hero">
       <span class="app-number">№ 06</span>
       <span class="app-category cat-keepsake">🎟️ KEEPSAKE</span>
-      <img class="app-deco d1" src="/images/decor/admission_tickets.png" alt="" aria-hidden="true">
-      <img class="app-deco d2" src="/images/decor/camera_with_flash.png" alt="" aria-hidden="true">
-      <img class="app-deco d3" src="/images/decor/wrapped_gift.png" alt="" aria-hidden="true">
-      <img class="app-deco d4" src="/images/decor/balloon.png" alt="" aria-hidden="true">
       <img src="/images/souvenir_of_a_life.png" alt="Souvenirs of a Life Not Yet Lived">
     </div>
     <div class="app-body">
       <p class="app-sub">Parallel Self Archive</p>
-      <p class="app-title">Souvenirs of a Life Not Yet Lived</p>
+      <p class="app-title">Souvenirs of a Life Not Yet Lived<span class="app-icons"><img src="/images/decor/admission_tickets.png" alt="" aria-hidden="true"><img src="/images/decor/camera_with_flash.png" alt="" aria-hidden="true"><img src="/images/decor/wrapped_gift.png" alt="" aria-hidden="true"><img src="/images/decor/balloon.png" alt="" aria-hidden="true"></span></p>
       <p class="app-tagline">A private museum of the lives you almost lived.</p>
       <p class="app-desc">Step into a curated archive of parallel selves. Instead of planning a trip, it generates a small, emotionally resonant keepsake — a ticket, a postcard, a receipt, a note — from a life you've been quietly standing outside of. An invitation to imagine not just another city, but another self you might still be growing toward.</p>
       <div class="app-actions">
@@ -449,15 +408,11 @@ classes: wide
     <div class="app-hero">
       <span class="app-number">№ 07</span>
       <span class="app-category cat-atlas">🗺️ ATLAS</span>
-      <img class="app-deco d1" src="/images/decor/world_map.png" alt="" aria-hidden="true">
-      <img class="app-deco d2" src="/images/decor/compass.png" alt="" aria-hidden="true">
-      <img class="app-deco d3" src="/images/decor/round_pushpin.png" alt="" aria-hidden="true">
-      <img class="app-deco d4" src="/images/decor/footprints.png" alt="" aria-hidden="true">
       <img src="/images/the_map_of_me.png" alt="The Map of Me">
     </div>
     <div class="app-body">
       <p class="app-sub">Cultural Cartography</p>
-      <p class="app-title">The Map of Me</p>
+      <p class="app-title">The Map of Me<span class="app-icons"><img src="/images/decor/world_map.png" alt="" aria-hidden="true"><img src="/images/decor/compass.png" alt="" aria-hidden="true"><img src="/images/decor/round_pushpin.png" alt="" aria-hidden="true"><img src="/images/decor/footprints.png" alt="" aria-hidden="true"></span></p>
       <p class="app-tagline">Part atlas, part city shelf, part personal collection.</p>
       <p class="app-desc">A map-based cultural discovery app for collecting meaningful places and exploring what lives around them beyond geography alone. After adding a city, you move from the global atlas into a curated layer of screen references, books, and local landmarks — a place becomes a small world of its own.</p>
       <div class="app-actions">
@@ -474,15 +429,11 @@ classes: wide
     <div class="app-hero">
       <span class="app-number">№ 08</span>
       <span class="app-category cat-literary">🦋 LITERARY</span>
-      <img class="app-deco d1" src="/images/decor/butterfly.png" alt="" aria-hidden="true">
-      <img class="app-deco d2" src="/images/decor/cloud_with_rain.png" alt="" aria-hidden="true">
-      <img class="app-deco d3" src="/images/decor/ice.png" alt="" aria-hidden="true">
-      <img class="app-deco d4" src="/images/decor/hourglass_not_done.png" alt="" aria-hidden="true">
       <img src="/images/macondo.png" alt="A Room in Macondo">
     </div>
     <div class="app-body">
       <p class="app-sub">A García Márquez World</p>
-      <p class="app-title">A Room in Macondo</p>
+      <p class="app-title">A Room in Macondo<span class="app-icons"><img src="/images/decor/butterfly.png" alt="" aria-hidden="true"><img src="/images/decor/cloud_with_rain.png" alt="" aria-hidden="true"><img src="/images/decor/ice.png" alt="" aria-hidden="true"><img src="/images/decor/hourglass_not_done.png" alt="" aria-hidden="true"></span></p>
       <p class="app-tagline">Step inside the weather of One Hundred Years of Solitude.</p>
       <p class="app-desc">An atmospheric AI literary experience inspired by García Márquez's rain-soaked world of memory, fire, butterflies, and magical realism. Rather than retelling the novel, it invites you into a room, a ritual, and a fate of your own — a story fragment that feels less like generated text and more like something recovered from an old archive in Macondo itself.</p>
       <div class="app-actions">
@@ -499,15 +450,11 @@ classes: wide
     <div class="app-hero">
       <span class="app-number">№ 09</span>
       <span class="app-category cat-voice">✒️ VOICE</span>
-      <img class="app-deco d1" src="/images/decor/scroll.png" alt="" aria-hidden="true">
-      <img class="app-deco d2" src="/images/decor/fountain_pen.png" alt="" aria-hidden="true">
-      <img class="app-deco d3" src="/images/decor/feather.png" alt="" aria-hidden="true">
-      <img class="app-deco d4" src="/images/decor/books.png" alt="" aria-hidden="true">
       <img src="/images/say_it_like_a_classic.png" alt="Say It Like a Classic">
     </div>
     <div class="app-body">
       <p class="app-sub">Borrowed Literary Voices</p>
-      <p class="app-title">Say It Like a Classic</p>
+      <p class="app-title">Say It Like a Classic<span class="app-icons"><img src="/images/decor/scroll.png" alt="" aria-hidden="true"><img src="/images/decor/fountain_pen.png" alt="" aria-hidden="true"><img src="/images/decor/feather.png" alt="" aria-hidden="true"><img src="/images/decor/books.png" alt="" aria-hidden="true"></span></p>
       <p class="app-tagline">What if your thoughts belonged to another literary mind?</p>
       <p class="app-desc">A playful app that lets you type an ordinary sentence and watch it return as though it had passed through the mind of Kafka, Austen, Woolf, Borges, Lu Xun, Eileen Chang, and other unmistakable writers. A small experiment in tone, temperament, and literary transformation — where the same feeling can come back colder, funnier, sharper, softer, or beautifully devastating.</p>
       <div class="app-actions">
@@ -524,15 +471,11 @@ classes: wide
     <div class="app-hero">
       <span class="app-number">№ 10</span>
       <span class="app-category cat-archive">🏛️ ARCHIVE</span>
-      <img class="app-deco d1" src="/images/decor/classical_building.png" alt="" aria-hidden="true">
-      <img class="app-deco d2" src="/images/decor/sailboat.png" alt="" aria-hidden="true">
-      <img class="app-deco d3" src="/images/decor/lobster.png" alt="" aria-hidden="true">
-      <img class="app-deco d4" src="/images/decor/fallen_leaf.png" alt="" aria-hidden="true">
       <img src="/images/boston_archive.png" alt="The Boston Archive">
     </div>
     <div class="app-body">
       <p class="app-sub">A City as Memory</p>
-      <p class="app-title">The Boston Archive</p>
+      <p class="app-title">The Boston Archive<span class="app-icons"><img src="/images/decor/classical_building.png" alt="" aria-hidden="true"><img src="/images/decor/sailboat.png" alt="" aria-hidden="true"><img src="/images/decor/lobster.png" alt="" aria-hidden="true"><img src="/images/decor/fallen_leaf.png" alt="" aria-hidden="true"></span></p>
       <p class="app-tagline">A cinematic, atmospheric archive of Boston as memory, weather, and myth.</p>
       <p class="app-desc">An immersive editorial city experience that reimagines Boston through mood, sound, and visual storytelling. Part memory object, part city journal, part sensory installation. Written before leaving Boston — a small love letter to the city, and to the chapter of life it quietly held.</p>
       <div class="app-actions">
@@ -550,15 +493,11 @@ classes: wide
   <div class="app-hero">
     <span class="app-number">№ 11</span>
     <span class="app-category cat-art">🌻 ART</span>
-      <img class="app-deco d1" src="/images/decor/sunflower.png" alt="" aria-hidden="true">
-      <img class="app-deco d2" src="/images/decor/crescent_moon.png" alt="" aria-hidden="true">
-      <img class="app-deco d3" src="/images/decor/artist_palette.png" alt="" aria-hidden="true">
-      <img class="app-deco d4" src="/images/decor/glowing_star.png" alt="" aria-hidden="true">
     <img src="/images/vincent.png" alt="Vincent's Archive">
   </div>
   <div class="app-body">
     <p class="app-sub">A Van Gogh Digital Sanctuary</p>
-    <p class="app-title">Vincent's Archive</p>
+    <p class="app-title">Vincent's Archive<span class="app-icons"><img src="/images/decor/sunflower.png" alt="" aria-hidden="true"><img src="/images/decor/crescent_moon.png" alt="" aria-hidden="true"><img src="/images/decor/artist_palette.png" alt="" aria-hidden="true"><img src="/images/decor/glowing_star.png" alt="" aria-hidden="true"></span></p>
     <p class="app-tagline">A quiet room of sunflowers, letters, blue nights, and painted longing.</p>
     <p class="app-desc">An immersive digital archive dedicated to Vincent van Gogh — part art gallery, part literary room, part atmospheric sanctuary. Through curated masterpieces, biography, timeline, letters, quotes, ambient sound, and cinematic motion, it invites visitors into the emotional weather of Van Gogh's world: the gold of sunflowers, the ache of blue nights, and the fragile tenderness of a life spent searching for light.</p>
     <div class="app-actions">
@@ -575,15 +514,11 @@ classes: wide
   <div class="app-hero">
     <span class="app-number">№ 12</span>
     <span class="app-category cat-desert">🌵 DESERT</span>
-      <img class="app-deco d1" src="/images/decor/camel.png" alt="" aria-hidden="true">
-      <img class="app-deco d2" src="/images/decor/cactus.png" alt="" aria-hidden="true">
-      <img class="app-deco d3" src="/images/decor/desert.png" alt="" aria-hidden="true">
-      <img class="app-deco d4" src="/images/decor/sun.png" alt="" aria-hidden="true">
     <img src="/images/sanmao_app.png" alt="Hello Sanmao">
   </div>
   <div class="app-body">
     <p class="app-sub">A Literary Sahara Journey</p>
-    <p class="app-title">Hello Sanmao</p>
+    <p class="app-title">Hello Sanmao<span class="app-icons"><img src="/images/decor/camel.png" alt="" aria-hidden="true"><img src="/images/decor/cactus.png" alt="" aria-hidden="true"><img src="/images/decor/desert.png" alt="" aria-hidden="true"><img src="/images/decor/sun.png" alt="" aria-hidden="true"></span></p>
     <p class="app-tagline">A sunlit tribute to wandering, freedom, tenderness, and the Sahara.</p>
     <p class="app-desc">An immersive literary web experience dedicated to Sanmao — the beloved writer, traveler, and dreamer whose words carried generations toward deserts, distant roads, and a braver way of living. Part digital archive, part emotional postcard, part quiet love letter, it invites visitors into the golden weather of the Sahara and the enduring tenderness of Sanmao's world.</p>
     <div class="app-actions">
@@ -603,15 +538,11 @@ classes: wide
   <div class="app-hero">
     <span class="app-number">№ 13</span>
     <span class="app-category cat-impression">🌊 IMPRESSION</span>
-      <img class="app-deco d1" src="/images/decor/lotus.png" alt="" aria-hidden="true">
-      <img class="app-deco d2" src="/images/decor/sunrise.png" alt="" aria-hidden="true">
-      <img class="app-deco d3" src="/images/decor/sunrise.png" alt="" aria-hidden="true">
-      <img class="app-deco d4" src="/images/decor/paintbrush.png" alt="" aria-hidden="true">
     <img src="/images/monet_app.png" alt="Claude Monet Digital Museum">
   </div>
   <div class="app-body">
     <p class="app-sub">An Impressionist Digital Museum</p>
-    <p class="app-title">Claude Monet Digital Museum</p>
+    <p class="app-title">Claude Monet Digital Museum<span class="app-icons"><img src="/images/decor/lotus.png" alt="" aria-hidden="true"><img src="/images/decor/sunrise.png" alt="" aria-hidden="true"><img src="/images/decor/sunrise.png" alt="" aria-hidden="true"><img src="/images/decor/paintbrush.png" alt="" aria-hidden="true"></span></p>
     <p class="app-tagline">A soft garden of light, water, color, and remembered afternoons.</p>
     <p class="app-desc">An immersive digital museum celebrating Claude Monet and the luminous world of French Impressionism. Through a curated gallery, searchable masterpieces, fullscreen lightbox, thematic exhibitions, Giverny stories, technique notes, and a personal favorites collection, it turns the browser into a quiet museum of water lilies, shifting skies, Japanese bridges, and the tender art of simply looking.</p>
     <div class="app-actions">
