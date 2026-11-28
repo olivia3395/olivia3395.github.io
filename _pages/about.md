@@ -11,7 +11,7 @@ redirect_from:
 
 
 <style>
-.sec-ico { height: 1.25em; width: auto; vertical-align: -0.28em; margin-right: 0.35em; display: inline-block; }
+.sec-ico { height: 1.15em; width: auto; vertical-align: -0.22em; margin-right: 0.3em; display: inline-block; }
 @import url('https://fonts.googleapis.com/css2?family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,600;1,6..72,400&family=Inter:wght@400;500;600&display=swap');
 
 .page__content {
@@ -278,7 +278,7 @@ Beyond theory and modeling, I am drawn to building AI applications that reflect 
 -->
 
 
-<h1 id="-news"><img class="sec-ico" src="/images/icons/megaphone.png" alt="">News</h1>
+<h1 id="-news"><img class="sec-ico" src="/images/icons/hatching_chick.png" alt="">News</h1>
 
 - *2026.09* — **SCOT** (first author) accepted at [NeurIPS 2026](https://neurips.cc/)!
 - *2026.05* — Joined **Amazon** as an Applied Scientist Intern (Traffic Engineering).
@@ -300,7 +300,7 @@ Beyond theory and modeling, I am drawn to building AI applications that reflect 
 -->
 
 
-<h1 id="-publications"><img class="sec-ico" src="/images/icons/books.png" alt="">Publications</h1>
+<h1 id="-publications"><img class="sec-ico" src="/images/icons/owl.png" alt="">Publications</h1>
 
 <p style="font-size:0.85em;opacity:0.7;margin:0 0 0.4em;">* equal contribution</p>
 
@@ -517,7 +517,7 @@ Beyond theory and modeling, I am drawn to building AI applications that reflect 
 -->
 
 
-<h1 id="-education"><img class="sec-ico" src="/images/icons/graduation_cap.png" alt="">Education</h1>
+<h1 id="-education"><img class="sec-ico" src="/images/icons/backpack.png" alt="">Education</h1>
 
 <b class="inst">Boston University</b> &nbsp;·&nbsp; Ph.D. in Statistics &nbsp;·&nbsp; <i>2021.09 – present</i><br>
 <b class="inst">Columbia University</b> &nbsp;·&nbsp; M.A. in Statistics &nbsp;·&nbsp; <i>2019.09 – 2020.05</i><br>
@@ -535,7 +535,7 @@ Beyond theory and modeling, I am drawn to building AI applications that reflect 
 -->
 
 
-<h1 id="-industry-experience"><img class="sec-ico" src="/images/icons/briefcase.png" alt="">Industry Experience</h1>
+<h1 id="-industry-experience"><img class="sec-ico" src="/images/icons/rocket.png" alt="">Industry Experience</h1>
 
 <div class="intern">
   <img class="intern-logo" src="images/amazon_logo.svg" alt="Amazon">
@@ -562,7 +562,7 @@ Beyond theory and modeling, I am drawn to building AI applications that reflect 
 </div>
 
 
-<h1 id="-honors"><img class="sec-ico" src="/images/icons/trophy.png" alt="">Honors</h1>
+<h1 id="-honors"><img class="sec-ico" src="/images/icons/glowing_star.png" alt="">Honors</h1>
 
 <b class="inst">Boston University</b> &nbsp;·&nbsp; Dean's Dissertation Fellowship (2026) · Ralph B. D'Agostino Fellowship (2025) · Outstanding Teaching Award (2025)<br>
 <b class="inst">Shandong University</b> &nbsp;·&nbsp; Outstanding Graduate (2019) · First-Class Scholarship (2018) · Outstanding Student Leader (2018)<br>
@@ -595,7 +595,7 @@ Beyond theory and modeling, I am drawn to building AI applications that reflect 
 
 
 
-<h1 id="-service--teaching"><img class="sec-ico" src="/images/icons/handshake.png" alt="">Service &amp; Teaching</h1>
+<h1 id="-service--teaching"><img class="sec-ico" src="/images/icons/seedling.png" alt="">Service &amp; Teaching</h1>
 
 <b class="inst">Reviewer (conferences)</b> &nbsp;·&nbsp; NeurIPS, ICML, ICLR, CVPR, KDD, CIKM, ICME<br>
 <b class="inst">Reviewer (journals)</b> &nbsp;·&nbsp; Pattern Recognition, IEEE Transactions on Knowledge and Data Engineering<br>
@@ -739,7 +739,7 @@ Beyond theory and modeling, I am drawn to building AI applications that reflect 
 
 
 
-<h1 id="-interests"><img class="sec-ico" src="/images/icons/artist_palette.png" alt="">Interests</h1>
+<h1 id="-interests"><img class="sec-ico" src="/images/icons/cherry_blossom.png" alt="">Interests</h1>
 
 🎹 Piano & ink painting · 🎧 I make my own [music](/music/) · 🎵 Mandarin R&B — Leehom Wang, David Tao, Khalil Fong 🦋, Dean Ting<br>
 ✨ Cinematic, story-driven web apps are my side craft; a few are on display in my [Apps](/myapps/) corner<br>
