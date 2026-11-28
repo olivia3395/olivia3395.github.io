@@ -13,7 +13,7 @@ redirect_from:
 <style>
 @import url('https://fonts.googleapis.com/css2?family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,600;1,6..72,400&family=Inter:wght@400;500;600&display=swap');
 
-.sec-ico { height: 1.3em; width: auto; vertical-align: -0.3em; margin-right: 0.3em; display: inline-block; }
+.sec-ico { height: 1.75em; width: auto; vertical-align: -0.5em; margin: -0.3em 0.3em -0.2em 0; display: inline-block; }
 .page__content h1[id^="-"] { margin-top: 1.25em; }
 
 .page__content {
