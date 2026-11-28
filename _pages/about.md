@@ -560,9 +560,8 @@ Beyond theory and modeling, I am drawn to building AI applications that reflect 
 # 📖 Education
 
 <b class="inst">Boston University</b> &nbsp;·&nbsp; Ph.D. in Statistics &nbsp;·&nbsp; <i>2021.09 – present</i><br>
-<b class="inst">Columbia University</b> &nbsp;·&nbsp; M.A. in Statistics, Data Science Track &nbsp;·&nbsp; <i>2019.09 – 2020.05</i><br>
-<b class="inst">Shandong University</b> &nbsp;·&nbsp; B.S. in Mathematics &nbsp;·&nbsp; <i>2015.09 – 2019.06</i><br>
-<b class="inst">Chinese Academy of Sciences</b> &nbsp;·&nbsp; Jointly Supervised Talent Program, AMSS &nbsp;·&nbsp; <i>2018.05 – 2019.06</i>
+<b class="inst">Columbia University</b> &nbsp;·&nbsp; M.A. in Statistics &nbsp;·&nbsp; <i>2019.09 – 2020.05</i><br>
+<b class="inst">Shandong University</b> &nbsp;·&nbsp; B.S. in Mathematics (Chinese Academy of Sciences &nbsp;·&nbsp; Jointly Supervised Talent Program) &nbsp;·&nbsp; <i>2015.09 – 2019.06</i>
 
 <!--
 - *2021.09 – Now*: Ph.D. in Statistics, Boston University
@@ -642,7 +641,7 @@ Beyond theory and modeling, I am drawn to building AI applications that reflect 
 <b class="inst">Reviewer</b> &nbsp;·&nbsp; CIKM 2025, ICME 2026, ICML 2026, KDD 2026, NeurIPS 2026, KDD 2027<br>
 <b class="inst">Instructor</b>, Boston University &nbsp;·&nbsp; Mathematical Statistics (MA 582), Elementary Statistics (MA 113)<br>
 <b class="inst">Teaching Fellow</b> &nbsp;·&nbsp; Generalized Linear Models (MA 575), Data Science in R (MA 415), Applied Statistics (MA 214)<br>
-<b class="inst">Tutorial slides</b> &nbsp;·&nbsp; <a href="llm_agent.pdf">LLM agents</a>, <a href="transfer_learning.pdf">transfer learning</a>, <a href="graph_learning.pdf">graph learning</a>, <a href="optimal_transport.pdf">optimal transport</a>, <a href="llm_time_series.pdf">LLMs for time series</a>
+<b class="inst">Tutorial slides</b> &nbsp;·&nbsp; <a href="/_pages/llm_agent.pdf">LLM agents</a>, <a href="/_pages/transfer_learning.pdf">transfer learning</a>, <a href="/_pages/graph_learning.pdf">graph learning</a>, <a href="/_pages/optimal_transport.pdf">optimal transport</a>, <a href="/_pages/llm_time_series.pdf">LLMs for time series</a>
 
 <!--
 <b>Presentations</b> &nbsp;·&nbsp; CIKM 2024, NeurIPS 2025, ICML 2026<br>
