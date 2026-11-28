@@ -9,8 +9,8 @@ main:
   - title: "Publications"
     url: "/#-publications"
 
-  - title: "LLM & DS Projects" 
-    url: "/#-llm--ds-projects"
+  - title: "LLM & DS Projects"
+    url: "/projects/"
 
   - title: "Education"
     url: "/#-education"

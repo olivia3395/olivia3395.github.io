@@ -228,7 +228,7 @@ The question I keep coming back to is **how to reuse what a model already knows 
 - **Transfer with guarantees.** Minimax rates and phase transitions for high-dimensional and manifold-structured transfer under distribution shift, plus safe-transfer criteria that tell you when borrowing from a source helps, and when it hurts.
 - **Alignment across heterogeneous structure.** Optimal transport, graph and multimodal methods that align networks, cities and modalities without one-to-one correspondence (GTrans, NeurIPS 2025; SCOT, NeurIPS 2026).
 
-I earned an M.A. in Statistics at Columbia and a B.S. in Mathematics at Shandong University (with joint training at AMSS, Chinese Academy of Sciences). I have been fortunate to collaborate with [Nabarun Deb](https://nabarund.github.io/), [Jun S. Liu](https://statistics.fas.harvard.edu/people/jun-s-liu), [Chengqi Zhang](https://www.polyu.edu.hk/dsai/people/academic-staff/zhang-chengqi/), [Haoliang Sun](https://haolsun.github.io/), [Jinliang Deng](https://scholar.google.com/citations?user=4lqwlQ0AAAAJ&hl=en) and [Yongshun Gong](https://faculty.sdu.edu.cn/gongyongshun/en/).
+I earned an M.A. in Statistics at Columbia and a B.S. in Mathematics at Shandong University (with joint training at AMSS, Chinese Academy of Sciences). I have been fortunate to collaborate with [Nabarun Deb](https://nabarund.github.io/), [Jun S. Liu](https://statistics.fas.harvard.edu/people/jun-s-liu), [Chengqi Zhang](https://www.polyu.edu.hk/dsai/people/academic-staff/zhang-chengqi/), [Haoliang Sun](https://haolsun.github.io/), [Jinliang Deng](https://scholar.google.com/citations?user=4lqwlQ0AAAAJ&hl=en) and [Yongshun Gong](https://faculty.sdu.edu.cn/gongyongshun/en/). Beyond papers, I also build [LLM and data-science side projects](/projects/).
 
 
 
@@ -363,6 +363,16 @@ Beyond theory and modeling, I am drawn to building AI applications that reflect 
 <h2>Co-author</h2>
  
 <div class="pub">
+  <div class="pub-fig"><img src="images/ssgp_workflow.png" alt="SSGP"></div>
+  <div class="pub-body">
+    <a class="pub-title" href="https://arxiv.org/abs/2603.01801">What Papers Don't Tell You: Recovering Tacit Knowledge for Automated Paper Reproduction</a>
+    <div class="pub-authors" title="Lehui Li, Ruining Wang, Zonglin Yang, Yuyao Wang, Haochen Song, Yaoxin Mao, Tong Zhang, Jiayi Fan, Yitong Zhang, Taozhi Chen, Jieping Ye, Chengqi Zhang, Yongshun Gong">Lehui Li, Ruining Wang, Zonglin Yang, <b>Yuyao Wang</b>, Haochen Song, Yaoxin Mao, …, Yongshun Gong</div>
+    <div class="pub-desc">Paper reproduction is bottlenecked by tacit knowledge, not retrieval. A graph-based agent recovers it from citation neighbors, execution feedback and paper clusters, improving over the strongest baseline by 24.68%.</div>
+    <div class="pub-meta"><b>Preprint 2026</b> / <a href="https://arxiv.org/abs/2603.01801">Paper</a></div>
+  </div>
+</div>
+ 
+<div class="pub">
   <div class="pub-fig"><img src="images/netpaging.png" alt="Net-Paging"></div>
   <div class="pub-body">
     <a class="pub-title" href="https://www.sciencedirect.com/science/article/pii/S305139012600005X">Network Perturbation Aggregation for Graphon Estimation</a>
@@ -392,56 +402,9 @@ Beyond theory and modeling, I am drawn to building AI applications that reflect 
 </div> -->
 
  
-<div class="pub">
-  <div class="pub-fig"><img src="images/ssgp_workflow.png" alt="SSGP"></div>
-  <div class="pub-body">
-    <a class="pub-title" href="https://arxiv.org/abs/2603.01801">What Papers Don't Tell You: Recovering Tacit Knowledge for Automated Paper Reproduction</a>
-    <div class="pub-authors" title="Lehui Li, Ruining Wang, Zonglin Yang, Yuyao Wang, Haochen Song, Yaoxin Mao, Tong Zhang, Jiayi Fan, Yitong Zhang, Taozhi Chen, Jieping Ye, Chengqi Zhang, Yongshun Gong">Lehui Li, Ruining Wang, Zonglin Yang, <b>Yuyao Wang</b>, Haochen Song, Yaoxin Mao, …, Yongshun Gong</div>
-    <div class="pub-desc">Paper reproduction is bottlenecked by tacit knowledge, not retrieval. A graph-based agent recovers it from citation neighbors, execution feedback and paper clusters, improving over the strongest baseline by 24.68%.</div>
-    <div class="pub-meta"><b>Preprint 2026</b> / <a href="https://arxiv.org/abs/2603.01801">Paper</a></div>
-  </div>
-</div>
 
 
 
-# 🤖 LLM & DS Projects
-
-Overview figures and details for each project are on the projects page. &nbsp;<a href="/projects/"><b>See all →</b></a>
-
-
-<div class="projgrid">
- 
-<div class="pg">
-  <div class="pg-cat"><svg viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.3"><circle cx="8" cy="8" r="5.6"/><circle cx="8" cy="8" r="1.9"/></svg>Alignment &amp; Evaluation</div>
-  <div class="pg-list">
-    <div class="p"><a href="https://github.com/olivia3395/llm-projects/tree/main/AlignDPO">AlignDPO</a><i>DPO, IPO, KTO under QLoRA</i></div>
-    <div class="p"><a href="https://github.com/olivia3395/llm-projects/tree/main/RAGAudit">RAGAudit</a><i>NLI, SelfCheckGPT, semantic entropy</i></div>
-  </div>
-</div>
- 
-<div class="pg">
-  <div class="pg-cat"><svg viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.3" stroke-linecap="round"><circle cx="7" cy="7" r="4.6"/><line x1="10.4" y1="10.4" x2="13.6" y2="13.6"/></svg>Retrieval</div>
-  <div class="pg-list">
-    <div class="p"><a href="https://github.com/olivia3395/llm-projects/tree/main/GraphRAG">GraphRAG</a><i>dense + entity graph + CLIP</i></div>
-    <div class="p"><a href="https://github.com/olivia3395/llm-projects/tree/main/Adaptive-RAG">Adaptive RAG</a><i>difficulty-aware query routing</i></div>
-  </div>
-</div>
- 
-<div class="pg">
-  <div class="pg-cat"><svg viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.3" stroke-linejoin="round"><path d="M9.2 1.8 3.6 9h4l-1 5.2L12.4 7h-4z"/></svg>Efficient Inference</div>
-  <div class="pg-list">
-    <div class="p"><a href="https://github.com/olivia3395/llm-projects/tree/main/DraftVerify">DraftVerify</a><i>speculative decoding, draft-verifier</i></div>
-    <div class="p"><a href="https://github.com/olivia3395/llm-projects/tree/main/HQQ-Quantization">HQQ</a><i>1–8 bit quantization, 12.7x</i></div>
-  </div>
-</div>
- 
-<div class="pg">
-  <div class="pg-cat"><svg viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.3" stroke-linecap="round"><circle cx="3.4" cy="8" r="1.9"/><circle cx="12.6" cy="8" r="1.9"/><line x1="5.6" y1="8" x2="10.2" y2="8"/><polyline points="8.9,6.6 10.5,8 8.9,9.4"/></svg>Causal Inference &amp; Statistics</div>
-  <div class="pg-list">
-    <div class="p"><a href="https://github.com/olivia3395/data-science-portfolio/tree/main/causal-inference/Congestion-Pricing">Congestion Pricing</a><i>CS-DiD on 12M+ NYC TLC trips</i></div>
-    <div class="p"><a href="https://github.com/olivia3395/data-science-portfolio/tree/main/causal-inference/CausalLens">CausalLens</a><i>DoWhy, double ML, causal forests</i></div>
-  </div>
-</div>
  
 </div>
 
@@ -639,8 +602,8 @@ Overview figures and details for each project are on the projects page. &nbsp;<a
 
 # 📝 Service & Teaching
 
-<b class="inst">Presentations</b> &nbsp;·&nbsp; CIKM 2024, NeurIPS 2025, ICML 2026<br>
-<b class="inst">Reviewer</b> &nbsp;·&nbsp; CIKM 2025, ICME 2026, ICML 2026, KDD 2026, NeurIPS 2026, KDD 2027<br>
+<b class="inst">Reviewer (conferences)</b> &nbsp;·&nbsp; NeurIPS, ICML, KDD, CIKM, ICME<br>
+<b class="inst">Reviewer (journals)</b> &nbsp;·&nbsp; Pattern Recognition, IEEE TKDE<br>
 <b class="inst">Instructor</b>, Boston University &nbsp;·&nbsp; Mathematical Statistics (MA 582), Elementary Statistics (MA 113)<br>
 <b class="inst">Teaching Fellow</b> &nbsp;·&nbsp; Generalized Linear Models (MA 575), Data Science in R (MA 415), Applied Statistics (MA 214)
 

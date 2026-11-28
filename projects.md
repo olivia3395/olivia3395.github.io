@@ -81,7 +81,7 @@ Side projects in LLM systems and applied causal inference. Each one comes with a
     <div class="proj-hero">
       <span class="proj-num">№ 01</span>
       <span class="proj-cat c-align">ALIGNMENT</span>
-      <img src="/images/projects/aligndpo.png?v=3" alt="AlignDPO overview">
+      <img src="/images/projects/aligndpo.png?v=4" alt="AlignDPO overview">
     </div>
     <div class="proj-body">
       <p class="proj-sub">LLM alignment</p>
@@ -100,7 +100,7 @@ Side projects in LLM systems and applied causal inference. Each one comes with a
     <div class="proj-hero">
       <span class="proj-num">№ 02</span>
       <span class="proj-cat c-align">EVALUATION</span>
-      <img src="/images/projects/ragaudit.png?v=3" alt="RAGAudit overview">
+      <img src="/images/projects/ragaudit.png?v=4" alt="RAGAudit overview">
     </div>
     <div class="proj-body">
       <p class="proj-sub">Hallucination detection</p>
@@ -119,7 +119,7 @@ Side projects in LLM systems and applied causal inference. Each one comes with a
     <div class="proj-hero">
       <span class="proj-num">№ 03</span>
       <span class="proj-cat c-retr">RETRIEVAL</span>
-      <img src="/images/projects/graphrag.png?v=3" alt="GraphRAG overview">
+      <img src="/images/projects/graphrag.png?v=4" alt="GraphRAG overview">
     </div>
     <div class="proj-body">
       <p class="proj-sub">Multimodal retrieval</p>
@@ -138,7 +138,7 @@ Side projects in LLM systems and applied causal inference. Each one comes with a
     <div class="proj-hero">
       <span class="proj-num">№ 04</span>
       <span class="proj-cat c-retr">RETRIEVAL</span>
-      <img src="/images/projects/adaptive_rag.png?v=3" alt="Adaptive RAG overview">
+      <img src="/images/projects/adaptive_rag.png?v=4" alt="Adaptive RAG overview">
     </div>
     <div class="proj-body">
       <p class="proj-sub">Query routing</p>
@@ -157,7 +157,7 @@ Side projects in LLM systems and applied causal inference. Each one comes with a
     <div class="proj-hero">
       <span class="proj-num">№ 05</span>
       <span class="proj-cat c-inf">INFERENCE</span>
-      <img src="/images/projects/draftverify.png?v=3" alt="DraftVerify overview">
+      <img src="/images/projects/draftverify.png?v=4" alt="DraftVerify overview">
     </div>
     <div class="proj-body">
       <p class="proj-sub">Speculative decoding</p>
@@ -176,7 +176,7 @@ Side projects in LLM systems and applied causal inference. Each one comes with a
     <div class="proj-hero">
       <span class="proj-num">№ 06</span>
       <span class="proj-cat c-inf">INFERENCE</span>
-      <img src="/images/projects/hqq.png?v=3" alt="HQQ overview">
+      <img src="/images/projects/hqq.png?v=4" alt="HQQ overview">
     </div>
     <div class="proj-body">
       <p class="proj-sub">Low-bit quantization</p>
@@ -195,7 +195,7 @@ Side projects in LLM systems and applied causal inference. Each one comes with a
     <div class="proj-hero">
       <span class="proj-num">№ 07</span>
       <span class="proj-cat c-causal">CAUSAL</span>
-      <img src="/images/projects/congestion.png?v=3" alt="Congestion Pricing overview">
+      <img src="/images/projects/congestion.png?v=4" alt="Congestion Pricing overview">
     </div>
     <div class="proj-body">
       <p class="proj-sub">Policy evaluation</p>
@@ -214,7 +214,7 @@ Side projects in LLM systems and applied causal inference. Each one comes with a
     <div class="proj-hero">
       <span class="proj-num">№ 08</span>
       <span class="proj-cat c-causal">CAUSAL</span>
-      <img src="/images/projects/causallens.png?v=3" alt="CausalLens overview">
+      <img src="/images/projects/causallens.png?v=4" alt="CausalLens overview">
     </div>
     <div class="proj-body">
       <p class="proj-sub">LLM-augmented causal inference</p>
