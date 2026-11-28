@@ -401,12 +401,6 @@ Beyond theory and modeling, I am drawn to building AI applications that reflect 
   </div>
 </div> -->
 
- 
-
-
-
- 
-</div>
 
 
 <!--
@@ -602,7 +596,7 @@ Beyond theory and modeling, I am drawn to building AI applications that reflect 
 
 # 📝 Service & Teaching
 
-<b class="inst">Reviewer (conferences)</b> &nbsp;·&nbsp; NeurIPS, ICML, KDD, CIKM, ICME<br>
+<b class="inst">Reviewer (conferences)</b> &nbsp;·&nbsp; NeurIPS, ICML, ICLR, CVPR, KDD, CIKM, ICME<br>
 <b class="inst">Reviewer (journals)</b> &nbsp;·&nbsp; Pattern Recognition, IEEE TKDE<br>
 <b class="inst">Instructor</b>, Boston University &nbsp;·&nbsp; Mathematical Statistics (MA 582), Elementary Statistics (MA 113)<br>
 <b class="inst">Teaching Fellow</b> &nbsp;·&nbsp; Generalized Linear Models (MA 575), Data Science in R (MA 415), Applied Statistics (MA 214)
@@ -746,8 +740,6 @@ Beyond theory and modeling, I am drawn to building AI applications that reflect 
 
 # 🎨 Interests
 
-🎵 Mandarin R&B loyalist — Leehom Wang, David Tao, Khalil Fong 🦋, Dean Ting<br>
-🎧 I also play and make my own music — have a listen in my [Music](/music/) corner<br>
+🎹 Piano, calligraphy & ink painting · 🎧 I make my own [music](/music/) · 🎵 Mandarin R&B — Leehom Wang, David Tao, Khalil Fong 🦋<br>
 ✨ Cinematic, story-driven web apps are my side craft; a few are on display in my [Apps](/myapps/) corner<br>
-🎹 Trained in piano, calligraphy, and ink painting<br>
 🏞️ National park lover · 🫧 lake admirer · 🌅 opacarophile — welcome to my [Gallery](/gallery/)
