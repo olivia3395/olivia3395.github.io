@@ -406,6 +406,8 @@ Beyond theory and modeling, I am drawn to building AI applications that reflect 
 
 # 🤖 LLM & DS Projects
 
+Overview figures and details for each project are on the projects page. &nbsp;<a href="/projects/"><b>See all →</b></a>
+
 
 <div class="projgrid">
  

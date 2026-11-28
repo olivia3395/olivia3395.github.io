@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 420" width="800" height="420" font-family="Helvetica Neue, Helvetica, Arial, sans-serif">
+<rect width="800" height="420" fill="#FFFFFF"/>
+<defs><marker id="m6B7280" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#6B7280"/></marker></defs>
+<rect x="20" y="180" width="80" height="44" rx="7" fill="#F3F4F6" stroke="#6B7280" stroke-width="1.3"/>
+<text x="60.0" y="204.5" font-size="12.5" fill="#1F2937" font-weight="bold" text-anchor="middle">Question</text>
+<rect x="125" y="172" width="120" height="60" rx="7" fill="#FBEFE1" stroke="#C26A1E" stroke-width="1.3"/>
+<text x="185.0" y="197.255" font-size="12.5" fill="#1F2937" font-weight="bold" text-anchor="middle">Query classifier</text>
+<text x="185.0" y="213.505" font-size="10.5" fill="#374151" font-weight="normal" text-anchor="middle">retrieve or not?</text>
+<polyline points="100,202 123,202" fill="none" stroke="#6B7280" stroke-width="1.4" marker-end="url(#m6B7280)"/>
+<rect x="125" y="300" width="120" height="50" rx="7" fill="#E4F2EA" stroke="#2F7D57" stroke-width="1.3"/>
+<text x="185.0" y="320.255" font-size="12.5" fill="#1F2937" font-weight="bold" text-anchor="middle">Direct answer</text>
+<text x="185.0" y="336.505" font-size="10.5" fill="#374151" font-weight="normal" text-anchor="middle">simple fact</text>
+<polyline points="185,232 185,298" fill="none" stroke="#6B7280" stroke-width="1.4" marker-end="url(#m6B7280)"/>
+<text x="210" y="270" font-size="10" fill="#6B7280" font-weight="normal" text-anchor="middle" font-style="italic">simple</text>
+<rect x="275" y="40" width="505" height="330" rx="10" fill="none" stroke="#3B6EA8" stroke-width="1.1" stroke-dasharray="4 4" opacity="0.8"/>
+<text x="285" y="33" font-size="11" fill="#3B6EA8" font-weight="bold" text-anchor="start">Retrieval loop for complex or recent questions</text>
+<rect x="290" y="80" width="112" height="58" rx="7" fill="#E9F0F8" stroke="#3B6EA8" stroke-width="1.3"/>
+<text x="346.0" y="104.055" font-size="11.5" fill="#1F2937" font-weight="bold" text-anchor="middle">Retrieval 1</text>
+<text x="346.0" y="119.00500000000001" font-size="10.5" fill="#374151" font-weight="normal" text-anchor="middle">top-k chunks</text>
+<rect x="410" y="80" width="112" height="58" rx="7" fill="#E9F0F8" stroke="#3B6EA8" stroke-width="1.3"/>
+<text x="466.0" y="104.055" font-size="11.5" fill="#1F2937" font-weight="bold" text-anchor="middle">Draft answer</text>
+<text x="466.0" y="119.00500000000001" font-size="10.5" fill="#374151" font-weight="normal" text-anchor="middle">from pass 1</text>
+<rect x="530" y="80" width="112" height="58" rx="7" fill="#E9F0F8" stroke="#3B6EA8" stroke-width="1.3"/>
+<text x="586.0" y="104.055" font-size="11.5" fill="#1F2937" font-weight="bold" text-anchor="middle">Follow-up query</text>
+<text x="586.0" y="119.00500000000001" font-size="10.5" fill="#374151" font-weight="normal" text-anchor="middle">what is missing?</text>
+<rect x="650" y="80" width="112" height="58" rx="7" fill="#E9F0F8" stroke="#3B6EA8" stroke-width="1.3"/>
+<text x="706.0" y="104.055" font-size="11.5" fill="#1F2937" font-weight="bold" text-anchor="middle">Retrieval 2</text>
+<text x="706.0" y="119.00500000000001" font-size="10.5" fill="#374151" font-weight="normal" text-anchor="middle">new evidence</text>
+<polyline points="402,109 408,109" fill="none" stroke="#6B7280" stroke-width="1.4" marker-end="url(#m6B7280)"/>
+<polyline points="522,109 528,109" fill="none" stroke="#6B7280" stroke-width="1.4" marker-end="url(#m6B7280)"/>
+<polyline points="642,109 648,109" fill="none" stroke="#6B7280" stroke-width="1.4" marker-end="url(#m6B7280)"/>
+<polyline points="245,190 262,190 262,109 288,109" fill="none" stroke="#6B7280" stroke-width="1.4" marker-end="url(#m6B7280)"/>
+<text x="232" y="150" font-size="10" fill="#6B7280" font-weight="normal" text-anchor="middle" font-style="italic">complex</text>
+<rect x="470" y="190" width="180" height="72" rx="7" fill="#EFEAF7" stroke="#6B4FA3" stroke-width="1.3"/>
+<text x="560.0" y="214.01" font-size="12.5" fill="#1F2937" font-weight="bold" text-anchor="middle">Self-reflection</text>
+<text x="560.0" y="230.26" font-size="10.5" fill="#374151" font-weight="normal" text-anchor="middle">is the answer grounded</text>
+<text x="560.0" y="244.75" font-size="10.5" fill="#374151" font-weight="normal" text-anchor="middle">in the evidence?</text>
+<polyline points="706,138 706,226 652,226" fill="none" stroke="#6B7280" stroke-width="1.4" marker-end="url(#m6B7280)"/>
+<rect x="300" y="296" width="105" height="34" rx="7" fill="#E4F2EA" stroke="#2F7D57" stroke-width="1.3"/>
+<text x="352.5" y="314.76000000000005" font-size="11" fill="#374151" font-weight="normal" text-anchor="middle">grounded</text>
+<line x1="352" y1="330" x2="352" y2="350" stroke="#6B7280" stroke-width="1.3"/>
+<rect x="420" y="296" width="105" height="34" rx="7" fill="#FBEFE1" stroke="#C26A1E" stroke-width="1.3"/>
+<text x="472.5" y="314.76000000000005" font-size="11" fill="#374151" font-weight="normal" text-anchor="middle">partially</text>
+<line x1="472" y1="330" x2="472" y2="350" stroke="#6B7280" stroke-width="1.3"/>
+<rect x="540" y="296" width="105" height="34" rx="7" fill="#F8E6E6" stroke="#B23A3A" stroke-width="1.3"/>
+<text x="592.5" y="314.76000000000005" font-size="11" fill="#374151" font-weight="normal" text-anchor="middle">hallucinated</text>
+<line x1="592" y1="330" x2="592" y2="350" stroke="#6B7280" stroke-width="1.3"/>
+<polyline points="500,262 354,294" fill="none" stroke="#6B7280" stroke-width="1.4" marker-end="url(#m6B7280)"/>
+<polyline points="560,262 473,294" fill="none" stroke="#6B7280" stroke-width="1.4" marker-end="url(#m6B7280)"/>
+<polyline points="620,262 593,294" fill="none" stroke="#6B7280" stroke-width="1.4" marker-end="url(#m6B7280)"/>
+<line x1="352" y1="350" x2="645" y2="350" stroke="#6B7280" stroke-width="1.3"/>
+<polyline points="645,350 663,350" fill="none" stroke="#6B7280" stroke-width="1.4" marker-end="url(#m6B7280)"/>
+<rect x="665" y="318" width="105" height="46" rx="7" fill="#E4F2EA" stroke="#2F7D57" stroke-width="1.3"/>
+<text x="717.5" y="336.4" font-size="11.5" fill="#1F2937" font-weight="bold" text-anchor="middle">Final answer</text>
+<text x="717.5" y="351.34999999999997" font-size="10" fill="#374151" font-weight="normal" text-anchor="middle">+ grounding label</text>
+<text x="400" y="400.0" font-size="11" fill="#6B7280" font-weight="normal" text-anchor="middle">Runs offline by default (TF-IDF retrieval, lexical grounding check); dense embeddings and OpenAI are optional.</text>
+</svg>

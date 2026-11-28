@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 420" width="800" height="420" font-family="Helvetica Neue, Helvetica, Arial, sans-serif">
+<rect width="800" height="420" fill="#FFFFFF"/>
+<defs><marker id="m6B7280" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#6B7280"/></marker></defs>
+<defs><marker id="m1F7A80" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1F7A80"/></marker></defs>
+<rect x="20" y="40" width="160" height="290" rx="10" fill="none" stroke="#6B7280" stroke-width="1.1" stroke-dasharray="4 4" opacity="0.8"/>
+<text x="30" y="33" font-size="11" fill="#6B7280" font-weight="bold" text-anchor="start">(a) Data</text>
+<rect x="32" y="62" width="136" height="92" rx="7" fill="#F3F4F6" stroke="#6B7280" stroke-width="1.3"/>
+<text x="100.0" y="89.8" font-size="12.5" fill="#1F2937" font-weight="bold" text-anchor="middle">Lalonde NSW</text>
+<text x="100.0" y="106.05" font-size="10" fill="#374151" font-weight="normal" text-anchor="middle">job training → 1978</text>
+<text x="100.0" y="119.85" font-size="10" fill="#374151" font-weight="normal" text-anchor="middle">earnings; experimental</text>
+<text x="100.0" y="133.65" font-size="10" fill="#374151" font-weight="normal" text-anchor="middle">benchmark ATE</text>
+<rect x="32" y="170" width="136" height="92" rx="7" fill="#F3F4F6" stroke="#6B7280" stroke-width="1.3"/>
+<text x="100.0" y="197.8" font-size="12.5" fill="#1F2937" font-weight="bold" text-anchor="middle">IBM HR</text>
+<text x="100.0" y="214.05" font-size="10" fill="#374151" font-weight="normal" text-anchor="middle">high income →</text>
+<text x="100.0" y="227.85000000000002" font-size="10" fill="#374151" font-weight="normal" text-anchor="middle">attrition</text>
+<text x="100.0" y="241.65000000000003" font-size="10" fill="#374151" font-weight="normal" text-anchor="middle">(n = 1,470)</text>
+<text x="100" y="290.0" font-size="9.5" fill="#6B7280" font-weight="normal" text-anchor="middle">Lalonde checks that</text>
+<text x="100" y="302.825" font-size="9.5" fill="#6B7280" font-weight="normal" text-anchor="middle">observational methods</text>
+<text x="100" y="315.65" font-size="9.5" fill="#6B7280" font-weight="normal" text-anchor="middle">recover the RCT</text>
+<rect x="205" y="40" width="150" height="290" rx="10" fill="none" stroke="#1F7A80" stroke-width="1.1" stroke-dasharray="4 4" opacity="0.8"/>
+<text x="215" y="33" font-size="11" fill="#1F7A80" font-weight="bold" text-anchor="start">(b) Causal DAG</text>
+<polyline points="272,105 247,183" fill="none" stroke="#1F7A80" stroke-width="1.4" marker-end="url(#m1F7A80)"/>
+<polyline points="288,105 313,183" fill="none" stroke="#1F7A80" stroke-width="1.4" marker-end="url(#m1F7A80)"/>
+<polyline points="256,195 302,195" fill="none" stroke="#1F7A80" stroke-width="1.4" marker-end="url(#m1F7A80)"/>
+<circle cx="280" cy="95" r="15" fill="#E1F1F2" stroke="#1F7A80" stroke-width="1.2"/>
+<text x="280" y="100" font-size="13" fill="#1F2937" font-weight="bold" text-anchor="middle">X</text>
+<circle cx="240" cy="195" r="15" fill="#E1F1F2" stroke="#1F7A80" stroke-width="1.2"/>
+<text x="240" y="200" font-size="13" fill="#1F2937" font-weight="bold" text-anchor="middle">T</text>
+<circle cx="320" cy="195" r="15" fill="#E1F1F2" stroke="#1F7A80" stroke-width="1.2"/>
+<text x="320" y="200" font-size="13" fill="#1F2937" font-weight="bold" text-anchor="middle">Y</text>
+<text x="280" y="250.0" font-size="10" fill="#6B7280" font-weight="normal" text-anchor="middle">X confounders</text>
+<text x="280" y="263.5" font-size="10" fill="#6B7280" font-weight="normal" text-anchor="middle">T treatment · Y outcome</text>
+<text x="280" y="277.0" font-size="10" fill="#6B7280" font-weight="normal" text-anchor="middle">DoWhy · networkx</text>
+<rect x="380" y="40" width="190" height="290" rx="10" fill="none" stroke="#3B6EA8" stroke-width="1.1" stroke-dasharray="4 4" opacity="0.8"/>
+<text x="390" y="33" font-size="11" fill="#3B6EA8" font-weight="bold" text-anchor="start">(c) ATE, four ways</text>
+<rect x="393" y="60" width="164" height="46" rx="7" fill="#E9F0F8" stroke="#3B6EA8" stroke-width="1.3"/>
+<text x="475.0" y="78.4" font-size="11.5" fill="#1F2937" font-weight="bold" text-anchor="middle">PSM</text>
+<text x="475.0" y="93.35000000000001" font-size="10" fill="#374151" font-weight="normal" text-anchor="middle">propensity matching</text>
+<rect x="393" y="116" width="164" height="46" rx="7" fill="#E9F0F8" stroke="#3B6EA8" stroke-width="1.3"/>
+<text x="475.0" y="134.4" font-size="11.5" fill="#1F2937" font-weight="bold" text-anchor="middle">IPW</text>
+<text x="475.0" y="149.35" font-size="10" fill="#374151" font-weight="normal" text-anchor="middle">stabilised weights</text>
+<rect x="393" y="172" width="164" height="46" rx="7" fill="#E9F0F8" stroke="#3B6EA8" stroke-width="1.3"/>
+<text x="475.0" y="190.4" font-size="11.5" fill="#1F2937" font-weight="bold" text-anchor="middle">Double ML</text>
+<text x="475.0" y="205.35" font-size="10" fill="#374151" font-weight="normal" text-anchor="middle">residual-on-residual</text>
+<rect x="393" y="228" width="164" height="46" rx="7" fill="#E9F0F8" stroke="#3B6EA8" stroke-width="1.3"/>
+<text x="475.0" y="246.4" font-size="11.5" fill="#1F2937" font-weight="bold" text-anchor="middle">Causal forest</text>
+<text x="475.0" y="261.35" font-size="10" fill="#374151" font-weight="normal" text-anchor="middle">heterogeneous effects</text>
+<polyline points="180,185 203,185" fill="none" stroke="#6B7280" stroke-width="1.4" marker-end="url(#m6B7280)"/>
+<polyline points="355,185 378,185" fill="none" stroke="#6B7280" stroke-width="1.4" marker-end="url(#m6B7280)"/>
+<rect x="595" y="40" width="185" height="140" rx="10" fill="none" stroke="#6B4FA3" stroke-width="1.1" stroke-dasharray="4 4" opacity="0.8"/>
+<text x="605" y="33" font-size="11" fill="#6B4FA3" font-weight="bold" text-anchor="start">(d) Refutation</text>
+<text x="687" y="80" font-size="11" fill="#374151" font-weight="normal" text-anchor="middle">placebo treatment</text>
+<text x="687" y="100" font-size="11" fill="#374151" font-weight="normal" text-anchor="middle">random common cause</text>
+<text x="687" y="120" font-size="11" fill="#374151" font-weight="normal" text-anchor="middle">bootstrap</text>
+<polyline points="570,110 593,110" fill="none" stroke="#6B7280" stroke-width="1.4" marker-end="url(#m6B7280)"/>
+<rect x="595" y="230" width="185" height="100" rx="10" fill="none" stroke="#C26A1E" stroke-width="1.1" stroke-dasharray="4 4" opacity="0.8"/>
+<text x="605" y="223" font-size="11" fill="#C26A1E" font-weight="bold" text-anchor="start">(e) LLM layer (Claude API)</text>
+<text x="687" y="262" font-size="11" fill="#374151" font-weight="normal" text-anchor="middle">explains the DAG</text>
+<text x="687" y="281" font-size="11" fill="#374151" font-weight="normal" text-anchor="middle">in plain English</text>
+<text x="687" y="300" font-size="11" fill="#374151" font-weight="normal" text-anchor="middle">writes a business report</text>
+<polyline points="770,180 770,228" fill="none" stroke="#6B7280" stroke-width="1.4" marker-end="url(#m6B7280)"/>
+<rect x="205" y="352" width="575" height="36" rx="7" fill="#F3F4F6" stroke="#6B7280" stroke-width="1.3"/>
+<text x="492.5" y="371.76000000000005" font-size="11" fill="#374151" font-weight="normal" text-anchor="middle">Streamlit app: dataset explorer, estimates side by side, refutation results, report</text>
+<polyline points="687,330 687,350" fill="none" stroke="#6B7280" stroke-width="1.4" marker-end="url(#m6B7280)"/>
+</svg>

@@ -15,8 +15,8 @@ main:
   - title: "Education"
     url: "/#-education"
 
-  - title: "Internships"
-    url: "/#-internships"
+  - title: "Industry Experience"
+    url: "/#-industry-experience"
     
   - title: "Honors"
     url: "/#-honors"
@@ -25,7 +25,7 @@ main:
     url: "/#-service--teaching"
 
   - title: "My Apps"
-    url: "/#-my-apps"
+    url: "/myapps/"
 
   - title: "Interests"
     url: "/#-interests"
