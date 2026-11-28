@@ -740,6 +740,6 @@ Beyond theory and modeling, I am drawn to building AI applications that reflect 
 
 # 🎨 Interests
 
-🎹 Piano, calligraphy & ink painting · 🎧 I make my own [music](/music/) · 🎵 Mandarin R&B — Leehom Wang, David Tao, Khalil Fong 🦋<br>
+🎹 Piano & ink painting · 🎧 I make my own [music](/music/) · 🎵 Mandarin R&B — Leehom Wang, David Tao, Khalil Fong 🦋, Dean Ting<br>
 ✨ Cinematic, story-driven web apps are my side craft; a few are on display in my [Apps](/myapps/) corner<br>
 🏞️ National park lover · 🫧 lake admirer · 🌅 opacarophile — welcome to my [Gallery](/gallery/)
