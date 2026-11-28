@@ -32,8 +32,8 @@ classes: wide
 <style>
 /* ---------- layout ---------- */
 .apps-wrap{
-  margin-top: 40px;
-  margin-bottom: 72px;
+  margin: 40px auto 72px;
+  max-width: 960px;
   display: flex;
   flex-direction: column;
 }
@@ -67,12 +67,12 @@ classes: wide
 /* ---------- hero ---------- */
 .app-hero{
   background: linear-gradient(180deg, #fbfaf6 0%, #f2efe7 100%);
-  padding: 48px 52px;
+  padding: 52px 34px 30px;
   display: flex;
   align-items: center;
   justify-content: center;
   position: relative;
-  min-height: 380px;
+  min-height: 300px;
 }
 
 .app-hero img{
@@ -134,7 +134,7 @@ classes: wide
 
 /* ---------- body ---------- */
 .app-body{
-  padding: 56px 56px 52px 56px;
+  padding: 40px 40px 38px 40px;
   display: flex;
   flex-direction: column;
   justify-content: center;
